@@ -1,0 +1,890 @@
+<!DOCTYPE html>
+<!--[if gt IE 8]><!-->
+<html class="no-js gt-ie8" dir="ltr" lang="en">
+ <!--<![endif]-->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+  <title>
+   404: Page not found
+  </title>
+  <meta content="width=device-width,initial-scale=1" name="viewport"/>
+  <meta content="noodp,NOINDEX,FOLLOW" name="robots"/>
+  <meta content="rZaq1jkHspRZlqJRwuEdqAuVm5wiEXePze_foZRIYqc" name="google-site-verification"/>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js">
+  </script>
+  <link href="https://cdn.ttgtmedia.com/rms/ux/responsive/css/main.css?v=7.76" rel="stylesheet"/>
+  <script src="https://cdn.ttgtmedia.com/rms/ux/responsive/js/responsive.min.js?v=7.76">
+  </script>
+  <script async="" src="https://optimizely.techtarget.com/optimizely-edge/17796810052">
+  </script>
+  <script>
+   TT("page", {"isChannel":true,"siteName":"searchEnterpriseAI","appCode":"0","uaid":"UA-18475716-41","uid":"252436475","adAbbr":"sentai","zone":"HOME","ga":true,"id":"dee409db41602610VgnVCM1000002901c80aRCRD","lang":"en","inlineLinkCount":0,"contentType":"HOME","timestamp":"2020-07-02 18:41:32","siteType":"editorial","gaPageTrackUrl":"/ERROR 404/${uri}","homeAdId":"252436475","wordCount":0,"uidType":"channel","adScheme":"4","ttgtRegHost":"https://users.techtarget.com","atHost":"https://go.techtarget.com","regHost":"https://users.techtarget.com","is404":true,"adId":"252436475","pageIndex":0,"siteId":3120,"gaSiteAcct":"UA-18475716-41"});
+  </script>
+  <!-- Begin Chartbeat -->
+  <script>
+   var _sf_startpt=(new Date()).getTime();
+  </script>
+  <!-- End Chartbeat -->
+  <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+  <link href="/apple-touch-icon-144x144.png" rel="apple-touch-icon" sizes="144×144"/>
+  <link href="/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114×114"/>
+  <link href="/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72×72"/>
+  <link href="/apple-touch-icon-precomposed.png" rel="apple-touch-icon"/>
+  <link href="/apple-touch-icon-144x144-precomposed.png" rel="apple-touch-icon-precomposed" sizes="144×144"/>
+  <link href="/apple-touch-icon-114x114-precomposed.png" rel="apple-touch-icon-precomposed" sizes="114×114"/>
+  <link href="/apple-touch-icon-72x72-precomposed.png" rel="apple-touch-icon-precomposed" sizes="72×72"/>
+  <link href="/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed"/>
+ </head>
+ <body id="pageNotFound">
+  <!-- Begin Google Tag Manager -->
+  <noscript>
+   <iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-PWWZSH" style="display:none;visibility:hidden" width="0">
+   </iframe>
+  </noscript>
+  <script>
+   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-PWWZSH');
+  </script>
+  <!-- End Google Tag Manager -->
+  <div class="site-container" id="site-container">
+   <!-- PinnedNavBarController, generated at 18:41:32 Thu Jul 2, 2020, by cds4 -->
+   <!-- AdsController, generated at 18:41:32 Thu Jul 2, 2020, by cds4 -->
+   <div class="ad ad-ist" id="interstitial">
+    <script>
+     GPT.display('interstitial')
+    </script>
+   </div>
+   <div class="ad-wrapper header-leaderboard ad-mobile">
+    <!-- AdsController, generated at 18:41:32 Thu Jul 2, 2020, by cds4 -->
+    <div class="ad ad-mb" id="mobile-lb">
+     <script>
+      GPT.display('mobile-lb')
+     </script>
+    </div>
+   </div>
+   <header class="header header_v2 en" id="page-header">
+    <button class="nav-toggle">
+     <i class="icon" data-icon="9">
+     </i>
+    </button>
+    <a class="header-logo mobile-link" href="https://searchenterpriseai.techtarget.com">
+     <span class="header-logo-mobile">
+      SearchEnterpriseAI
+     </span>
+    </a>
+    <a class="header-logo desktop-link" href="https://searchenterpriseai.techtarget.com">
+     <img alt="TechTarget" class="header-logo-desktop replace_2x" src="https://cdn.ttgtmedia.com/rms/ux/responsive/img/TT20_ss_84x44.gif"/>
+     <img alt="TechTarget" class="header-logo-small replace_2x" src="https://cdn.ttgtmedia.com/rms/ux/responsive/img/TT20_ss_64x34.gif"/>
+    </a>
+    <button class="header-search-toggle">
+     <i class="icon" data-icon="g">
+     </i>
+    </button>
+    <form action="https://www.techtarget.com/search/query" class="header-search" method="get">
+     <label class="visuallyhidden" for="header-search-input">
+      Search the TechTarget Network
+     </label>
+     <input autocomplete="off" class="header-search-input ui-autocomplete-input" id="header-search-input" name="q" placeholder="Search the TechTarget Network" type="text"/>
+     <button class="header-search-submit">
+      <i class="icon" data-icon="g">
+      </i>
+     </button>
+    </form>
+    <nav class="nav">
+     <a class="nav-join-pro" href="https://users.techtarget.com/registration/searchEnterpriseAI/LoginRegister.page">
+      <span>
+       Sign-up now. Start my free, unlimited access.
+      </span>
+     </a>
+     <div class="nav-user">
+      <a href="https://users.techtarget.com/registration/searchEnterpriseAI/LoginRegister.page">
+       <span class="nav-user-action">
+        Login
+       </span>
+      </a>
+      <a class="register" href="https://users.techtarget.com/registration/searchEnterpriseAI/Register.page">
+       <span class="nav-user-action">
+        Register
+       </span>
+      </a>
+     </div>
+     <script>
+      TT(["context","lib/jquery"],function(c,$){var u=c.getUser();if(u.loggedIn){$('div.nav-user').children("a:first")
+			.before('<i class="icon header_logged_in_icon" title="'+u.displayName+'"></i>')
+			.attr("href", "https://users.techtarget.com/registration/searchEnterpriseAI/Logout.page?fromURL=" + window.location.href).children("span.nav-user-action:first").text('Logout');
+			$('.register').removeAttr('href');$('a.register').hide();}else{$('div.nav-user').children("a:first").attr("href", "https://users.techtarget.com/registration/searchEnterpriseAI/LoginRegister.page?fromURL="+window.location.href);
+			$('a.nav-join-pro').attr("href", "https://users.techtarget.com/registration/searchEnterpriseAI/LoginRegister.page?fromURL="+window.location.href);}});
+     </script>
+     <div class="nav-links">
+      <ul>
+       <li id="nav-links-TechtargetNetwork">
+        <a href="https://www.techtarget.com/network">
+         Techtarget Network
+        </a>
+       </li>
+       <li id="nav-links-News">
+        <a href="https://searchenterpriseai.techtarget.com/info/news">
+         News
+        </a>
+       </li>
+       <li id="nav-links-Features">
+        <a href="https://searchenterpriseai.techtarget.com/features">
+         Features
+        </a>
+       </li>
+       <li id="nav-links-Tips">
+        <a href="https://searchenterpriseai.techtarget.com/tips">
+         Tips
+        </a>
+       </li>
+       <li class="more-content">
+        <a href="#">
+         More Content
+         <i class="icon icon-arrow-down" data-icon="5">
+         </i>
+        </a>
+        <div class="more-content-dropdown">
+         <ul class="nav-list-sublist">
+          <li id="nav-links-Answers">
+           <a href="https://searchenterpriseai.techtarget.com/answers">
+            Answers
+           </a>
+          </li>
+          <li id="nav-links-Buyer'sGuides">
+           <a href="https://whatis.techtarget.com/resources/Buyers-Guides">
+            Buyer's Guides
+           </a>
+          </li>
+          <li id="nav-links-Definitions">
+           <a href="https://searchenterpriseai.techtarget.com/definitions">
+            Definitions
+           </a>
+          </li>
+          <li id="nav-links-EssentialGuides">
+           <a href="https://searchenterpriseai.techtarget.com/guides">
+            Essential Guides
+           </a>
+          </li>
+          <li id="nav-links-Opinions">
+           <a href="https://searchenterpriseai.techtarget.com/opinions">
+            Opinions
+           </a>
+          </li>
+          <li id="nav-links-PhotoStories">
+           <a href="https://searchenterpriseai.techtarget.com/photostories">
+            Photo Stories
+           </a>
+          </li>
+          <li id="nav-links-Podcasts">
+           <a href="https://searchenterpriseai.techtarget.com/podcasts">
+            Podcasts
+           </a>
+          </li>
+          <li id="nav-links-Quizzes">
+           <a href="https://searchenterpriseai.techtarget.com/quizzes">
+            Quizzes
+           </a>
+          </li>
+          <li id="nav-links-Tutorials">
+           <a href="https://searchenterpriseai.techtarget.com/tutorials">
+            Tutorials
+           </a>
+          </li>
+          <li class="nav-links-sponsoredcommunities">
+           <a href="https://searchenterpriseai.techtarget.com/sponsored_communities">
+            Sponsored Communities
+           </a>
+          </li>
+         </ul>
+        </div>
+       </li>
+      </ul>
+     </div>
+     <ul class="nav-list">
+      <li class="nav-list-item nav-list-item-searchsites">
+       <div class="nav-list-item-header searchenterpriseai">
+        <a href="https://searchenterpriseai.techtarget.com">
+         <span class="nav-list-item-header-title">
+          <span class="logo-search">
+           Search
+          </span>
+          <span class="logo-1">
+           Enterprise
+          </span>
+          <span class="logo-2">
+           AI
+          </span>
+         </span>
+        </a>
+       </div>
+      </li>
+      <li class="nav-list-item nav-list-item-topics">
+       <div class="nav-list-item-header">
+        <span class="nav-list-item-header-type">
+         Topic
+        </span>
+        <span class="nav-list-item-header-title">
+         <a href="https://searchenterpriseai.techtarget.com/resources">
+          All Topics
+         </a>
+        </span>
+        <i class="icon icon-arrow-down" data-icon="5">
+        </i>
+        <i class="icon icon-navigation-detail" data-icon="A">
+        </i>
+       </div>
+       <div class="nav-list-item-dropdown">
+        <div class="nav-list-item-jscroll">
+         <ul class="nav-list-sublist">
+          <li class="nav-list-sublist-item">
+           <a href="https://searchenterpriseai.techtarget.com/resources/AI-business-strategies">
+            AI business strategies
+           </a>
+          </li>
+          <li class="nav-list-sublist-item">
+           <a href="https://searchenterpriseai.techtarget.com/resources/AI-infrastructure">
+            AI infrastructure
+           </a>
+          </li>
+          <li class="nav-list-sublist-item">
+           <a href="https://searchenterpriseai.techtarget.com/resources/AI-technologies">
+            AI technologies
+           </a>
+          </li>
+          <li class="nav-list-sublist-item">
+           <a href="https://searchenterpriseai.techtarget.com/resources/Artificial-intelligence-platforms">
+            AI platforms
+           </a>
+          </li>
+          <li class="nav-list-sublist-item">
+           <a href="https://searchenterpriseai.techtarget.com/resources/Careers-in-artificial-intelligence">
+            AI careers
+           </a>
+          </li>
+          <li class="nav-list-sublist-item">
+           <a href="https://searchenterpriseai.techtarget.com/resources/Enterprise-applications-of-AI">
+            Enterprise applications of AI
+           </a>
+          </li>
+          <li class="nav-list-sublist-item">
+           <a href="https://searchenterpriseai.techtarget.com/resources/Machine-learning-platforms">
+            Machine learning platforms
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+      </li>
+     </ul>
+     <ul class="nav-social">
+      <li class="nav-social-item title">
+       Follow:
+      </li>
+      <li class="nav-social-item" id="navBarFacebook" title="Like searchEnterpriseAI on Facebook">
+       <a href="https://www.facebook.com/TechTargetEnterpriseSoftware/" target="_blank">
+        <i class="icon" data-icon="u">
+        </i>
+       </a>
+      </li>
+      <li class="nav-social-item" id="navBarTwitter" title="Follow @sEnterpriseAI on Twitter">
+       <a href="https://twitter.com/sEnterpriseAI" target="_blank">
+        <i class="icon" data-icon="c">
+        </i>
+       </a>
+      </li>
+      <li class="nav-social-item" id="navBarLinkedIn" title="Follow searchEnterpriseAI on LinkedIn">
+       <a href="https://www.linkedin.com/showcase/2996610/" target="_blank">
+        <i class="icon" data-icon="o">
+        </i>
+       </a>
+      </li>
+     </ul>
+    </nav>
+   </header>
+   <div class="ad-wrapper header-leaderboard ad-desktop">
+    <!-- AdsController, generated at 18:41:32 Thu Jul 2, 2020, by cds4 -->
+    <div class="ad ad-lb" id="leaderboard">
+     <script>
+      GPT.display('leaderboard')
+     </script>
+    </div>
+   </div>
+   <div class="main-content" id="main-content">
+    <article class="content-columns" id="content-columns">
+     <div class="content-left" id="content-left">
+     </div>
+     <div class="content-center" id="content-center">
+      <!-- ErrorPageController, generated at 17:04:30 Thu Jul 2, 2020, by cds4 -->
+      <section class="pageNotFound-section" id="error-copy">
+       <div class="pageNotFound-section-inner">
+        <h2>
+         Page not found.
+        </h2>
+        <p>
+         The page you were trying to reach at this address doesn't seem to exist. This is usually the result of a bad or outdated link. We apologize for any inconvenience.
+        </p>
+        <h3>
+         What can I do now?
+        </h3>
+        <p>
+         If this is your first time visiting TechTarget, welcome! Sorry for the circumstances under which we're meeting. Here's where you can go from here:
+        </p>
+        <form action="https://www.techtarget.com/search/query" class="pageNotFound-search" method="get">
+         <label class="visuallyhidden" for="pageNotFound-title">
+          Search
+         </label>
+         <input class="pageNotFound-textfield" id="pageNotFound-title" name="q" placeholder="Search" type="text"/>
+         <input class="pageNotFound-search-btn" type="submit" value="g"/>
+        </form>
+        <ul class="pageNotFound-list">
+         <li>
+          Check out the latest
+          <a href="https://searchenterpriseai.techtarget.com/info/news">
+           news
+          </a>
+          .
+         </li>
+         <li>
+          Our
+          <a href="https://searchenterpriseai.techtarget.com">
+           home page
+          </a>
+          contains the latest information on Enterprise Artificial Intelligence .
+         </li>
+         <li>
+          Our
+          <a href="https://searchenterpriseai.techtarget.com/about">
+           about page
+          </a>
+          contains more information about the site you are on, SearchEnterpriseAI.
+         </li>
+         <li>
+          If you need to, please
+          <a href="https://searchenterpriseai.techtarget.com/about/contact">
+           contact us
+          </a>
+          , we would love to hear from you.
+         </li>
+        </ul>
+       </div>
+       <div class="pageNotFound-sidebar">
+        <h3>
+         Browse By Category
+        </h3>
+        <ul class="pageNotFound-category-list">
+         <li>
+          <a href="https://searchenterpriseai.techtarget.com/resources/AI-business-strategies">
+           AI business strategies
+          </a>
+         </li>
+         <li>
+          <a href="https://searchenterpriseai.techtarget.com/resources/AI-infrastructure">
+           AI infrastructure
+          </a>
+         </li>
+         <li>
+          <a href="https://searchenterpriseai.techtarget.com/resources/AI-technologies">
+           AI technologies
+          </a>
+         </li>
+         <li>
+          <a href="https://searchenterpriseai.techtarget.com/resources/Artificial-intelligence-platforms">
+           Artificial intelligence platforms
+          </a>
+         </li>
+         <li>
+          <a href="https://searchenterpriseai.techtarget.com/resources/Careers-in-artificial-intelligence">
+           Careers in artificial intelligence
+          </a>
+         </li>
+         <li>
+          <a href="https://searchenterpriseai.techtarget.com/resources/Enterprise-applications-of-AI">
+           Enterprise applications of AI
+          </a>
+         </li>
+         <li>
+          <a href="https://searchenterpriseai.techtarget.com/resources/Machine-learning-platforms">
+           Machine learning platforms
+          </a>
+         </li>
+        </ul>
+       </div>
+      </section>
+     </div>
+     <div class="content-right" id="content-right">
+     </div>
+    </article>
+   </div>
+   <!-- GoogleAdSenseController, generated at 16:03:43 Thu Jul 2, 2020, by cds4 -->
+   <section class="main-content ads-by-google" id="ads-by-google">
+    <h2>
+     <a href="https://www.google.com/adsense/support/bin/request.py?contact=abg_afc">
+      -ADS BY GOOGLE
+     </a>
+    </h2>
+    <script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+    </script>
+    <!-- Search Sites Responsive AFC -->
+    <ins class="adsbygoogle" data-ad-client="ca-pub-6050985421795229" data-ad-format="auto" data-ad-slot="8728364240" style="display:block">
+    </ins>
+    <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+   </section>
+   <!-- NetworkCoverageController, generated at 16:27:12 Thu Jul 2, 2020, by cds4 -->
+   <section class="latest-wrapper" id="network-coverage">
+    <nav class="latest-nav-wrapper">
+     <h2>
+      Latest TechTarget
+      <span class="latest-title">
+       resources
+      </span>
+     </h2>
+     <ul class="latest-nav">
+      <li>
+       <a class="latest-nav-item selected" data-item="1" href="#">
+        Business Analytics
+        <i class="icon mobile-icon" data-icon="5">
+        </i>
+        <i class="icon desktop-icon" data-icon="A">
+        </i>
+       </a>
+      </li>
+      <li>
+       <a class="latest-nav-item" data-item="2" href="#">
+        CIO
+        <i class="icon mobile-icon" data-icon="5">
+        </i>
+        <i class="icon desktop-icon" data-icon="A">
+        </i>
+       </a>
+      </li>
+      <li>
+       <a class="latest-nav-item" data-item="3" href="#">
+        Data Management
+        <i class="icon mobile-icon" data-icon="5">
+        </i>
+        <i class="icon desktop-icon" data-icon="A">
+        </i>
+       </a>
+      </li>
+      <li>
+       <a class="latest-nav-item" data-item="4" href="#">
+        ERP
+        <i class="icon mobile-icon" data-icon="5">
+        </i>
+        <i class="icon desktop-icon" data-icon="A">
+        </i>
+       </a>
+      </li>
+     </ul>
+    </nav>
+    <span class="latest-nav-mask before-mask">
+    </span>
+    <span class="latest-nav-mask after-mask">
+    </span>
+    <div class="latest-body">
+     <div class="latest-content" data-item="1">
+      <h2 class="searchbusinessanalytics">
+       <a href="https://searchbusinessanalytics.techtarget.com">
+        <span class="logo-search">
+         Search
+        </span>
+        <span class="logo-1">
+         Business
+        </span>
+        <span class="logo-2">
+         Analytics
+        </span>
+       </a>
+      </h2>
+      <ul>
+       <li>
+        <i class="icon" data-icon="2">
+        </i>
+        <h3>
+         <a href="https://searchbusinessanalytics.techtarget.com/feature/Overcoming-the-top-3-analytics-adoption-challenges">
+          Overcoming the top 3 analytics adoption challenges
+         </a>
+        </h3>
+        <p>
+         Analytics is a growing part of many businesses. Experts talk about some of the most pressing challenges enterprises may face when...
+        </p>
+       </li>
+       <li>
+        <i class="icon" data-icon="2">
+        </i>
+        <h3>
+         <a href="https://searchbusinessanalytics.techtarget.com/feature/More-AI-ease-of-use-will-shape-Sisense-analytics-platform">
+          More AI, ease of use will shape Sisense analytics platform
+         </a>
+        </h3>
+        <p>
+         After spending three years at Alteryx most recently, Ashley Kramer is now Sisense's new chief product officer. In an interview, ...
+        </p>
+       </li>
+       <li class="hide-for-small">
+        <i class="icon" data-icon="2">
+        </i>
+        <h3>
+         <a href="https://searchbusinessanalytics.techtarget.com/news/252485551/Lack-of-data-literacy-still-a-problem-for-many-organizations">
+          Lack of data literacy still a problem for many organizations
+         </a>
+        </h3>
+        <p>
+         Organizations' lack of confidence in their ability to understand and use data to make decisions blocks their efforts to become ...
+        </p>
+       </li>
+      </ul>
+     </div>
+     <div class="latest-content" data-item="2">
+      <h2 class="searchcio">
+       <a href="https://searchcio.techtarget.com">
+        <span class="logo-search">
+         Search
+        </span>
+        <span class="logo-1">
+         CIO
+        </span>
+       </a>
+      </h2>
+      <ul>
+       <li>
+        <i class="icon" data-icon="2">
+        </i>
+        <h3>
+         <a href="https://searchcio.techtarget.com/feature/Post-COVID-19-strategies-for-CIOs-on-leading-through-crisis">
+          Post COVID-19 strategies for CIOs on leading through crisis
+         </a>
+        </h3>
+        <p>
+         To see their companies through the current crisis, CIOs should consider these five strategies focused around IT budgets, ...
+        </p>
+       </li>
+       <li>
+        <i class="icon" data-icon="2">
+        </i>
+        <h3>
+         <a href="https://searchcio.techtarget.com/ehandbook/Workplace-of-the-future-undergoes-last-minute-alterations">
+          Workplace of the future undergoes last-minute alterations
+         </a>
+        </h3>
+        <p>
+         Future of work plans entailed offices that fostered better employee engagements and productivity, while accommodating a small ...
+        </p>
+       </li>
+       <li class="hide-for-small">
+        <i class="icon" data-icon="2">
+        </i>
+        <h3>
+         <a href="https://searchcio.techtarget.com/ehandbook/Return-to-office-plans-stress-safety-security-collaboration">
+          Return-to-office plans stress safety, security, collaboration
+         </a>
+        </h3>
+        <p>
+         As offices reopen amid myriad safety measures in COVID-19's wake, companies work to maintain continuity and productivity with ...
+        </p>
+       </li>
+      </ul>
+     </div>
+     <div class="latest-content" data-item="3">
+      <h2 class="searchdatamanagement">
+       <a href="https://searchdatamanagement.techtarget.com">
+        <span class="logo-search">
+         Search
+        </span>
+        <span class="logo-1">
+         Data
+        </span>
+        <span class="logo-2">
+         Management
+        </span>
+       </a>
+      </h2>
+      <ul>
+       <li>
+        <i class="icon" data-icon="2">
+        </i>
+        <h3>
+         <a href="https://searchdatamanagement.techtarget.com/news/252485621/Ahana-brings-PrestoDB-SQL-query-engine-to-the-cloud">
+          Ahana brings PrestoDB SQL query engine to the cloud
+         </a>
+        </h3>
+        <p>
+         Soon after announcing its seed round of funding, Ahana launched commercial support services for the open source federated SQL ...
+        </p>
+       </li>
+       <li>
+        <i class="icon" data-icon="2">
+        </i>
+        <h3>
+         <a href="https://searchdatamanagement.techtarget.com/news/252485561/Confluent-enables-infinite-Kafka-scalability-in-the-cloud">
+          Confluent enables infinite Kafka scalability in the cloud
+         </a>
+        </h3>
+        <p>
+         Kafka gets data retention boost that can make it easier for users to store event streaming data for long periods of time, which ...
+        </p>
+       </li>
+       <li class="hide-for-small">
+        <i class="icon" data-icon="2">
+        </i>
+        <h3>
+         <a href="https://searchdatamanagement.techtarget.com/news/252485449/Fivetran-raises-100M-to-advance-enterprise-data-integration">
+          Fivetran raises $100M to advance enterprise data integration
+         </a>
+        </h3>
+        <p>
+         The co-founder and CEO of Fivetran talks about what the vendor is doing to help organizations meet the challenges of enterprise ...
+        </p>
+       </li>
+      </ul>
+     </div>
+     <div class="latest-content" data-item="4">
+      <h2 class="searcherp">
+       <a href="https://searcherp.techtarget.com">
+        <span class="logo-search">
+         Search
+        </span>
+        <span class="logo-1">
+         ERP
+        </span>
+       </a>
+      </h2>
+      <ul>
+       <li>
+        <i class="icon" data-icon="2">
+        </i>
+        <h3>
+         <a href="https://searcherp.techtarget.com/feature/3-benefits-of-digital-manufacturing">
+          3 benefits of digital manufacturing
+         </a>
+        </h3>
+        <p>
+         To save time and money while also streamlining production, companies are increasingly turning to digital manufacturing. Here's a ...
+        </p>
+       </li>
+       <li>
+        <i class="icon" data-icon="2">
+        </i>
+        <h3>
+         <a href="https://searcherp.techtarget.com/news/252485619/Manufacturers-turn-to-servitization-for-competitive-advantage">
+          Manufacturers turn to servitization for competitive advantage
+         </a>
+        </h3>
+        <p>
+         Servitization leads to more resilient and profitable businesses, but only a few manufacturers are fully enabled to adopt the new ...
+        </p>
+       </li>
+       <li class="hide-for-small">
+        <i class="icon" data-icon="2">
+        </i>
+        <h3>
+         <a href="https://searcherp.techtarget.com/podcast/Sapphire-Now-2020-unveiled-a-new-more-forward-looking-SAP">
+          Sapphire Now 2020 unveiled a new, more forward-looking SAP
+         </a>
+        </h3>
+        <p>
+         Lofty goals to fight climate change and link intelligent enterprises signaled CEO Christian Klein's intention to lead a ...
+        </p>
+       </li>
+      </ul>
+     </div>
+    </div>
+   </section>
+   <!-- FooterLinksController, generated at 16:27:12 Thu Jul 2, 2020, by cds4 -->
+   <footer id="page-footer">
+    <div class="content-left">
+     <!-- Plug in TechTarget Logo inside the anchor tag here. -->
+     <div class="column column-logo">
+      <a href="#">
+      </a>
+     </div>
+    </div>
+    <div class="content-center">
+     <ul class="column">
+      <li class="footer-item footer-item-col-1 footer-item-row-1">
+       <a href="https://searchenterpriseai.techtarget.com/about">
+        About Us
+       </a>
+      </li>
+      <li class="footer-item footer-item-col-1 footer-item-row-2">
+       <a href="https://searchenterpriseai.techtarget.com/about/editors">
+        Meet The Editors
+       </a>
+      </li>
+      <li class="footer-item footer-item-col-1 footer-item-row-3">
+       <a href="https://searchenterpriseai.techtarget.com/about/contact">
+        Contact Us
+       </a>
+      </li>
+      <li class="footer-item footer-item-col-1 footer-item-row-4">
+       <a href="https://www.techtarget.com/privacy-policy-may25/">
+        Privacy Policy
+       </a>
+      </li>
+      <li class="footer-item footer-item-col-1 footer-item-row-5">
+       <a href="https://searchenterpriseai.techtarget.com/about/advertising">
+        Advertisers
+       </a>
+      </li>
+      <li class="footer-item footer-item-col-1 footer-item-row-6">
+       <a href="https://searchenterpriseai.techtarget.com/about/partners">
+        Business Partners
+       </a>
+      </li>
+      <li class="footer-item footer-item-col-1 footer-item-row-7">
+       <a href="https://www.techtarget.com/solutions/">
+        Media Kit
+       </a>
+      </li>
+      <li class="footer-item footer-item-col-1 footer-item-row-8">
+       <a href="https://www.techtarget.com">
+        Corporate Site
+       </a>
+      </li>
+     </ul>
+     <ul class="column">
+      <li class="footer-item footer-item-col-2 footer-item-row-1">
+       <a href="https://searchenterpriseai.techtarget.com/contributors">
+        Contributors
+       </a>
+      </li>
+      <li class="footer-item footer-item-col-2 footer-item-row-2">
+       <a href="https://reprints.ygsgroup.com/m/techtarget">
+        Reprints
+       </a>
+      </li>
+      <li class="footer-item footer-item-col-2 footer-item-row-3">
+       <a href="https://searchenterpriseai.techtarget.com/answers">
+        Answers
+       </a>
+      </li>
+      <li class="footer-item footer-item-col-2 footer-item-row-4">
+       <a href="https://searchenterpriseai.techtarget.com/definitions">
+        Definitions
+       </a>
+      </li>
+      <li class="footer-item footer-item-col-2 footer-item-row-5">
+       <a href="https://searchenterpriseai.techtarget.com/eproducts">
+        E-Products
+       </a>
+      </li>
+      <li class="footer-item footer-item-col-2 footer-item-row-6">
+       <a href="https://searchenterpriseai.techtarget.com/events">
+        Events
+       </a>
+      </li>
+      <li class="footer-item footer-item-col-2 footer-item-row-7">
+       <a href="https://searchenterpriseai.techtarget.com/features">
+        Features
+       </a>
+      </li>
+     </ul>
+     <ul class="column column-mobile-hidden">
+      <li class="footer-item footer-item-col-3 footer-item-row-1">
+       <a href="https://searchenterpriseai.techtarget.com/guides">
+        Guides
+       </a>
+      </li>
+      <li class="footer-item footer-item-col-3 footer-item-row-2">
+       <a href="https://searchenterpriseai.techtarget.com/opinions">
+        Opinions
+       </a>
+      </li>
+      <li class="footer-item footer-item-col-3 footer-item-row-3">
+       <a href="https://searchenterpriseai.techtarget.com/photostories">
+        Photo Stories
+       </a>
+      </li>
+      <li class="footer-item footer-item-col-3 footer-item-row-4">
+       <a href="https://searchenterpriseai.techtarget.com/quizzes">
+        Quizzes
+       </a>
+      </li>
+      <li class="footer-item footer-item-col-3 footer-item-row-5">
+       <a href="https://searchenterpriseai.techtarget.com/tips">
+        Tips
+       </a>
+      </li>
+      <li class="footer-item footer-item-col-3 footer-item-row-6">
+       <a href="https://searchenterpriseai.techtarget.com/tutorials">
+        Tutorials
+       </a>
+      </li>
+      <li class="footer-item footer-item-col-3 footer-item-row-7">
+       <a href="https://searchenterpriseai.techtarget.com/videos">
+        Videos
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div class="content-right">
+     <div class="column column-legal">
+      <p class="footer-legal">
+       All Rights Reserved,
+       <span>
+        <a href="https://searchenterpriseai.techtarget.com/about/copyright">
+         Copyright 2018 - 2020
+        </a>
+        , TechTarget
+       </span>
+       <br/>
+       <br/>
+       <span>
+        <a href="https://www.techtarget.com/CA-rights-request">
+         Do Not Sell My Personal Info
+        </a>
+       </span>
+      </p>
+     </div>
+    </div>
+   </footer>
+   <script src="https://cdn.ttgtmedia.com/rms/ux/responsive/js/responsive-ui.min.js?v=7.76">
+   </script>
+   <!-- Begin Chartbeat -->
+   <script>
+    var _sf_async_config={};
+    _sf_async_config.uid = 41935;
+    _sf_async_config.domain = 'techtargetnetwork.com';
+    _sf_async_config.sections = 'sentai, sentai - NO TOPIC';
+    _sf_async_config.authors = 'NO AUTHOR, HOME, sentai - HOME';
+    _sf_async_config.useCanonical = true;
+    (function(){
+      function loadChartbeat() {
+        window._sf_endpt=(new Date()).getTime();
+        var e = document.createElement('script');
+        e.setAttribute('language', 'javascript');
+        e.setAttribute('type', 'text/javascript');
+        e.setAttribute('src',
+           (('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'https://static.chartbeat.com/') + 'js/chartbeat.js');
+        document.body.appendChild(e);
+      }
+      var oldonload = window.onload;
+      window.onload = (typeof window.onload != 'function') ?
+         loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    })();
+   </script>
+   <!-- End Chartbeat -->
+  </div>
+  <div class="mobile-sidebars" id="mobile-sidebars">
+  </div>
+  <div class="image-overlay" id="image-overlay">
+   <div class="image-overlay-img">
+   </div>
+   <div class="image-overlay-close">
+    Close
+   </div>
+  </div>
+  <!--
+Component Load Times
+====================
+DefaultPageController=21 ms
+PinnedNavBarController=41 ms
+AdsController=0 ms
+
+Total time=62 ms
+Request Serving Server: cds4
+-->
+ </body>
+</html>

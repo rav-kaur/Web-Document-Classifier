@@ -3,12 +3,12 @@
  <head>
   <meta charset="utf-8"/>
   <title>
-   Jazz&amp;sa=U&amp;ved=2ahUKEwi9jbjZwK3qAhWAHDQIHbyTCxsQFjAQegQIDRAB&amp;usg=AOvVaw2LRBIOFxSQKNIDVeDDs40W - Wikipedia
+   Internet of things&amp;sa=U&amp;ved=2ahUKEwiGt6L70q qAhXBbCsKHWmFBgQQFjATegQIOBAB&amp;usg=AOvVaw2wNM66- oJzXySId0yfRhH - Wikipedia
   </title>
   <script>
-   document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"e47283ea-1180-48f5-b6b7-356af0e8aacd","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Jazz\u0026sa=U\u0026ved=2ahUKEwi9jbjZwK3qAhWAHDQIHbyTCxsQFjAQegQIDRAB\u0026usg=AOvVaw2LRBIOFxSQKNIDVeDDs40W","wgTitle":"Jazz\u0026sa=U\u0026ved=2ahUKEwi9jbjZwK3qAhWAHDQIHbyTCxsQFjAQegQIDRAB\u0026usg=AOvVaw2LRBIOFxSQKNIDVeDDs40W","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":
-"Jazz\u0026sa=U\u0026ved=2ahUKEwi9jbjZwK3qAhWAHDQIHbyTCxsQFjAQegQIDRAB\u0026usg=AOvVaw2LRBIOFxSQKNIDVeDDs40W","wgRelevantArticleId":0,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionCreate":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready",
-"ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];
+   document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"bc2248ac-2408-4743-ba85-28b8ce8d8c5d","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Internet_of_things\u0026sa=U\u0026ved=2ahUKEwiGt6L70q_qAhXBbCsKHWmFBgQQFjATegQIOBAB\u0026usg=AOvVaw2wNM66-_oJzXySId0yfRhH","wgTitle":"Internet of things\u0026sa=U\u0026ved=2ahUKEwiGt6L70q qAhXBbCsKHWmFBgQQFjATegQIOBAB\u0026usg=AOvVaw2wNM66- oJzXySId0yfRhH","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":
+"Internet_of_things\u0026sa=U\u0026ved=2ahUKEwiGt6L70q_qAhXBbCsKHWmFBgQQFjATegQIOBAB\u0026usg=AOvVaw2wNM66-_oJzXySId0yfRhH","wgRelevantArticleId":0,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionCreate":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":
+"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];
   </script>
   <script>
    (RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
@@ -30,12 +30,12 @@
   <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
   <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
   <link href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" rel="alternate" title="Wikipedia Atom feed" type="application/atom+xml"/>
-  <link href="https://en.wikipedia.org/wiki/Jazz%26sa%3DU%26ved%3D2ahUKEwi9jbjZwK3qAhWAHDQIHbyTCxsQFjAQegQIDRAB%26usg%3DAOvVaw2LRBIOFxSQKNIDVeDDs40W" rel="canonical"/>
+  <link href="https://en.wikipedia.org/wiki/Internet_of_things%26sa%3DU%26ved%3D2ahUKEwiGt6L70q_qAhXBbCsKHWmFBgQQFjATegQIOBAB%26usg%3DAOvVaw2wNM66-_oJzXySId0yfRhH" rel="canonical"/>
   <link href="//login.wikimedia.org" rel="dns-prefetch"/>
   <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
   <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
  </head>
- <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Jazz_sa_U_ved_2ahUKEwi9jbjZwK3qAhWAHDQIHbyTCxsQFjAQegQIDRAB_usg_AOvVaw2LRBIOFxSQKNIDVeDDs40W rootpage-Jazz_sa_U_ved_2ahUKEwi9jbjZwK3qAhWAHDQIHbyTCxsQFjAQegQIDRAB_usg_AOvVaw2LRBIOFxSQKNIDVeDDs40W skin-vector action-view skin-vector-legacy minerva--history-page-action-enabled">
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Internet_of_things_sa_U_ved_2ahUKEwiGt6L70q_qAhXBbCsKHWmFBgQQFjATegQIOBAB_usg_AOvVaw2wNM66-_oJzXySId0yfRhH rootpage-Internet_of_things_sa_U_ved_2ahUKEwiGt6L70q_qAhXBbCsKHWmFBgQQFjATegQIOBAB_usg_AOvVaw2wNM66-_oJzXySId0yfRhH skin-vector action-view skin-vector-legacy minerva--history-page-action-enabled">
   <div class="noprint" id="mw-page-base">
   </div>
   <div class="noprint" id="mw-head-base">
@@ -49,7 +49,7 @@
    <div class="mw-indicators mw-body-content">
    </div>
    <h1 class="firstHeading" id="firstHeading" lang="en">
-    Jazz&amp;sa=U&amp;ved=2ahUKEwi9jbjZwK3qAhWAHDQIHbyTCxsQFjAQegQIDRAB&amp;usg=AOvVaw2LRBIOFxSQKNIDVeDDs40W
+    Internet of things&amp;sa=U&amp;ved=2ahUKEwiGt6L70q qAhXBbCsKHWmFBgQQFjATegQIOBAB&amp;usg=AOvVaw2wNM66- oJzXySId0yfRhH
    </h1>
    <div class="mw-body-content" id="bodyContent">
     <div class="noprint" id="siteSub">
@@ -74,7 +74,7 @@
           <div class="infobox" id="sisterproject" style="width: 20em; font-size: 90%; float: right; padding: 0.5em;">
            Look for
            <b>
-            Jazz&amp;sa=U&amp;ved=2ahUKEwi9jbjZwK3qAhWAHDQIHbyTCxsQFjAQegQIDRAB&amp;usg=AOvVaw2LRBIOFxSQKNIDVeDDs40W
+            Internet of things&amp;sa=U&amp;ved=2ahUKEwiGt6L70q qAhXBbCsKHWmFBgQQFjATegQIOBAB&amp;usg=AOvVaw2wNM66- oJzXySId0yfRhH
            </b>
            on one of Wikipedia's
            <a href="/wiki/Special:SiteMatrix" title="Special:SiteMatrix">
@@ -90,7 +90,7 @@
                </a>
               </td>
               <td style="vertical-align: middle;">
-               <a class="extiw" href="https://en.wiktionary.org/wiki/Special:Search/Jazz%26sa%3DU%26ved%3D2ahUKEwi9jbjZwK3qAhWAHDQIHbyTCxsQFjAQegQIDRAB%26usg%3DAOvVaw2LRBIOFxSQKNIDVeDDs40W" title="wiktionary:Special:Search/Jazz&amp;sa=U&amp;ved=2ahUKEwi9jbjZwK3qAhWAHDQIHbyTCxsQFjAQegQIDRAB&amp;usg=AOvVaw2LRBIOFxSQKNIDVeDDs40W">
+               <a class="extiw" href="https://en.wiktionary.org/wiki/Special:Search/Internet_of_things%26sa%3DU%26ved%3D2ahUKEwiGt6L70q_qAhXBbCsKHWmFBgQQFjATegQIOBAB%26usg%3DAOvVaw2wNM66-_oJzXySId0yfRhH" title="wiktionary:Special:Search/Internet of things&amp;sa=U&amp;ved=2ahUKEwiGt6L70q qAhXBbCsKHWmFBgQQFjATegQIOBAB&amp;usg=AOvVaw2wNM66- oJzXySId0yfRhH">
                 Wiktionary
                </a>
                (dictionary)
@@ -103,7 +103,7 @@
                </a>
               </td>
               <td style="vertical-align: middle;">
-               <a class="extiw" href="https://en.wikibooks.org/wiki/Special:Search/Jazz%26sa%3DU%26ved%3D2ahUKEwi9jbjZwK3qAhWAHDQIHbyTCxsQFjAQegQIDRAB%26usg%3DAOvVaw2LRBIOFxSQKNIDVeDDs40W" title="wikibooks:Special:Search/Jazz&amp;sa=U&amp;ved=2ahUKEwi9jbjZwK3qAhWAHDQIHbyTCxsQFjAQegQIDRAB&amp;usg=AOvVaw2LRBIOFxSQKNIDVeDDs40W">
+               <a class="extiw" href="https://en.wikibooks.org/wiki/Special:Search/Internet_of_things%26sa%3DU%26ved%3D2ahUKEwiGt6L70q_qAhXBbCsKHWmFBgQQFjATegQIOBAB%26usg%3DAOvVaw2wNM66-_oJzXySId0yfRhH" title="wikibooks:Special:Search/Internet of things&amp;sa=U&amp;ved=2ahUKEwiGt6L70q qAhXBbCsKHWmFBgQQFjATegQIOBAB&amp;usg=AOvVaw2wNM66- oJzXySId0yfRhH">
                 Wikibooks
                </a>
                (textbooks)
@@ -116,7 +116,7 @@
                </a>
               </td>
               <td style="vertical-align: middle;">
-               <a class="extiw" href="https://en.wikiquote.org/wiki/Special:Search/Jazz%26sa%3DU%26ved%3D2ahUKEwi9jbjZwK3qAhWAHDQIHbyTCxsQFjAQegQIDRAB%26usg%3DAOvVaw2LRBIOFxSQKNIDVeDDs40W" title="wikiquote:Special:Search/Jazz&amp;sa=U&amp;ved=2ahUKEwi9jbjZwK3qAhWAHDQIHbyTCxsQFjAQegQIDRAB&amp;usg=AOvVaw2LRBIOFxSQKNIDVeDDs40W">
+               <a class="extiw" href="https://en.wikiquote.org/wiki/Special:Search/Internet_of_things%26sa%3DU%26ved%3D2ahUKEwiGt6L70q_qAhXBbCsKHWmFBgQQFjATegQIOBAB%26usg%3DAOvVaw2wNM66-_oJzXySId0yfRhH" title="wikiquote:Special:Search/Internet of things&amp;sa=U&amp;ved=2ahUKEwiGt6L70q qAhXBbCsKHWmFBgQQFjATegQIOBAB&amp;usg=AOvVaw2wNM66- oJzXySId0yfRhH">
                 Wikiquote
                </a>
                (quotations)
@@ -129,7 +129,7 @@
                </a>
               </td>
               <td style="vertical-align: middle;">
-               <a class="extiw" href="https://en.wikisource.org/wiki/Special:Search/Jazz%26sa%3DU%26ved%3D2ahUKEwi9jbjZwK3qAhWAHDQIHbyTCxsQFjAQegQIDRAB%26usg%3DAOvVaw2LRBIOFxSQKNIDVeDDs40W" title="wikisource:Special:Search/Jazz&amp;sa=U&amp;ved=2ahUKEwi9jbjZwK3qAhWAHDQIHbyTCxsQFjAQegQIDRAB&amp;usg=AOvVaw2LRBIOFxSQKNIDVeDDs40W">
+               <a class="extiw" href="https://en.wikisource.org/wiki/Special:Search/Internet_of_things%26sa%3DU%26ved%3D2ahUKEwiGt6L70q_qAhXBbCsKHWmFBgQQFjATegQIOBAB%26usg%3DAOvVaw2wNM66-_oJzXySId0yfRhH" title="wikisource:Special:Search/Internet of things&amp;sa=U&amp;ved=2ahUKEwiGt6L70q qAhXBbCsKHWmFBgQQFjATegQIOBAB&amp;usg=AOvVaw2wNM66- oJzXySId0yfRhH">
                 Wikisource
                </a>
                (library)
@@ -142,7 +142,7 @@
                </a>
               </td>
               <td style="vertical-align: middle;">
-               <a class="extiw" href="https://en.wikiversity.org/wiki/Special:Search/Jazz%26sa%3DU%26ved%3D2ahUKEwi9jbjZwK3qAhWAHDQIHbyTCxsQFjAQegQIDRAB%26usg%3DAOvVaw2LRBIOFxSQKNIDVeDDs40W" title="wikiversity:Special:Search/Jazz&amp;sa=U&amp;ved=2ahUKEwi9jbjZwK3qAhWAHDQIHbyTCxsQFjAQegQIDRAB&amp;usg=AOvVaw2LRBIOFxSQKNIDVeDDs40W">
+               <a class="extiw" href="https://en.wikiversity.org/wiki/Special:Search/Internet_of_things%26sa%3DU%26ved%3D2ahUKEwiGt6L70q_qAhXBbCsKHWmFBgQQFjATegQIOBAB%26usg%3DAOvVaw2wNM66-_oJzXySId0yfRhH" title="wikiversity:Special:Search/Internet of things&amp;sa=U&amp;ved=2ahUKEwiGt6L70q qAhXBbCsKHWmFBgQQFjATegQIOBAB&amp;usg=AOvVaw2wNM66- oJzXySId0yfRhH">
                 Wikiversity
                </a>
                (learning resources)
@@ -155,7 +155,7 @@
                </a>
               </td>
               <td style="vertical-align: middle;">
-               <a class="extiw" href="https://commons.wikimedia.org/wiki/Special:Search/Jazz%26sa%3DU%26ved%3D2ahUKEwi9jbjZwK3qAhWAHDQIHbyTCxsQFjAQegQIDRAB%26usg%3DAOvVaw2LRBIOFxSQKNIDVeDDs40W" title="commons:Special:Search/Jazz&amp;sa=U&amp;ved=2ahUKEwi9jbjZwK3qAhWAHDQIHbyTCxsQFjAQegQIDRAB&amp;usg=AOvVaw2LRBIOFxSQKNIDVeDDs40W">
+               <a class="extiw" href="https://commons.wikimedia.org/wiki/Special:Search/Internet_of_things%26sa%3DU%26ved%3D2ahUKEwiGt6L70q_qAhXBbCsKHWmFBgQQFjATegQIOBAB%26usg%3DAOvVaw2wNM66-_oJzXySId0yfRhH" title="commons:Special:Search/Internet of things&amp;sa=U&amp;ved=2ahUKEwiGt6L70q qAhXBbCsKHWmFBgQQFjATegQIOBAB&amp;usg=AOvVaw2wNM66- oJzXySId0yfRhH">
                 Commons
                </a>
                (media)
@@ -168,7 +168,7 @@
                </a>
               </td>
               <td style="vertical-align: middle;">
-               <a class="extiw" href="https://en.wikivoyage.org/wiki/Special:Search/Jazz%26sa%3DU%26ved%3D2ahUKEwi9jbjZwK3qAhWAHDQIHbyTCxsQFjAQegQIDRAB%26usg%3DAOvVaw2LRBIOFxSQKNIDVeDDs40W" title="wikivoyage:Special:Search/Jazz&amp;sa=U&amp;ved=2ahUKEwi9jbjZwK3qAhWAHDQIHbyTCxsQFjAQegQIDRAB&amp;usg=AOvVaw2LRBIOFxSQKNIDVeDDs40W">
+               <a class="extiw" href="https://en.wikivoyage.org/wiki/Special:Search/Internet_of_things%26sa%3DU%26ved%3D2ahUKEwiGt6L70q_qAhXBbCsKHWmFBgQQFjATegQIOBAB%26usg%3DAOvVaw2wNM66-_oJzXySId0yfRhH" title="wikivoyage:Special:Search/Internet of things&amp;sa=U&amp;ved=2ahUKEwiGt6L70q qAhXBbCsKHWmFBgQQFjATegQIOBAB&amp;usg=AOvVaw2wNM66- oJzXySId0yfRhH">
                 Wikivoyage
                </a>
                (travel guide)
@@ -181,7 +181,7 @@
                </a>
               </td>
               <td style="vertical-align: middle;">
-               <a class="extiw" href="https://en.wikinews.org/wiki/Special:Search/Jazz%26sa%3DU%26ved%3D2ahUKEwi9jbjZwK3qAhWAHDQIHbyTCxsQFjAQegQIDRAB%26usg%3DAOvVaw2LRBIOFxSQKNIDVeDDs40W" title="wikinews:Special:Search/Jazz&amp;sa=U&amp;ved=2ahUKEwi9jbjZwK3qAhWAHDQIHbyTCxsQFjAQegQIDRAB&amp;usg=AOvVaw2LRBIOFxSQKNIDVeDDs40W">
+               <a class="extiw" href="https://en.wikinews.org/wiki/Special:Search/Internet_of_things%26sa%3DU%26ved%3D2ahUKEwiGt6L70q_qAhXBbCsKHWmFBgQQFjATegQIOBAB%26usg%3DAOvVaw2wNM66-_oJzXySId0yfRhH" title="wikinews:Special:Search/Internet of things&amp;sa=U&amp;ved=2ahUKEwiGt6L70q qAhXBbCsKHWmFBgQQFjATegQIOBAB&amp;usg=AOvVaw2wNM66- oJzXySId0yfRhH">
                 Wikinews
                </a>
                (news source)
@@ -194,7 +194,7 @@
                </a>
               </td>
               <td style="vertical-align: middle;">
-               <a class="extiw" href="https://www.wikidata.org/wiki/Special:Search/Jazz%26sa%3DU%26ved%3D2ahUKEwi9jbjZwK3qAhWAHDQIHbyTCxsQFjAQegQIDRAB%26usg%3DAOvVaw2LRBIOFxSQKNIDVeDDs40W" title="wikidata:Special:Search/Jazz&amp;sa=U&amp;ved=2ahUKEwi9jbjZwK3qAhWAHDQIHbyTCxsQFjAQegQIDRAB&amp;usg=AOvVaw2LRBIOFxSQKNIDVeDDs40W">
+               <a class="extiw" href="https://www.wikidata.org/wiki/Special:Search/Internet_of_things%26sa%3DU%26ved%3D2ahUKEwiGt6L70q_qAhXBbCsKHWmFBgQQFjATegQIOBAB%26usg%3DAOvVaw2wNM66-_oJzXySId0yfRhH" title="wikidata:Special:Search/Internet of things&amp;sa=U&amp;ved=2ahUKEwiGt6L70q qAhXBbCsKHWmFBgQQFjATegQIOBAB&amp;usg=AOvVaw2wNM66- oJzXySId0yfRhH">
                 Wikidata
                </a>
                (linked database)
@@ -208,10 +208,10 @@
           </b>
           Please
           <span class="plainlinks">
-           <a class="external text" href="https://en.wikipedia.org/w/index.php?search=Jazz%26sa%3DU%26ved%3D2ahUKEwi9jbjZwK3qAhWAHDQIHbyTCxsQFjAQegQIDRAB%26usg%3DAOvVaw2LRBIOFxSQKNIDVeDDs40W&amp;title=Special%3ASearch&amp;fulltext=1">
+           <a class="external text" href="https://en.wikipedia.org/w/index.php?search=Internet+of+things%26sa%3DU%26ved%3D2ahUKEwiGt6L70q+qAhXBbCsKHWmFBgQQFjATegQIOBAB%26usg%3DAOvVaw2wNM66-+oJzXySId0yfRhH&amp;title=Special%3ASearch&amp;fulltext=1">
             search for
             <i>
-             Jazz&amp;sa=U&amp;ved=2ahUKEwi9jbjZwK3qAhWAHDQIHbyTCxsQFjAQegQIDRAB&amp;usg=AOvVaw2LRBIOFxSQKNIDVeDDs40W
+             Internet of things&amp;sa=U&amp;ved=2ahUKEwiGt6L70q qAhXBbCsKHWmFBgQQFjATegQIOBAB&amp;usg=AOvVaw2wNM66- oJzXySId0yfRhH
             </i>
             in Wikipedia
            </a>
@@ -227,10 +227,10 @@
            </li>
            <li>
             <span class="plainlinks">
-             <a class="external text" href="https://en.wikipedia.org/w/index.php?search=Jazz%26sa%3DU%26ved%3D2ahUKEwi9jbjZwK3qAhWAHDQIHbyTCxsQFjAQegQIDRAB%26usg%3DAOvVaw2LRBIOFxSQKNIDVeDDs40W&amp;title=Special%3ASearch&amp;fulltext=1&amp;ns0=1">
+             <a class="external text" href="https://en.wikipedia.org/w/index.php?search=Internet+of+things%26sa%3DU%26ved%3D2ahUKEwiGt6L70q+qAhXBbCsKHWmFBgQQFjATegQIOBAB%26usg%3DAOvVaw2wNM66-+oJzXySId0yfRhH&amp;title=Special%3ASearch&amp;fulltext=1&amp;ns0=1">
               Search for "
               <i>
-               Jazz&amp;sa=U&amp;ved=2ahUKEwi9jbjZwK3qAhWAHDQIHbyTCxsQFjAQegQIDRAB&amp;usg=AOvVaw2LRBIOFxSQKNIDVeDDs40W
+               Internet of things&amp;sa=U&amp;ved=2ahUKEwiGt6L70q qAhXBbCsKHWmFBgQQFjATegQIOBAB&amp;usg=AOvVaw2wNM66- oJzXySId0yfRhH
               </i>
               "
              </a>
@@ -238,7 +238,7 @@
             in existing articles.
            </li>
            <li>
-            <a href="/wiki/Special:WhatLinksHere/Jazz%26sa%3DU%26ved%3D2ahUKEwi9jbjZwK3qAhWAHDQIHbyTCxsQFjAQegQIDRAB%26usg%3DAOvVaw2LRBIOFxSQKNIDVeDDs40W" title="Special:WhatLinksHere/Jazz&amp;sa=U&amp;ved=2ahUKEwi9jbjZwK3qAhWAHDQIHbyTCxsQFjAQegQIDRAB&amp;usg=AOvVaw2LRBIOFxSQKNIDVeDDs40W">
+            <a href="/wiki/Special:WhatLinksHere/Internet_of_things%26sa%3DU%26ved%3D2ahUKEwiGt6L70q_qAhXBbCsKHWmFBgQQFjATegQIOBAB%26usg%3DAOvVaw2wNM66-_oJzXySId0yfRhH" title="Special:WhatLinksHere/Internet of things&amp;sa=U&amp;ved=2ahUKEwiGt6L70q qAhXBbCsKHWmFBgQQFjATegQIOBAB&amp;usg=AOvVaw2wNM66- oJzXySId0yfRhH">
              Look for pages within Wikipedia that link to this title
             </a>
             .
@@ -254,7 +254,7 @@
            <ul>
             <li>
              If a page was recently created here, it may not be visible yet because of a delay in updating the database; wait a few minutes or
-             <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Jazz%26sa%3DU%26ved%3D2ahUKEwi9jbjZwK3qAhWAHDQIHbyTCxsQFjAQegQIDRAB%26usg%3DAOvVaw2LRBIOFxSQKNIDVeDDs40W&amp;action=purge">
+             <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Internet_of_things%26sa%3DU%26ved%3D2ahUKEwiGt6L70q_qAhXBbCsKHWmFBgQQFjATegQIOBAB%26usg%3DAOvVaw2wNM66-_oJzXySId0yfRhH&amp;action=purge">
               try the purge function
              </a>
              .
@@ -268,7 +268,7 @@
              </b>
              except for the first character; please
              <span class="plainlinks">
-              <a class="external text" href="https://en.wikipedia.org/w/index.php?search=Jazz%26sa%3DU%26ved%3D2ahUKEwi9jbjZwK3qAhWAHDQIHbyTCxsQFjAQegQIDRAB%26usg%3DAOvVaw2LRBIOFxSQKNIDVeDDs40W&amp;title=Special%3ASearch&amp;fulltext=1">
+              <a class="external text" href="https://en.wikipedia.org/w/index.php?search=Internet+of+things%26sa%3DU%26ved%3D2ahUKEwiGt6L70q+qAhXBbCsKHWmFBgQQFjATegQIOBAB%26usg%3DAOvVaw2wNM66-+oJzXySId0yfRhH&amp;title=Special%3ASearch&amp;fulltext=1">
                check alternative capitalizations
               </a>
              </span>
@@ -280,7 +280,7 @@
             </li>
             <li>
              If the page has been deleted,
-             <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:Log/delete&amp;page=Jazz%26sa%3DU%26ved%3D2ahUKEwi9jbjZwK3qAhWAHDQIHbyTCxsQFjAQegQIDRAB%26usg%3DAOvVaw2LRBIOFxSQKNIDVeDDs40W">
+             <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:Log/delete&amp;page=Internet_of_things%26sa%3DU%26ved%3D2ahUKEwiGt6L70q_qAhXBbCsKHWmFBgQQFjATegQIOBAB%26usg%3DAOvVaw2wNM66-_oJzXySId0yfRhH">
               check the
               <b>
                deletion log
@@ -305,8 +305,8 @@
     </div>
     <div class="printfooter">
      Retrieved from "
-     <a dir="ltr" href="https://en.wikipedia.org/wiki/Jazz%26sa%3DU%26ved%3D2ahUKEwi9jbjZwK3qAhWAHDQIHbyTCxsQFjAQegQIDRAB%26usg%3DAOvVaw2LRBIOFxSQKNIDVeDDs40W">
-      https://en.wikipedia.org/wiki/Jazz%26sa%3DU%26ved%3D2ahUKEwi9jbjZwK3qAhWAHDQIHbyTCxsQFjAQegQIDRAB%26usg%3DAOvVaw2LRBIOFxSQKNIDVeDDs40W
+     <a dir="ltr" href="https://en.wikipedia.org/wiki/Internet_of_things%26sa%3DU%26ved%3D2ahUKEwiGt6L70q_qAhXBbCsKHWmFBgQQFjATegQIOBAB%26usg%3DAOvVaw2wNM66-_oJzXySId0yfRhH">
+      https://en.wikipedia.org/wiki/Internet_of_things%26sa%3DU%26ved%3D2ahUKEwiGt6L70q_qAhXBbCsKHWmFBgQQFjATegQIOBAB%26usg%3DAOvVaw2wNM66-_oJzXySId0yfRhH
      </a>
      "
     </div>
@@ -350,12 +350,12 @@
         </a>
        </li>
        <li id="pt-createaccount">
-        <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Jazz%26sa%3DU%26ved%3D2ahUKEwi9jbjZwK3qAhWAHDQIHbyTCxsQFjAQegQIDRAB%26usg%3DAOvVaw2LRBIOFxSQKNIDVeDDs40W" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Internet+of+things%26sa%3DU%26ved%3D2ahUKEwiGt6L70q+qAhXBbCsKHWmFBgQQFjATegQIOBAB%26usg%3DAOvVaw2wNM66-+oJzXySId0yfRhH" title="You are encouraged to create an account and log in; however, it is not mandatory">
          Create account
         </a>
        </li>
        <li id="pt-login">
-        <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Jazz%26sa%3DU%26ved%3D2ahUKEwi9jbjZwK3qAhWAHDQIHbyTCxsQFjAQegQIDRAB%26usg%3DAOvVaw2LRBIOFxSQKNIDVeDDs40W" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Internet+of+things%26sa%3DU%26ved%3D2ahUKEwiGt6L70q+qAhXBbCsKHWmFBgQQFjATegQIOBAB%26usg%3DAOvVaw2wNM66-+oJzXySId0yfRhH" title="You're encouraged to log in; however, it's not mandatory. [o]">
          Log in
         </a>
        </li>
@@ -375,12 +375,12 @@
        <!-- Please do not use the .menu class, it is deprecated. -->
        <ul class="vector-menu-content-list">
         <li class="selected new" id="ca-nstab-main">
-         <a accesskey="c" href="/w/index.php?title=Jazz%26sa%3DU%26ved%3D2ahUKEwi9jbjZwK3qAhWAHDQIHbyTCxsQFjAQegQIDRAB%26usg%3DAOvVaw2LRBIOFxSQKNIDVeDDs40W&amp;action=edit&amp;redlink=1" title="View the content page (page does not exist) [c]">
+         <a accesskey="c" href="/w/index.php?title=Internet_of_things%26sa%3DU%26ved%3D2ahUKEwiGt6L70q_qAhXBbCsKHWmFBgQQFjATegQIOBAB%26usg%3DAOvVaw2wNM66-_oJzXySId0yfRhH&amp;action=edit&amp;redlink=1" title="View the content page (page does not exist) [c]">
           Article
          </a>
         </li>
         <li class="new" id="ca-talk">
-         <a accesskey="t" href="/w/index.php?title=Talk:Jazz%26sa%3DU%26ved%3D2ahUKEwi9jbjZwK3qAhWAHDQIHbyTCxsQFjAQegQIDRAB%26usg%3DAOvVaw2LRBIOFxSQKNIDVeDDs40W&amp;action=edit&amp;redlink=1" rel="discussion" title="Discuss improvements to the content page (page does not exist) [t]">
+         <a accesskey="t" href="/w/index.php?title=Talk:Internet_of_things%26sa%3DU%26ved%3D2ahUKEwiGt6L70q_qAhXBbCsKHWmFBgQQFjATegQIOBAB%26usg%3DAOvVaw2wNM66-_oJzXySId0yfRhH&amp;action=edit&amp;redlink=1" rel="discussion" title="Discuss improvements to the content page (page does not exist) [t]">
           Talk
          </a>
         </li>
@@ -556,7 +556,7 @@
       <!-- Please do not use the .menu class, it is deprecated. -->
       <ul class="vector-menu-content-list">
        <li id="t-whatlinkshere">
-        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Jazz%26sa%3DU%26ved%3D2ahUKEwi9jbjZwK3qAhWAHDQIHbyTCxsQFjAQegQIDRAB%26usg%3DAOvVaw2LRBIOFxSQKNIDVeDDs40W" title="List of all English Wikipedia pages containing links to this page [j]">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Internet_of_things%26sa%3DU%26ved%3D2ahUKEwiGt6L70q_qAhXBbCsKHWmFBgQQFjATegQIOBAB%26usg%3DAOvVaw2wNM66-_oJzXySId0yfRhH" title="List of all English Wikipedia pages containing links to this page [j]">
          What links here
         </a>
        </li>
@@ -571,12 +571,12 @@
         </a>
        </li>
        <li id="t-print">
-        <a accesskey="p" href="/w/index.php?title=Jazz%26sa%3DU%26ved%3D2ahUKEwi9jbjZwK3qAhWAHDQIHbyTCxsQFjAQegQIDRAB%26usg%3DAOvVaw2LRBIOFxSQKNIDVeDDs40W&amp;printable=yes" rel="alternate" title="Printable version of this page [p]">
+        <a accesskey="p" href="/w/index.php?title=Internet_of_things%26sa%3DU%26ved%3D2ahUKEwiGt6L70q_qAhXBbCsKHWmFBgQQFjATegQIOBAB%26usg%3DAOvVaw2wNM66-_oJzXySId0yfRhH&amp;printable=yes" rel="alternate" title="Printable version of this page [p]">
          Printable version
         </a>
        </li>
        <li id="t-info">
-        <a href="/w/index.php?title=Jazz%26sa%3DU%26ved%3D2ahUKEwi9jbjZwK3qAhWAHDQIHbyTCxsQFjAQegQIDRAB%26usg%3DAOvVaw2LRBIOFxSQKNIDVeDDs40W&amp;action=info" title="More information about this page">
+        <a href="/w/index.php?title=Internet_of_things%26sa%3DU%26ved%3D2ahUKEwiGt6L70q_qAhXBbCsKHWmFBgQQFjATegQIOBAB%26usg%3DAOvVaw2wNM66-_oJzXySId0yfRhH&amp;action=info" title="More information about this page">
          Page information
         </a>
        </li>
@@ -641,7 +641,7 @@
      </a>
     </li>
     <li id="footer-places-mobileview">
-     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Jazz%26sa%3DU%26ved%3D2ahUKEwi9jbjZwK3qAhWAHDQIHbyTCxsQFjAQegQIDRAB%26usg%3DAOvVaw2LRBIOFxSQKNIDVeDDs40W&amp;mobileaction=toggle_view_mobile">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Internet_of_things%26sa%3DU%26ved%3D2ahUKEwiGt6L70q_qAhXBbCsKHWmFBgQQFjATegQIOBAB%26usg%3DAOvVaw2wNM66-_oJzXySId0yfRhH&amp;mobileaction=toggle_view_mobile">
       Mobile view
      </a>
     </li>
@@ -662,7 +662,7 @@
    </div>
   </footer>
   <script>
-   (RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":251,"wgHostname":"mw1351"});});
+   (RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":264,"wgHostname":"mw1267"});});
   </script>
  </body>
 </html>

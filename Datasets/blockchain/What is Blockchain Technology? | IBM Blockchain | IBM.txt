@@ -1,0 +1,1139 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-us">
+ <head>
+  <meta charset="utf-8"/>
+  <script>
+   digitalData = {
+    "page": {
+        "category": [],
+        "pageInfo": {
+            "language": "en-US",
+            "country": "US",
+            "publisher": "IBM Corporation",
+            "version": "v18",
+            "ibm": {
+                "contentDelivery": "Drupal 8",
+                "contentProducer": "1001966 - Page Builder",
+                "owner": "Troy Burnett/Atlanta/IBM",
+                "siteID": "DRUPAL",
+                "contactModuleConfiguration": {
+                    "contactInformationBundleKey": {
+                        "focusArea": "Indus Platforms - Blockchain",
+                        "languageCode": "en",
+                        "regionCode": "US"
+                    },
+                    "contactModuleTranslationKey": {
+                        "languageCode": "en",
+                        "regionCode": "US"
+                    }
+                },
+                "config": {
+                    "masthead": {
+                        "type": "alternate"
+                    },
+                    "footer": {
+                        "type": "alternate"
+                    }
+                }
+            },
+            "publishDate": "2020-06-25",
+            "effectiveDate": "2018-08-24",
+            "expiryDate": "2024-06-25"
+        }
+    }
+}
+  </script>
+  <meta content="ZZ" name="geo.country"/>
+  <meta content="summary" name="twitter:card"/>
+  <link href="https://www.ibm.com/blockchain" rel="canonical"/>
+  <meta content="index, follow" name="robots"/>
+  <meta content="IBM Blockchain technology empowers businesses to digitize your transaction workflow through a highly secured, shared and distributed ledger that improves efficiency and transparency." name="description"/>
+  <meta content="website" property="og:type"/>
+  <meta content="https://www.ibm.com/blockchain" property="og:url"/>
+  <meta content="IBM Blockchain - Enterprise Blockchain Solutions &amp; Services" property="og:title"/>
+  <meta content="© Copyright IBM Corporation 2020" name="rights"/>
+  <meta content="no-referrer-when-downgrade" name="referrer"/>
+  <meta content="IBM Blockchain technology empowers businesses to digitize your transaction workflow through a highly secured, shared and distributed ledger that improves efficiency and transparency." property="og:description"/>
+  <meta content="https://1.cms.s81c.com/sites/default/files/2020-05-22/leadspace-hp.jpg" property="og:image"/>
+  <script>
+   cpp = {"path":"\/cloud\/ajax\/product\/{product}"}
+  </script>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <link href="https://www.ibm.com/blockchain" hreflang="en-us" rel="alternate"/>
+  <link href="https://www.ibm.com/ar-es/blockchain" hreflang="es-ar" rel="alternate"/>
+  <link href="https://www.ibm.com/au-en/blockchain" hreflang="en-au" rel="alternate"/>
+  <link href="https://www.ibm.com/br-pt/blockchain" hreflang="pt-br" rel="alternate"/>
+  <link href="https://www.ibm.com/cl-es/blockchain" hreflang="es-cl" rel="alternate"/>
+  <link href="https://www.ibm.com/cn-zh/blockchain" hreflang="zh-cn" rel="alternate"/>
+  <link href="https://www.ibm.com/co-es/blockchain" hreflang="es-co" rel="alternate"/>
+  <link href="https://www.ibm.com/cz-en/blockchain" hreflang="en-cz" rel="alternate"/>
+  <link href="https://www.ibm.com/dk-en/blockchain" hreflang="en-dk" rel="alternate"/>
+  <link href="https://www.ibm.com/eg-en/blockchain" hreflang="en-eg" rel="alternate"/>
+  <link href="https://www.ibm.com/fr-fr/blockchain" hreflang="fr-fr" rel="alternate"/>
+  <link href="https://www.ibm.com/de-de/blockchain" hreflang="de-de" rel="alternate"/>
+  <link href="https://www.ibm.com/hk-en/blockchain" hreflang="en-hk" rel="alternate"/>
+  <link href="https://www.ibm.com/in-en/blockchain" hreflang="en-in" rel="alternate"/>
+  <link href="https://www.ibm.com/it-it/blockchain" hreflang="it-it" rel="alternate"/>
+  <link href="https://www.ibm.com/jp-ja/blockchain" hreflang="ja-jp" rel="alternate"/>
+  <link href="https://www.ibm.com/kr-ko/blockchain" hreflang="ko-kr" rel="alternate"/>
+  <link href="https://www.ibm.com/my-en/blockchain" hreflang="en-my" rel="alternate"/>
+  <link href="https://www.ibm.com/mx-es/blockchain" hreflang="es-mx" rel="alternate"/>
+  <link href="https://www.ibm.com/nl-en/blockchain" hreflang="en-nl" rel="alternate"/>
+  <link href="https://www.ibm.com/pe-es/blockchain" hreflang="es-pe" rel="alternate"/>
+  <link href="https://www.ibm.com/pl-pl/blockchain" hreflang="pl-pl" rel="alternate"/>
+  <link href="https://www.ibm.com/ru-ru/blockchain" hreflang="ru-ru" rel="alternate"/>
+  <link href="https://www.ibm.com/sa-ar/blockchain" hreflang="ar-sa" rel="alternate"/>
+  <link href="https://www.ibm.com/sa-en/blockchain" hreflang="en-sa" rel="alternate"/>
+  <link href="https://www.ibm.com/sg-en/blockchain" hreflang="en-sg" rel="alternate"/>
+  <link href="https://www.ibm.com/za-en/blockchain" hreflang="en-za" rel="alternate"/>
+  <link href="https://www.ibm.com/es-es/blockchain" hreflang="es-es" rel="alternate"/>
+  <link href="https://www.ibm.com/se-en/blockchain" hreflang="en-se" rel="alternate"/>
+  <link href="https://www.ibm.com/tw-zh/blockchain" hreflang="zh-tw" rel="alternate"/>
+  <link href="https://www.ibm.com/tr-tr/blockchain" hreflang="tr-tr" rel="alternate"/>
+  <link href="https://www.ibm.com/ae-ar/blockchain" hreflang="ar-ae" rel="alternate"/>
+  <link href="https://www.ibm.com/ae-en/blockchain" hreflang="en-ae" rel="alternate"/>
+  <link href="https://www.ibm.com/uk-en/blockchain" hreflang="en-gb" rel="alternate"/>
+  <link href="//www.ibm.com/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon"/>
+  <link href="https://www.ibm.com/blockchain" rel="revision"/>
+  <title>
+   IBM Blockchain - Enterprise Blockchain Solutions &amp; Services  | IBM
+  </title>
+  <link href="//1.www.s81c.com" rel="dns-prefetch"/>
+  <link href="//1.www.s81c.com" rel="preconnect"/>
+  <link as="style" href="//1.www.s81c.com/common/v18/css/www.css" rel="preload"/>
+  <link href="//1.www.s81c.com/common/v18/css/www.css" media="all" rel="stylesheet"/>
+  <link as="style" href="//1.www.s81c.com/common/v18/css/grid-fluid.css" rel="preload"/>
+  <link href="//1.www.s81c.com/common/v18/css/grid-fluid.css" media="all" rel="stylesheet"/>
+  <link as="style" href="//1.www.s81c.com/common/v18/css/tables.css" rel="preload"/>
+  <link href="//1.www.s81c.com/common/v18/css/tables.css" media="all" rel="stylesheet"/>
+  <link as="font" crossorigin="" href="//1.www.s81c.com/common/fonts/plex/v1/ibmplexsans-regular.woff2" rel="preload" type="font/woff2"/>
+  <link as="font" crossorigin="" href="//1.www.s81c.com/common/fonts/plex/v1/ibmplexsans-regularitalic.woff2" rel="preload" type="font/woff2"/>
+  <link as="font" crossorigin="" href="//1.www.s81c.com/common/fonts/plex/v1/ibmplexsans-semibold.woff2" rel="preload" type="font/woff2"/>
+  <link as="font" crossorigin="" href="//1.www.s81c.com/common/fonts/icons-ibm-v12.woff" rel="preload" type="font/woff"/>
+  <link as="font" crossorigin="" href="//1.www.s81c.com/common/fonts/plex/v1/ibmplexsans-light.woff2" rel="preload" type="font/woff2"/>
+  <link href="//1.cms.s81c.com/sites/default/files/css/css_NZ_uqzZV8czMGZYpH5xTVir8jltaHIMREX228NwGKnQ.css" media="all" rel="stylesheet">
+   <link href="//1.cms.s81c.com/sites/default/files/css/css_j16Cx22UVc-j9W2qUaDSU9KSyQUbzanlQCtKqJojh5k.css" media="all" rel="stylesheet">
+    <!--[if IE]>
+<link rel="stylesheet" media="all" href="//1.cms.s81c.com/sites/default/files/css/css_AWMk8LGZ9JkklLLJZZkQ1UNFMDhI6-aU-agLN0IayII.css" />
+<![endif]-->
+    <script src="//1.www.s81c.com/common/stats/ida_stats.js">
+    </script>
+    <script defer="" src="//1.www.s81c.com/common/v18/js/www.js">
+    </script>
+   </link>
+  </link>
+ </head>
+ <body class="path-node page-node-type-page-wrapper ibm-type" id="ibm-com" uuid="46667323-48b4-4f18-9af3-ec6053ea6835">
+  <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas="">
+   <div class="ibm-landing-page" id="ibm-top">
+    <div class="region region-masthead">
+     <div aria-label="IBM" class="simple ibm-mhtype-alternate" data-mhtype="alternate" id="ibm-masthead" role="banner">
+      <div id="ibm-universal-nav">
+       <nav aria-label="IBM" role="navigation">
+        <div id="ibm-home">
+         <a href="https://www.ibm.com/us/en">
+          IBM®
+         </a>
+        </div>
+        <!-- Menu -->
+        <ul aria-label="Site map" id="ibm-menu-links" role="toolbar">
+         <li>
+          <a href="https://www.ibm.com/sitemap/us/en">
+           Site map
+          </a>
+         </li>
+        </ul>
+       </nav>
+       <div aria-labelledby="ibm-masthead" id="ibm-search-module" role="search">
+        <form action="https://www.ibm.com/Search/" id="ibm-search-form" method="get">
+         <p>
+          <label for="q">
+           IBM
+          </label>
+          <input aria-label="Search" id="q" maxlength="100" name="q" placeholder="Search" type="text" value=""/>
+          <input name="v" type="hidden" value="18"/>
+          <input name="en" type="hidden" value="utf"/>
+          <input name="lang" type="hidden" value="en"/>
+          <input name="cc" type="hidden" value="us"/>
+          <input class="ibm-btn-search" id="ibm-search" type="submit" value="Submit"/>
+         </p>
+        </form>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div id="ibm-content-wrapper">
+     <header aria-labelledby="ibm-pagetitle-h1" role="banner">
+      <!-- Menu -->
+      <nav aria-label="Site Navigation" class="ibm-sitenav-menu-container" id="block-subnavigation" role="navigation">
+       <div class="ibm-sitenav-menu-name">
+        <a href="/blockchain" hreflang="en-us">
+         IBM Blockchain
+        </a>
+       </div>
+       <div class="ibm-sitenav-menu-list">
+        <ul role="menubar">
+         <li class="ibm-haschildlist" role="presentation">
+          <button role="menuitem" tabindex="0">
+           Learn
+          </button>
+          <ul role="menu">
+           <li role="presentation">
+            <a href="/blockchain/what-is-blockchain" role="menuitem">
+             What is blockchain?
+            </a>
+           </li>
+           <li role="presentation">
+            <a href="/blockchain/for-business" role="menuitem">
+             Blockchain for business
+            </a>
+           </li>
+           <li role="presentation">
+            <a href="/blockchain/for-good" role="menuitem">
+             Blockchain for social good
+            </a>
+           </li>
+           <li role="presentation">
+            <a href="https://www.ibm.com/blockchain/use-cases/" role="menuitem">
+             Top use cases today
+            </a>
+           </li>
+           <li role="presentation">
+            <a href="https://www.ibm.com/blockchain/resources" role="menuitem">
+             Blockchain resources
+            </a>
+           </li>
+           <li role="presentation">
+            <a href="/blockchain/hyperledger" role="menuitem">
+             Why Hyperledger?
+            </a>
+           </li>
+           <li role="presentation">
+            <a href="https://developer.ibm.com/technologies/blockchain/" role="menuitem" target="_blank">
+             Developer center
+            </a>
+           </li>
+           <li role="presentation">
+            <a href="https://www.ibm.com/blogs/blockchain/" role="menuitem" target="_blank">
+             Blog
+            </a>
+           </li>
+           <li role="presentation">
+            <a href="https://www.ibm.com/blogs/blockchain/category/podcast/" role="menuitem">
+             Podcasts
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li role="presentation">
+          <a href="/blockchain/platform" role="menuitem">
+           Platform
+          </a>
+         </li>
+         <li role="presentation">
+          <a href="/blockchain/services" role="menuitem">
+           Services
+          </a>
+         </li>
+         <li class="ibm-haschildlist" role="presentation">
+          <button role="menuitem" tabindex="0">
+           Solutions
+          </button>
+          <ul role="menu">
+           <li role="presentation">
+            <a href="/blockchain/solutions" role="menuitem">
+             All offerings
+            </a>
+           </li>
+           <li role="presentation">
+            <a href="/blockchain/solutions/food-trust" role="menuitem">
+             Food Trust
+            </a>
+           </li>
+           <li role="presentation">
+            <a href="/blockchain/solutions/identity" role="menuitem">
+             Identity
+            </a>
+           </li>
+           <li role="presentation">
+            <a href="/blockchain/solutions/rapid-supplier-connect" role="menuitem">
+             Rapid Supplier Connect
+            </a>
+           </li>
+           <li role="presentation">
+            <a href="/blockchain/solutions/trade-finance" role="menuitem">
+             Trade Finance
+            </a>
+           </li>
+           <li role="presentation">
+            <a href="/blockchain/solutions/transparent-supply" role="menuitem">
+             Transparent Supply
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li role="presentation">
+          <a href="/blockchain/getting-started" role="menuitem">
+           Get started
+          </a>
+         </li>
+         <li class="ibm-haschildlist" role="presentation">
+          <button role="menuitem" tabindex="0">
+           Industries
+          </button>
+          <ul role="menu">
+           <li role="presentation">
+            <a href="/blockchain/industries" role="menuitem">
+             All industries
+            </a>
+           </li>
+           <li role="presentation">
+            <a href="/blockchain/industries/financial-services" role="menuitem">
+             Financial services
+            </a>
+           </li>
+           <li role="presentation">
+            <a href="/blockchain/industries/government" role="menuitem">
+             Government
+            </a>
+           </li>
+           <li role="presentation">
+            <a href="/blockchain/industries/insurance" role="menuitem">
+             Insurance
+            </a>
+           </li>
+           <li role="presentation">
+            <a href="/blockchain/industries/advertising-media" role="menuitem">
+             Media and entertainment
+            </a>
+           </li>
+           <li role="presentation">
+            <a href="/blockchain/industries/retail" role="menuitem">
+             Retail
+            </a>
+           </li>
+           <li role="presentation">
+            <a href="/blockchain/industries/supply-chain" role="menuitem">
+             Supply chain
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li role="presentation">
+          <a href="/blockchain/ecosystem" role="menuitem">
+           Ecosystem
+          </a>
+         </li>
+         <li role="presentation">
+          <a href="/blockchain/news-and-events" role="menuitem">
+           News and events
+          </a>
+         </li>
+        </ul>
+       </div>
+      </nav>
+     </header>
+     <div class="region region-help">
+      <div class="hidden" data-drupal-messages-fallback="">
+      </div>
+     </div>
+     <div class="region region-content">
+      <div id="block-northstar-content">
+       <div class="ibm-background-systems-blue-80 ibm-leadspace-fluid ibm-hidden-bg-small ibm-no-border" id="ibm-leadspace-head" style="background-image: url(//1.cms.s81c.com/sites/default/files/2020-05-22/leadspace-hp.jpg); background-repeat:no-repeat; background-size: cover; background-position: Center Center;">
+        <div class="ibm-padding-top-2 ibm-padding-bottom-2" id="ibm-leadspace-body">
+         <div class="ibm-fluid ibm-hidden-medium ibm-hidden-large ibm-hidden-xlarge">
+          <div class="ibm-col-small-12-12">
+           <p>
+            <img alt="" class="ibm-resize" src="//1.cms.s81c.com/sites/default/files/2020-05-22/leadspace-hp.jpg"/>
+           </p>
+          </div>
+         </div>
+         <div class="ibm-fluid ibm-padding-bottom-0">
+          <div class="ibm-col-medium-12-6 ibm-col-12-6 ibm-col-small-12-12">
+           <h1 class="ibm-h1 ibm-textcolor-white-core ibm-padding-bottom-0 ibm-padding-top-1" id="ibm-pagetitle-h1">
+            <span>
+             IBM Blockchain is changing business, industries – and even the world
+            </span>
+           </h1>
+           <p class="ibm-h4 ibm-light ibm-textcolor-white-core ibm-padding-top-1 ibm-padding-bottom-1">
+            <span>
+             IBM Blockchain is more than technology. It’s a movement to help you redefine your most important business relationships through trust, transparency and newfound collaboration.
+            </span>
+           </p>
+           <div class="ibm-padding-top-1 ibm-padding-bottom-1">
+            <p class="ibm-button-link ibm-btn-row ibm-ind-link">
+             <a class="ibm-btn-pri ibm-btn-no-icon-link ibm-btn-systems-blue-6" href="/blockchain/getting-started">
+              <span>
+               Get started now
+              </span>
+             </a>
+             <a class="ibm-btn-sec ibm-btn-no-icon-link ibm-btn-white" href="/blockchain/what-is-blockchain">
+              <span>
+               Need blockchain basics first?
+              </span>
+             </a>
+            </p>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <main aria-labelledby="ibm-pagetitle-h1" role="main">
+        <div id="ibm-pcon">
+         <div id="ibm-content">
+          <div class="ibm-padding-top-0" id="ibm-content-body">
+           <div id="ibm-content-main">
+            <div class="node__content">
+             <div class="ibm-band ibm-background-systems-blue-60 ibm-textcolor-default ibm-padding-top-2 ibm-padding-bottom-0" id="2537929">
+              <div class="ibm-fluid">
+               <div class="ibm-padding-top-0 ibm-padding-bottom-1 ibm-col-12-6">
+                <p class="ibm-h3 ibm-textcolor-white-core">
+                 New: Atea’s Seafood Provenance Network supports improved transparency, sustainability, and food integrity.
+                </p>
+               </div>
+               <div class="ibm-padding-top-0 ibm-padding-bottom-1 ibm-col-12-6">
+                <div class="ibm-button-link">
+                 <p class="ibm-btn-row ibm-ind-link">
+                  <a class="ibm-btn-pri ibm-btn-no-icon-link ibm-btn-white" href="https://newsroom.ibm.com/2020-06-25-Sustainable-Seafood-Gets-a-Boost-from-IBM-Blockchain-Technology-for-Insight-into-the-Journey-from-Sea-to-Table" target="_blank">
+                   <span>
+                    Learn more
+                   </span>
+                  </a>
+                 </p>
+                </div>
+               </div>
+              </div>
+             </div>
+             <div class="ibm-band ibm-background-white-core ibm-textcolor-default ibm-padding-top-2 ibm-padding-bottom-0" id="1001996">
+              <div class="ibm-fluid">
+               <div class="ibm-col-12-6">
+                <h2 class="ibm-h2 ibm-h3-small ibm-padding-top-0 ibm-padding-bottom-1 ibm-textcolor-default" live-edit-field-label="Headline">
+                 Convening business networks where everyone can win
+                </h2>
+                <div class="ibm-textcolor-default ibm-padding-top-0 ibm-padding-bottom-1" live-edit-field-label="Body">
+                 <p>
+                  Right now, visionary companies are coming together to transform the way their industries work with the help of IBM Blockchain. From a food supply that’s becoming safer, smarter and more profitable to supply chains freeing themselves from legacy processes and paperwork, IBM is leading the business world into a new era of collaboration and innovation.
+                 </p>
+                </div>
+                <div class="ibm-button-link ibm-btn-row ibm-ind-link ibm-padding-top-0 ibm-padding-bottom-1">
+                 <p class="ibm-btn-row ibm-ind-link">
+                  <a class="ibm-forward-link ibm-textcolor-systems-blue-6 ibm-padding-bottom-0" href="https://www.ibm.com/blockchain/use-cases/success-stories">
+                   <span>
+                    10 blockchain networks already changing business
+                   </span>
+                  </a>
+                  <a class="ibm-forward-link ibm-textcolor-systems-blue-6 ibm-padding-bottom-0" href="#2296204">
+                   <span>
+                    What’s your potential blockchain ROI?
+                   </span>
+                  </a>
+                 </p>
+                </div>
+               </div>
+               <div class="ibm-col-12-6">
+                <div class="ibm-padding-top-0 ibm-padding-bottom-1" data-customplaceholder="true" data-imagesize="large" data-kaltura-fallbackid="1_8oazhg1j" data-overlayplayersize="medium" data-placeholderalttext="Eight people standing up around a table looking carefully at several papers on the table" data-titledisplaytype="overlay" data-videodisplay="overlayandtrigger" data-videoid="xZrFVw3OSps" data-videotitleoverride="IBM Blockchain: transforming businesses, industries – and even the world" data-videotype="youtube" data-widget="videoplayer">
+                 <a href="https://www.youtube.com/watch?v=xZrFVw3OSps">
+                  <img alt="Eight people standing up around a table looking carefully at several papers on the table" class="ibm-resize" src="//1.cms.s81c.com/sites/default/files/2019-02-12/band%203_Video_thumbnail.jpg"/>
+                 </a>
+                </div>
+               </div>
+              </div>
+             </div>
+             <div class="ibm-band ibm-background-cool-white-30 ibm-textcolor-default ibm-padding-top-2 ibm-padding-bottom-1" id="2294574">
+              <div class="ibm-fluid">
+               <div class="ibm-col-12-6">
+                <a href="/blockchain/platform">
+                 <img alt="Computer screen with the IBM Blockchain Platform free 2.0 beta interface" class="ibm-resize ibm-padding-top-0 ibm-padding-bottom-1" src="//1.cms.s81c.com/sites/default/files/2020-01-16/band3.jpg" width="1000"/>
+                </a>
+               </div>
+               <div class="ibm-col-12-6">
+                <h2 class="ibm-h2 ibm-h3-small ibm-padding-top-0 ibm-padding-bottom-1 ibm-textcolor-default" live-edit-field-label="Headline">
+                 A platform built for today’s multicloud world
+                </h2>
+                <div class="ibm-textcolor-default ibm-padding-top-0 ibm-padding-bottom-1" live-edit-field-label="Body">
+                 <p>
+                  Getting traditional collaborators and longtime competitors to agree on the bold steps needed for blockchain transformation isn’t easy. So the last thing that should slow the process is technology that stands in the way.
+                 </p>
+                 <p>
+                  That’s why technical innovators turn to the IBM Blockchain Platform, the leading
+                  <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="6e883488-d967-4383-8cff-6ac7454f3f2c" href="/blockchain/hyperledger">
+                   Hyperledger Fabric
+                  </a>
+                  platform to build, operate, govern and grow blockchain solutions across any computing environment through
+                  <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="3bbe2e26-f2b4-4c60-99bf-689f19ef3e0a" href="/cloud/openshift">
+                   Red Hat® OpenShift®
+                  </a>
+                  .
+                 </p>
+                </div>
+                <div class="ibm-ind-link ibm-padding-top-0 ibm-padding-bottom-1">
+                 <p class="ibm-btn-row ibm-ind-link">
+                  <a class="ibm-forward-link ibm-textcolor-systems-blue-6 ibm-padding-bottom-0" href="/blockchain/platform">
+                   <span>
+                    Learn about the IBM Blockchain Platform
+                   </span>
+                  </a>
+                 </p>
+                </div>
+               </div>
+              </div>
+             </div>
+             <div class="ibm-band ibm-background-white-core ibm-textcolor-default ibm-padding-top-2 ibm-padding-bottom-1" id="2294580">
+              <div class="ibm-fluid">
+               <div class="ibm-col-12-6">
+                <h2 class="ibm-h2 ibm-h3-small ibm-padding-top-0 ibm-padding-bottom-1 ibm-textcolor-default" live-edit-field-label="Headline">
+                 Blockchain expertise for smarter enterprises
+                </h2>
+                <div class="ibm-textcolor-default ibm-padding-top-0 ibm-padding-bottom-1" live-edit-field-label="Body">
+                 <p>
+                  Today’s early movers know that blockchain works thanks to help from more than 1,600 IBM business and technical experts working on more than 500 IBM Blockchain projects so far.
+                 </p>
+                 <p>
+                  To put blockchain at the center of your digital transformation, turn to IBM Blockchain Services to explore, envision, establish and evolve your solution. Or work with the IBM Blockchain Ecosystem to discover new business opportunities with other innovators through the IBM Blockchain Partner Program.
+                 </p>
+                 <p>
+                 </p>
+                </div>
+                <div class="ibm-button-link ibm-btn-row ibm-ind-link ibm-padding-top-0 ibm-padding-bottom-1">
+                 <p class="ibm-btn-row ibm-ind-link">
+                  <a class="ibm-forward-link ibm-textcolor-systems-blue-6 ibm-padding-bottom-0" href="/blockchain/services">
+                   <span>
+                    Co-create with IBM Blockchain Services
+                   </span>
+                  </a>
+                  <a class="ibm-forward-link ibm-textcolor-systems-blue-6 ibm-padding-bottom-0" href="https://www.ibm.com/account/reg/signup?formid=urx-45025" target="_blank">
+                   <span>
+                    IBM is a Leader in IDC’s MarketScape Blockchain Services 2020 study
+                   </span>
+                  </a>
+                 </p>
+                </div>
+               </div>
+               <div class="ibm-col-12-6">
+                <a href="/blockchain/services">
+                 <img alt="Seven people on a meeting around a table while a man is speaking and doing hand gestures" class="ibm-resize ibm-padding-top-0 ibm-padding-bottom-1" src="//1.cms.s81c.com/sites/default/files/2020-01-16/band4.jpg" width="1000"/>
+                </a>
+               </div>
+              </div>
+             </div>
+             <div class="ibm-band ibm-background-cool-white-30 ibm-textcolor-default ibm-padding-top-2 ibm-padding-bottom-1" id="2294594">
+              <div class="ibm-fluid">
+               <div class="ibm-col-12-6">
+                <a href="/blockchain/getting-started">
+                 <img alt="Woman using a laptop, a man looking a code at a large screen and two people on the back" class="ibm-resize ibm-padding-top-0 ibm-padding-bottom-1" src="//1.cms.s81c.com/sites/default/files/2020-01-16/band5.jpg" width="1000"/>
+                </a>
+               </div>
+               <div class="ibm-col-12-6">
+                <h2 class="ibm-h2 ibm-h3-small ibm-padding-top-0 ibm-padding-bottom-1 ibm-textcolor-default" live-edit-field-label="Headline">
+                 Get started with IBM Blockchain
+                </h2>
+                <div class="ibm-textcolor-default ibm-padding-top-0 ibm-padding-bottom-1" live-edit-field-label="Body">
+                 <p>
+                  Join an existing network. Build your own blockchain solution. Co-create one with our experts. Partner with others for new opportunities. Wherever you are in your blockchain journey, IBM Blockchain will meet you there – and help take you where you want to go.
+                 </p>
+                </div>
+                <div class="ibm-button-link ibm-btn-row ibm-ind-link ibm-padding-top-0 ibm-padding-bottom-1">
+                 <p class="ibm-btn-row ibm-ind-link">
+                  <a class="ibm-btn-pri ibm-btn-no-icon-link ibm-btn-systems-blue-6" href="/blockchain/getting-started">
+                   <span>
+                    Get started now
+                   </span>
+                  </a>
+                  <a class="ibm-btn-sec ibm-btn-no-icon-link" href="/blockchain/what-is-blockchain">
+                   <span>
+                    Need blockchain basics first?
+                   </span>
+                  </a>
+                 </p>
+                </div>
+               </div>
+              </div>
+             </div>
+             <div class="ibm-band ibm-background-black-core ibm-textcolor-default ibm-padding-top-1 ibm-padding-bottom-0" id="2327645">
+              <div class="ibm-fluid">
+               <div class="">
+                <h2 class="ibm-h2 ibm-padding-top-0 ibm-padding-bottom-0 ibm-textcolor-white-core ibm-padding-top-2 ibm-padding-bottom_1">
+                 <span>
+                  What’s big at IBM Blockchain today?
+                 </span>
+                </h2>
+               </div>
+               <div class="">
+                <div class="ibm-fluid ibm-flex ibm-flex--wrap ibm-padding-top-0 ibm-padding-bottom-0">
+                </div>
+               </div>
+              </div>
+             </div>
+             <div class="ibm-band ibm-background-black-core ibm-textcolor-white-core ibm-padding-top-2 ibm-padding-bottom-1" id="1370396">
+              <div class="ibm-fluid ibm-seamless">
+               <div class="ibm-col-12-12">
+                <div class="ibm-fluid ibm-flex ibm-flex--wrap ibm-padding-top-0 ibm-padding-bottom-0">
+                 <div class="ibm-col-12-3 ibm-col-medium-12-6 ibm-flex">
+                  <div class="ibm-card ibm-background-black-core ibm-no-border ibm-margin-bottom-0 ibm-left ibm-flex ibm-flex--column ibm-fullwidth" style="justify-content: ">
+                   <div class="ibm-left">
+                    <img alt="we.trade logo" class="ibm-resize" height="954" src="//1.cms.s81c.com/sites/default/files/2020-05-21/band7-card2%20%281%29.jpg" width="1544">
+                    </img>
+                   </div>
+                   <div class="ibm-card__content" style="margin-bottom: auto;">
+                   </div>
+                  </div>
+                 </div>
+                 <div class="ibm-col-12-3 ibm-col-medium-12-6 ibm-flex">
+                  <div class="ibm-card ibm-background-black-core ibm-no-border ibm-margin-bottom-0 ibm-left ibm-flex ibm-flex--column ibm-fullwidth" style="justify-content: ">
+                   <div class="ibm-card__content" style="margin-bottom: auto;">
+                    <h4 class="ibm-h4 ibm-bold ibm-textcolor-white-core" live-edit-field-label="Headline">
+                     we.trade strengthens collaboration with IBM
+                    </h4>
+                    <div class="ibm-textcolor-white-core" live-edit-field-label="Body">
+                     <p>
+                      To make international trade faster and more efficient, we.trade — a blockchain-based platform — will work with IBM to help speed its global commercialization.
+                     </p>
+                    </div>
+                    <div class="ibm-padding-top-0 ibm-padding-bottom-0">
+                     <p class="ibm-ind-link">
+                      <a class="ibm-arrow-forward-bold-link ibm-textcolor-white-core ibm-padding-bottom-0" href="https://newsroom.ibm.com/2020-05-21-we-trade-Digital-Trade-Finance-Network-strengthens-collaboration-with-IBM" target="_blank">
+                       <span>
+                        Learn more from the IBM News Room
+                       </span>
+                      </a>
+                     </p>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                 <div class="ibm-col-12-3 ibm-col-medium-12-6 ibm-flex">
+                  <div class="ibm-card ibm-background-black-core ibm-no-border ibm-margin-bottom-0 ibm-left ibm-flex ibm-flex--column ibm-fullwidth" style="justify-content: ">
+                   <div class="ibm-left">
+                    <img alt="a man cutting a wood with a wood saw" class="ibm-resize" height="477" src="//1.cms.s81c.com/sites/default/files/2020-02-17/band7-card1.jpg" width="772">
+                    </img>
+                   </div>
+                   <div class="ibm-card__content" style="margin-bottom: auto;">
+                   </div>
+                  </div>
+                 </div>
+                 <div class="ibm-col-12-3 ibm-col-medium-12-6 ibm-flex">
+                  <div class="ibm-card ibm-background-black-core ibm-no-border ibm-margin-bottom-0 ibm-left ibm-flex ibm-flex--column ibm-fullwidth" style="justify-content: ">
+                   <div class="ibm-card__content" style="margin-bottom: auto;">
+                    <h4 class="ibm-h4 ibm-bold ibm-textcolor-white-core" live-edit-field-label="Headline">
+                     Using blockchain in natural disaster relief
+                    </h4>
+                    <div class="ibm-textcolor-white-core" live-edit-field-label="Body">
+                     <p>
+                      Two years after landfall, Hurricane Harvey continues to ravage Texas coast residents under a tide of disaster relief paperwork. Watch how blockchain can transform their suffering in
+                      <strong>
+                       Bonds of Trust
+                      </strong>
+                      .
+                     </p>
+                    </div>
+                    <div class="ibm-padding-top-0 ibm-padding-bottom-0">
+                     <p class="ibm-ind-link">
+                      <a class="ibm-forward-link ibm-textcolor-white-core ibm-padding-bottom-0" href="https://www.ibm.com/blockchain/resources/disaster-recovery">
+                       <span>
+                        Learn more about the film
+                       </span>
+                      </a>
+                     </p>
+                     <p class="ibm-ind-link">
+                      <a class="ibm-forward-link ibm-textcolor-white-core ibm-padding-bottom-0" href="/blockchain/for-good">
+                       <span>
+                        Blockchain for social good
+                       </span>
+                      </a>
+                     </p>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+             <div class="ibm-band-background-image ibm-band ibm-background-green-80 ibm-textcolor-default ibm-padding-top-2 ibm-padding-bottom-2" id="1169671" style="background-image:url(//1.cms.s81c.com/sites/default/files/2020-02-19/bg-band8-top.jpg); background-repeat:no-repeat; background-size: cover; background-position: center bottom;">
+              <div class="ibm-fluid">
+               <div class="ibm-col-12-3 ibm-col-medium-12-12">
+                <h2 class="ibm-h2 ibm-padding-top-0 ibm-padding-bottom-1 ibm-textcolor-white-core ibm-padding-top-2 ibm-padding-bottom_1">
+                 <span>
+                  How active IBM Blockchain networks are changing the way the world works
+                 </span>
+                </h2>
+               </div>
+               <div class="ibm-col-12-9 ibm-col-medium-12-12">
+                <div class="ibm-fluid ibm-flex ibm-flex--wrap ibm-padding-top-0 ibm-padding-bottom-1">
+                 <div class="ibm-col-12-4 ibm-col-medium-12-6 ibm-flex">
+                  <div class="ibm-card ibm-no-border ibm-left ibm-flex ibm-flex--column ibm-fullwidth" style="justify-content: flex-end;">
+                   <div class="ibm-left ibm-margin-bottom-0 ibm-margin-top-0">
+                    <a class="ibm-margin-bottom-0" data-customplaceholder="true" data-kaltura-fallbackid="1_xqh2s72i" data-overlayplayersize="large" data-showimageplaybutton="true" data-showvideoduration="false" data-showvideotitle="false" data-titledisplaytype="below" data-videodisplay="overlay" data-videoid="_EY0Ld8Hp8Y" data-videotype="youtube" data-widget="videoplayer" href="https://www.youtube.com/watch?v=_EY0Ld8Hp8Y">
+                     <img alt="Harvester on plantation field" class="ibm-resize" height="247" src="//1.cms.s81c.com/sites/default/files/2020-01-16/band8card1.jpg" width="600">
+                     </img>
+                    </a>
+                   </div>
+                   <div class="ibm-card__content" style="margin-bottom: auto;">
+                    <h4 class="ibm-h4 ibm-bold" live-edit-field-label="Headline">
+                     Creating a smarter food supply
+                    </h4>
+                    <div class="" live-edit-field-label="Body">
+                     <p>
+                      Visionary growers, processors, wholesalers, distributors, retailers and others are enhancing visibility and accountability throughout the food supply with
+                      <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="15f2a3a5-9e98-4998-a128-c52e4738d4cd" href="/blockchain/solutions/food-trust">
+                       IBM Food Trust™
+                      </a>
+                      .
+                     </p>
+                    </div>
+                   </div>
+                   <div class="ibm-card__bottom">
+                    <div class="ibm-padding-top-0 ibm-padding-bottom-1">
+                     <p class="ibm-ind-link">
+                      <a class="ibm-textcolor-systems-blue-7 ibm-nospacing" data-kaltura-fallbackid="1_xqh2s72i" data-overlayplayersize="large" data-showvideoduration="true" data-videodisplay="overlay" data-videodurationcolor="none" data-videoid="_EY0Ld8Hp8Y" data-videotype="youtube" data-widget="videoplayer" href="https://www.youtube.com/watch?v=_EY0Ld8Hp8Y">
+                       <span>
+                        Watch them work together through IBM Food Trust
+                       </span>
+                      </a>
+                     </p>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                 <div class="ibm-col-12-4 ibm-col-medium-12-6 ibm-flex">
+                  <div class="ibm-card ibm-background-white-core ibm-no-border ibm-left ibm-flex ibm-flex--column ibm-fullwidth" style="justify-content: flex-end;">
+                   <div class="ibm-left ibm-margin-bottom-0 ibm-margin-top-0">
+                    <a class="ibm-margin-bottom-0" data-customplaceholder="true" data-kaltura-fallbackid="0_74ypx4z4" data-overlayplayersize="large" data-showimageplaybutton="true" data-showvideoduration="false" data-showvideotitle="false" data-titledisplaytype="below" data-videodisplay="overlay" data-videoid="Bv-_8AKk1NQ" data-videotype="youtube" data-widget="videoplayer" href="https://www.youtube.com/watch?v=Bv-_8AKk1NQ">
+                     <img alt="Transportation company with their containers" class="ibm-resize" height="247" src="//1.cms.s81c.com/sites/default/files/2020-01-16/band8card2.jpg" width="600">
+                     </img>
+                    </a>
+                   </div>
+                   <div class="ibm-card__content" style="margin-bottom: auto;">
+                    <h4 class="ibm-h4 ibm-bold ibm-textcolor-default" live-edit-field-label="Headline">
+                     Greater trade finance opportunities for all
+                    </h4>
+                    <div class="ibm-textcolor-default" live-edit-field-label="Body">
+                     <p>
+                      we.trade brings together fierce banking rivals to offer new
+                      <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="c2d62e3a-b9c8-4608-aa3f-ca25c6e42c45" href="/blockchain/solutions/trade-finance">
+                       trade finance
+                      </a>
+                      opportunities to small and medium-sized businesses – and new efficiency in running their own operations.
+                     </p>
+                    </div>
+                   </div>
+                   <div class="ibm-card__bottom">
+                    <div class="ibm-padding-top-0 ibm-padding-bottom-1">
+                     <p class="ibm-ind-link">
+                      <a class="ibm-textcolor-systems-blue-7 ibm-nospacing" data-kaltura-fallbackid="0_74ypx4z4" data-overlayplayersize="large" data-showvideoduration="true" data-videodisplay="overlay" data-videodurationcolor="none" data-videoid="Bv-_8AKk1NQ" data-videotype="youtube" data-widget="videoplayer" href="https://www.youtube.com/watch?v=Bv-_8AKk1NQ">
+                       <span>
+                        Watch: IBM Blockchain transforming trade finance – and trade
+                       </span>
+                      </a>
+                     </p>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                 <div class="ibm-col-12-4 ibm-col-medium-12-6 ibm-flex">
+                  <div class="ibm-card ibm-background-white-core ibm-no-border ibm-left ibm-flex ibm-flex--column ibm-fullwidth" style="justify-content: flex-end;">
+                   <div class="ibm-left ibm-margin-bottom-0 ibm-margin-top-0">
+                    <a href="/blockchain/solutions">
+                     <img alt="Cannes beach aerial view" class="ibm-resize" height="247" src="//1.cms.s81c.com/sites/default/files/2020-01-16/band8card3.jpg" width="600">
+                     </img>
+                    </a>
+                   </div>
+                   <div class="ibm-card__content" style="margin-bottom: auto;">
+                    <h4 class="ibm-h4 ibm-bold ibm-textcolor-default" live-edit-field-label="Headline">
+                     See other leading networks
+                    </h4>
+                    <div class="ibm-textcolor-default" live-edit-field-label="Body">
+                     <p>
+                      Learn how IBM Blockchain is bringing newfound transparency and trust to international
+                      <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="1adccef0-7719-4f67-aa41-84ee0cfd4b2d" href="/blockchain/industries/supply-chain">
+                       supply chains
+                      </a>
+                      ,
+                      <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="8f455b39-e5a5-40ec-ae8d-935f9514c54b" href="/blockchain/solutions/identity">
+                       identity management
+                      </a>
+                      ,
+                      <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="7fd3f783-70f1-48e5-9ca5-28eb101478b5" href="/blockchain/solutions/world-wire">
+                       cross-border payments
+                      </a>
+                      and more. It's a new day in collaboration and confidence.
+                     </p>
+                    </div>
+                   </div>
+                   <div class="ibm-card__bottom">
+                    <div class="ibm-padding-top-0 ibm-padding-bottom-1">
+                     <p class="ibm-ind-link">
+                      <a class="ibm-forward-link ibm-textcolor-systems-blue-7 ibm-padding-bottom-0" href="/blockchain/solutions">
+                       <span>
+                        Learn more now
+                       </span>
+                      </a>
+                     </p>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+             <div class="ibm-band ibm-background-black-core ibm-textcolor-white-core ibm-padding-top-3 ibm-padding-bottom-2" id="1169641">
+              <div class="ibm-fluid ibm-padding-bottom-0" data-always="true" data-excludesmallgrid="true" data-items=".js-promo-stat" data-widget="setsameheight">
+               <div class="ibm-col-12-6 ibm-col-medium-12-12">
+                <div class="" live-edit-field-label="Body">
+                 <p>
+                  <strong>
+                   The size and scale to help solve your business challenges
+                  </strong>
+                 </p>
+                 <p>
+                  No matter where you are in your blockchain journey, IBM helps you rapidly simplify blockchain complexity to commercialize a network, unlock new value and scale up competitive advantages.
+                 </p>
+                </div>
+               </div>
+               <div class="ibm-col-12-3 ibm-col-medium-12-6 js-promo-stat ibm-textcolor-white-core ibm-background-black-core ibm-promo-statistic">
+                <p class="ibm-h2 ibm-center ibm-padding-top-0 ibm-padding-bottom-0">
+                 <span class="ibm-fontsize-x25">
+                  #1
+                 </span>
+                </p>
+                <p class="ibm-h4 ibm-center ibm-padding-top-0 ibm-padding-bottom-1">
+                 ranked by Juniper Research¹ and HFS Research²
+                </p>
+               </div>
+               <div class="ibm-col-12-3 ibm-col-medium-12-6 js-promo-stat ibm-textcolor-white-core ibm-background-black-core ibm-promo-statistic">
+                <p class="ibm-h2 ibm-center ibm-padding-top-0 ibm-padding-bottom-0">
+                 <span class="ibm-fontsize-x25">
+                  500+
+                 </span>
+                </p>
+                <p class="ibm-h4 ibm-center ibm-padding-top-0 ibm-padding-bottom-1">
+                 blockchain client engagements to date
+                </p>
+               </div>
+              </div>
+             </div>
+             <div class="ibm-band-background-image ibm-band ibm-background-yellow-30 ibm-textcolor-white-core ibm-padding-top-2 ibm-padding-bottom-2" id="2296204" style="background-image:url(//1.cms.s81c.com/sites/default/files/2020-02-19/bg-band8-bottom.jpg); background-repeat:no-repeat; background-size: cover; background-position: center center;">
+              <div class="ibm-fluid ibm-padding-bottom-0">
+               <div>
+                <div class="ibm-col-12-3 ibm-col-medium-12-12">
+                 <h2 class="ibm-h2 ibm-h3-small ibm-padding-top-1 ibm-padding-bottom-1 ibm-textcolor-white-core" live-edit-field-label="Headline">
+                  What’s your potential ROI with IBM Blockchain?
+                 </h2>
+                </div>
+                <div class="ibm-col-12-6 ibm-col-medium-12-10">
+                 <div class="ibm-textcolor-white-core ibm-padding-top-1 ibm-padding-bottom-1" live-edit-field-label="Body">
+                  <p>
+                   We commissioned a Forrester Total Economic Impact™ (TEI) report to help you identify the cost, benefits, flexibilities and risk factors of working with IBM Blockchain. The research is based on Forrester’s TEI methodology, financial model framework and case studies, plus interviews with IBM Blockchain stakeholders and customers. Register now to watch our latest webinar and read the report to project your cost savings and the business benefits of working with IBM Blockchain.
+                  </p>
+                 </div>
+                 <div class="ibm-button-link ibm-btn-row ibm-ind-link ibm-padding-top-1 ibm-padding-bottom-1">
+                  <p class="ibm-btn-row ibm-ind-link">
+                   <a class="ibm-forward-link ibm-textcolor-white-core ibm-padding-bottom-0" href="https://www.ibm.com/account/reg/signup?formid=urx-33572" target="_blank">
+                    <span>
+                     Download Forrester TEI report
+                    </span>
+                   </a>
+                   <a class="ibm-forward-link ibm-textcolor-white-core ibm-padding-bottom-0" href="/blockchain/news-and-events/webinars/blockchain-roi">
+                    <span>
+                     Register for webinar replay: Explore the ROI of blockchain technology
+                    </span>
+                   </a>
+                  </p>
+                 </div>
+                </div>
+                <div class="ibm-col-12-3 ibm-col-medium-12-5">
+                 <a href="https://www.ibm.com/account/reg/signup?formid=urx-33572" target="_blank">
+                  <img alt="Emerging Technology Projection book cover" class="ibm-resize ibm-padding-top-1 ibm-padding-bottom-1" src="//1.cms.s81c.com/sites/default/files/2020-01-16/1-report_thumbnail%2520copy_0.png" width="301"/>
+                 </a>
+                </div>
+               </div>
+              </div>
+             </div>
+             <div class="ibm-band ibm-background-white-core ibm-textcolor-default ibm-padding-top-1 ibm-padding-bottom-1" id="1176196">
+              <div class="ibm-fluid">
+               <div class="">
+                <h2 class="ibm-h2 ibm-padding-top-0 ibm-padding-bottom-0 ibm-textcolor-default ibm-padding-top-2 ibm-padding-bottom_1">
+                 <span>
+                  Resources from IBM Blockchain
+                 </span>
+                </h2>
+               </div>
+               <div class="">
+                <div class="ibm-fluid ibm-flex ibm-flex--wrap ibm-padding-top-0 ibm-padding-bottom-0 ibm-seamless">
+                </div>
+               </div>
+              </div>
+             </div>
+             <div class="ibm-band ibm-background-white-core ibm-textcolor-default ibm-padding-top-1 ibm-padding-bottom-0" id="1002061">
+              <div class="ibm-fluid">
+               <div class="ibm-col-12-12">
+                <div class="ibm-fluid ibm-flex ibm-flex--wrap ibm-padding-top-0 ibm-padding-bottom-1">
+                 <div class="ibm-col-12-3 ibm-col-medium-12-6 ibm-flex">
+                  <div class="ibm-card ibm-background-neutral-white-30 ibm-no-border ibm-border-white-core ibm-left ibm-flex ibm-flex--column ibm-fullwidth" style="justify-content: flex-end;">
+                   <div class="ibm-left ibm-margin-bottom-0 ibm-margin-top-0">
+                    <a href="https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&amp;referrer=https%3A%2F%2Fwcc.on24.com%2Fwebcast%2Fwebcasts&amp;eventid=2180308&amp;sessionid=1&amp;key=425963B34769EE9BBBCCE183955B9166&amp;regTag=&amp;sourcepage=register" target="_blank">
+                     <img alt="Workers managing the conveyor belt in a packaging facility" class="ibm-resize" height="253" src="//1.cms.s81c.com/sites/default/files/2020-01-28/supplychainwebpageimage-600x253.jpg" width="600">
+                     </img>
+                    </a>
+                   </div>
+                   <div class="ibm-card__content" style="margin-bottom: auto;">
+                    <h4 class="ibm-h4 ibm-bold ibm-textcolor-default" live-edit-field-label="Headline">
+                     The hyperconnected supply chain
+                    </h4>
+                    <div class="ibm-textcolor-default" live-edit-field-label="Body">
+                     <p>
+                      Learn how blockchain can deliver end-to-end data visibility, create new value, and create documentation for industry regulators. Watch on demand webinar any time.
+                     </p>
+                    </div>
+                   </div>
+                   <div class="ibm-card__bottom">
+                    <div class="ibm-padding-top-0 ibm-padding-bottom-1">
+                     <p class="ibm-ind-link">
+                      <a class="ibm-btn-sec ibm-external-link ibm-btn-small" href="https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&amp;referrer=https%3A%2F%2Fwcc.on24.com%2Fwebcast%2Fwebcasts&amp;eventid=2180308&amp;sessionid=1&amp;key=425963B34769EE9BBBCCE183955B9166&amp;regTag=&amp;sourcepage=register" target="_blank">
+                       <span>
+                        Register now
+                       </span>
+                      </a>
+                     </p>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                 <div class="ibm-col-12-3 ibm-col-medium-12-6 ibm-flex">
+                  <div class="ibm-card ibm-background-neutral-white-30 ibm-no-border ibm-border-white-core ibm-left ibm-flex ibm-flex--column ibm-fullwidth" style="justify-content: flex-end;">
+                   <div class="ibm-left ibm-margin-bottom-0 ibm-margin-top-0">
+                    <a href="https://www.ibm.com/blogs/blockchain/2019/05/building-enterprise-blockchains-that-stand-for-good-5-principles-for-blockchain" target="_blank">
+                     <img alt="Team gathering around of a glass table" class="ibm-resize" height="253" src="//1.cms.s81c.com/sites/default/files/2019-05-09/band%209_card2.jpg" width="600"/>
+                    </a>
+                   </div>
+                   <div class="ibm-card__content" style="margin-bottom: auto;">
+                    <h4 class="ibm-h4 ibm-bold ibm-textcolor-default" live-edit-field-label="Headline">
+                     Building blockchains that matter
+                    </h4>
+                    <div class="ibm-textcolor-default" live-edit-field-label="Body">
+                     <p>
+                      Five principles on how blockchain can deliver real business value, be equitable to all participants, and promote open innovation and collaboration.
+                     </p>
+                    </div>
+                   </div>
+                   <div class="ibm-card__bottom">
+                    <div class="ibm-padding-top-0 ibm-padding-bottom-1">
+                     <p class="ibm-ind-link">
+                      <a class="ibm-btn-sec ibm-blog-link ibm-btn-small" href="https://www.ibm.com/blogs/blockchain/2019/05/building-enterprise-blockchains-that-stand-for-good-5-principles-for-blockchain" target="_blank">
+                       <span>
+                        Read article now
+                       </span>
+                      </a>
+                     </p>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                 <div class="ibm-col-12-3 ibm-col-medium-12-6 ibm-flex">
+                  <div class="ibm-card ibm-background-neutral-white-30 ibm-no-border ibm-border-white-core ibm-left ibm-flex ibm-flex--column ibm-fullwidth" style="justify-content: flex-end;">
+                   <div class="ibm-left ibm-margin-bottom-0 ibm-margin-top-0">
+                    <a href="https://iif.icanmakeitbetter.com/survey/responses/5cc8595df9d1650c6e4a79de" target="_blank">
+                     <img alt="Eight people in a room and a flip-chart" class="ibm-resize" height="253" src="//1.cms.s81c.com/sites/default/files/2019-07-31/resources_card-1_1.jpg" width="600"/>
+                    </a>
+                   </div>
+                   <div class="ibm-card__content" style="margin-bottom: auto;">
+                    <h4 class="ibm-h4 ibm-bold ibm-textcolor-default" live-edit-field-label="Headline">
+                     Join the IBM Blockchain Insights Forum
+                    </h4>
+                    <div class="ibm-textcolor-default" live-edit-field-label="Body">
+                     <p>
+                      You can help shape the future of IBM Blockchain as part of this growing professional community.
+                     </p>
+                    </div>
+                   </div>
+                   <div class="ibm-card__bottom">
+                    <div class="ibm-padding-top-0 ibm-padding-bottom-1">
+                     <p class="ibm-ind-link">
+                      <a class="ibm-btn-sec ibm-external-link ibm-btn-small" href="https://iif.icanmakeitbetter.com/survey/responses/5cc8595df9d1650c6e4a79de" target="_blank">
+                       <span>
+                        Apply today
+                       </span>
+                      </a>
+                     </p>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                 <div class="ibm-col-12-3 ibm-col-medium-12-6 ibm-flex">
+                  <div class="ibm-card ibm-background-neutral-white-30 ibm-no-border ibm-border-white-core ibm-left ibm-flex ibm-flex--column ibm-fullwidth" style="justify-content: flex-end;">
+                   <div class="ibm-left ibm-margin-bottom-0 ibm-margin-top-0">
+                    <a href="https://developer.ibm.com/technologies/blockchain" target="_blank">
+                     <img alt="guys discussing in a lan house" class="ibm-resize" height="253" src="//1.cms.s81c.com/sites/default/files/2019-01-10/resources_card-4.jpg" width="600"/>
+                    </a>
+                   </div>
+                   <div class="ibm-card__content" style="margin-bottom: auto;">
+                    <h4 class="ibm-h4 ibm-bold ibm-textcolor-default" live-edit-field-label="Headline">
+                     Explore our Developer Center
+                    </h4>
+                    <div class="ibm-textcolor-default" live-edit-field-label="Body">
+                     <p>
+                      Tools, tutorials, code and more for blockchain app developers using open source Hyperledger Fabric and IBM Blockchain.
+                     </p>
+                    </div>
+                   </div>
+                   <div class="ibm-card__bottom">
+                    <div class="ibm-padding-top-0 ibm-padding-bottom-1">
+                     <p class="ibm-button-link">
+                      <a class="ibm-btn-sec ibm-btn-no-icon-link ibm-btn-small" href="https://developer.ibm.com/technologies/blockchain" target="_blank">
+                       <span>
+                        Start developing
+                       </span>
+                      </a>
+                     </p>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+             <div class="ibm-band ibm-background-black-core ibm-textcolor-white-core ibm-padding-top-2 ibm-padding-bottom-0" id="1009711">
+              <div class="ibm-fluid ibm-padding-bottom-0">
+               <div>
+                <div class="ibm-col-12-3 ibm-col-medium-12-12">
+                 <h2 class="ibm-h2 ibm-h3-small ibm-padding-top-0 ibm-padding-bottom-0 ibm-textcolor-white-core" live-edit-field-label="Headline">
+                  Learn more about IBM Blockchain now
+                 </h2>
+                </div>
+                <div class="ibm-col-12-6 ibm-col-medium-12-10">
+                 <div class="ibm-textcolor-white-core ibm-padding-top-0 ibm-padding-bottom-0" live-edit-field-label="Body">
+                  <p>
+                   Become one of the visionary businesses producing new value, re-writing the rules of your industry and changing the way the world works together.
+                  </p>
+                 </div>
+                 <div class="ibm-button-link ibm-btn-row ibm-ind-link ibm-padding-top-0 ibm-padding-bottom-0">
+                  <p class="ibm-btn-row ibm-ind-link">
+                   <a class="ibm-btn-pri ibm-btn-no-icon-link ibm-btn-systems-blue-7" href="/blockchain/industries">
+                    <span>
+                     Blockchain in your industry
+                    </span>
+                   </a>
+                   <a class="ibm-btn-sec ibm-btn-no-icon-link ibm-btn-white" data-ibm-contact="contact-link" href="https://www.ibm.com/account/reg/signup?formid=MAIL-blockchain" target="_blank">
+                    <span>
+                     Connect with our experts
+                    </span>
+                   </a>
+                  </p>
+                 </div>
+                </div>
+                <div class="ibm-col-12-3 ibm-col-medium-12-5">
+                 <a href="/blockchain/industries">
+                  <img alt="blockchain grid" class="ibm-downsize ibm-padding-top-0 ibm-padding-bottom-0" src="//1.cms.s81c.com/sites/default/files/2020-01-16/grid_blue-test_261-x-150px.png" width="261"/>
+                 </a>
+                </div>
+               </div>
+              </div>
+             </div>
+             <div class="ibm-band ibm-background-black-core ibm-textcolor-default ibm-padding-top-0 ibm-padding-bottom-0" id="1009721">
+              <div class="ibm-fluid ibm-padding-top-30">
+               <div class="ibm-col-12-6 ibm-col-medium-12-12 ibm-alternate-background">
+               </div>
+               <div class="ibm-hidden-medium ibm-hidden-small ibm-alternate-background ibm-col-12-4">
+                <p class="ibm-h4 ibm-light ibm-padding-bottom-0 ibm-fright">
+                 Follow us:
+                </p>
+               </div>
+               <div class="ibm-col-12-2 ibm-hidden-large ibm-hidden-xlarge ibm-alternate-background">
+                <p class="ibm-h4 ibm-light ibm-padding-bottom-0">
+                 Follow us:
+                </p>
+               </div>
+               <div class="ibm-col-12-2 ibm-col-medium-12-4 ibm-alternate-background">
+                <p class="ibm-ind-link ibm-icononly ibm-padding-bottom-0">
+                 <a class="ibm-twitter-mono-link" href="https://twitter.com/ibmblockchain" target="_blank">
+                  Visit us on Twitter
+                 </a>
+                 <a class="ibm-linkedin-mono-link" href="https://www.linkedin.com/showcase/ibmblockchain" target="_blank">
+                  Visit us on LinkedIn
+                 </a>
+                 <a class="ibm-blog-encircled-link" href="https://www.ibm.com/blogs/blockchain" target="_blank">
+                  Visit us on blog
+                 </a>
+                 <a class="ibm-youtube-mono-link" href="https://www.youtube.com/channel/UCpEJ53BOa9YWTTXerZtKNhg" target="_blank">
+                  Visit us on YouTube
+                 </a>
+                </p>
+               </div>
+              </div>
+             </div>
+             <div class="ibm-band ibm-background-gray-80 ibm-textcolor-default ibm-padding-top-1 ibm-padding-bottom-0" id="2296296">
+              <div class="ibm-fluid">
+               <div class="ibm-col-12-6">
+                <div class="ibm-button-link ibm-btn-row ibm-ind-link ibm-padding-top-0 ibm-padding-bottom-0">
+                 <p class="ibm-btn-row ibm-ind-link">
+                  <a class="ibm-external-link ibm-textcolor-white-core ibm-padding-bottom-0" href="https://www.juniperresearch.com/press/press-releases/ibm-ranked-no-1-blockchain-technology-leader" target="_blank">
+                   <span>
+                    ¹ Juniper Research.
+                   </span>
+                  </a>
+                  <a class="ibm-forward-link ibm-textcolor-white-core ibm-padding-bottom-0" href="https://www.ibm.com/account/reg/signup?formid=urx-37667" target="_blank">
+                   <span>
+                    ² HFS Research.
+                   </span>
+                  </a>
+                 </p>
+                </div>
+               </div>
+               <div class="ibm-col-12-6">
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </main>
+      </div>
+     </div>
+    </div>
+    <footer aria-label="IBM" role="contentinfo">
+     <div class="region region-footer">
+      <div id="ibm-footer">
+       <div class="ibm-columns">
+        <div class="ibm-col-1-1">
+         <div class="ibm-footer-corporate-links">
+          <ul>
+           <li id="ibm-truste-cp">
+            <a href="#" onclick="truste.eu.clickListener();return false;">
+             Cookie preferences
+            </a>
+           </li>
+          </ul>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </footer>
+   </div>
+  </div>
+  <script data-drupal-selector="drupal-settings-json" type="application/json">
+   {"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/1001966","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en-us"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"core\/html5shiv,ibm_ckeditor\/ibm_ckeditor_table_style,ibm_tmgmt_companion\/ibm_tmgmt_companion_publisher,metadata\/focus_area,northstar\/band,northstar\/card,northstar\/grid-fluid,northstar\/shame,northstar\/stats,northstar\/tables,system\/base,tactic_codes\/tactic_codes","theme":"northstar","theme_token":null},"ajaxTrustedUrl":[],"ibm_tmgmt_companion_publisher":{"nid":"1001966","language":"en-us"},"user":{"uid":0,"permissionsHash":"93bd7e0d2fff748574781770e6657295209fb041109becf127d30916192a7007"}}
+  </script>
+  <script src="//1.cms.s81c.com/sites/default/files/js/js_PhH50RRJuPMVc2XzixouHFrxqvepXEK0ljWNaqy6R2w.js">
+  </script>
+  <script defer="" src="//www.ibm.com/common/digitaladvisor/cm-app/latest/cm-app.min.js">
+  </script>
+  <script defer="" src="//1.www.s81c.com/common/v18/js/tables.js">
+  </script>
+  <script defer="" src="//1.www.s81c.com/common/js/tactic.js">
+  </script>
+  <script defer="" src="//1.www.s81c.com/common/js/tacticbindlinks.js">
+  </script>
+  <script src="//1.cms.s81c.com/sites/default/files/js/js_LgbQoLZd656vJxaSthJ6hyIlChfous-rF8bSDwE92Y0.js">
+  </script>
+  <script type="text/javascript">
+   var _cf = _cf || []; _cf.push(['_setFsp', true]);  _cf.push(['_setBm', true]); _cf.push(['_setAu', '/assets/6b8d6129224851ff69cf77365a08']);
+  </script>
+  <script src="/assets/6b8d6129224851ff69cf77365a08" type="text/javascript">
+  </script>
+ </body>
+</html>

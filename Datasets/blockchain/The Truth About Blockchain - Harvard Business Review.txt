@@ -1,0 +1,2143 @@
+<!DOCTYPE html>
+<!--[if IE 8]>
+<html class="ie8 ">
+<![endif]-->
+<!--[if IE 9]>
+<html class="ie9 ">
+<![endif]-->
+<!--[if !IE]><!-->
+<html class="">
+ <!--<![endif]-->
+ <!--
+ _____________    _    _                       hbr.org _ 
+|/////////////|  | |  | |                             | |
+|:\/E:R|:T/\S:|  | |__| | __ _ _ ____   ____ _ _ __ __| |
+|+++++++++++++|  |  __  |/ _` | '__\ \ / / _` | '__/ _` |
+|\:+:\   /:+:/|  | |  | | (_| | |   \ V / (_| | | | (_| |
+| \:::\ /:::/ |  |_|__|_|\__,_|_| _  \_/ \__,_|_|  \__,_|
+\  \ ::+:: /  /  |  _ \          (_)                     
+ \ /::/ \::\ /   | |_) |_   _ ___ _ _ __   ___  ___ ___  
+  \+:/   \:+/    |  _ <| | | / __| | '_ \ / _ \/ __/ __| 
+   \/_____\/     | |_) | |_| \__ \ | | | |  __/\__ \__ \ 
+To improve the   |____/ \__,_|___/_|_| |_|\___||___/___/ 
+practice of      |  __ \          (_)                    
+management and   | |__) |_____   ___  _____      __      
+its impact in a  |  _  // _ \ \ / / |/ _ \ \ /\ / /      
+changing world.  | | \ \  __/\ V /| |  __/\ V  V /       
+est. 1922        |_|  \_\___| \_/ |_|\___| \_/\_/       
+-->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="none" name="msapplication-config"/>
+  <title>
+   The Truth About Blockchain
+  </title>
+  <meta content="tag:hbr.org,1922-01-01:201701.154640-R1701J" name="item-id"/>
+  <meta content="BR1701" name="issue-id"/>
+  <meta content="The Truth About Blockchain" name="item-name"/>
+  <meta content="2019-08-21T03:41:39Z" property="article:modified_time"/>
+  <meta content="summary_large_image" name="twitter:card"/>
+  <meta content="https://hbr.org/2017/01/the-truth-about-blockchain" property="og:url"/>
+  <meta content="Technology" property="article:tag"/>
+  <meta content="It will take years to transform business, but the journey begins now." property="og:description"/>
+  <meta content="@harvardbiz" name="twitter:creator"/>
+  <meta content="Harvard Business Review" property="og:site_name"/>
+  <meta content="premium" name="article-type"/>
+  <meta content="article" property="og:type"/>
+  <meta content="Technology" property="article:section"/>
+  <meta content="@harvardbiz" name="twitter:site"/>
+  <meta content="Technology" name="page-category-name"/>
+  <meta content="It will take years to transform business, but the journey begins now." name="description"/>
+  <meta content="https://www.facebook.com/HBR" property="article:publisher"/>
+  <meta content="https://hbr.org/resources/images/article_assets/2016/11/R1701J_MOHAMED.jpg" property="og:image"/>
+  <meta content="https://hbr.org/resources/images/article_assets/2016/11/R1701J_MOHAMED-383x215.jpg" property="og:image"/>
+  <meta content="https://hbr.org/resources/images/article_assets/2014/08/110-Marco_Iansiti.jpg" property="og:image"/>
+  <meta content="https://hbr.org/resources/images/article_assets/2010/08/110-Karim_Lakhani.jpg" property="og:image"/>
+  <meta content="https://hbr.org/resources/images/hbr_opengraph_940x490.png" property="og:image"/>
+  <meta content="2017-01-01T05:00:00Z" property="article:published_time"/>
+  <meta content="https://hbr.org/resources/images/article_assets/2016/11/R1701J_MOHAMED.jpg" name="twitter:image"/>
+  <meta content="protected" name="intromercial"/>
+  <meta content="Magazine Article" name="article-content-type"/>
+  <meta content="initial-scale=1,width=device-width" name="viewport"/>
+  <meta content="1585" name="page-category-id"/>
+  <meta content="B774817378924B60F0282366703CD074" name="uid"/>
+  <meta content="414dda1e-ae0a-492b-9219-a9d8b4c2070b" name="sid"/>
+  <meta content="state:guest" name="shopper-attributes"/>
+  <meta content="The Truth About Blockchain" property="og:title"/>
+  <meta content="ITEM" name="page-type"/>
+  <meta content="300" name="page-id"/>
+  <meta content="537063787" name="ox-group"/>
+  <meta content="item_page.articles,item_page.top_right,item_page.bottom,item_page.red_strip_engage,item_page.subscribe_now_footer_engage,item_page.topbar_subscribe_engage,item_page.mag_cover_engage,item_page.subscribe,item_page.article_slider_engage,item_page.exit_popup_slider,item_page.books_recirc" name="rr-placements"/>
+  <!--[if lt IE 9]>
+<script type="text/javascript" src="/resources/js/support/hbr/elements.js"></script>
+<script type="text/javascript" src="/resources/js/support/foundation/foundation.js"></script>
+<![endif]-->
+  <link href="/resources/images/favicon.ico" rel="icon" type="image/x-icon"/>
+  <link href="/resources/css/style_b092874e85965c7e.css" rel="stylesheet" type="text/css">
+   <script type="text/javascript">
+    if (document.cookie.match(/hbr_f=true/)) {
+    window.document.documentElement.className += " fonts-loaded";
+  }
+   </script>
+   <script type="text/javascript">
+    window.digitalData = {"page":{"pageInfo":{"language":"en","contentType":"Magazine Article","pageName":"The Truth About Blockchain","pageCategoryID":"1585","pageCategoryName":"Technology","pageType":"ITEM","pageDescription":"It will take years to transform business, but the journey begins now.","onsiteSearchResults":0,"date":"07-02-2020","time":"06:46 PM"},"attributes":{"articleContentType":"Magazine Article","articleType":"Magazine Article","articleTitle":"The Truth About Blockchain","articleID":"tag:hbr.org,1922-01-01:201701.154640-R1701J","articlePrimaryTopic":"Technology","articlePublishDate":"2017-01-01","articlePostingDate":"January - 2017","primaryAuthor":"Marco Iansiti","articleAuthor":[{"authorName":"Marco Iansiti"},{"authorName":"Karim R. Lakhani"}],"articleSubTopic1":"Technology","articleSubTopic2":"Magazine Article","articleTags":"Technology|Magazine Article"}},"users":[{"profile":{"sessionID":"414dda1e-ae0a-492b-9219-a9d8b4c2070b","accountID":"B774817378924B60F0282366703CD074","dateLastVisit":"2020-07-02","quota":{"limit":2,"remaining":1},"userState":"Guest","secondsSinceLastVisit":0,"daysSinceLastVisit":0}}],"version":"2.2","siteID":"hbrprod","siteType":"Desktop","pageInstanceID":"The Truth About Blockchain:beanstalk-prod"};
+  if (window.digitalData && window.digitalData.page && window.digitalData.page.pageInfo) {
+    if (!window.digitalData.page.pageInfo.deviceType) {
+      !function (a) {
+        var b = /iPhone/i, c = /iPod/i, d = /iPad/i, e = /(?=.*\bAndroid\b)(?=.*\bMobile\b)/i, f = /Android/i,
+            g = /(?=.*\bAndroid\b)(?=.*\bSD4930UR\b)/i,
+            h = /(?=.*\bAndroid\b)(?=.*\b(?:KFOT|KFTT|KFJWI|KFJWA|KFSOWI|KFTHWI|KFTHWA|KFAPWI|KFAPWA|KFARWI|KFASWI|KFSAWI|KFSAWA)\b)/i,
+            i = /Windows Phone/i, j = /(?=.*\bWindows\b)(?=.*\bARM\b)/i, k = /BlackBerry/i, l = /BB10/i,
+            m = /Opera Mini/i, n = /(CriOS|Chrome)(?=.*\bMobile\b)/i, o = /(?=.*\bFirefox\b)(?=.*\bMobile\b)/i,
+            p = new RegExp("(?:Nexus 7|BNTV250|Kindle Fire|Silk|GT-P1000)", "i"), q = function (a, b) {
+              return a.test(b)
+            }, r = function (a) {
+              var r = a || navigator.userAgent, s = r.split("[FBAN");
+              if ("undefined" != typeof s[1] && (r = s[0]), s = r.split("Twitter"), "undefined" != typeof s[1]
+                  && (r = s[0]), this.apple = {
+                    phone: q(b, r),
+                    ipod: q(c, r),
+                    tablet: !q(b, r) && q(d, r),
+                    device: q(b, r) || q(c, r) || q(d, r)
+                  }, this.amazon = {
+                    phone: q(g, r),
+                    tablet: !q(g, r) && q(h, r),
+                    device: q(g, r) || q(h, r)
+                  }, this.android = {
+                    phone: q(g, r) || q(e, r),
+                    tablet: !q(g, r) && !q(e, r) && (q(h, r) || q(f, r)),
+                    device: q(g, r) || q(h, r) || q(e, r) || q(f, r)
+                  }, this.windows = {
+                    phone: q(i, r),
+                    tablet: q(j, r),
+                    device: q(i, r) || q(j, r)
+                  }, this.other = {
+                    blackberry: q(k, r),
+                    blackberry10: q(l, r),
+                    opera: q(m, r),
+                    firefox: q(o, r),
+                    chrome: q(n, r),
+                    device: q(k, r) || q(l, r) || q(m, r) || q(o, r) || q(n, r)
+                  }, this.seven_inch = q(p, r), this.any = this.apple.device || this.android.device || this.windows.device
+                      || this.other.device || this.seven_inch, this.phone = this.apple.phone || this.android.phone
+                      || this.windows.phone, this.tablet = this.apple.tablet || this.android.tablet
+                      || this.windows.tablet, "undefined" == typeof window) {
+                return this
+              }
+            }, s = function () {
+              var a = new r;
+              return a.Class = r, a
+            };
+        "undefined" != typeof module && module.exports && "undefined" == typeof window ? module.exports = r
+            : "undefined" != typeof module && module.exports && "undefined" != typeof window ? module.exports = s()
+            : "function" == typeof define && define.amd ? define("isMobile", [], a.isMobile = s()) : a.isMobile = s()
+      }(this);
+      window.digitalData.page.pageInfo.sysEnv = "Desktop";
+      window.digitalData.page.pageInfo.deviceType = "Desktop";
+      if (isMobile.phone || isMobile.tablet) {
+        window.digitalData.page.pageInfo.sysEnv = "Mobile";
+        if (isMobile.phone) {
+          window.digitalData.page.pageInfo.deviceType = "Mobile";
+        }
+        if (isMobile.tablet) {
+          window.digitalData.page.pageInfo.deviceType = "Tablet";
+        }
+      }
+      window.digitalData.siteType = window.digitalData.page.pageInfo.deviceType;
+    }
+    window.digitalData.page.pageInfo.pageURL = window.location.origin + window.location.pathname;
+    if (document.referrer) {
+      window.digitalData.page.pageInfo.referringURL = document.referrer;
+    }
+  }
+   </script>
+   <link href="/amp/2017/01/the-truth-about-blockchain" rel="amphtml"/>
+   <script src="/resources/js/components/overlay-intromercial/gdpr_817f8a1be2b6dafa.js">
+   </script>
+   <script src="//assets.adobedtm.com/c0857d0b892a/fccd631ba54c/launch-68b2fecf2e9e.min.js">
+   </script>
+   <script src="//media.richrelevance.com/rrserver/js/1.2/p13n.js">
+   </script>
+   <script src="/resources/js/components/overlay-intromercial/intromercial_e1d88ad7973845de.js" type="text/javascript">
+   </script>
+   <script type="application/ld+json">
+    {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "url": "https://hbr.org/",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://hbr.org/search?term={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+   </script>
+  </link>
+ </head>
+ <body>
+  <script type="text/javascript">
+   if (typeof generateIntromercial === 'function') {
+				generateIntromercial();
+			}
+  </script>
+  <!-- column -->
+  <div class="container" id="main">
+   <div class="component" data-moveable="false" data-order="0" data-params="region=openx;location=leaderboard" data-type="webscript" id="">
+   </div>
+   <div class="component" data-moveable="false" data-order="1" data-params="region=persistent-banner" data-type="webscript" id="">
+    <section class="persistent-banner clearfix hide-for-print">
+     <div class="row v-centered">
+      <div class="small-12 column text-center">
+       <span class="quota">
+        <strong>
+         <span class="quota-remaining" js-target="quota-remaining">
+          1
+         </span>
+         /
+         <span class="quota-limit" js-target="quota-limit">
+          2
+         </span>
+        </strong>
+        <span class="hide-for-small is-transparent">
+         Free Articles left
+        </span>
+        <span class="hide-for-medium-up font-light is-transparent">
+         Remaining
+        </span>
+        <i class="icon icon-caret-right baseline-shift-down">
+        </i>
+       </span>
+       <span class="subscribe-now">
+        <a class="hide-for-registered" href="/register">
+         <strong>
+          Register
+         </strong>
+         <span class="hide-for-small font-light is-transparent">
+          for more
+         </span>
+        </a>
+        <span class="mhs hide-for-registered is-transparent">
+         |
+        </span>
+        <personalization-placement class="personalization-placement is-inline-block" data-placement-id="red_strip_engage">
+         <a href="/subscribe">
+          <strong>
+           Subscribe
+          </strong>
+          <span class="hide-for-small font-light">
+           <strong>
+            + Save!
+           </strong>
+          </span>
+         </a>
+        </personalization-placement>
+        <i class="icon icon-shield-reverse is-transparent baseline-shift-down antialiased">
+        </i>
+       </span>
+      </div>
+     </div>
+    </section>
+   </div>
+   <div class="component" data-moveable="false" data-order="2" data-params="region=header" data-type="webscript" id="">
+    <div class="sticky-top-header global-nav-container">
+     <header class="top-header hide-for-print global-nav-container" role="banner">
+      <!-- first row of the global nav -->
+      <div class="top-header--bar flex-row backdrop-white top-header--row has-border-bottom">
+       <div class="flex-row top-header--menu-link" id="top-header--panel-icon">
+        <a class="link--black hamburger-icon-container" href="#" js-target="global-header--search-overlay">
+        </a>
+        <svg alt="Navigation Menu" aria-labelledby="title" class="hamburger-icon top-header--menu-icon-open">
+         <title>
+          Navigation Menu
+         </title>
+         <use xlink:href="/resources/css/images/hbr-icons.svg#hamburger">
+         </use>
+        </svg>
+       </div>
+      </div>
+     </header>
+    </div>
+   </div>
+  </div>
+ </body>
+</html>
+<!-- logo -->
+<div class="top-header--logo has-border-left">
+ <a href="/">
+  <img alt="Harvard Business Review Home" src="/resources/css/images/HBR_logo_black.svg"/>
+ </a>
+</div>
+<div class="top-header--headline-container">
+ <article-headline class="article-headline hide-medium-down">
+ </article-headline>
+</div>
+<!-- right aligned items -->
+<div class="flex-row top-header--bottom-left-align">
+ <personalization-placement class="flex-row mrl top-header--subscribe hide-small" data-placement-id="topbar_subscribe_engage">
+  <a class="baseline-shift-down-more" href="/subscribe" rel="noopener" target="_blank">
+   Subscribe
+  </a>
+ </personalization-placement>
+ <a class="link--black flex-row top-header--shopping-cart mrl do-not-show" data-cart-badge="0" data-menu="cart" href="/shopping-cart" js-target="global-header-menu-toggle">
+  <img alt="Cart" class="cart-icon" src="/resources/css/images/cart-icon.png"/>
+ </a>
+ <a class="link--black global-header-button flex-row mrm prl has-border-right sign-in" href="#" js-target="sign-in-register">
+  <span class="baseline-shift-down-more">
+   Sign In
+  </span>
+ </a>
+ <div class="top-header--user-dropdown-container link--black flex-row mrm prl mls has-border-right sign-in do-not-show" data-menu="user" js-target="global-header-menu-toggle">
+  <svg alt="Account Menu" aria-labelledby="title" class="unfilled-user-icon mrs">
+   <title>
+    Account Menu
+   </title>
+   <use xlink:href="/resources/css/images/hbr-icons.svg#user-nav">
+   </use>
+  </svg>
+ </div>
+ <a class="link--black flex-row top-header--search-container mls hide-small" href="#" id="top-header--open-search-overlay" js-target="global-header--search-overlay">
+  <svg alt="Search Menu" aria-labelledby="title" class="search-icon size-24x24">
+   <title>
+    Search Menu
+   </title>
+   <use xlink:href="/resources/css/images/hbr-icons.svg#search">
+   </use>
+  </svg>
+ </a>
+</div>
+<!-- header search overlay -->
+<div class="top-header--overlay do-not-show">
+ <div class="header-menu--overlay opacity-0-small-only" js-target="global-header--search-overlay">
+ </div>
+ <div class="left close-button absolute hide-small-up">
+  <a class="link--black flex-row top-header--close-search-overlay" href="#" js-target="global-header--search-overlay">
+   <svg class="size-24x24 top-header--menu-icon-close svg-ie">
+    <use xlink:href="/resources/css/images/hbr-icons.svg#x">
+    </use>
+   </svg>
+  </a>
+ </div>
+ <div class="hide-small flex-row overlay--first-row">
+  <a class="link--black" href="#" id="top-header--close-search-overlay" js-target="global-header--search-overlay">
+   <svg aria-labelledby="title" class="size-24x24 top-header--menu-icon-close svg-ie">
+    <title>
+     Close menu
+    </title>
+    <use xlink:href="/resources/css/images/hbr-icons.svg#x">
+    </use>
+   </svg>
+  </a>
+ </div>
+ <div class="top-header--overlay-centered mtl">
+  <div class="top-header--overlay-search opacity-0-small-only">
+   <form action="/search" method="get">
+    <div class="search-container opacity-0-medium-up">
+     <input name="search_type" type="hidden" value="search-all"/>
+     <input autocomplete="off" class="pts pbm search-box-desktop" data-type="search-input" name="term" placeholder="Search hbr.org"/>
+     <input autocomplete="off" class="search-box-mobile" name="term" placeholder="Search hbr.org"/>
+     <button>
+      <svg aria-labelledby="title">
+       <title>
+        Search
+       </title>
+       <use xlink:href="/resources/css/images/hbr-icons.svg#search">
+       </use>
+      </svg>
+     </button>
+     <a class="clear-search-box do-not-show" href="#" js-target="clear-search-box">
+      CLEAR
+     </a>
+    </div>
+    <div class="backdrop-white width-100pct zindex-highest hide top-header--search-suggest" data-purpose="search-auto-suggest">
+     <div class="font-gt-america">
+      <ul class="no-bullet ptm mbs" data-container="results">
+       <li class="pbm pts line-height-normal font-size-15 darker-medium-gray">
+       </li>
+       <li class="pbm pts line-height-normal font-size-15 darker-medium-gray">
+       </li>
+       <li class="pbm pts line-height-normal font-size-15 darker-medium-gray">
+       </li>
+       <li class="pbm pts line-height-normal font-size-15 darker-medium-gray">
+       </li>
+       <li class="pbm pts line-height-normal font-size-15 darker-medium-gray">
+       </li>
+       <li class="pbl pts line-height-normal font-size-15 darker-medium-gray has-border-bottom">
+       </li>
+       <li class="ptl font-size-xsmall text-gray-light font-bold">
+        SUGGESTED TOPICS
+       </li>
+       <li class="pbm pts line-height-normal font-size-15 darker-medium-gray no-bullet">
+       </li>
+       <li class="pbm pts line-height-normal font-size-15 darker-medium-gray no-bullet">
+       </li>
+       <li class="pbm pts line-height-normal font-size-15 darker-medium-gray no-bullet">
+       </li>
+      </ul>
+     </div>
+    </div>
+   </form>
+  </div>
+  <div class="top-header--overlay-footer">
+   <div class="flex-row-wrap flex-row justify-between">
+    <div class="flex-col hide-small opacity-0 nav--explore">
+     <span class="mbm font-bold">
+      Explore HBR
+     </span>
+     <ul class="no-bullet tidy-list">
+      <li>
+       <a href="/insight-center/coronavirus">
+        Coronavirus
+       </a>
+      </li>
+      <li>
+       <a href="/magazine">
+        The Magazine
+       </a>
+      </li>
+      <li>
+       <a href="/most-popular">
+        Most Popular
+       </a>
+      </li>
+      <li>
+       <a href="/podcasts">
+        Podcasts
+       </a>
+      </li>
+      <li>
+       <a href="/video">
+        Video
+       </a>
+      </li>
+      <li>
+       <a href="/store">
+        Store
+       </a>
+      </li>
+      <li>
+       <a href="/webinars">
+        Webinars
+       </a>
+      </li>
+      <li>
+       <a href="/email-newsletters">
+        Newsletters
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div class="flex-col hide-small opacity-0 nav--popular">
+     <span class="mbm font-bold">
+      Popular Topics
+     </span>
+     <ul class="no-bullet tidy-list">
+      <li>
+       <a href="/topic/managing-yourself">
+        Managing Yourself
+       </a>
+      </li>
+      <li>
+       <a href="/topic/leadership">
+        Leadership
+       </a>
+      </li>
+      <li>
+       <a href="/topic/strategy">
+        Strategy
+       </a>
+      </li>
+      <li>
+       <a href="/topic/managing-people">
+        Managing Teams
+       </a>
+      </li>
+      <li>
+       <a href="/topic/gender">
+        Gender
+       </a>
+      </li>
+      <li>
+       <a href="/topic/innovation">
+        Innovation
+       </a>
+      </li>
+      <li>
+       <a href="/topic/work-life-balance">
+        Work-life Balance
+       </a>
+      </li>
+      <li>
+       <a href="/topics">
+        All Topics
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div class="flex-col hide-small opacity-0 nav--subscribers">
+     <span class="mbm font-bold">
+      For Subscribers
+     </span>
+     <ul class="no-bullet tidy-list">
+      <li>
+       <a href="/big-ideas">
+        The Big Idea
+       </a>
+      </li>
+      <li>
+       <a href="/visual-library">
+        Visual Library
+       </a>
+      </li>
+      <li>
+       <a href="/reading-lists" track-target="global-nav-link--editors-choice">
+        Reading Lists
+       </a>
+      </li>
+      <li>
+       <a href="/case-selections" track-target="global-nav-link--case-selection">
+        Case Selections
+       </a>
+      </li>
+      <li>
+       <personalization-placement data-placement-id="mag_cover_engage">
+        <a class="subscribe-link" href="/subscribe" rel="noopener" target="_blank">
+         Subscribe
+        </a>
+       </personalization-placement>
+      </li>
+     </ul>
+    </div>
+    <div class="flex-col hide-small opacity-0 nav--account">
+     <span class="mbm font-bold">
+      My Account
+     </span>
+     <ul class="no-bullet tidy-list">
+      <li>
+       <a href="/my-library" js-target="validate-user-signed">
+        My Library
+       </a>
+      </li>
+      <li>
+       <a href="/my-library/topics" js-target="validate-user-signed">
+        Topic Feeds
+       </a>
+      </li>
+      <li>
+       <a href="/my-library/orders" js-target="validate-user-signed">
+        Orders
+       </a>
+      </li>
+      <li>
+       <a href="/my-library/settings" js-target="validate-user-signed">
+        Account Settings
+       </a>
+      </li>
+      <li>
+       <a href="/my-library/preferences" js-target="validate-user-signed">
+        Email Preferences
+       </a>
+      </li>
+      <li>
+       <a class="do-not-show" href="/logout" js-target="logout">
+        Log Out
+       </a>
+      </li>
+      <li>
+       <a class="" href="#" js-target="sign-in-register">
+        Sign In
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div class="small-flex-col hide-small opacity-0 nav--social">
+     <ul class="no-bullet tidy-list">
+      <li>
+       <a class="link--black" href="http://twitter.com/HarvardBiz" rel="noopener" target="_blank">
+        <i class="icon icon-twitter" title="Twitter">
+        </i>
+       </a>
+      </li>
+      <li>
+       <a class="link--black" href="http://www.facebook.com/HBR" rel="noopener" target="_blank">
+        <i class="icon icon-facebook" title="Facebook">
+        </i>
+       </a>
+      </li>
+      <li>
+       <a class="link--black" href="https://www.linkedin.com/company/harvard-business-review?trk=biz-companies-cym" rel="noopener" target="_blank">
+        <i class="icon icon-linkedin" title="Linkedin">
+        </i>
+       </a>
+      </li>
+      <li>
+       <a class="link--black" href="https://www.instagram.com/harvard_business_review/?hl=en" rel="noopener" target="_blank">
+        <i class="icon icon-instagram" title="Instagram">
+        </i>
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+   <div class="top-header--mobile-mega-menu opacity-0">
+    <personalization-placement data-placement-id="mag_cover_engage">
+     <a class="subscribe-link" href="/subscribe" rel="noopener" target="_blank">
+      Subscribe
+     </a>
+    </personalization-placement>
+    <a class="is-block" href="/insight-center/coronavirus">
+     Coronavirus
+    </a>
+    <a class="is-block" href="/podcasts">
+     Podcasts
+    </a>
+    <a class="is-block" href="/video">
+     Video
+    </a>
+    <a class="is-block" href="/magazine">
+     The Magazine
+    </a>
+    <a class="is-block" href="/store">
+     Store
+    </a>
+    <a class="is-block" href="/webinars">
+     Webinars
+    </a>
+    <a class="is-block" href="/email-newsletters">
+     Newsletters
+    </a>
+    <a class="is-block" href="/topics">
+     All Topics
+    </a>
+    <a class="is-block" href="/big-ideas">
+     The Big Idea
+    </a>
+    <a class="is-block" href="/visual-library">
+     Visual Library
+    </a>
+    <a class="is-block" href="/reading-lists" track-target="global-nav-link--editors-choice">
+     Reading Lists
+    </a>
+    <a class="is-block" href="/case-selections" track-target="global-nav-link--case-selection">
+     Case Selections
+    </a>
+    <a class="is-block" href="/my-library" js-target="validate-user-signed">
+     My Library
+    </a>
+    <a class="is-block" href="/my-library/settings" js-target="validate-user-signed">
+     Account Settings
+    </a>
+    <a class="do-not-show is-block last-link" href="/logout" js-target="logout">
+     Log Out
+    </a>
+    <a class="is-block last-link" href="#" js-target="sign-in-register">
+     Sign In
+    </a>
+   </div>
+  </div>
+ </div>
+</div>
+<div class="header-menu header-menu--cart-dropdown absolute" data-menu="cart" js-target="global-header-menu">
+ <div class="header-menu--overlay opacity-0" data-menu="cart" js-target="global-header-menu-toggle">
+ </div>
+ <svg class="border-caret-white absolute bottom-100pct hide-small" height="16px" js-target="global-header-menu-caret" width="24px">
+  <path d="M 0 16 l 12 -14 l 12 14" stroke-width="2px">
+  </path>
+ </svg>
+ <div class="right close-button" data-menu="cart" js-target="global-header-menu-toggle">
+  <a class="link--black" href="#">
+   <svg class="size-24x24 top-header--menu-icon-close svg-ie">
+    <use xlink:href="/resources/css/images/hbr-icons.svg#x">
+    </use>
+   </svg>
+  </a>
+ </div>
+ <h3 class="pbl subheader has-border-bottom flyout-title">
+  Your Cart
+ </h3>
+ <div class="cart-container opacity-0" js-target="global-header-cart-contents">
+  <div class="message mbs mtm">
+   Your Shopping Cart is empty.
+  </div>
+  <a class="button button--tight expand mbn mtm" href="/store">
+   Visit Our Store
+  </a>
+ </div>
+</div>
+<div class="header-menu header-menu--user-dropdown absolute" data-menu="user" js-target="global-header-menu">
+ <div class="header-menu--overlay opacity-0" data-menu="user" js-target="global-header-menu-toggle">
+ </div>
+ <svg class="border-caret-white absolute bottom-100pct hide-small" height="16px" js-target="global-header-menu-caret" width="24px">
+  <path d="M 0 16 l 12 -14 l 12 14" stroke-width="2px">
+  </path>
+ </svg>
+ <div class="right close-button" data-menu="user" js-target="global-header-menu-toggle">
+  <a class="link--black" href="#">
+   <svg class="size-24x24 top-header--menu-icon-close svg-ie">
+    <use xlink:href="/resources/css/images/hbr-icons.svg#x">
+    </use>
+   </svg>
+  </a>
+ </div>
+ <div class="mbl is-block has-border-bottom user-data-container">
+  <div class="font-bold flyout-title" js-target="user-menu-name">
+   Guest User
+  </div>
+  <div class="subscription-access do-not-show" js-target="user-menu-subscription-access">
+   <span js-target="user-menu-subscription-access-level">
+   </span>
+   Subscriber
+  </div>
+ </div>
+ <div class="header--user-flyout-links opacity-0">
+  <a class="is-block" href="/my-library/library">
+   My Library
+  </a>
+  <a class="is-block" href="/my-library/topics" js-target="global-topic-feeds-anchor">
+   Topic Feeds
+  </a>
+  <a class="is-block" href="/my-library/orders">
+   Orders
+  </a>
+  <a class="is-block" href="/my-library/settings">
+   Account Settings
+  </a>
+  <a class="is-block" href="/my-library/preferences">
+   Email Preferences
+  </a>
+  <a class="is-block" href="/logout" js-target="logout">
+   Log Out
+  </a>
+ </div>
+</div>
+<div class="right trigger do-not-show">
+ <reading-list class="reading-list hide-small">
+  <div class="reading-list-top" js-target="open-reading-list-overlay" style="display: flex;">
+   <div style="text-align: center; width: 30px; height: 100%;">
+    <i class="icon icon-caret-left font-size-default" style="padding: 6px 0px 6px;">
+    </i>
+   </div>
+   <div class="font-bold font-size-large baseline-shift-up" style="flex-grow: 1; padding: 4px 0px 4px 6px; color: #888888;">
+    Reading List
+   </div>
+  </div>
+ </reading-list>
+ <reading-list-mobile class="reading-list-mobile hide-medium hide-large-up">
+  <div class="mobile-top" js-target="open-reading-list-overlay">
+   <div class="right" style="padding-right: 10px;">
+    <span class="font-bold baseline-shift-up" style="color: #888888;">
+     Reading Lists
+    </span>
+    <span>
+     <i class="icon icon-caret-down" style="font-size: 18px;">
+     </i>
+    </span>
+   </div>
+  </div>
+ </reading-list-mobile>
+</div>
+<!-- End .header -->
+<div class="component" data-moveable="false" data-order="4" data-params="region=article;ad-placements=title-300" data-type="webscript" id="">
+ <script>
+  if (window.location.href.includes("#how-to-lead-your-business-through-the-coronavirus-crisis") &&
+		window.location.href.includes("/2020/03/8-questions-employers-should-ask-about-coronavirus")) {
+		window.location.replace("/insight-center/coronavirus");
+	}
+ </script>
+ <reading-list>
+  <reading-list-container>
+  </reading-list-container>
+ </reading-list>
+ <article-content class="article-content">
+  <script type="text/javascript">
+   window.digitalData.readingLists = { data: JSON.stringify(null) };
+  </script>
+  <div js-target="article-content">
+   <div class="row">
+    <div class="mt-large3 ptl hide-small hide-large-up">
+    </div>
+    <div class="content-area--wide column pptl">
+     <div class="small-remove-gutter remove-gutter-right">
+      <img sizes="(min-width: 64em) 84vw, 100vw" src="/resources/images/article_assets/2016/11/R1701J_MOHAMED.jpg" srcset="/resources/images/article_assets/2016/11/R1701J_MOHAMED.jpg 2000w, /resources/images/article_assets/2016/11/R1701J_MOHAMED-300x141.jpg 300w, /resources/images/article_assets/2016/11/R1701J_MOHAMED-1024x481.jpg 1024w, /resources/images/article_assets/2016/11/R1701J_MOHAMED-383x180.jpg 383w, /resources/images/article_assets/2016/11/R1701J_MOHAMED-500x235.jpg 500w, /resources/images/article_assets/2016/11/R1701J_MOHAMED-700x329.jpg 700w, /resources/images/article_assets/2016/11/R1701J_MOHAMED-850x400.jpg 850w, /resources/images/article_assets/2016/11/R1701J_MOHAMED-1200x564.jpg 1200w">
+       <br/>
+      </img>
+     </div>
+    </div>
+   </div>
+   <div class="row">
+    <div class="content-area--article column">
+     <div class="sidebar--circulator">
+      <div class="artworkcaption">
+       Guedda Hassan Mohamed
+      </div>
+     </div>
+    </div>
+   </div>
+   <!-- reference to podcast required until both episode and series pages do not use this template -->
+   <div class="row">
+    <div class="content-area--article article-header--premium column">
+     <aside class="sidebar--circulator hide-for-small hide-for-print">
+      <personalization-placement class="personalization-placement" data-placement-id="top_right">
+       <div class="container mvl">
+        <div class="text-center island">
+         <div class="loading mrl is-inline-block">
+          <div class="pie rotation">
+          </div>
+          <div class="pie filler">
+          </div>
+          <div class="mask">
+          </div>
+         </div>
+         <span class="is-inline-block mtm lighter-gray font-light font-size-xlarge">
+          Loading...
+         </span>
+        </div>
+       </div>
+      </personalization-placement>
+     </aside>
+     <div class="topic mbs">
+      <a href="/topic/technology">
+       Technology
+      </a>
+     </div>
+     <h1 class="article-hed">
+      The Truth About Blockchain
+     </h1>
+     <div class="byline">
+      <ul class="byline-list-digital-article byline-list">
+       by
+       <li>
+        <a href="/search?term=marco%20iansiti">
+         Marco Iansiti
+        </a>
+       </li>
+       and
+       <li>
+        <a href="/search?term=karim%20r.%20lakhani">
+         Karim R. Lakhani
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="publication-date text-gray">
+      From the January–February 2017 Issue
+     </div>
+    </div>
+   </div>
+   <section>
+    <div class="sticky-backdrop">
+     <div class="row">
+      <div class="content-area--article column width-76pct">
+       <div class="article-tools">
+        <stream-item class="stream-item" data-authors="Marco Iansiti;Karim R. Lakhani" data-content-image="/resources/images/article_assets/2016/11/R1701J_MOHAMED-383x215.jpg" data-content-type="Digital Article" data-id="tag:hbr.org,1922-01-01:201701.154640-R1701J" data-summary="&lt;p&gt;It will take years to transform business, but the journey begins now.&lt;/p&gt;
+" data-title="The Truth About Blockchain" data-topic="Technology" data-url="/2017/01/the-truth-about-blockchain">
+         <ul class="plain-inline-list nowrap">
+          <li class="utility text-center hide-small">
+           <a class="quaternary-color" href="#" js-target="toggle-summary">
+            <span class="toggle-state" data-state="Summary">
+             <i class="icon icon-lg icon-executive-summary">
+             </i>
+             Summary
+            </span>
+            <span class="toggle-state is-hidden" data-state="Full Text">
+             <i class="icon icon-lg icon-full-article">
+             </i>
+             Full Text
+            </span>
+           </a>
+          </li>
+          <li class="utility text-center" data-help-box-target="article-saves">
+           <a class="quaternary-color" href="#" js-target="save-flyout">
+            <i class="icon icon-lg icon-file-text-o">
+            </i>
+            Save
+           </a>
+          </li>
+          <li class="utility text-center has-border-right-for-small">
+           <a class="quaternary-color" href="#" js-target="share-flyout">
+            <i class="icon icon-lg icon-share">
+            </i>
+            Share
+           </a>
+          </li>
+          <li class="utility text-center">
+           <a class="quaternary-color" href="#comment-section">
+            <i class="icon icon-lg icon-comment-o" data-comment-badge="0">
+            </i>
+            <span class="hide-for-small">
+             Comment
+            </span>
+           </a>
+          </li>
+          <li class="utility text-center hide-small">
+           <a class="quaternary-color" href="javascript:window.print();" js-target="print-article">
+            <i class="icon icon-lg icon-print">
+            </i>
+            Print
+           </a>
+          </li>
+          <li class="utility text-center hide-small hide-for-non-subscriber">
+           <a data-reprint-product-id="R1701J-PDF-ENG" href="#" js-target="pdf-download-link">
+            <i class="icon icon-lg icon-download-pdf">
+            </i>
+            PDF
+           </a>
+          </li>
+          <li class="utility text-center">
+           <a data-reprint-product-id="R1701J-PDF-ENG" href="/product/the-truth-about-blockchain/R1701J-PDF-ENG" js-target="buy-reprint-link">
+            <i class="icon">
+             <span class="price--small primary-color">
+              8.95
+             </span>
+            </i>
+            <span class="hide-small">
+             Buy Copies
+            </span>
+           </a>
+          </li>
+         </ul>
+        </stream-item>
+       </div>
+      </div>
+     </div>
+    </div>
+   </section>
+   <div class="row">
+    <div class="content-area--article column">
+     <a name="article-top">
+     </a>
+     <div class="promo--right hide-for-small hide-for-print">
+      <h4 class="mtl hide-for-small">
+       View more from the
+      </h4>
+      <div class="promo-contents hide-for-small">
+       <h6 class="hed mbs">
+        <a href="/archive-toc/BR1701">
+         January–February 2017 Issue
+        </a>
+       </h6>
+       <figure class="medium-magazine-cover mvm">
+        <a href="/archive-toc/BR1701">
+         <img src="/resources/images/covers/BR1701_500.png"/>
+        </a>
+       </figure>
+       <div class="mvm dek">
+        <a class="alt-action" href="/magazine">
+         Explore the Archive
+        </a>
+       </div>
+       <personalization-placement class="personalization-placement" data-placement-id="subscribe">
+       </personalization-placement>
+      </div>
+     </div>
+     <div class="article-executive-summary is-hidden">
+      <h4 class="text-gray-light mbn mt-large2">
+       Executive Summary
+      </h4>
+      <p>
+       Contracts, transactions, and records of them provide critical structure in our economic system, but they haven’t kept up with the world’s digital transformation. They’re like rush-hour gridlock trapping a Formula 1 race car.
+      </p>
+      <p>
+       Blockchain promises to solve this problem. The technology behind bitcoin, blockchain is an open, distributed ledger that records transactions safely, permanently, and very efficiently. For instance, while the transfer of a share of stock can now take up to a week, with blockchain it could happen in seconds. Blockchain could slash the cost of transactions and eliminate intermediaries like lawyers and bankers, and that could transform the economy. But, like the adoption of more internet technologies, blockchain’s adoption will require broad coordination and will take years. In this article the authors describe the path that blockchain is likely to follow and explain how firms should think about investments in it.
+      </p>
+     </div>
+     <div class="article article-first-row premium">
+      <article-ideainbrief class="article-ideainbrief">
+       <h4 class="ideainbrief-title">
+        In Brief
+       </h4>
+       <div class="ideainbrief-contents">
+        <h5>
+         The Hype
+        </h5>
+        <p>
+         We’ve all heard that blockchain will revolutionize business, but it’s going to take a lot longer than many people claim.
+        </p>
+        <h5>
+         The Reason
+        </h5>
+        <p>
+         Like TCP/IP (on which the internet was built), blockchain is a foundational technology that will require broad coordination. The level of complexity—technological, regulatory, and social—will be unprecedented.
+        </p>
+        <h5>
+         The Truth
+        </h5>
+        <p>
+         The adoption of TCP/IP suggests blockchain will follow a fairly predictable path. While the journey will take years, it’s not too early for businesses to start planning.
+        </p>
+       </div>
+      </article-ideainbrief>
+      <div class="translate-message">
+       <a href="/2017/01/the-truth-about-blockchain?language=es">
+        Leer en español
+       </a>
+      </div>
+      <p>
+       Contracts, transactions, and the records of them are among the defining structures in our economic, legal, and political systems. They protect assets and set organizational boundaries. They establish and verify identities and chronicle events. They govern interactions among nations, organizations, communities, and individuals. They guide managerial and social action. And yet these critical tools and the bureaucracies formed to manage them have not kept up with the economy’s digital transformation. They’re like a rush-hour gridlock trapping a Formula 1 race car. In a digital world, the way we regulate and maintain administrative control has to change.
+      </p>
+      <p>
+       Blockchain promises to solve this problem. The technology at the heart of bitcoin and other virtual currencies, blockchain is an open, distributed ledger that can record transactions between two parties efficiently and in a verifiable and permanent way. The ledger itself can also be programmed to trigger transactions automatically. (See the sidebar “How Blockchain Works.”)
+      </p>
+      <article-sidebar class="article-sidebar sidebar--half" data-sidebar-alternate="sidebar">
+       <h4 class="sidebar-title">
+        How Blockchain Works
+       </h4>
+       <div class="sidebar-contents height--collapse">
+        <p>
+         Here are five basic principles underlying the technology.
+        </p>
+        <h5 class="pbn ptm mbn">
+         1. Distributed Database
+        </h5>
+        <p>
+         Each party on a blockchain has access to the entire database and its complete history. No single party controls the data or the information. Every party can verify the records of its transaction partners directly, without an intermediary.
+        </p>
+        <h5 class="pbn ptm mbn">
+         2. Peer-to-Peer Transmission
+        </h5>
+        <p>
+         Communication occurs directly between peers instead of through a central node. Each node stores and forwards information to all other nodes.
+        </p>
+        <h5 class="pbn ptm mbn">
+         3. Transparency with Pseudonymity
+        </h5>
+        <p>
+         Every transaction and its associated value are visible to anyone with access to the system. Each node, or user, on a blockchain has a unique 30-plus-character alphanumeric address that identifies it. Users can choose to remain anonymous or provide proof of their identity to others. Transactions occur between blockchain addresses.
+        </p>
+        <h5 class="pbn ptm mbn">
+         4. Irreversibility of Records
+        </h5>
+        <p>
+         Once a transaction is entered in the database and the accounts are updated, the records cannot be altered, because they’re linked to every transaction record that came before them (hence the term “chain”). Various computational algorithms and approaches are deployed to ensure that the recording on the database is permanent, chronologically ordered, and available to all others on the network.
+        </p>
+        <h5 class="pbn ptm mbn">
+         5. Computational Logic
+        </h5>
+        <p>
+         The digital nature of the ledger means that blockchain transactions can be tied to computational logic and in essence programmed. So users can set up algorithms and rules that automatically trigger transactions between nodes.
+        </p>
+       </div>
+      </article-sidebar>
+      <p>
+       With blockchain, we can imagine a world in which contracts are embedded in digital code and stored in transparent, shared databases, where they are protected from deletion, tampering, and revision. In this world every agreement, every process, every task, and every payment would have a digital record and signature that could be identified, validated, stored, and shared. Intermediaries like lawyers, brokers, and bankers might no longer be necessary. Individuals, organizations, machines, and algorithms would freely transact and interact with one another with little friction. This is the immense potential of blockchain.
+      </p>
+      <p>
+       Indeed, virtually everyone has heard the claim that blockchain will revolutionize business and redefine companies and economies. Although we share the enthusiasm for its potential, we worry about the hype. It’s not just security issues (such as the 2014 collapse of one bitcoin exchange and the more recent hacks of others) that concern us. Our experience studying technological innovation tells us that if there’s to be a blockchain revolution, many barriers—technological, governance, organizational, and even societal—will have to fall. It would be a mistake to rush headlong into blockchain innovation without understanding how it is likely to take hold.
+      </p>
+      <p>
+       True blockchain-led transformation of business and government, we believe, is still many years away. That’s because blockchain is not a “disruptive” technology, which can attack a traditional business model with a lower-cost solution and overtake incumbent firms quickly. Blockchain is a
+       <em>
+        foundational
+       </em>
+       technology: It has the potential to create new foundations for our economic and social systems. But while the impact will be enormous, it will take decades for blockchain to seep into our economic and social infrastructure. The process of adoption will be gradual and steady, not sudden, as waves of technological and institutional change gain momentum. That insight and its strategic implications are what we’ll explore in this article.
+      </p>
+      <h2>
+       Patterns of Technology Adoption
+      </h2>
+      <p>
+       Before jumping into blockchain strategy and investment, let’s reflect on what we know about technology adoption and, in particular, the transformation process typical of other foundational technologies. One of the most relevant examples is distributed computer networking technology, seen in the adoption of TCP/IP (transmission control protocol/internet protocol), which laid the groundwork for the development of the internet.
+      </p>
+      <p>
+       Introduced in 1972, TCP/IP first gained traction in a
+       <em>
+        single-use
+       </em>
+       case: as the basis for e-mail among the researchers on ARPAnet, the U.S. Department of Defense precursor to the commercial internet. Before TCP/IP, telecommunications architecture was based on “circuit switching,” in which connections between two parties or machines had to be preestablished and sustained throughout an exchange. To ensure that any two nodes could communicate, telecom service providers and equipment manufacturers had invested billions in building dedicated lines.
+      </p>
+      <p>
+       TCP/IP turned that model on its head. The new protocol transmitted information by digitizing it and breaking it up into very small packets, each including address information. Once released into the network, the packets could take any route to the recipient. Smart sending and receiving nodes at the network’s edges could disassemble and reassemble the packets and interpret the encoded data. There was no need for dedicated private lines or massive infrastructure. TCP/IP created an open, shared public network without any central authority or party responsible for its maintenance and improvement.
+      </p>
+      <article-promo class="article-promo promo--half">
+       <h4 class="promo-title">
+        This article also appears in:
+       </h4>
+       <div class="promo-contents">
+        <ul>
+         <li>
+          <div class="overflow-auto">
+           <figure class="left product-thumb">
+            <img src="/resources/images/article_assets/2019/05/10285_500.png"/>
+           </figure>
+           <div class="product-thumb-margin">
+            <h6 class="hed mbs">
+             <a href="/product/blockchain-the-insights-you-need-from-harvard-business-review/10282E-KND-ENG?referral=02559">
+              Blockchain: The Insights You Need from Harvard Business Review
+             </a>
+            </h6>
+            <div class="stream-item-info">
+             <span class="topic">
+              Technology and Operations
+             </span>
+             <span class="content-type">
+              Book
+             </span>
+             <ul class="byline byline-list line-height-tight">
+             </ul>
+             <!-- author could be none, one or many. If none, delete the full line above. If many, add <li>AUTHOR</li> before final </ul> for each additional author. No spaces or commas. -->
+             <div class="mvs">
+              <span class="price">
+               22.95
+              </span>
+              <add-to-cart class="add-to-cart is-inline-block" data-product-author="" data-product-content-type="Book" data-product-format="English Paperback" data-product-id="10282E-KND-ENG" data-product-image="/resources/images/article_assets/2019/05/10285_500.png" data-product-major-topic="Technology and Operations" data-product-price="22.95" data-product-title="Blockchain: The Insights You Need from Harvard Business Review" data-product-url="/product/blockchain-the-insights-you-need-from-harvard-business-review/10282E-KND-ENG?referral=02559" data-type="Digital">
+               <input js-target="item-quantity" type="hidden" value="1"/>
+               <a class="alt-action pts mls" href="#" js-target="add">
+                Add to Cart
+               </a>
+              </add-to-cart>
+             </div>
+             <stream-item class="stream-item" data-authors="" data-content-type="Book" data-id="10282E-KND-ENG" data-image="/resources/images/article_assets/2019/05/10285_500.png" data-item-activity="false" data-item-selectable="false" data-summary="Can blockchain solve your biggest business problem? While the world is transfixed by bitcoin mania, your competitors are tuning out the noise and making strategic bets on blockchain. Your rivals are effortlessly tracking every last link in their supply chains. They're making bureaucratic paper trails obsolete while keeping their customers' data safer and discovering new ways to use this next foundational technology to sustain their competitive advantage." data-title="Blockchain: The Insights You Need from Harvard Business Review" data-topic="Technology and Operations" data-url="/product/blockchain-the-insights-you-need-from-harvard-business-review/10282E-KND-ENG?referral=02559">
+              <!-- utility -->
+              <ul class="stream-utility">
+               <li class="utility util-save">
+                <a href="#" js-target="save-flyout">
+                 <i class="icon icon-file-text-o">
+                 </i>
+                 Save
+                </a>
+               </li>
+               <li class="utility util-share">
+                <a href="#" js-target="share-flyout">
+                 <i class="icon icon-share-square-o">
+                 </i>
+                 Share
+                </a>
+               </li>
+              </ul>
+             </stream-item>
+            </div>
+           </div>
+          </div>
+         </li>
+        </ul>
+       </div>
+      </article-promo>
+      <p>
+       Traditional telecommunications and computing sectors looked on TCP/IP with skepticism. Few imagined that robust data, messaging, voice, and video connections could be established on the new architecture or that the associated system could be secure and scale up. But during the late 1980s and 1990s, a growing number of firms, such as Sun, NeXT, Hewlett-Packard, and Silicon Graphics, used TCP/IP, in part to create
+       <em>
+        localized
+       </em>
+       private networks within organizations. To do so, they developed building blocks and tools that broadened its use beyond e-mail, gradually replacing more-traditional local network technologies and standards. As organizations adopted these building blocks and tools, they saw dramatic gains in productivity.
+      </p>
+      <p>
+       TCP/IP burst into broad public use with the advent of the World Wide Web in the mid-1990s. New technology companies quickly emerged to provide the “plumbing”—the hardware, software, and services needed to connect to the now-public network and exchange information. Netscape commercialized browsers, web servers, and other tools and components that aided the development and adoption of internet services and applications. Sun drove the development of Java, the application-programming language. As information on the web grew exponentially, Infoseek, Excite, AltaVista, and Yahoo were born to guide users around it.
+      </p>
+      <div class="remove-gutter clear-both">
+       <section class="promo--edgeful mbl clearfix backdrop-darker">
+        <div class="row">
+         <div class="small-12 column text-center">
+          <div class="mvs ad-container">
+           <div id="DFP_IC_pos7">
+            <script type="text/javascript">
+             googletag.cmd.push(function() { googletag.display("DFP_IC_pos7"); });
+            </script>
+           </div>
+          </div>
+         </div>
+        </div>
+       </section>
+      </div>
+      <p>
+       Once this basic infrastructure gained critical mass, a new generation of companies took advantage of low-cost connectivity by creating internet services that were compelling
+       <em>
+        substitutes
+       </em>
+       for existing businesses. CNET moved news online. Amazon offered more books for sale than any bookshop. Priceline and Expedia made it easier to buy airline tickets and brought unprecedented transparency to the process. The ability of these newcomers to get extensive reach at relatively low cost put significant pressure on traditional businesses like newspapers and brick-and-mortar retailers.
+      </p>
+      <p>
+       Relying on broad internet connectivity, the next wave of companies created novel,
+       <em>
+        transformative
+       </em>
+       applications that fundamentally changed the way businesses created and captured value. These companies were built on a new peer-to-peer architecture and generated value by coordinating distributed networks of users. Think of how eBay changed online retail through auctions, Napster changed the music industry, Skype changed telecommunications, and Google, which exploited user-generated links to provide more relevant results, changed web search.
+      </p>
+      <div class="article-callout">
+       <div class="callout-contents">
+        <p>
+         <span class="callout">
+          Companies are already using blockchain to track items through complex supply chains.
+         </span>
+        </p>
+       </div>
+      </div>
+      <p>
+       Ultimately, it took more than 30 years for TCP/IP to move through all the phases—single use, localized use, substitution, and transformation—and reshape the economy. Today more than half the world’s most valuable public companies have internet-driven, platform-based business models. The very foundations of our economy have changed. Physical scale and unique intellectual property no longer confer unbeatable advantages; increasingly, the economic leaders are enterprises that act as “keystones,” proactively organizing, influencing, and coordinating widespread networks of communities, users, and organizations.
+      </p>
+      <h2>
+       The New Architecture
+      </h2>
+      <p>
+       Blockchain—a peer-to-peer network that sits on top of the internet—was introduced in October 2008 as part of a proposal for bitcoin, a virtual currency system that eschewed a central authority for issuing currency, transferring ownership, and confirming transactions. Bitcoin is the first application of blockchain technology.
+      </p>
+      <p>
+       The parallels between blockchain and TCP/IP are clear. Just as e-mail enabled bilateral messaging, bitcoin enables bilateral financial transactions. The development and maintenance of blockchain is open, distributed, and shared—just like TCP/IP’s. A team of volunteers around the world maintains the core software. And just like e-mail, bitcoin first caught on with an enthusiastic but relatively small community.
+      </p>
+      <p>
+       TCP/IP unlocked new economic value by dramatically lowering the cost of connections. Similarly, blockchain could dramatically reduce the cost of transactions. It has the potential to become the system of record for all transactions. If that happens, the economy will once again undergo a radical shift, as new, blockchain-based sources of influence and control emerge.
+      </p>
+      <p>
+       Consider how business works now. Keeping ongoing records of transactions is a core function of any business. Those records track past actions and performance and guide planning for the future. They provide a view not only of how the organization works internally but also of the organization’s outside relationships. Every organization keeps its own records, and they’re private. Many organizations have no master ledger of all their activities; instead records are distributed across internal units and functions. The problem is, reconciling transactions across individual and private ledgers takes a lot of time and is prone to error.
+      </p>
+      <p>
+       For example, a typical stock transaction can be executed within microseconds, often without human intervention. However, the settlement—the ownership transfer of the stock—can take as long as a week. That’s because the parties have no access to each other’s ledgers and can’t automatically verify that the assets are in fact owned and can be transferred. Instead a series of intermediaries act as guarantors of assets as the record of the transaction traverses organizations and the ledgers are individually updated.
+      </p>
+      <p>
+       In a blockchain system, the ledger is replicated in a large number of identical databases, each hosted and maintained by an interested party. When changes are entered in one copy, all the other copies are simultaneously updated. So as transactions occur, records of the value and assets exchanged are permanently entered in all ledgers. There is no need for third-party intermediaries to verify or transfer ownership. If a stock transaction took place on a blockchain-based system, it would be settled within seconds, securely and verifiably. (The infamous hacks that have hit bitcoin exchanges exposed weaknesses not in the blockchain itself but in separate systems linked to parties using the blockchain.)
+      </p>
+      <h2>
+       A Framework for Blockchain Adoption
+      </h2>
+      <p>
+       If bitcoin is like early e-mail, is blockchain decades from reaching its full potential? In our view the answer is a qualified yes. We can’t predict exactly how many years the transformation will take, but we can guess which kinds of applications will gain traction first and how blockchain’s broad acceptance will eventually come about.
+      </p>
+      <article-sidebar class="article-sidebar sidebar--half" data-sidebar-alternate="sidebar">
+       <h4 class="sidebar-title">
+        How Foundational Technologies Take Hold
+       </h4>
+       <div class="sidebar-contents height--collapse">
+        <p>
+         The adoption of foundational technologies typically happens in four phases. Each phase is defined by the novelty of the applications and the complexity of the coordination efforts needed to make them workable. Applications low in novelty and complexity gain acceptance first. Applications high in novelty and complexity take decades to evolve but can transform the economy. TCP/IP technology, introduced on ARPAnet in 1972, has already reached the transformation phase, but blockchain applications (in red) are in their early days.
+        </p>
+        <table border="0" class="has-white-bg has-no-border" width="100%">
+         <tbody>
+          <tr class="has-white-bg">
+           <td colspan="2">
+            <div class="ptl ppm">
+             <img alt="R1701J_IANSITI_FOUNDATIONALTECHHOLD" class="alignnone size-full wp-image-157060" height="" sizes="(min-width: 48em) 55.7291667vw, 97.3924381vw" src="/resources/images/article_assets/2016/12/R1701J_IANSITI_FOUNDATIONALTECHHOLD.png" srcset="/resources/images/article_assets/2016/12/R1701J_IANSITI_FOUNDATIONALTECHHOLD-250x300.png 250w, /resources/images/article_assets/2016/12/R1701J_IANSITI_FOUNDATIONALTECHHOLD-383x459.png 383w, /resources/images/article_assets/2016/12/R1701J_IANSITI_FOUNDATIONALTECHHOLD-500x599.png 500w, /resources/images/article_assets/2016/12/R1701J_IANSITI_FOUNDATIONALTECHHOLD.png 640w" width="320"/>
+            </div>
+           </td>
+          </tr>
+         </tbody>
+        </table>
+       </div>
+      </article-sidebar>
+      <p>
+       In our analysis, history suggests that two dimensions affect how a foundational technology and its business use cases evolve. The first is novelty—the degree to which an application is new to the world. The more novel it is, the more effort will be required to ensure that users understand what problems it solves. The second dimension is complexity, represented by the level of ecosystem coordination involved—the number and diversity of parties that need to work together to produce value with the technology. For example, a social network with just one member is of little use; a social network is worthwhile only when many of your own connections have signed on to it. Other users of the application must be brought on board to generate value for all participants. The same will be true for many blockchain applications. And, as the scale and impact of those applications increase, their adoption will require significant institutional change.
+      </p>
+      <div class="remove-gutter clear-both">
+       <section class="promo--edgeful mbl clearfix backdrop-darker">
+        <div class="row">
+         <div class="small-12 column text-center">
+          <div class="mvs ad-container">
+           <div id="DFP_IC_pos8">
+            <script type="text/javascript">
+             googletag.cmd.push(function() { googletag.display("DFP_IC_pos8"); });
+            </script>
+           </div>
+          </div>
+         </div>
+        </div>
+       </section>
+      </div>
+      <p>
+       We’ve developed a framework that maps innovations against these two contextual dimensions, dividing them into quadrants. (See the exhibit “How Foundational Technologies Take Hold.”) Each quadrant represents a stage of technology development. Identifying which one a blockchain innovation falls into will help executives understand the types of challenges it presents, the level of collaboration and consensus it needs, and the legislative and regulatory efforts it will require. The map will also suggest what kind of processes and infrastructure must be established to facilitate the innovation’s adoption. Managers can use it to assess the state of blockchain development in any industry, as well as to evaluate strategic investments in their own blockchain capabilities.
+      </p>
+      <h3>
+       Single use.
+      </h3>
+      <p>
+       In the first quadrant are low-novelty and low-coordination applications that create better, less costly, highly focused solutions. E-mail, a cheap alternative to phone calls, faxes, and snail mail, was a single-use application for TCP/IP (even though its value rose with the number of users). Bitcoin, too, falls into this quadrant. Even in its early days, bitcoin offered immediate value to the few people who used it simply as an alternative payment method. (You can think of it as a complex e-mail that transfers not just information but also actual value.) At the end of 2016 the value of bitcoin transactions was expected to hit $92 billion. That’s still a rounding error compared with the $411 trillion in total global payments, but bitcoin is growing fast and increasingly important in contexts such as instant payments and foreign currency and asset trading, where the present financial system has limitations.
+      </p>
+      <h3>
+       Localization.
+      </h3>
+      <p>
+       The second quadrant comprises innovations that are relatively high in novelty but need only a limited number of users to create immediate value, so it’s still relatively easy to promote their adoption. If blockchain follows the path network technologies took in business, we can expect blockchain innovations to build on single-use applications to create local private networks on which multiple organizations are connected through a distributed ledger.
+      </p>
+      <div>
+       <img alt="R1701J_MOHAMED_A.jpg" class="alignleft size-full wp-image-154649" height="" sizes="(min-width: 48em) 55.7291667vw, 97.3924381vw" src="/resources/images/article_assets/2016/11/R1701J_MOHAMED_A.jpg" srcset="/resources/images/article_assets/2016/11/R1701J_MOHAMED_A-150x150.jpg 150w, /resources/images/article_assets/2016/11/R1701J_MOHAMED_A-300x300.jpg 300w, /resources/images/article_assets/2016/11/R1701J_MOHAMED_A-383x383.jpg 383w, /resources/images/article_assets/2016/11/R1701J_MOHAMED_A-500x500.jpg 500w, /resources/images/article_assets/2016/11/R1701J_MOHAMED_A-32x32.jpg 32w, /resources/images/article_assets/2016/11/R1701J_MOHAMED_A-64x64.jpg 64w, /resources/images/article_assets/2016/11/R1701J_MOHAMED_A-96x96.jpg 96w, /resources/images/article_assets/2016/11/R1701J_MOHAMED_A-128x128.jpg 128w, /resources/images/article_assets/2016/11/R1701J_MOHAMED_A-110x110.jpg 110w, /resources/images/article_assets/2016/11/R1701J_MOHAMED_A.jpg 540w" width="270"/>
+      </div>
+      <p>
+       Much of the initial private blockchain-based development is taking place in the financial services sector, often within small networks of firms, so the coordination requirements are relatively modest. Nasdaq is working with Chain.com, one of many blockchain infrastructure providers, to offer technology for processing and validating financial transactions. Bank of America, JPMorgan, the New York Stock Exchange, Fidelity Investments, and Standard Chartered are testing blockchain technology as a replacement for paper-based and manual transaction processing in such areas as trade finance, foreign exchange, cross-border settlement, and securities settlement. The Bank of Canada is testing a digital currency called CAD-coin for interbank transfers. We anticipate a proliferation of private blockchains that serve specific purposes for various industries.
+      </p>
+      <h3>
+       Substitution.
+      </h3>
+      <p>
+       The third quadrant contains applications that are relatively low in novelty because they build on existing single-use and localized applications, but are high in coordination needs because they involve broader and increasingly public uses. These innovations aim to replace entire ways of doing business. They face high barriers to adoption, however; not only do they require more coordination but the processes they hope to replace may be full-blown and deeply embedded within organizations and institutions. Examples of substitutes include cryptocurrencies—new, fully formed currency systems that have grown out of the simple bitcoin payment technology. The critical difference is that a cryptocurrency requires every party that does monetary transactions to adopt it, challenging governments and institutions that have long handled and overseen such transactions. Consumers also have to change their behavior and understand how to implement the new functional capability of the cryptocurrency.
+      </p>
+      <p>
+       A recent experiment at MIT highlights the challenges ahead for digital currency systems. In 2014 the MIT Bitcoin Club provided each of MIT’s 4,494 undergraduates with $100 in bitcoin. Interestingly, 30% of the students did not even sign up for the free money, and 20% of the sign-ups converted the bitcoin to cash within a few weeks. Even the technically savvy had a tough time understanding how or where to use bitcoin.
+      </p>
+      <p>
+       One of the most ambitious substitute blockchain applications is Stellar, a nonprofit that aims to bring affordable financial services, including banking, micropayments, and remittances, to people who’ve never had access to them. Stellar offers its own virtual currency, lumens, and also allows users to retain on its system a range of assets, including other currencies, telephone minutes, and data credits. Stellar initially focused on Africa, particularly Nigeria, the largest economy there. It has seen significant adoption among its target population and proved its cost-effectiveness. But its future is by no means certain, because the ecosystem coordination challenges are high. Although grassroots adoption has demonstrated the viability of Stellar, to become a banking standard, it will need to influence government policy and persuade central banks and large organizations to use it. That could take years of concerted effort.
+      </p>
+      <article-sidebar class="article-sidebar sidebar--half" data-sidebar-alternate="sidebar">
+       <h4 class="sidebar-title">
+        Further Reading
+       </h4>
+       <div class="sidebar-contents height--collapse">
+        <p>
+         <span class="dek">
+          To learn more about technology adoption, go to these articles on
+          <a href="https://hbr.org">
+           HBR.org:
+          </a>
+         </span>
+        </p>
+        <p>
+         <a href="/2014/11/digital-ubiquity-how-connections-sensors-and-data-are-revolutionizing-business">
+          “Digital Ubiquity: How Connections, Sensors, and Data Are Revolutionizing Business”
+         </a>
+         <br/>
+         <span class="mediaauthor">
+          Marco Iansiti and Karim R. Lakhani
+         </span>
+        </p>
+        <p>
+         <a href="/2004/03/strategy-as-ecology">
+          “Strategy as Ecology”
+         </a>
+         <br/>
+         <span class="mediaauthor">
+          Marco Iansiti and Roy Levien
+         </span>
+        </p>
+        <p>
+         <a href="/2016/11/right-tech-wrong-time">
+          “Right Tech, Wrong Time”
+         </a>
+         <br/>
+         <span class="mediaauthor">
+          Ron Adner and Rahul Kapoor
+         </span>
+        </p>
+       </div>
+      </article-sidebar>
+      <h3>
+       Transformation.
+      </h3>
+      <p>
+       Into the last quadrant fall completely novel applications that, if successful, could change the very nature of economic, social, and political systems. They involve coordinating the activity of many actors and gaining institutional agreement on standards and processes. Their adoption will require major social, legal, and political change.
+      </p>
+      <p>
+       “Smart contracts” may be the most transformative blockchain application at the moment. These automate payments and the transfer of currency or other assets as negotiated conditions are met. For example, a smart contract might send a payment to a supplier as soon as a shipment is delivered. A firm could signal via blockchain that a particular good has been received—or the product could have GPS functionality, which would automatically log a location update that, in turn, triggered a payment. We’ve already seen a few early experiments with such self-executing contracts in the areas of venture funding, banking, and digital rights management.
+      </p>
+      <p>
+       The implications are fascinating. Firms are built on contracts, from incorporation to buyer-supplier relationships to employee relations. If contracts are automated, then what will happen to traditional firm structures, processes, and intermediaries like lawyers and accountants? And what about managers? Their roles would all radically change. Before we get too excited here, though, let’s remember that we are decades away from the widespread adoption of smart contracts. They cannot be effective, for instance, without institutional buy-in. A tremendous degree of coordination and clarity on how smart contracts are designed, verified, implemented, and enforced will be required. We believe the institutions responsible for those daunting tasks will take a long time to evolve. And the technology challenges—especially security—are daunting.
+      </p>
+      <h2>
+       Guiding Your Approach to Blockchain Investment
+      </h2>
+      <p>
+       How should executives think about blockchain for their own organizations? Our framework can help companies identify the right opportunities.
+      </p>
+      <div class="remove-gutter clear-both">
+       <section class="promo--edgeful mbl clearfix backdrop-darker">
+        <div class="row">
+         <div class="small-12 column text-center">
+          <div class="mvs ad-container">
+           <div id="DFP_IC_pos9">
+            <script type="text/javascript">
+             googletag.cmd.push(function() { googletag.display("DFP_IC_pos9"); });
+            </script>
+           </div>
+          </div>
+         </div>
+        </div>
+       </section>
+      </div>
+      <p>
+       For most, the easiest place to start is single-use applications, which minimize risk because they aren’t new and involve little coordination with third parties. One strategy is to add bitcoin as a payment mechanism. The infrastructure and market for bitcoin are already well developed, and adopting the virtual currency will force a variety of functions, including IT, finance, accounting, sales, and marketing, to build blockchain capabilities. Another low-risk approach is to use blockchain internally as a database for applications like managing physical and digital assets, recording internal transactions, and verifying identities. This may be an especially useful solution for companies struggling to reconcile multiple internal databases. Testing out single-use applications will help organizations develop the skills they need for more-advanced applications. And thanks to the emergence of cloud-based blockchain services from both start-ups and large platforms like Amazon and Microsoft, experimentation is getting easier all the time.
+      </p>
+      <article-promo class="article-promo promo--half">
+       <h4 class="promo-title">
+        This article also appears in:
+       </h4>
+       <div class="promo-contents">
+        <ul>
+         <li>
+          <div class="overflow-auto">
+           <figure class="left product-thumb">
+            <img src="/resources/images/article_assets/2019/01/MR-AI-Analytics-and-the-New-Machine-Age.png"/>
+           </figure>
+           <div class="product-thumb-margin">
+            <h6 class="hed mbs">
+             <a href="/product/hbr-s-10-must-reads-on-ai-analytics-and-the-new-machine-age-with-bonus-article-why-every-company-needs-an-augmented-reality-strategy-by-michael-e-porter-and-james-e-heppelmann/10234E-KND-ENG?referral=02559">
+              HBR’s 10 Must Reads on AI, Analytics, and the New Machine Age
+             </a>
+            </h6>
+            <div class="stream-item-info">
+             <span class="topic">
+              Technology &amp; Operations
+             </span>
+             <span class="content-type">
+              BOOK
+             </span>
+             <ul class="byline byline-list line-height-tight">
+             </ul>
+             <!-- author could be none, one or many. If none, delete the full line above. If many, add <li>AUTHOR</li> before final </ul> for each additional author. No spaces or commas. -->
+             <div class="mvs">
+              <span class="price">
+               24.95
+              </span>
+              <add-to-cart class="add-to-cart is-inline-block" data-product-author="" data-product-content-type="BOOK" data-product-format="English Paperback" data-product-id="10234-PBK-ENG" data-product-image="/resources/images/article_assets/2019/01/MR-AI-Analytics-and-the-New-Machine-Age.png" data-product-major-topic="Technology &amp; Operations" data-product-price="24.95" data-product-title="HBR's 10 Must Reads on AI, Analytics, and the New Machine Age" data-product-url="/product/hbr-s-10-must-reads-on-ai-analytics-and-the-new-machine-age-with-bonus-article-why-every-company-needs-an-augmented-reality-strategy-by-michael-e-porter-and-james-e-heppelmann/10234E-KND-ENG?referral=02559" data-type="Digital">
+               <input js-target="item-quantity" type="hidden" value="1"/>
+               <a class="alt-action pts mls" href="#" js-target="add">
+                Add to Cart
+               </a>
+              </add-to-cart>
+             </div>
+             <stream-item class="stream-item" data-authors="" data-content-type="BOOK" data-id="10234-PBK-ENG" data-image="/resources/images/article_assets/2019/01/MR-AI-Analytics-and-the-New-Machine-Age.png" data-item-activity="false" data-item-selectable="false" data-summary="Machine learning and data analytics are powering a wave of groundbreaking technologies. Is your company ready?" data-title="HBR's 10 Must Reads on AI, Analytics, and the New Machine Age" data-topic="Technology &amp; Operations" data-url="/product/hbr-s-10-must-reads-on-ai-analytics-and-the-new-machine-age-with-bonus-article-why-every-company-needs-an-augmented-reality-strategy-by-michael-e-porter-and-james-e-heppelmann/10234E-KND-ENG?referral=02559">
+              <!-- utility -->
+              <ul class="stream-utility">
+               <li class="utility util-save">
+                <a href="#" js-target="save-flyout">
+                 <i class="icon icon-file-text-o">
+                 </i>
+                 Save
+                </a>
+               </li>
+               <li class="utility util-share">
+                <a href="#" js-target="share-flyout">
+                 <i class="icon icon-share-square-o">
+                 </i>
+                 Share
+                </a>
+               </li>
+              </ul>
+             </stream-item>
+            </div>
+           </div>
+          </div>
+         </li>
+        </ul>
+       </div>
+      </article-promo>
+      <p>
+       Localized applications are a natural next step for companies. We’re seeing a lot of investment in private blockchain networks right now, and the projects involved seem poised for real short-term impact. Financial services companies, for example, are finding that the private blockchain networks they’ve set up with a limited number of trusted counterparties can significantly reduce transaction costs.
+      </p>
+      <p>
+       Organizations can also tackle specific problems in transactions across boundaries with localized applications. Companies are already using blockchain to track items through complex supply chains, for instance. This is happening in the diamond industry, where gems are being traced from mines to consumers. The technology for such experiments is now available off-the-shelf.
+      </p>
+      <p>
+       Developing substitute applications requires careful planning, since existing solutions may be difficult to dislodge. One way to go may be to focus on replacements that won’t require end users to change their behavior much but present alternatives to expensive or unattractive solutions. To get traction, substitutes must deliver functionality as good as a traditional solution’s and must be easy for the ecosystem to absorb and adopt. First Data’s foray into blockchain-based gift cards is a good example of a well-considered substitute. Retailers that offer them to consumers can dramatically lower costs per transaction and enhance security by using blockchain to track the flows of currency within accounts—without relying on external payment processors. These new gift cards even allow transfers of balances and transaction capability between merchants via the common ledger.
+      </p>
+      <div class="article-callout">
+       <div class="callout-contents">
+        <p>
+         <span class="callout">
+          Blockchain could slash the cost of transactions and reshape the economy.
+         </span>
+        </p>
+       </div>
+      </div>
+      <p>
+       Transformative applications are still far away. But it makes sense to evaluate their possibilities now and invest in developing technology that can enable them. They will be most powerful when tied to a new business model in which the logic of value creation and capture departs from existing approaches. Such business models are hard to adopt but can unlock future growth for companies.
+      </p>
+      <p>
+       Consider how law firms will have to change to make smart contracts viable. They’ll need to develop new expertise in software and blockchain programming. They’ll probably also have to rethink their hourly payment model and entertain the idea of charging transaction or hosting fees for contracts, to name just two possible approaches. Whatever tack they take, executives must be sure they understand and have tested the business model implications before making any switch.
+      </p>
+      <p>
+       Transformative scenarios will take off last, but they will also deliver enormous value. Two areas where they could have a profound impact: large-scale public identity systems for such functions as passport control, and algorithm-driven decision making in the prevention of money laundering and in complex financial transactions that involve many parties. We expect these applications won’t reach broad adoption and critical mass for at least another decade and probably more.
+      </p>
+      <p>
+       Transformative applications will also give rise to new platform-level players that will coordinate and govern the new ecosystems. These will be the Googles and Facebooks of the next generation. It will require patience to realize such opportunities. Though it may be premature to start making significant investments in them now, developing the required foundations for them—tools and standards—is still worthwhile.
+      </p>
+      <h3>
+       CONCLUSION
+      </h3>
+      <p>
+       In addition to providing a good template for blockchain’s adoption, TCP/IP has most likely smoothed the way for it. TCP/IP has become ubiquitous, and blockchain applications are being built on top of the digital data, communication, and computation infrastructure, which lowers the cost of experimentation and will allow new use cases to emerge rapidly.
+      </p>
+      <p>
+       With our framework, executives can figure out where to start building their organizational capabilities for blockchain today. They need to ensure that their staffs learn about blockchain, to develop company-specific applications across the quadrants we’ve identified, and to invest in blockchain infrastructure.
+      </p>
+      <p>
+       But given the time horizons, barriers to adoption, and sheer complexity involved in getting to TCP/IP levels of acceptance, executives should think carefully about the risks involved in experimenting with blockchain. Clearly, starting small is a good way to develop the know-how to think bigger. But the level of investment should depend on the context of the company and the industry. Financial services companies are already well down the road to blockchain adoption. Manufacturing is not.
+      </p>
+      <p>
+       No matter what the context, there’s a strong possibility that blockchain will affect your business. The very big question is when.
+      </p>
+      <!-- citation -->
+      <div class="mvm description-text hbrgray, line-height-tight">
+       A version of this article appeared in the
+       <a href="/archive-toc/BR1701">
+        January–February 2017
+       </a>
+       issue (pp.118–127) of
+       <em>
+        Harvard Business Review
+       </em>
+       .
+      </div>
+     </div>
+    </div>
+   </div>
+   <section class="authors mvl" js-target="authors-section">
+    <div class="row">
+     <div class="content-area--article column">
+      <hr/>
+      <div class="is-inline-block width-100pct">
+       <img alt="" class="left mrl" src="/resources/images/article_assets/2014/08/110-Marco_Iansiti.jpg"/>
+       <p class="mbn description-text space-for-headshot">
+        <a class="font-size-22" href="/search?term=marco%20iansiti&amp;search_type=search-all">
+         Marco Iansiti
+        </a>
+        is the David Sarnoff Professor of Business Administration at Harvard Business School, where he heads the Technology and Operations Management Unit and the Digital Initiative. He has advised many companies in the technology sector, including Microsoft, Facebook, and Amazon. He is a coauthor (with Karim Lakhani) of the book
+        <a href="https://www.amazon.com/Competing-Age-AI-Leadership-Algorithms-ebook/dp/B07MWCTNSD/ref=sr_1_3?gclid=EAIaIQobChMI7tnymKqa5gIVEZ6fCh1ObwkQEAAYASAAEgKBXPD_BwE&amp;hvadid=384294111304&amp;hvdev=c&amp;hvlocphy=9001997&amp;hvnetw=g&amp;hvpos=1t1&amp;hvqmt=b&amp;hvrand=16994349140959334205&amp;hvtargid=aud-840076997981%3Akwd-828909153353&amp;hydadcr=21298_10155333&amp;keywords=competing+in+the+age+of+ai&amp;qid=1575405338&amp;sr=8-3" rel="noopener" target="_blank">
+         <em>
+          Competing in the Age of AI
+         </em>
+        </a>
+        (Harvard Business Review Press, 2020).
+       </p>
+      </div>
+      <hr/>
+      <div class="is-inline-block width-100pct">
+       <img alt="" class="left mrl" src="/resources/images/article_assets/2010/08/110-Karim_Lakhani.jpg"/>
+       <p class="mbn description-text space-for-headshot">
+        <a class="font-size-22" href="/search?term=karim%20r.%20lakhani&amp;search_type=search-all">
+         Karim R. Lakhani
+        </a>
+        is the Charles Edward Wilson Professor of Business Administration and the Dorothy and Michael Hintze Fellow at Harvard Business School and the founder and codirector of the Laboratory for Innovation Science at Harvard. He is a coauthor (with Marco Iansiti) of the book
+        <a href="https://www.amazon.com/Competing-Age-AI-Leadership-Algorithms-ebook/dp/B07MWCTNSD/ref=sr_1_3?gclid=EAIaIQobChMI7tnymKqa5gIVEZ6fCh1ObwkQEAAYASAAEgKBXPD_BwE&amp;hvadid=384294111304&amp;hvdev=c&amp;hvlocphy=9001997&amp;hvnetw=g&amp;hvpos=1t1&amp;hvqmt=b&amp;hvrand=16994349140959334205&amp;hvtargid=aud-840076997981%3Akwd-828909153353&amp;hydadcr=21298_10155333&amp;keywords=competing+in+the+age+of+ai&amp;qid=1575405338&amp;sr=8-3" rel="noopener" target="_blank">
+         <em>
+          Competing in the Age of AI
+         </em>
+        </a>
+        (Harvard Business Review Press, 2020).
+       </p>
+      </div>
+      <hr/>
+     </div>
+    </div>
+   </section>
+   <section class="tagged mvl pvl">
+    <div class="row">
+     <div class="content-area--article column">
+      <h6>
+       This article is about
+       <a class="topic--large" href="/topic/technology">
+        TECHNOLOGY
+       </a>
+      </h6>
+      <div>
+       <follow-subscribe class="follow-topic" data-activity="topic" data-name="Technology">
+        <div class="follow-this">
+         <a data-method="follow" href="#" js-target="enable-this">
+          <i class="icon icon-follow-this font-size-xsmall">
+          </i>
+          Follow this topic
+         </a>
+        </div>
+        <div class="unfollow-this">
+         <a data-method="unfollow" href="#" js-target="disable-this">
+          <i class="icon icon-unfollow-this font-size-xsmall">
+          </i>
+          Following
+         </a>
+        </div>
+       </follow-subscribe>
+      </div>
+     </div>
+    </div>
+   </section>
+   <personalization-placement class="personalization-placement" data-placement-id="bottom">
+    <div class="container mvl">
+     <div class="text-center island">
+      <div class="loading mrl is-inline-block">
+       <div class="pie rotation">
+       </div>
+       <div class="pie filler">
+       </div>
+       <div class="mask">
+       </div>
+      </div>
+      <span class="is-inline-block mtm lighter-gray font-light font-size-xlarge">
+       Loading...
+      </span>
+     </div>
+    </div>
+   </personalization-placement>
+   <personalization-placement class="personalization-placement" data-placement-id="books_recirc">
+    <div class="container mvl">
+     <div class="text-center island">
+      <div class="loading mrl is-inline-block">
+       <div class="pie rotation">
+       </div>
+       <div class="pie filler">
+       </div>
+       <div class="mask">
+       </div>
+      </div>
+      <span class="is-inline-block mtm lighter-gray font-light font-size-xlarge">
+       Loading...
+      </span>
+     </div>
+    </div>
+   </personalization-placement>
+   <a class="comments-anchor" name="comment-section">
+   </a>
+   <article-comments class="article-comments backdrop-lighter-2 clearfix" data-category-id="" data-gigya-id="tag:hbr.org,1922-01-01:201701.154640-R1701J" data-is-first-time="true">
+    <article-comments-post class="article-comments-post">
+    </article-comments-post>
+    <article-comments-legend class="article-comments-legend">
+    </article-comments-legend>
+    <article-comments-list class="article-comments-list">
+    </article-comments-list>
+   </article-comments>
+  </div>
+ </article-content>
+ <div class="is-hidden" js-target="slider-promo-content">
+  <personalization-placement class="personalization-placement pvl phm clearfix" data-placement-id="article_slider_engage">
+  </personalization-placement>
+ </div>
+ <div class="is-hidden" js-target="exit-popup-slider-content">
+  <personalization-placement class="personalization-placement pvl phm text-center clearfix" data-placement-id="exit_popup_slider">
+  </personalization-placement>
+ </div>
+</div>
+<div class="component" data-moveable="false" data-order="5" data-params="region=site-paywall" data-type="webscript" id="">
+</div>
+<div class="component" data-moveable="false" data-order="97" data-params="region=openx;location=partner-center" data-type="webscript" id="">
+ <section class="partner-center row clearfix" js-target="openx-container">
+  <div class="column cushion partner-center__container">
+   <div class="row">
+    <div class="small-12 column">
+     <h4 class="section-label">
+      Partner Center
+     </h4>
+    </div>
+   </div>
+   <div class="partner-center__ads-container">
+    <div class="ad-container ad-230 partner-center__ad">
+     <div id="DFP_PC_pos11">
+      <script type="text/javascript">
+       googletag.cmd.push(function() { googletag.display('DFP_PC_pos11'); });
+      </script>
+     </div>
+    </div>
+    <div class="ad-container ad-230 partner-center__ad">
+     <div id="DFP_PC_pos12">
+      <script type="text/javascript">
+       googletag.cmd.push(function() { googletag.display('DFP_PC_pos12'); });
+      </script>
+     </div>
+    </div>
+    <div class="ad-container ad-230 partner-center__ad">
+     <div id="DFP_PC_pos13">
+      <script type="text/javascript">
+       googletag.cmd.push(function() { googletag.display('DFP_PC_pos13'); });
+      </script>
+     </div>
+    </div>
+    <div class="ad-container ad-230 partner-center__ad">
+     <div id="DFP_PC_pos14">
+      <script type="text/javascript">
+       googletag.cmd.push(function() { googletag.display('DFP_PC_pos14'); });
+      </script>
+     </div>
+    </div>
+   </div>
+  </div>
+ </section>
+</div>
+<div class="component" data-moveable="false" data-order="98" data-params="region=global-nav" data-type="webscript" id="">
+ <!-- Global Navigation -->
+ <global-nav class="global-nav flex-col hide-for-print hide-medium-down" data-page="article" data-state="">
+  <div class="phl top-header--horizontal-list">
+   <a class="link--black" href="/insight-center/coronavirus" track-target="global-nav-link--coronavirus">
+    Coronavirus
+   </a>
+   <a class="link--black" href="/magazine" track-target="global-nav-link--magazine">
+    Magazine
+   </a>
+   <a class="link--black" href="/most-popular" track-target="global-nav-link--most-popular">
+    Popular
+   </a>
+   <a class="link--black" href="/topics" track-target="global-nav-link--topics">
+    Topics
+   </a>
+   <a class="link--black" href="/podcasts" track-target="global-nav-link--podcasts">
+    Podcasts
+   </a>
+   <a class="link--black" href="/video" track-target="global-nav-link--video">
+    Video
+   </a>
+   <a class="link--black" href="/store" track-target="global-nav-link--store">
+    Store
+   </a>
+   <a class="link--black" href="/big-ideas" track-target="global-nav-link--big-idea">
+    The Big Idea
+   </a>
+   <a class="link--black" href="/visual-library" track-target="global-nav-link--visual-library">
+    Visual Library
+   </a>
+   <a class="link--black" href="/reading-lists" track-target="global-nav-link--editors-choice">
+    Reading Lists
+   </a>
+   <a class="link--black" href="/case-selections" track-target="global-nav-link--case-selection">
+    Case Selections
+   </a>
+  </div>
+ </global-nav>
+</div>
+<div class="component" data-moveable="false" data-order="99" data-params="document=footer" data-type="static-content" id="">
+ <!-- Begin Footer -->
+ <footer class="footer hide-for-print flex-row justify-center">
+  <div class="has-border-top footer-container">
+   <div class="backdrop-white hide-for-print mbs">
+    <div class="footer-container--top mt-large2 mb-large2">
+     <span class="footer-logo">
+      <a href="/">
+       <img alt="Harvard Business Review Home" class="logo" src="/resources/css/images/hbr_logo.svg"/>
+      </a>
+     </span>
+     <div class="panel-container">
+      <div class="panel-inner-container">
+       <span class="panel nowrap flex-col text-center justify-center">
+        <personalization-placement class="personalization-placement is-inline-block no" data-placement-id="subscribe_now_footer_engage">
+         <a class="link--black justify-center align-items-center flex-row nowrap font-size-large font-heavy" href="/subscribe">
+          <b class="top-header--subscribe">
+           Subscribe
+          </b>
+         </a>
+        </personalization-placement>
+       </span>
+       <span class="placeholder">
+       </span>
+      </div>
+     </div>
+    </div>
+    <footer-menu>
+     <div class="footer-content--container flex-row-wrap justify-between flex-direction--row">
+      <div class="footer-content--list flex-col" js-target="footer-item">
+       <div class="flex-row justify-between">
+        <h6>
+         Explore HBR
+        </h6>
+        <span class="footer-item--arrow icon icon-caret-right font-size-medium mbm mtm">
+        </span>
+       </div>
+       <ul class="no-bullet tidy-list--small hide-for-small--list mbn">
+        <li>
+         <a href="/the-latest">
+          The Latest
+         </a>
+        </li>
+        <li>
+         <a href="/most-popular">
+          Most Popular
+         </a>
+        </li>
+        <li>
+         <a href="/topics">
+          All Topics
+         </a>
+        </li>
+        <li>
+         <a href="/magazine">
+          Magazine Archive
+         </a>
+        </li>
+        <li>
+         <a href="/big-ideas">
+          The Big Idea
+         </a>
+        </li>
+        <li>
+         <a href="/reading-lists">
+          Reading Lists
+         </a>
+        </li>
+        <li>
+         <a href="/case-selections">
+          Case Selections
+         </a>
+        </li>
+        <li>
+         <a href="/video">
+          Video
+         </a>
+        </li>
+        <li>
+         <a href="/podcasts">
+          Podcasts
+         </a>
+        </li>
+        <li>
+         <a href="/webinars">
+          Webinars
+         </a>
+        </li>
+        <li>
+         <a href="/visual-library">
+          Visual Library
+         </a>
+        </li>
+        <li>
+         <a href="/my-library">
+          My Library
+         </a>
+        </li>
+        <li>
+         <a href="/email-newsletters">
+          Newsletters
+         </a>
+        </li>
+        <li>
+         <a href="https://hbrascend.org/">
+          HBR Ascend
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="footer-content--list flex-col" js-target="footer-item">
+       <div class="flex-row justify-between">
+        <h6>
+         HBR Store
+        </h6>
+        <span class="footer-item--arrow icon icon-caret-right font-size-medium mbm mtm">
+        </span>
+       </div>
+       <ul class="no-bullet tidy-list--small hide-for-small--list mbn">
+        <li>
+         <a href="/store/articles">
+          Article Reprints
+         </a>
+        </li>
+        <li>
+         <a href="/store/books">
+          Books
+         </a>
+        </li>
+        <li>
+         <a href="/store/case-studies">
+          Cases
+         </a>
+        </li>
+        <li>
+         <a href="/store/collections">
+          Collections
+         </a>
+        </li>
+        <li>
+         <a href="/store/magazine-issues">
+          Magazine Issues
+         </a>
+        </li>
+        <li>
+         <a href="/store/landing/guides">
+          HBR Guide Series
+         </a>
+        </li>
+        <li>
+         <a href="/store/landing/20-minute-managers">
+          HBR 20-Minute Managers
+         </a>
+        </li>
+        <li>
+         <a href="/store/landing/emotional-intelligence-series">
+          HBR Emotional Intelligence Series
+         </a>
+        </li>
+        <li>
+         <a href="/store/landing/mustreads">
+          HBR Must Reads
+         </a>
+        </li>
+        <li>
+         <a href="/store/tools">
+          Tools
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="footer-content--list flex-col" js-target="footer-item">
+       <div class="flex-row justify-between">
+        <h6>
+         About HBR
+        </h6>
+        <span class="footer-item--arrow icon icon-caret-right font-size-medium mbm mtm">
+        </span>
+       </div>
+       <ul class="no-bullet tidy-list--small hide-for-small--list mbn">
+        <li>
+         <a href="/contact-us">
+          Contact Us
+         </a>
+        </li>
+        <li>
+         <a href="/hbr-advertising-sales">
+          Advertise with Us
+         </a>
+        </li>
+        <li>
+         <a href="/booksellers-retailers">
+          Information for Booksellers/Retailers
+         </a>
+        </li>
+        <li>
+         <a href="/about-hbr">
+          Masthead
+         </a>
+        </li>
+        <li>
+         <a href="/global-editions">
+          Global Editions
+         </a>
+        </li>
+        <li>
+         <a href="/media-inquiries">
+          Media Inquiries
+         </a>
+        </li>
+        <li>
+         <a href="/guidelines-for-authors-web">
+          Guidelines for Authors
+         </a>
+        </li>
+        <li>
+         <a href="/hbr-analytic-services">
+          HBR Analytic Services
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="footer-content--list flex-col" js-target="footer-item">
+       <div class="flex-row justify-between">
+        <h6>
+         HBR Subscriber Assistance
+        </h6>
+        <span class="footer-item--arrow icon icon-caret-right font-size-medium mbm mtm">
+        </span>
+       </div>
+       <ul class="no-bullet tidy-list--small hide-for-small--list mbn">
+        <li class="text-overflow">
+         <a href="/subscribe">
+          Subscribe
+         </a>
+        </li>
+        <li class="text-overflow">
+         <a href="/subscriber-help">
+          Subscriber Help
+         </a>
+        </li>
+        <li class="text-overflow">
+         U.S./Canada:
+         <br>
+          <a href="tel:+18002743214">
+           800.274.3214
+          </a>
+          <br>
+           <a href="mailto:harvard@cdsfulfillment.com">
+            harvard@cdsfulfillment.com
+           </a>
+           <br>
+            <a href="/subscriberservices">
+             hbr.org/subscriberservices
+            </a>
+           </br>
+          </br>
+         </br>
+        </li>
+        <li class="text-overflow">
+         International:
+         <br/>
+         <a href="tel:+441858438412">
+          +44.1858.438.412
+         </a>
+         <br/>
+         <a href="tel:+61291586127">
+          (Asia Pacific: +61.2.9158.6127)
+         </a>
+         <br/>
+         <a href="mailto:hbr@subscription.co.uk">
+          hbr@subscription.co.uk
+         </a>
+         <br/>
+         <a href="https://www.subscription.co.uk/hbr/help">
+          subscription.co.uk/hbr/help
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="footer-content--list flex-col" js-target="footer-item">
+       <div class="flex-row justify-between">
+        <h6>
+         HBR.ORG Customer Assistance
+        </h6>
+        <span class="footer-item--arrow icon icon-caret-right font-size-medium mbm mtm">
+        </span>
+       </div>
+       <ul class="no-bullet tidy-list--small hide-for-small--list mbn">
+        <li>
+         <a href="/help-customer-service-home">
+          Help Center
+         </a>
+        </li>
+        <!--<li><a href="#" class="accent">Live Chat</a></li>-->
+        <li class="text-overflow">
+         U.S./Canada:
+         <br/>
+         <a href="tel:+18009880886">
+          800.988.0886
+         </a>
+        </li>
+        <li>
+         <li class="text-overflow">
+          International:
+          <br/>
+          <a href="tel:+16177837500">
+           617.783.7500
+          </a>
+         </li>
+         <li class="text-overflow">
+          Email:
+          <br/>
+          <a href="mailto:customerservice@harvardbusiness.org">
+           customerservice@harvardbusiness.org
+          </a>
+         </li>
+         <li>
+          <a href="/permissions">
+           Copyright Permissions
+          </a>
+         </li>
+        </li>
+       </ul>
+      </div>
+      <div class="footer-content--list footer-content--last-list flex-col">
+       <div class="flex-row justify-between">
+        <h6>
+         Follow HBR
+        </h6>
+       </div>
+       <ul class="icon-ul tidy-list--small mbn">
+        <li>
+         <i class="icon-li icon icon-facebook">
+         </i>
+         <a href="http://www.facebook.com/HBR">
+          Facebook
+         </a>
+        </li>
+        <li>
+         <i class="icon-li icon icon-twitter">
+         </i>
+         <a href="http://twitter.com/HarvardBiz">
+          Twitter
+         </a>
+        </li>
+        <li>
+         <i class="icon-li icon icon-linkedin">
+         </i>
+         <a href="https://www.linkedin.com/company/harvard-business-review?trk=biz-companies-cym">
+          LinkedIn
+         </a>
+        </li>
+        <li>
+         <i class="icon-li icon icon-instagram">
+         </i>
+         <a href="https://www.instagram.com/harvard_business_review/?hl=en">
+          Instagram
+         </a>
+        </li>
+        <li>
+         <i class="icon-li icon line-height-very-very-tight icon-newsreader">
+         </i>
+         <a href="http://feeds.hbr.org/harvardbusiness/">
+          Your Newsreader
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </footer-menu>
+   </div>
+  </div>
+ </footer>
+</div>
+<div class="flex-row mbl mt-large2">
+ <div class="footer-logo hide-for-small">
+  <figure class="mts">
+   <img alt="Harvard Business Publishing" class="medium-6" src="/resources/images/2018/new_logo_May11.png">
+   </img>
+  </figure>
+ </div>
+ <div class="flex-direction--row mbl hide-for-small--list copyright-block">
+  <ul class="piped-inline-list is-inline mbn pbn hide-for-small flex-row flex-direction--row copyright">
+   <li>
+    <a class="copyright" href="/corporate/about">
+     About Us
+    </a>
+   </li>
+   <li>
+    <a class="copyright" href="/corporate/careers">
+     Careers
+    </a>
+   </li>
+   <li>
+    <a class="copyright" href="/privacy-policy">
+     Privacy Policy
+    </a>
+   </li>
+   <li>
+    <a class="copyright" href="/corporate/copyright">
+     Copyright Information
+    </a>
+   </li>
+   <li>
+    <a class="copyright" href="http://trademark.harvard.edu/pages/trademark-notice">
+     Trademark Policy
+    </a>
+   </li>
+  </ul>
+  <br/>
+  <div class="copyright is-inline mrs hide-for-small">
+   Harvard Business Publishing:
+  </div>
+  <ul class="piped-inline-list is-inline copyright hide-for-small flex-row flex-direction--row">
+   <li>
+    <a class="copyright" href="http://hbsp.harvard.edu/">
+     Higher Education
+    </a>
+   </li>
+   <li>
+    <a class="copyright" href="http://www.harvardbusiness.org">
+     Corporate Learning
+    </a>
+   </li>
+   <li>
+    <a class="copyright" href="http://hbr.org/">
+     Harvard Business Review
+    </a>
+   </li>
+   <li>
+    <a class="copyright" href="http://www.hbs.edu">
+     Harvard Business School
+    </a>
+   </li>
+  </ul>
+  <div class="copyright flex-row flex-direction--row">
+   Copyright © 2020 Harvard Business School Publishing. All rights reserved. Harvard Business Publishing is an affiliate of Harvard Business School.
+  </div>
+ </div>
+</div>
+<!-- End Footer -->
+<!-- javascript -->
+<script src="//cdns.gigya.com/js/gigya.js?apiKey=2_DGuCTo4P8ts08o-9k7vrnlREmzgK-D2xVOrYmspM4SPv9awRLJui0F50QEcF8BMI">
+</script>
+<script src="/resources/js/common_6e5b1817512202ee.js">
+</script>
+<script src="https://embed-player.newsoveraudio.com/scripts/embed-audio-player.js">
+</script>
+<script src="/resources/js/pages/article_f5e28245cc6ce54b.js">
+</script>
+<!-- Begin comScore Tag -->
+<script>
+ var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "14457509" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+ <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=14457509&amp;cv=2.0&amp;cj=1">
+ </img>
+</noscript>
+<!-- End comScore Tag -->
+<script type="text/javascript">
+ _satellite.pageBottom();
+</script>

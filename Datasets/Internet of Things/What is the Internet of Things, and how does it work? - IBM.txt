@@ -1,0 +1,970 @@
+<!DOCTYPE html>
+<html lang="en-US">
+ <head>
+  <meta charset="utf-8"/>
+  <!-- IBM: BASE -->
+  <script src="//1.www.s81c.com/common/v18/js/www.js">
+  </script>
+  <!-- This site is optimized with the Yoast SEO plugin v14.1 - https://yoast.com/wordpress/plugins/seo/ -->
+  <title>
+   What is the Internet of Things, and how does it work?
+  </title>
+  <meta content="The Internet of Things, or IoT, impacts everything from the way we travel and do our shopping to the way we keep fit. But how exactly does it work?" name="description">
+   <meta content="index, follow" name="robots"/>
+   <meta content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" name="googlebot"/>
+   <meta content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" name="bingbot"/>
+   <link href="https://www.ibm.com/blogs/internet-of-things/what-is-the-iot/" rel="canonical"/>
+   <meta content="en_US" property="og:locale"/>
+   <meta content="article" property="og:type"/>
+   <meta content="What is the Internet of Things, and how does it work?" property="og:title"/>
+   <meta content="The Internet of Things, or IoT, impacts everything from the way we travel and do our shopping to the way we keep fit. But how exactly does it work?" property="og:description"/>
+   <meta content="https://www.ibm.com/blogs/internet-of-things/what-is-the-iot/" property="og:url"/>
+   <meta content="Business Operations" property="og:site_name"/>
+   <meta content="2016-11-17T17:23:25+00:00" property="article:published_time"/>
+   <meta content="2017-09-19T17:44:28+00:00" property="article:modified_time"/>
+   <meta content="summary_large_image" name="twitter:card"/>
+   <meta content="What is the Internet of Things, and how does it work?" name="twitter:title"/>
+   <meta content="The Internet of Things, or IoT, impacts everything from the way we travel and do our shopping to the way we keep fit. But how exactly does it work?" name="twitter:description"/>
+   <meta content="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2016/11/IoT_tw.jpg" name="twitter:image"/>
+   <script class="yoast-schema-graph" type="application/ld+json">
+    {"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.ibm.com/blogs/internet-of-things/#website","url":"https://www.ibm.com/blogs/internet-of-things/","name":"Business Operations","description":"Build smarter business operations with intelligence, insights and expertise","potentialAction":[{"@type":"SearchAction","target":"https://www.ibm.com/blogs/internet-of-things/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://www.ibm.com/blogs/internet-of-things/what-is-the-iot/#webpage","url":"https://www.ibm.com/blogs/internet-of-things/what-is-the-iot/","name":"What is the Internet of Things, and how does it work?","isPartOf":{"@id":"https://www.ibm.com/blogs/internet-of-things/#website"},"datePublished":"2016-11-17T17:23:25+00:00","dateModified":"2017-09-19T17:44:28+00:00","author":{"@id":"https://www.ibm.com/blogs/internet-of-things/#/schema/person/5653ffd67838e5b5802d34459595246e"},"description":"The Internet of Things, or IoT, impacts everything from the way we travel and do our shopping to the way we keep fit. But how exactly does it work?","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.ibm.com/blogs/internet-of-things/what-is-the-iot/"]}]},{"@type":["Person"],"@id":"https://www.ibm.com/blogs/internet-of-things/#/schema/person/5653ffd67838e5b5802d34459595246e","name":"Jen Clark","description":"Jen is a freelance copywriter, editor, Wordpress monkey and opera singer. She joins IBM to assist with blog creation and upload."}]}
+   </script>
+   <!-- / Yoast SEO plugin. -->
+   <link href="//s.w.org" rel="dns-prefetch"/>
+   <link href="https://www.ibm.com/blogs/internet-of-things/wp-includes/css/dist/block-library/style.min.css" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css"/>
+   <link as="style" href="https://www.ibm.com/blogs/internet-of-things/wp-content/themes/ibmDigitalDesign/assets/css/style.css?" id="site_css-css" media="all" rel="preload" type="text/css"/>
+   <link href="https://www.ibm.com/blogs/internet-of-things/wp-json/" rel="https://api.w.org/"/>
+   <link href="https://www.ibm.com/blogs/internet-of-things/?p=42899" rel="shortlink"/>
+   <link href="https://www.ibm.com/blogs/internet-of-things/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ibm.com%2Fblogs%2Finternet-of-things%2Fwhat-is-the-iot%2F" rel="alternate" type="application/json+oembed"/>
+   <link href="https://www.ibm.com/blogs/internet-of-things/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ibm.com%2Fblogs%2Finternet-of-things%2Fwhat-is-the-iot%2F&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+   <script type="text/javascript">
+    var ajaxurl = "https://www.ibm.com/blogs/internet-of-things/wp-admin/admin-ajax.php";
+   </script>
+   <meta content="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2016/11/IoT_card.jpg" property="og:image"/>
+   <meta content="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2016/11/IoT_card.jpg" name="twitter:image"/>
+   <!-- ============================================================ -->
+   <!-- START: v18_head -->
+   <link href="https://www.ibm.com/blogs/internet-of-things/feed/atom/" rel="alternate" title="Business Operations" type="application/atom+xml"/>
+   <link href="//www.ibm.com/favicon.ico" rel="icon"/>
+   <link href="//1.www.s81c.com" rel="dns-prefetch">
+    <link href="//1.www.s81c.com" rel="preconnect"/>
+    <link as="style" href="//www.ibm.com/common/v18/css/www.css" rel="preload"/>
+    <link as="style" href="//www.ibm.com/common/v18/css/tables.css" rel="preload"/>
+    <link as="style" href="//www.ibm.com/common/v18/css/forms.css" rel="preload"/>
+    <link as="font" crossorigin="" href="//1.www.s81c.com/common/fonts/plex/v1/ibmplexsans-regular.woff2" rel="preload" type="font/woff2"/>
+    <link as="font" crossorigin="" href="//1.www.s81c.com/common/fonts/plex/v1/ibmplexsans-semibold.woff2" rel="preload" type="font/woff2"/>
+    <link as="font" crossorigin="" href="//1.www.s81c.com/common/fonts/icons-ibm-v12.woff" rel="preload" type="font/woff"/>
+    <link as="font" crossorigin="" href="//1.www.s81c.com/common/fonts/plex/v1/ibmplexsans-light.woff2" rel="preload" type="font/woff2"/>
+    <link as="font" crossorigin="" href="//1.www.s81c.com/common/fonts/plex/v1/ibmplexsans-regularitalic.woff2" rel="preload" type="font/woff2"/>
+    <link as="script" href="https://www.ibm.com/blogs/internet-of-things/wp-includes/js/wp-embed.min.js" rel="preload"/>
+    <link as="script" href="https://www.ibm.com/blogs/internet-of-things/wp-content/plugins/wp-smushit/app/assets/js/smush-lazy-load.min.js" rel="preload"/>
+    <meta content="width=device-width, initial-scale=1" name="viewport"/>
+    <meta content="US" name="geo.country">
+     <meta content="2016-11-17" name="dcterms.date">
+      <meta content="© Copyright IBM Corp. 2020" name="dcterms.rights"/>
+      <meta content="143074023072877,397969293660570,146448402056315,
+107926682907411,149130071810235,187784881298803,262680496235,295984527332,190559464739326,
+350471325009903,203142616492561,248729255403,132666320116139,168597536563870,10102730349459600,
+279054235470105,161717067211506,166334736755644,160951650636168,10442975871,234087973302226,
+187446750783,188871669682,302769499797134,9210734431,1881463492101570,383921151634270,
+311258568888292,106849169676166,239835113055442,37153201060,216296245052530,263975767066719,
+811610145573063,144523008905767,148217375225353,311834746955,137983189567818,26367478608,
+148062202474266,1226355247397320,87247783371,390770024309748,98541147377,121466564533284,
+500401360336256,22147337115,194937030554069,150041268417919,84096522831,462582393917692" property="fb:pages"/>
+      <script type="text/javascript">
+       /* Define digital data object based on _appInfo object */
+            window.digitalData = {
+               page: {
+                  category: {
+                     primaryCategory: "solutions",
+                  },
+                  pageInfo: {
+                     contentId: "wpp-42899", // "dpl-" + $nodeId
+                     version: "v18",  // Design Language version of the page
+                     
+                     ibm: {
+                        source: "v18 DELIVERY:Wordpress-001 AUTHORING:ibmDigitalDesign 1.6.2",
+                        contentDelivery: "Wordpress-001", 
+                        contentProducer: "ibmDigitalDesign 1.6.2", 
+                     }
+                  }
+               }
+            };
+      </script>
+      <script>
+       digitalData = {
+                page: {
+                    category: {
+                        primaryCategory: '',
+                        ibm: {
+                                globalBrandTableL10: '',
+                                gbt10: 'Watson IoT',
+                                globalBrandTableL17: '',
+                                gbt17: '',
+                                globalBrandTableL20: '',
+                                gbt20: '',
+                                globalBrandTableL30: '',
+                                gbt30: '',
+                              }
+                    },
+                    pageInfo: {
+                        effectiveDate: '2016-11-17',
+                        expiryDate: '2021-11-16',
+                        language: 'en-US',
+                        publishDate: '2016-11-17',
+                        publisher: 'IBM Corporation',
+                        version: 'v18',
+                        ibm: {
+                            contentDelivery: 'ibm.com/blogs',
+                            contentProducer: 'ibmDigitalDesign 1.6.2',
+                            country: 'US',
+                            ibmDynamicCm: false,
+                            industry: 'ZZ',
+                            owner: 'Laura Langendorf/US/IBM',
+                            siteID: 'IBM_WatsonIOT',
+                            subject: 'IBM000',
+                            type: 'CT915',
+                            }
+                        }
+                    }
+                };
+      </script>
+      <link href="//www.ibm.com/common/v18/css/www.css" rel="stylesheet">
+       <link href="//www.ibm.com/common/v18/css/forms.css" rel="stylesheet">
+        <link href="//www.ibm.com/common/v18/css/tables.css" rel="stylesheet">
+         <script type="text/javascript">
+          IBMCore.common.util.config.set({
+                survey: { global_percent: 0 },
+                footer: {
+                  type: "alternate",
+                  socialLinks: { enabled:false }
+                },
+                sharethiscontent: {
+                enabled: true
+                },
+                scrolltracker:{enabled:!1},
+                masthead: {
+                    type: 'alternate'                }
+            });
+         </script>
+         <!-- IBM: FORMS -->
+         <script defer="" src="//1.www.s81c.com/common/v18/js/forms.js">
+         </script>
+         <!-- IBM: TABLES -->
+         <script defer="" src="//1.www.s81c.com/common/v18/js/tables.js">
+         </script>
+         <!-- IBM: COMMON -->
+         <script async="async" src="//1.www.s81c.com/common/stats/ibm-common.js" type="text/javascript">
+         </script>
+         <!-- IBM: METRICS -->
+         <script async="" src="//1.www.s81c.com/common/stats/ida_stats.js">
+         </script>
+         <script defer="" src="//1.www.s81c.com/common/v18/js/masonry.js">
+         </script>
+         <!-- END: v18_head -->
+         <!-- ============================================================ -->
+        </link>
+       </link>
+      </link>
+     </meta>
+    </meta>
+   </link>
+  </meta>
+ </head>
+ <body class="post-template-default single single-post postid-42899 single-format-standard ibm-type" id="ibm-com" itemscope="" itemtype="http://schema.org/WebPage">
+  <div id="fb-root">
+  </div>
+  <script>
+   (function(d, s, id) {
+          var js, fjs = d.getElementsByTagName(s)[0];
+          if (d.getElementById(id)) return;
+          js = d.createElement(s); js.id = id;
+          js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+          fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+  </script>
+  <div class="ibm-landing-page page" id="ibm-top">
+   <div aria-label="IBM" id="ibm-masthead" role="banner">
+    <div id="ibm-mast-options">
+     <ul aria-labelledby="ibm-masthead" role="toolbar">
+      <li id="ibm-geo" role="presentation">
+       <a aria-label="United states selected - Choose a country" href="//www.ibm.com/planetwide/select/selector.html" role="button">
+        United States
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="ibm-universal-nav">
+     <nav aria-label="IBM" role="navigation">
+      <div id="ibm-home">
+       <a href="//www.ibm.com/us/en/">
+        IBM®
+       </a>
+      </div>
+      <!-- if alternate masthead insert this secondary menu -->
+      <!-- if alternate masthead insert this secondary menu -->
+      <ul aria-label="Site map" id="ibm-menu-links" role="toolbar">
+       <li>
+        <a href="//www.ibm.com/sitemap/us/en/">
+         Site map
+        </a>
+       </li>
+      </ul>
+     </nav>
+     <div aria-labelledby="ibm-masthead" id="ibm-search-module" role="search">
+      <form action="//www.ibm.com/Search/" id="ibm-search-form" method="get">
+       <label for="q">
+       </label>
+       <input aria-label="Search" id="q" maxlength="100" name="q" placeholder="Search" type="text" value=""/>
+       <input name="v" type="hidden" value="18"/>
+       <input name="en" type="hidden" value="utf"/>
+       <input name="lang" type="hidden" value="en"/>
+       <input name="cc" type="hidden" value="us"/>
+       <span class="ibm-search-scope">
+        <input checked="" id="scopeoption" name="s" type="checkbox" value="customsearch"/>
+        <label for="scopeoption">
+         Search within Business Operations
+        </label>
+       </span>
+       <input class="ibm-btn-search" id="ibm-search" type="submit" value="Submit">
+       </input>
+      </form>
+      <form action="https://www.ibm.com/blogs/internet-of-things/" class="ibm-hide" id="customSearchForm" method="get">
+       <input name="s" type="text"/>
+      </form>
+     </div>
+    </div>
+   </div>
+   <header aria-labelledby="ibm-pagetitle-h1" role="banner">
+    <div class="ibm-sitenav-menu-container">
+     <!-- The code below is where you edit the blog title that appears in menu navigation -->
+     <div class="ibm-sitenav-menu-name">
+      <a class="ibm-bold" href="https://www.ibm.com/blogs/internet-of-things/">
+       Business Operations
+      </a>
+     </div>
+     <div class="ibm-sitenav-menu-list">
+      <ul role="menubar">
+       <li role="presentation">
+        <a href="https://www.ibm.com/blogs/internet-of-things" role="menuitem">
+         Home
+        </a>
+       </li>
+       <li class="ibm-haschildlist" role="presentation">
+        <span role="menuitem">
+         Content by theme
+        </span>
+        <ul role="menu">
+         <li>
+          <a href="https://www.ibm.com/blogs/internet-of-things/category/asset-management/">
+           Asset Management
+          </a>
+         </li>
+         <li>
+          <a href="https://www.ibm.com/blogs/internet-of-things/category/automotive/">
+           Automotive
+          </a>
+         </li>
+         <li>
+          <a href="https://www.ibm.com/blogs/internet-of-things/category/buildings/">
+           Buildings
+          </a>
+         </li>
+         <li>
+          <a href="https://www.ibm.com/blogs/internet-of-things/category/business/">
+           Business
+          </a>
+         </li>
+         <li>
+          <a href="https://www.ibm.com/blogs/internet-of-things/category/environment/">
+           Environment
+          </a>
+         </li>
+         <li>
+          <a href="https://www.ibm.com/blogs/internet-of-things/category/factories/">
+           Factories
+          </a>
+         </li>
+         <li>
+          <a href="https://www.ibm.com/blogs/internet-of-things/category/health-and-medicine/">
+           Health and medicine
+          </a>
+         </li>
+         <li>
+          <a href="https://www.ibm.com/blogs/internet-of-things/category/home/">
+           At Home
+          </a>
+         </li>
+         <li>
+          <a href="https://www.ibm.com/blogs/internet-of-things/category/manufacturing/">
+           Manufacturing
+          </a>
+         </li>
+         <li>
+          <a href="https://www.ibm.com/blogs/internet-of-things/category/retail/">
+           Retail
+          </a>
+         </li>
+         <li>
+          <a href="https://www.ibm.com/blogs/internet-of-things/category/travel/">
+           Travel
+          </a>
+         </li>
+         <li>
+          <a href="https://www.ibm.com/blogs/internet-of-things/category/security/">
+           Security
+          </a>
+         </li>
+         <li>
+          <a href="https://www.ibm.com/blogs/internet-of-things/category/sport-and-fitness/">
+           Sport and fitness
+          </a>
+         </li>
+         <li>
+          <a href="https://www.ibm.com/blogs/internet-of-things/category/systems-engineering/">
+           Systems Engineering
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="ibm-haschildlist" role="presentation">
+        <span role="menuitem">
+         Content by type
+        </span>
+        <ul role="menu">
+         <li>
+          <a href="https://www.ibm.com/blogs/internet-of-things/tag/article/">
+           Article
+          </a>
+         </li>
+         <li>
+          <a href="https://www.ibm.com/blogs/internet-of-things/tag/blog/">
+           Blog
+          </a>
+         </li>
+         <li>
+          <a href="https://www.ibm.com/blogs/internet-of-things/tag/case-study/">
+           Case study
+          </a>
+         </li>
+         <li>
+          <a href="https://www.ibm.com/blogs/internet-of-things/tag/commentary-opinion/">
+           Commentary / opinion
+          </a>
+         </li>
+         <li>
+          <a href="https://www.ibm.com/blogs/internet-of-things/category/conferences/">
+           Conferences
+          </a>
+         </li>
+         <li>
+          <a href="https://www.ibm.com/blogs/internet-of-things/tag/infographic/">
+           Infographic
+          </a>
+         </li>
+         <li>
+          <a href="https://www.ibm.com/blogs/internet-of-things/tag/interview/">
+           Interview
+          </a>
+         </li>
+         <li>
+          <a href="https://www.ibm.com/blogs/internet-of-things/tag/live-stream/">
+           Live stream
+          </a>
+         </li>
+         <li>
+          <a href="https://www.ibm.com/blogs/internet-of-things/tag/news-press-release/">
+           News / press release
+          </a>
+         </li>
+         <li>
+          <a href="https://www.ibm.com/blogs/internet-of-things/tag/review/">
+           Review
+          </a>
+         </li>
+         <li>
+          <a href="https://www.ibm.com/blogs/internet-of-things/tag/top-10/">
+           Top 10
+          </a>
+         </li>
+         <li>
+          <a href="https://www.ibm.com/blogs/internet-of-things/tag/video/">
+           Video
+          </a>
+         </li>
+         <li>
+          <a href="https://www.ibm.com/blogs/internet-of-things/tag/whitepaper/">
+           Whitepaper
+          </a>
+         </li>
+        </ul>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <nav aria-labelledby="ibm-pagetitle-h1" role="navigation">
+    </nav>
+    <!-- CONTENT_NAV_END -->
+   </header>
+   <!-- <div class="blog-name ibm-background-gray-10 ibm-pt-1 ibm-pb-1">
+        <p style="font-size: 18px; margin-left:10px; font-weight:lighter;font-family: IBM Plex Sans">Business Operations</p>
+      </div> -->
+   <script type="text/javascript">
+    jQuery(document).ready(function(){
+        jQuery("#commentform #submit").attr('onClick','IBMCore.common.widget.overlay.show("overlayExampleAlert"); return false;')
+        jQuery("#comments-agree").click(function(){
+            IBMCore.common.widget.overlay.hide('overlayExampleAlert',true);
+            jQuery("#commentform #submit").removeAttr('onClick');
+            jQuery("#commentform #submit").trigger('click');
+        });
+        jQuery("#comments-disagree").click(function(){
+            IBMCore.common.widget.overlay.hide('overlayExampleAlert',true);
+        });
+    });
+   </script>
+   <main aria-labelledby="ibm-pagetitle-h1" role="main">
+    <div id="ibm-pcon">
+     <div id="ibm-content">
+      <div id="ibm-content-body ibm-padding-top-0">
+       <div id="ibm-content-main">
+        <!-- The Loop -->
+        <div class="ibm-blog__article ibm-padding-bottom-0" data-post-id-42899="">
+         <div class="ibm-alternate ibm-textcolor-default" data-desktop="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2016/11/IoT_ls-1200x320.jpg" data-desktop-lg="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2016/11/IoT_ls-1440x320.jpg" data-desktop-lg-retina="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2016/11/IoT_ls.jpg" data-desktop-retina="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2016/11/IoT_ls.jpg" data-mobile="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2016/11/IoT_ls-380x320.jpg" data-mobile-retina="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2016/11/IoT_ls-780x320.jpg" data-tablet="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2016/11/IoT_ls-780x320.jpg" data-tablet-retina="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2016/11/IoT_ls-1200x320.jpg" id="ibm-leadspace-head" style="background: url(https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2016/11/IoT_ls-1440x320.jpg) no-repeat 0 0 / cover #fff;">
+          <div class="" id="ibm-leadspace-body">
+           <div class="ibm-columns">
+            <div class="ibm-col-2-1">
+             <a href="https://www.ibm.com/blogs/internet-of-things/category/blog/">
+              <h4 class="ibm-blog__category ibm-textcolor-default">
+               Blog
+              </h4>
+             </a>
+             <h1 class="ibm-h1 ibm-medium ''" itemprop="headline" rel="bookmark">
+              What is the Internet of Things?
+             </h1>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="ibm-columns">
+          <div class="ibm-col-6-4 ibm-padding-top-2">
+           <div class="ibm-blog__article-main">
+            <div class="ibm-blog__article-date">
+             <p class="ibm-date-time ibm-textcolor-gray-40">
+              November 17, 2016 | Written by:
+              <a href="https://www.ibm.com/blogs/internet-of-things/author/jen-clarkuk-ibm-com/" rel="author" title="Posts by Jen Clark">
+               Jen Clark
+              </a>
+             </p>
+             <p>
+              Categorized:
+              <a href="https://www.ibm.com/blogs/internet-of-things/category/blog/">
+               Blog
+              </a>
+             </p>
+            </div>
+            <!--<div class="ibm-blog__article-content">-->
+            <p class="ibm-bold">
+             Share this post:
+            </p>
+            <div class="ibm-clear">
+            </div>
+            <p class="ibm-icononly ibm-shareiconspaceing" id="sharespacing">
+             <a class="ibm-facebook-encircled-link" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ibm.com%2Fblogs%2Finternet-of-things%2Fwhat-is-the-iot%2F" target="_blank">
+              <span class="ibm-textcolor-gray-40 sharecount-font-size nh-facebook-count-42899">
+              </span>
+             </a>
+             <a class="ibm-linkedin-encircled-link" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.ibm.com%2Fblogs%2Finternet-of-things%2Fwhat-is-the-iot%2F&amp;title=What is the Internet of Things?&amp;summary=There%E2%80%99s+a+lot+of+noise+at+the+moment+about+the+Internet+of+Things+%28or+IoT%29+and+its+impact+on+everything+from+the+way+we+travel+and+do+our+shopping+to+the+way+manufacturers+keep+track+of+inventory.+But+what+is+the+Internet+of+Things%3F+How+does+it+work%3F+And+is+it+really+that+important%3F+What+%5B%26hellip%3B%5D&amp;source=https%3A%2F%2Fwww.ibm.com%2Fblogs%2Finternet-of-things" target="_blank">
+              <span class="ibm-textcolor-gray-40 sharecount-font-size nh-linkedin-count-42899">
+              </span>
+             </a>
+             <a class="ibm-twitter-encircled-link" href="https://twitter.com/share?url=https%3A%2F%2Fwww.ibm.com%2Fblogs%2Finternet-of-things%2Fwhat-is-the-iot%2F&amp;text=What is the Internet of Things?" target="_blank">
+             </a>
+            </p>
+            <p>
+             There’s a lot of noise at the moment about the Internet of Things (or IoT) and its impact on everything from the way we travel and do our shopping to the way manufacturers keep track of inventory. But what is the Internet of Things? How does it work? And is it really that important?
+            </p>
+            <p>
+             <iframe allowfullscreen="" frameborder="0" height="383" src="https://www.youtube.com/embed/QSIPNhOiMoE?feature=oembed" width="680">
+             </iframe>
+            </p>
+            <h2>
+             What is the Internet of Things?
+            </h2>
+            <p>
+             In a nutshell, the Internet of Things is the concept of connecting any device (so long as it has an on/off switch) to the Internet and to other connected devices. The IoT is a giant network of connected things and people – all of which collect and share data about the way they are used and about the environment around them.
+            </p>
+            <p>
+             That includes an extraordinary number of objects of all shapes and sizes – from
+             <a href="https://www.youtube.com/watch?v=1u4Mwn6BQyo">
+              smart microwaves
+             </a>
+             , which automatically cook your food for the right length of time, to
+             <a href="https://www.youtube.com/watch?v=K564rXrlZbc">
+              self-driving cars
+             </a>
+             , whose complex sensors detect objects in their path, to wearable
+             <a href="https://www.ibm.com/blogs/internet-of-things/watson-iot-sports/">
+              fitness devices
+             </a>
+             that measure your heart rate and the number of steps you’ve taken that day, then use that information to suggest exercise plans tailored to you. There are even
+             <a href="http://www.wilson.com/en-us/explore/football/wx.html">
+              connected footballs
+             </a>
+             that can track how far and fast they are thrown and record those statistics via an app for future training purposes.
+            </p>
+            <h2>
+             How does it work?
+            </h2>
+            <p>
+             Devices and objects with built in sensors are connected to an
+             <a href="http://www.ibm.com/internet-of-things/">
+              Internet of Things platform
+             </a>
+             , which integrates data from the different devices and applies analytics to share the most valuable information with applications built to address specific needs.
+            </p>
+            <p>
+             These powerful IoT platforms can pinpoint exactly what information is useful and what can safely be ignored. This information can be used to detect patterns, make recommendations, and detect possible problems before they occur.
+            </p>
+            <p>
+             For example, if I own a car manufacturing business, I might want to know which optional components (leather seats or alloy wheels, for example) are the most popular. Using Internet of Things technology, I can:
+            </p>
+            <ul>
+             <li>
+              Use sensors to detect which areas in a showroom are the most popular, and where customers linger longest;
+             </li>
+             <li>
+              Drill down into the available sales data to identify which components are selling fastest;
+             </li>
+             <li>
+              Automatically align sales data with supply, so that popular items don’t go out of stock.
+             </li>
+            </ul>
+            <p>
+             The information picked up by connected devices enables me to make smart decisions about which components to stock up on, based on real-time information, which helps me save time and money.
+            </p>
+            <p>
+             With the insight provided by advanced analytics comes the power to make processes more efficient. Smart objects and systems mean you can automate certain tasks, particularly when these are repetitive, mundane, time-consuming or even dangerous. Let’s look at some examples to see what this looks like in real life.
+            </p>
+            <h2>
+             Scenario #1: IoT in your home
+            </h2>
+            <p>
+             Imagine you wake up at 7am every day to go to work. Your alarm clock does the job of waking you just fine. That is, until something goes wrong. Your train’s cancelled and you have to drive to work instead. The only problem is that it takes longer to drive, and you would have needed to get up at 6.45am to avoid being late. Oh, and it’s pouring with rain, so you’ll need to drive slower than usual. A connected or IoT-enabled alarm clock would reset itself based on all these factors, to ensure you got to work on time. It could recognize that your usual train is cancelled, calculate the driving distance and travel time for your alternative route to work, check the weather and factor in slower travelling speed because of heavy rain, and calculate when it needs to wake you up so you’re not late. If it’s super-smart, if might even sync with your IoT-enabled coffee maker, to ensure your morning caffeine’s ready to go when you get up.
+            </p>
+            <h2>
+             Scenario #2: IoT in transport
+            </h2>
+            <p>
+             Having been woken by your smart alarm, you’re now driving to work. On comes the engine light. You’d rather not head straight to the garage, but what if it’s something urgent? In a connected car, the sensor that triggered the check engine light would communicate with others in the car. A component called the diagnostic bus collects data from these sensors and passes it to a gateway in the car, which sends the most relevant information to the manufacturer’s platform. The manufacturer can use data from the car to offer you an appointment to get the part fixed, send you directions to the nearest dealer, and make sure the correct replacement part is ordered so it’s ready for you when you show up.
+            </p>
+            <h2>
+             Find out more
+            </h2>
+            <p>
+             We’ve got lots of
+             <a href="https://www.ibm.com/blogs/internet-of-things/iot-use-cases/">
+              examples
+             </a>
+             that show the Internet of Things in action. Check out
+             <a href="https://www.ibm.com/blogs/internet-of-things/olli-ai/">
+              Olli
+             </a>
+             , the self-driving car, or Candy, the
+             <a href="https://www.ibm.com/blogs/internet-of-things/cognitive-candy/">
+              cognitive sweet dispenser
+             </a>
+             that will only dish out the sugar when you ask nicely. Got questions? We’d love to hear them! Let us know in the comments below.
+            </p>
+           </div>
+           <div class="ibm-padding-top-1">
+            <script type="text/javascript">
+             jQuery(document).ready(function($){
+              
+//       
+    var shareUrl = "https://www.ibm.com/blogs/internet-of-things/what-is-the-iot/";
+    var postID = "42899";
+    $('.nh-facebook-count-'+postID).text();
+    //$('.nh-linkedin-count-'+postID).text();
+
+  
+});
+            </script>
+            <!--</div>-->
+            <div class="ibm-blog__article-tags">
+             <p class="ibm-button-link ibm-btn-row">
+              <a class="ibm-btn-pri ibm-btn-tag" href="https://www.ibm.com/blogs/internet-of-things/tag/analytics/" rel="tag" style="margin-right:2px !important;">
+               Analytics
+              </a>
+              <a class="ibm-btn-pri ibm-btn-tag" href="https://www.ibm.com/blogs/internet-of-things/tag/home/" rel="tag" style="margin-right:2px !important;">
+               home
+              </a>
+              <a class="ibm-btn-pri ibm-btn-tag" href="https://www.ibm.com/blogs/internet-of-things/tag/ibm-watson/" rel="tag" style="margin-right:2px !important;">
+               IBM Watson
+              </a>
+              <a class="ibm-btn-pri ibm-btn-tag" href="https://www.ibm.com/blogs/internet-of-things/tag/internet-of-things/" rel="tag" style="margin-right:2px !important;">
+               Internet of Things
+              </a>
+              <a class="ibm-btn-pri ibm-btn-tag" href="https://www.ibm.com/blogs/internet-of-things/tag/transport/" rel="tag" style="margin-right:2px !important;">
+               transport
+              </a>
+              <a class="ibm-btn-pri ibm-btn-tag" href="https://www.ibm.com/blogs/internet-of-things/tag/watson/" rel="tag" style="margin-right:2px !important;">
+               Watson
+              </a>
+              <br/>
+             </p>
+            </div>
+            <!--- <div class="ibm-blog__article-date">
+                        <p class="ibm-date-time ibm-textcolor-gray-40"></p>
+                    </div>
+
+                    <div class="ibm-rule ibm-alternate ibm-gray-30"> </div> -->
+           </div>
+           <div class="ibm-columns">
+            <div class="ibm-col-4-1">
+             <p>
+              <a class="ibm-previous-link ibm-inlinelink" href="https://www.ibm.com/blogs/internet-of-things/iot-weekly-round-up-thursday-17th-november-2016/">
+               Previous Post
+              </a>
+             </p>
+             <h6 class="nav-title">
+              <a href="https://www.ibm.com/blogs/internet-of-things/iot-weekly-round-up-thursday-17th-november-2016/">
+               IoT weekly round-up: Thursday 17th November 2016
+              </a>
+             </h6>
+            </div>
+            <div class="ibm-col-4-1 ibm-right ibm-fright">
+             <p>
+              <a class="ibm-next-link ibm-inlinelink ibm-icon-after" href="https://www.ibm.com/blogs/internet-of-things/security-iot/">
+               Next Post
+              </a>
+             </p>
+             <h6 class="nav-title">
+              <a href="https://www.ibm.com/blogs/internet-of-things/security-iot/">
+               IoT Security vs. IT Security: What’s the difference?
+              </a>
+             </h6>
+            </div>
+           </div>
+           <!--<div class="ibm-padding-top-1">
+                                        </div>-->
+          </div>
+          <div class="ibm-col-6-2 ibm-blog__article-side ibm-padding-top-2">
+           <div class="ibm-blog__share">
+            <!--                         <div class="facebook">
+                            <div class="fb-like" data-href="https://developers.facebook.com/docs/plugins/" data-width="200" data-layout="standard" data-action="like" data-show-faces="false" data-share="false"></div>
+                        </div> -->
+            <div class="ibm-widgets ibm-pt-0">
+             <p class="ibm-type-e ibm-pb-0 ibm-type-c--tight" style="margin-bottom:10px !important;">
+              Read More
+             </p>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </main>
+  </div>
+ </body>
+</html>
+<div class="ibm-mt-3 ibm-grid-container">
+ <div class="ibm-grid-col-lg-16-16 ibm-grid-col-md-8-4">
+  <div class="ibm-mb-3 widget-area ibm-type-serif ibm-type-l">
+   <p>
+    <img class="ibm-resize ibm-mt-1" src="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2020/07/Maximo-for-Civil-Infrastructure-bridge-265x158.png"/>
+   </p>
+   <p style="margin-top:-12px;">
+    <a class="ibm-textcolor-default" data-driverid="wpp-77842" driverlocation="0" href="https://www.ibm.com/blogs/internet-of-things/iot-maximo-civil-engineering/" id="wpp--sidebar__card-0__link-0">
+     <span class="ibm-type-serif ibm-type-e" style="font-weight:400; font-size:18px !important;">
+      Let’s build a new era of restoration
+     </span>
+    </a>
+   </p>
+   <p class="ibm-type-serif ibm-type-a ibm-type-mono" style="font-weight: 400;margin-top:-10px;margin-bottom:-16px;">
+    by
+    <a class="ibm-textcolor-default" href="https://www.ibm.com/blogs/internet-of-things/author/joe-saunders/">
+     Joe Saunders
+    </a>
+   </p>
+  </div>
+ </div>
+ <div class="ibm-grid-col-lg-16-16 ibm-grid-col-md-8-4">
+  <div class="ibm-mb-3 widget-area ibm-type-serif ibm-type-l">
+   <p>
+    <img class="ibm-resize ibm-mt-1" src="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2020/06/leadspace-sim_img_3617713-e1593357421552-265x158.jpg"/>
+   </p>
+   <p style="margin-top:-12px;">
+    <a class="ibm-textcolor-default" data-driverid="wpp-78719" driverlocation="1" href="https://www.ibm.com/blogs/internet-of-things/iot-pragmatic-return-focusing-on-your-people/" id="wpp--sidebar__card-1__link-1">
+     <span class="ibm-type-serif ibm-type-e" style="font-weight:400; font-size:18px !important;">
+      The pragmatic return to the workplace: focusing on your people
+     </span>
+    </a>
+   </p>
+   <p class="ibm-type-serif ibm-type-a ibm-type-mono" style="font-weight: 400;margin-top:-10px;margin-bottom:-16px;">
+    by
+    <a class="ibm-textcolor-default" href="https://www.ibm.com/blogs/internet-of-things/author/laura-langendorf/">
+     Laura Langendorf
+    </a>
+   </p>
+  </div>
+ </div>
+ <div class="ibm-grid-col-lg-16-16 ibm-grid-col-md-8-4">
+  <div class="ibm-mb-3 widget-area ibm-type-serif ibm-type-l">
+   <p>
+    <img class="ibm-resize ibm-mt-1" src="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2020/06/leadspace-678866993-e1593042598630-265x158.jpg"/>
+   </p>
+   <p style="margin-top:-12px;">
+    <a class="ibm-textcolor-default" data-driverid="wpp-78596" driverlocation="2" href="https://www.ibm.com/blogs/internet-of-things/iot-pragmatic-return-strategies/" id="wpp--sidebar__card-2__link-2">
+     <span class="ibm-type-serif ibm-type-e" style="font-weight:400; font-size:18px !important;">
+      The pragmatic return to the workplace: strategies you can use today
+     </span>
+    </a>
+   </p>
+   <p class="ibm-type-serif ibm-type-a ibm-type-mono" style="font-weight: 400;margin-top:-10px;margin-bottom:-16px;">
+    by
+    <a class="ibm-textcolor-default" href="https://www.ibm.com/blogs/internet-of-things/author/laura-langendorf/">
+     Laura Langendorf
+    </a>
+   </p>
+  </div>
+ </div>
+</div>
+<div class="ibm-rule ibm-alternate ibm-pb-0 ibm-gray-30">
+ <hr/>
+</div>
+<div class="ibm-article-band ibm-blog__postgrid ibm-padding-top-0">
+ <div class="ibm-columns ibm-padding-bottom-0">
+  <div class="ibm-col-1-1 ibm-padding-top-2 ibm-padding-bottom-2">
+   <span class="ibm-h2">
+    More Buildings stories
+   </span>
+  </div>
+ </div>
+ <div class="ibm-columns" data-items=".ibm-blog__postgrid-item-link">
+  <div class="ibm-columns">
+   <div class="ibm-col-6-2">
+    <a href="https://www.ibm.com/blogs/internet-of-things/iot-pragmatic-return-focusing-on-your-people/">
+     <img alt="" class="ibm-resize ibm-padding-top-1" src="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2020/06/leadspace-sim_img_3617713-e1593357421552-380x190.jpg"/>
+     <!--<img class="ibm-downsize ibm-padding-top-1" src="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2020/06/leadspace-sim_img_3617713-e1593357421552-380x190.jpg" alt="" />-->
+    </a>
+   </div>
+   <div class="ibm-col-6-4 post post" data-post-id-"78719"="">
+    <h4 class="ibm-h3 ibm-padding-top-1">
+     <a class="ibm-blog__header-link" href="https://www.ibm.com/blogs/internet-of-things/iot-pragmatic-return-focusing-on-your-people/">
+      <span class="ibm-textcolor-default">
+       The pragmatic return to the workplace: focusing on your people
+      </span>
+     </a>
+    </h4>
+    <h4 class="ibm-medium">
+     Written by
+     <a href="https://www.ibm.com/blogs/internet-of-things/author/laura-langendorf/" target="_self">
+      Laura Langendorf
+     </a>
+     | July 1, 2020      |
+     <a href="https://www.ibm.com/blogs/internet-of-things/category/buildings/">
+      Buildings
+     </a>
+     ,
+     <a href="https://www.ibm.com/blogs/internet-of-things/category/facilities/">
+      Facilities
+     </a>
+    </h4>
+    <p class="ibm-medium ibm-padding-bottom-1">
+     The IBM GRE team, like so many other RE and FM groups, is focused on  how to provide employees with the safest, most productive working environment as they consider bringing employees back to the office. As Marianne said during the TRIRIGA Academy, “It will still be about hearts and minds, but in a very different way.”
+     <a href="https://www.ibm.com/blogs/internet-of-things/iot-pragmatic-return-focusing-on-your-people/" target="_self">
+      ...read more
+     </a>
+    </p>
+   </div>
+  </div>
+  <div class="ibm-rule">
+   <hr/>
+  </div>
+  <div class="ibm-columns">
+   <div class="ibm-col-6-2">
+    <a href="https://www.ibm.com/blogs/internet-of-things/iot-pragmatic-return-strategies/">
+     <img alt="" class="ibm-resize ibm-padding-top-1" src="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2020/06/leadspace-678866993-e1593042598630-380x190.jpg"/>
+     <!--<img class="ibm-downsize ibm-padding-top-1" src="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2020/06/leadspace-678866993-e1593042598630-380x190.jpg" alt="" />-->
+    </a>
+   </div>
+   <div class="ibm-col-6-4 post post" data-post-id-"78596"="">
+    <h4 class="ibm-h3 ibm-padding-top-1">
+     <a class="ibm-blog__header-link" href="https://www.ibm.com/blogs/internet-of-things/iot-pragmatic-return-strategies/">
+      <span class="ibm-textcolor-default">
+       The pragmatic return to the workplace: strategies you can use today
+      </span>
+     </a>
+    </h4>
+    <h4 class="ibm-medium">
+     Written by
+     <a href="https://www.ibm.com/blogs/internet-of-things/author/laura-langendorf/" target="_self">
+      Laura Langendorf
+     </a>
+     | June 25, 2020      |
+     <a href="https://www.ibm.com/blogs/internet-of-things/category/buildings/">
+      Buildings
+     </a>
+    </h4>
+    <p class="ibm-medium ibm-padding-bottom-1">
+     If you’re looking for pragmatic advice on how to build your own return to the workplace strategy, join The journey back to work: Business continuity and occupant well-being across your facilities.
+     <a href="https://www.ibm.com/blogs/internet-of-things/iot-pragmatic-return-strategies/" target="_self">
+      ...read more
+     </a>
+    </p>
+   </div>
+  </div>
+  <div class="ibm-rule">
+   <hr/>
+  </div>
+  <div class="ibm-columns">
+   <div class="ibm-col-6-2">
+    <a href="https://www.ibm.com/blogs/internet-of-things/iot-ibm-tririga-and-cisco-partner-for-occupancy-monitoring/">
+     <img alt="" class="ibm-resize ibm-padding-top-1" src="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2020/04/leadspace-257290184.257290187-e1586803561288-380x190.jpg"/>
+     <!--<img class="ibm-downsize ibm-padding-top-1" src="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2020/04/leadspace-257290184.257290187-e1586803561288-380x190.jpg" alt="" />-->
+    </a>
+   </div>
+   <div class="ibm-col-6-4 post post" data-post-id-"77537"="">
+    <h4 class="ibm-h3 ibm-padding-top-1">
+     <a class="ibm-blog__header-link" href="https://www.ibm.com/blogs/internet-of-things/iot-ibm-tririga-and-cisco-partner-for-occupancy-monitoring/">
+      <span class="ibm-textcolor-default">
+       Quickly start monitoring space by using your existing wireless network
+      </span>
+     </a>
+    </h4>
+    <h4 class="ibm-medium">
+     Written by
+     <a href="https://www.ibm.com/blogs/internet-of-things/author/kendra-dekeyrel/" target="_self">
+      Kendra DeKeyrel
+     </a>
+     | April 14, 2020      |
+     <a href="https://www.ibm.com/blogs/internet-of-things/category/buildings/">
+      Buildings
+     </a>
+     ,
+     <a href="https://www.ibm.com/blogs/internet-of-things/category/facilities/">
+      Facilities
+     </a>
+    </h4>
+    <p class="ibm-medium ibm-padding-bottom-1">
+     IBM TRIRIGA and Cisco have teamed up to give you the tools you need to deploy location sensing using your existing WiFi network infrastructure. This solution helps you scale quickly and get faster, more accurate occupancy insights, to enable you to reimagine and streamline your connected spaces.
+     <a href="https://www.ibm.com/blogs/internet-of-things/iot-ibm-tririga-and-cisco-partner-for-occupancy-monitoring/" target="_self">
+      ...read more
+     </a>
+    </p>
+   </div>
+  </div>
+  <div class="ibm-rule">
+   <hr/>
+  </div>
+ </div>
+ <!-- .ibm-columns -->
+</div>
+<!-- .ibm-blog__postgrid -->
+<div class="ibm-band scene known-footer ibm-background-white-core" id="known-footer">
+ <div class="ibm-columns ibm-padding-top-1 ibm-padding-bottom-2">
+  <div class="ibm-col-1-1">
+   <div class="social-share">
+    <h4>
+     Connect with us
+    </h4>
+    <p class="ibm-icononly ibm-padding-top-1">
+     <a class="ibm-facebook-encircled-link" href="https://www.facebook.com/IBMIoT/" target="_blank">
+     </a>
+     <a class="ibm-twitter-encircled-link" href="https://twitter.com/IBMIoT" target="_blank">
+     </a>
+     <a class="ibm-linkedin-encircled-link" href="https://www.linkedin.com/company/ibm-internet-of-things" target="_blank">
+     </a>
+     <a class="ibm-youtube-encircled-link" href="https://www.youtube.com/channel/UCFNoGF7Ea-FfmAjfK4ReFpA" target="_blank">
+     </a>
+     <a class="ibm-googleplus-encircled-link" href="https://plus.google.com/+IBM" target="_blank">
+     </a>
+    </p>
+   </div>
+  </div>
+ </div>
+</div>
+<!-- IBM: FOOTER_BEGIN -->
+<div id="ibm-footer-module">
+</div>
+<footer aria-label="IBM" role="contentinfo">
+ <div id="ibm-footer">
+  <ul>
+   <li>
+    <a href="//www.ibm.com/contact/us/en/">
+     Contact
+    </a>
+   </li>
+   <li>
+    <a href="//www.ibm.com/privacy/us/en/">
+     Privacy
+    </a>
+   </li>
+   <li>
+    <a href="//www.ibm.com/legal/us/en/">
+     Terms of use
+    </a>
+   </li>
+   <li>
+    <a href="//www.ibm.com/accessibility/us/en/">
+     Accessibility
+    </a>
+   </li>
+  </ul>
+ </div>
+</footer>
+<!-- IBM: METRICS -->
+<script defer="" src="//www.ibm.com/software/info/js/tactic.js" type="text/javascript">
+</script>
+<script defer="" src="//www.ibm.com/software/info/js/tacticbindlinks.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function(){
+	
+		jQuery('.ibm-blog__article-main > h1').addClass("ibm-h1");
+		jQuery('.ibm-blog__article-main > h3').addClass("ibm-h3");
+		jQuery('.ibm-blog__article-main h2').each(function(i){
+
+			if(jQuery(this).closest('.ibm-show-hide').length == 0)
+			{
+				jQuery(this).addClass("ibm-h2");
+			}
+		});
+		
+		
+
+
+		jQuery('#ibm-content-main').find('h1').addClass("ibm-h1");
+		jQuery('#ibm-content-main').find('h3').addClass("ibm-h3");
+
+		jQuery('#ibm-content-main h2').each(function(i){
+
+			if(jQuery(this).closest('.ibm-show-hide').length == 0)
+			{
+				jQuery(this).addClass("ibm-h2");
+			}
+		});
+
+		/* JQUERY TO REMOVE FIRST WIDGETS TOP LINE */
+	   if(jQuery('.ibm-blog__share').children().first().hasClass('ibm-widgets'))
+	   {
+	   	//jQuery('.ibm-widgets').eq(0).find('.ibm-rule').remove();
+	   }
+		
+		//
+	});
+</script>
+<script async="" defer="defer" src="https://www.ibm.com/blogs/internet-of-things/wp-content/themes/ibmDigitalDesign/assets/js/site.js?" type="text/javascript">
+</script>
+<script async="" defer="defer" src="https://www.ibm.com/blogs/internet-of-things/wp-content/themes/ibmDigitalDesign/assets/js/v18_rev.js?" type="text/javascript">
+</script>
+<script src="https://www.ibm.com/blogs/internet-of-things/wp-includes/js/wp-embed.min.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+ var _cf = _cf || []; _cf.push(['_setFsp', true]);  _cf.push(['_setBm', true]); _cf.push(['_setAu', '/assets/6b8d6129224851ff69cf77365a08']);
+</script>
+<script src="/assets/6b8d6129224851ff69cf77365a08" type="text/javascript">
+</script>
