@@ -1,0 +1,752 @@
+<!DOCTYPE html>
+<html lang="en-CA">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="ie=edge" http-equiv="x-ua-compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <title>
+   404 | JAZZ.FM91
+  </title>
+  <!-- Start The SEO Framework by Sybre Waaijer -->
+  <meta content="noindex" name="robots">
+   <!-- End The SEO Framework by Sybre Waaijer | 0.00022s -->
+   <link href="//code.jquery.com" rel="dns-prefetch"/>
+   <link href="/app/plugins/dominant-colors-lazy-loading/public/css/dominant-colors-lazy-loading-public.css?ver=0.6.3" rel="stylesheet"/>
+   <link href="/app/plugins/mp-timetable/media/css/style.css?ver=2.2.1" rel="stylesheet"/>
+   <link href="/app/plugins/transaction-manager-pro-2.4/assets/css/main.css?ver=1540180421" rel="stylesheet"/>
+   <link href="/wp/wp-admin/css/list-tables.min.css?ver=4.9.8" rel="stylesheet"/>
+   <link href="/app/plugins/audioigniter/player/build/style.css?ver=1.4.2" rel="stylesheet"/>
+   <link href="/app/uploads/pum/pum-site-styles.css?generated=1592625597&amp;ver=1.7.19" rel="stylesheet"/>
+   <link href="/app/themes/jazz-fm/dist/styles/main-ee5a5e2498.css" rel="stylesheet"/>
+   <script src="/app/plugins/wp-retina-2x/js/picturefill.min.js?ver=3.0.2">
+   </script>
+   <noscript>
+    <style type="text/css">
+     .mptt-shortcode-wrapper .mptt-shortcode-table:first-of-type{display:table!important}.mptt-shortcode-wrapper .mptt-shortcode-table .mptt-event-container:hover{height:auto!important;min-height:100%!important}body.mprm_ie_browser .mptt-shortcode-wrapper .mptt-event-container{height:auto!important}@media (max-width:767px){.mptt-shortcode-wrapper .mptt-shortcode-table:first-of-type{display:none!important}}
+    </style>
+   </noscript>
+   <meta content="v1" name="tec-api-version"/>
+   <meta content="https://jazz.fm" name="tec-api-origin"/>
+   <link href="https://jazz.fm/wp-json/tribe/events/v1/" rel="https://theeventscalendar.com/">
+    <script type="text/javascript">
+     document.documentElement.className += " js";
+    </script>
+    <link href="/app/uploads/cropped-jazzfavicon-375x375.png" rel="icon" sizes="32x32">
+     <link href="/app/uploads/cropped-jazzfavicon-375x375.png" rel="icon" sizes="192x192">
+      <link href="/app/uploads/cropped-jazzfavicon-375x375.png" rel="apple-touch-icon-precomposed">
+       <meta content="/app/uploads/cropped-jazzfavicon-375x375.png" name="msapplication-TileImage">
+        <!-- BEGIN ExactMetrics v5.3.5 Universal Analytics - https://exactmetrics.com/ -->
+        <script>
+         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-3791998-1', 'auto');
+  ga('send', 'pageview');
+        </script>
+        <!-- END ExactMetrics Universal Analytics -->
+        <!-- Typekit -->
+        <script>
+         (function(d) {
+      var config = {
+        kitId: 'uuj3tjh',
+        scriptTimeout: 3000,
+        async: true
+      },
+      h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+    })(document);
+        </script>
+        <!-- Critical CSS -->
+        <!-- Google DFP -->
+        <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js">
+        </script>
+        <script>
+         var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+        </script>
+        <script>
+         // GPT slots
+    var gptAdSlots = [];
+    googletag.cmd.push(function() {
+      
+      // Mappings
+      var mappingleaderboard = googletag.sizeMapping().      
+      addSize([992, 0], [[970, 90], [728, 90], [1, 1]]).
+      addSize([768, 0], [[728, 90], [1, 1]]).
+      addSize([320, 0], [[320, 100], [320, 50], [1, 1]]).
+      addSize([0, 0], [[728, 90], [1, 1]]).
+      build();
+
+      var mappingfooterboard = googletag.sizeMapping().      
+      addSize([992, 0], [[970, 90], [728, 90], [1, 1]]).
+      addSize([768, 0], [[728, 90], [1, 1]]).
+      addSize([320, 0], [[320, 100], [320, 50], [1, 1]]).
+      addSize([0, 0], [[728, 90], [1, 1]]).
+      build();
+      
+      // Definitions      
+      googletag.defineSlot('/1040194/wp_185x250', [185, 250], 'div-gpt-ad-1523407988318-0').addService(googletag.pubads());
+      googletag.defineSlot('/1040194/wp_footer_leaderboard', [728, 90], 'div-gpt-ad-1523407988318-1').defineSizeMapping(mappingfooterboard).addService(googletag.pubads());
+      googletag.defineSlot('/1040194/wp_leaderboard', [728, 90], 'div-gpt-ad-1523407988318-2').defineSizeMapping(mappingleaderboard).addService(googletag.pubads());
+      googletag.defineSlot('/1040194/wp_mobile_leaderboard', [320, 50], 'div-gpt-ad-1523407988318-3').addService(googletag.pubads());
+      googletag.pubads().enableSingleRequest();
+      //googletag.pubads().collapseEmptyDivs();
+      googletag.enableServices();
+    });
+        </script>
+       </meta>
+      </link>
+     </link>
+    </link>
+   </link>
+  </meta>
+ </head>
+ <body class="error404 tribe-no-js">
+  <!--[if IE]>
+      <div class="alert alert-warning">
+        You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.      </div>
+    <![endif]-->
+  <!-- wp_leaderboard -->
+  <div class="leader" id="top">
+   <div class="board" id="div-gpt-ad-1523407988318-2">
+    <script>
+     googletag.cmd.push(function() { googletag.display('div-gpt-ad-1523407988318-2'); });
+    </script>
+   </div>
+  </div>
+  <!-- #banner -->
+  <header class="banner" id="header-banner" role="banner">
+   <div class="container-fluid">
+    <!-- .pre-nav -->
+    <div id="header-topline">
+     <div id="header-topline-on_air">
+      <a href="http://streamdb3web.securenetsystems.net/v5/CJRT" id="airtime" rel="noopener" target="_blank">
+       <span>
+        “Gotta Be This or That” by Dianne Reeves
+       </span>
+      </a>
+     </div>
+     <div id="header-topline-icons">
+      <ul class="nav navbar-nav" id="menu-social">
+       <li class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-109">
+        <a class="nav-link" href="https://www.facebook.com/jazzfm91" title="Facebook">
+         Facebook
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-110">
+        <a class="nav-link" href="https://twitter.com/jazzfm91" title="Twitter">
+         Twitter
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-622">
+        <a class="nav-link" href="https://soundcloud.com/jazzfm91" title="Soundcloud">
+         Soundcloud
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-111">
+        <a class="nav-link" href="https://www.youtube.com/user/JAZZFM91" title="YouTube">
+         YouTube
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-52062">
+        <a class="nav-link" href="https://www.instagram.com/jazzfm91/" title="Instagram">
+         Instagram
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-112">
+        <a class="nav-link" href="/feed" title="RSS">
+         RSS
+        </a>
+       </li>
+      </ul>
+      <form action="/" class="search-form" id="header-topline-search" method="get" role="search">
+       <div class="input-group input-group-sm">
+        <label class="screen-reader-text sr-only" for="search1">
+         Search
+        </label>
+        <input class="form-control" id="search1" name="s" placeholder="Search" type="text" value=""/>
+       </div>
+      </form>
+     </div>
+    </div>
+    <!-- .navbar -->
+    <div class="wrapper bg-dark">
+     <nav class="navbar navbar-expand-md btn-group" id="header-navbar">
+      <!-- .navbar-brand -->
+      <a class="navbar-brand" href="https://jazz.fm/">
+       JAZZ.FM91
+      </a>
+      <!-- Main menu (md up) -->
+      <ul class="nav navbar-nav" id="menu-main">
+       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children nav-item nav-item-120 dropdown">
+        <a aria-haspopup="true" class="dropdown-toggle nav-link" data-toggle="dropdown" href="#" role="button" title="Listen">
+         Listen
+        </a>
+        <div class="dropdown-menu" role="menu">
+         <a class="menu-item menu-item-type-custom menu-item-object-custom dropdown-item" href="https://radio.securenetsystems.net/cwa/CJRT" target="_blank" title="Listen Live">
+          Listen Live
+         </a>
+         <a class="menu-item menu-item-type-post_type menu-item-object-page dropdown-item" href="https://jazz.fm/web-radio/" title="Web Radio">
+          Web Radio
+         </a>
+         <a class="menu-item menu-item-type-post_type menu-item-object-page dropdown-item" href="https://jazz.fm/program-schedule/" title="Programs">
+          Programs
+         </a>
+         <a class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item" href="/category/hosts/" title="Hosts">
+          Hosts
+         </a>
+         <a class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item" href="/category/podcasts/" title="Podcasts">
+          Podcasts
+         </a>
+         <a class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item" href="/category/playlists/" title="Playlists">
+          Playlists
+         </a>
+         <a class="menu-item menu-item-type-custom menu-item-object-custom dropdown-item" href="https://jazz.fm/timetable/event/all-request-hour/" title="Requests">
+          Requests
+         </a>
+        </div>
+       </li>
+       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children nav-item nav-item-51344 dropdown">
+        <a aria-haspopup="true" class="dropdown-toggle nav-link" data-toggle="dropdown" href="#" role="button" title="News">
+         News
+        </a>
+        <div class="dropdown-menu" role="menu">
+         <a class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item" href="/category/musicnews/" title="Music News">
+          Music News
+         </a>
+         <a class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item" href="/category/musicnews/interviews/" title="Interviews">
+          Interviews
+         </a>
+         <a class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item" href="/category/featuresncolumns/" title="Features &amp; Columns">
+          Features &amp; Columns
+         </a>
+         <a class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item" href="/category/jazz-fm91-news/" title="JAZZ.FM91 News">
+          JAZZ.FM91 News
+         </a>
+        </div>
+       </li>
+       <li class="menu-item menu-item-type-taxonomy menu-item-object-category nav-item nav-item-122592">
+        <a class="nav-link" href="/category/contests/" title="Contests">
+         Contests
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children nav-item nav-item-965 dropdown">
+        <a aria-haspopup="true" class="dropdown-toggle nav-link" data-toggle="dropdown" href="#" role="button" title="Events">
+         Events
+        </a>
+        <div class="dropdown-menu" role="menu">
+         <a class="menu-item menu-item-type-post_type_archive menu-item-object-tribe_events dropdown-item" href="https://jazz.fm/live-events/" title="Featured Events">
+          Featured Events
+         </a>
+         <a class="menu-item menu-item-type-custom menu-item-object-custom dropdown-item" href="https://jazz.fm/frm_display/community-events/" title="Community Events">
+          Community Events
+         </a>
+         <a class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item" href="/category/jazz-safaris/" title="Jazz Safaris">
+          Jazz Safaris
+         </a>
+         <a class="menu-item menu-item-type-taxonomy menu-item-object-tribe_events_cat dropdown-item" href="/live-events/category/sound-of-jazz-concert-series/" title="Sound of Jazz">
+          Sound of Jazz
+         </a>
+         <a class="menu-item menu-item-type-taxonomy menu-item-object-tribe_events_cat dropdown-item" href="/live-events/category/live-to-air/" title="Live to Air">
+          Live to Air
+         </a>
+         <a class="menu-item menu-item-type-post_type menu-item-object-page dropdown-item" href="https://jazz.fm/submit-an-event/" title="Submit an Event">
+          Submit an Event
+         </a>
+        </div>
+       </li>
+       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children nav-item nav-item-122 dropdown">
+        <a aria-haspopup="true" class="dropdown-toggle nav-link" data-toggle="dropdown" href="#" role="button" title="Community">
+         Community
+        </a>
+        <div class="dropdown-menu" role="menu">
+         <a class="menu-item menu-item-type-post_type menu-item-object-page dropdown-item" href="https://jazz.fm/community-support/" title="Support for Local Business">
+          Support for Local Business
+         </a>
+         <a class="menu-item menu-item-type-post_type menu-item-object-page dropdown-item" href="https://jazz.fm/community/" title="Community Programs">
+          Community Programs
+         </a>
+         <a class="menu-item menu-item-type-post_type menu-item-object-page dropdown-item" href="https://jazz.fm/community-partners/" title="Fundraising Partners">
+          Fundraising Partners
+         </a>
+         <a class="menu-item menu-item-type-post_type menu-item-object-page dropdown-item" href="https://jazz.fm/become-a-volunteer/" title="Volunteer">
+          Volunteer
+         </a>
+        </div>
+       </li>
+       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children nav-item nav-item-123 dropdown">
+        <a aria-haspopup="true" class="dropdown-toggle nav-link" data-toggle="dropdown" href="#" role="button" title="Support">
+         Support
+        </a>
+        <div class="dropdown-menu" role="menu">
+         <a class="menu-item menu-item-type-post_type menu-item-object-page dropdown-item" href="https://jazz.fm/support/" title="Ways to Give">
+          Ways to Give
+         </a>
+         <a class="menu-item menu-item-type-post_type menu-item-object-page dropdown-item" href="https://jazz.fm/donate/" title="Donate Now">
+          Donate Now
+         </a>
+         <a class="menu-item menu-item-type-post_type menu-item-object-page dropdown-item" href="https://jazz.fm/account-update/" title="Update My Info">
+          Update My Info
+         </a>
+         <a class="menu-item menu-item-type-post_type menu-item-object-page dropdown-item" href="https://jazz.fm/experiences/" title="Marquee Experiences">
+          Marquee Experiences
+         </a>
+        </div>
+       </li>
+      </ul>
+      <!-- .navbar-toggler -->
+      <button aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler hidden-md-up" data-target="#navbar-collapse" data-toggle="collapse" type="button">
+       <i class="fa fa-bars">
+       </i>
+      </button>
+     </nav>
+     <div class="collapse navbar-collapse-md" id="navbar-collapse">
+      <form action="/" class="search-form" id="searchform" method="get" role="search">
+       <div class="input-group input-group-sm">
+        <label class="screen-reader-text sr-only" for="search2">
+         Search
+        </label>
+        <input class="form-control" id="search2" name="s" placeholder="Search" type="text" value=""/>
+       </div>
+      </form>
+      <ul class="nav navbar-nav" id="menu-main-1">
+       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children nav-item nav-item-120 dropdown">
+        <a aria-haspopup="true" class="dropdown-toggle nav-link" data-toggle="dropdown" href="#" role="button" title="Listen">
+         Listen
+        </a>
+        <div class="dropdown-menu" role="menu">
+         <a class="menu-item menu-item-type-custom menu-item-object-custom dropdown-item" href="https://radio.securenetsystems.net/cwa/CJRT" target="_blank" title="Listen Live">
+          Listen Live
+         </a>
+         <a class="menu-item menu-item-type-post_type menu-item-object-page dropdown-item" href="https://jazz.fm/web-radio/" title="Web Radio">
+          Web Radio
+         </a>
+         <a class="menu-item menu-item-type-post_type menu-item-object-page dropdown-item" href="https://jazz.fm/program-schedule/" title="Programs">
+          Programs
+         </a>
+         <a class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item" href="/category/hosts/" title="Hosts">
+          Hosts
+         </a>
+         <a class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item" href="/category/podcasts/" title="Podcasts">
+          Podcasts
+         </a>
+         <a class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item" href="/category/playlists/" title="Playlists">
+          Playlists
+         </a>
+         <a class="menu-item menu-item-type-custom menu-item-object-custom dropdown-item" href="https://jazz.fm/timetable/event/all-request-hour/" title="Requests">
+          Requests
+         </a>
+        </div>
+       </li>
+       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children nav-item nav-item-51344 dropdown">
+        <a aria-haspopup="true" class="dropdown-toggle nav-link" data-toggle="dropdown" href="#" role="button" title="News">
+         News
+        </a>
+        <div class="dropdown-menu" role="menu">
+         <a class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item" href="/category/musicnews/" title="Music News">
+          Music News
+         </a>
+         <a class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item" href="/category/musicnews/interviews/" title="Interviews">
+          Interviews
+         </a>
+         <a class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item" href="/category/featuresncolumns/" title="Features &amp; Columns">
+          Features &amp; Columns
+         </a>
+         <a class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item" href="/category/jazz-fm91-news/" title="JAZZ.FM91 News">
+          JAZZ.FM91 News
+         </a>
+        </div>
+       </li>
+       <li class="menu-item menu-item-type-taxonomy menu-item-object-category nav-item nav-item-122592">
+        <a class="nav-link" href="/category/contests/" title="Contests">
+         Contests
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children nav-item nav-item-965 dropdown">
+        <a aria-haspopup="true" class="dropdown-toggle nav-link" data-toggle="dropdown" href="#" role="button" title="Events">
+         Events
+        </a>
+        <div class="dropdown-menu" role="menu">
+         <a class="menu-item menu-item-type-post_type_archive menu-item-object-tribe_events dropdown-item" href="https://jazz.fm/live-events/" title="Featured Events">
+          Featured Events
+         </a>
+         <a class="menu-item menu-item-type-custom menu-item-object-custom dropdown-item" href="https://jazz.fm/frm_display/community-events/" title="Community Events">
+          Community Events
+         </a>
+         <a class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item" href="/category/jazz-safaris/" title="Jazz Safaris">
+          Jazz Safaris
+         </a>
+         <a class="menu-item menu-item-type-taxonomy menu-item-object-tribe_events_cat dropdown-item" href="/live-events/category/sound-of-jazz-concert-series/" title="Sound of Jazz">
+          Sound of Jazz
+         </a>
+         <a class="menu-item menu-item-type-taxonomy menu-item-object-tribe_events_cat dropdown-item" href="/live-events/category/live-to-air/" title="Live to Air">
+          Live to Air
+         </a>
+         <a class="menu-item menu-item-type-post_type menu-item-object-page dropdown-item" href="https://jazz.fm/submit-an-event/" title="Submit an Event">
+          Submit an Event
+         </a>
+        </div>
+       </li>
+       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children nav-item nav-item-122 dropdown">
+        <a aria-haspopup="true" class="dropdown-toggle nav-link" data-toggle="dropdown" href="#" role="button" title="Community">
+         Community
+        </a>
+        <div class="dropdown-menu" role="menu">
+         <a class="menu-item menu-item-type-post_type menu-item-object-page dropdown-item" href="https://jazz.fm/community-support/" title="Support for Local Business">
+          Support for Local Business
+         </a>
+         <a class="menu-item menu-item-type-post_type menu-item-object-page dropdown-item" href="https://jazz.fm/community/" title="Community Programs">
+          Community Programs
+         </a>
+         <a class="menu-item menu-item-type-post_type menu-item-object-page dropdown-item" href="https://jazz.fm/community-partners/" title="Fundraising Partners">
+          Fundraising Partners
+         </a>
+         <a class="menu-item menu-item-type-post_type menu-item-object-page dropdown-item" href="https://jazz.fm/become-a-volunteer/" title="Volunteer">
+          Volunteer
+         </a>
+        </div>
+       </li>
+       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children nav-item nav-item-123 dropdown">
+        <a aria-haspopup="true" class="dropdown-toggle nav-link" data-toggle="dropdown" href="#" role="button" title="Support">
+         Support
+        </a>
+        <div class="dropdown-menu" role="menu">
+         <a class="menu-item menu-item-type-post_type menu-item-object-page dropdown-item" href="https://jazz.fm/support/" title="Ways to Give">
+          Ways to Give
+         </a>
+         <a class="menu-item menu-item-type-post_type menu-item-object-page dropdown-item" href="https://jazz.fm/donate/" title="Donate Now">
+          Donate Now
+         </a>
+         <a class="menu-item menu-item-type-post_type menu-item-object-page dropdown-item" href="https://jazz.fm/account-update/" title="Update My Info">
+          Update My Info
+         </a>
+         <a class="menu-item menu-item-type-post_type menu-item-object-page dropdown-item" href="https://jazz.fm/experiences/" title="Marquee Experiences">
+          Marquee Experiences
+         </a>
+        </div>
+       </li>
+      </ul>
+      <ul class="nav navbar-nav" id="menu-social-1">
+       <li class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-109">
+        <a class="nav-link" href="https://www.facebook.com/jazzfm91" title="Facebook">
+         Facebook
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-110">
+        <a class="nav-link" href="https://twitter.com/jazzfm91" title="Twitter">
+         Twitter
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-622">
+        <a class="nav-link" href="https://soundcloud.com/jazzfm91" title="Soundcloud">
+         Soundcloud
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-111">
+        <a class="nav-link" href="https://www.youtube.com/user/JAZZFM91" title="YouTube">
+         YouTube
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-52062">
+        <a class="nav-link" href="https://www.instagram.com/jazzfm91/" title="Instagram">
+         Instagram
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-112">
+        <a class="nav-link" href="/feed" title="RSS">
+         RSS
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+   </div>
+  </header>
+  <div class="wrap container" role="document">
+   <div class="content row">
+    <main class="main">
+     <figure id="hero">
+      <img alt="JAZZ.FM91 office exterior photographed by Mary Kate Dall" class="top-centre" height="2649" sizes="(max-width: 4000px) 100vw, 4000px" src="/app/uploads/jazz-3-4000x2649.jpg" srcset="/app/uploads/jazz-3-4000x2649.jpg 4000w, /app/uploads/jazz-3-375x248.jpg 375w, /app/uploads/jazz-3-768x509.jpg 768w, /app/uploads/jazz-3-1100x729.jpg 1100w, /app/uploads/jazz-3-375x248@2x.jpg 750w, /app/uploads/jazz-3-1600x1060.jpg 1600w, /app/uploads/jazz-3-768x509@2x.jpg 1536w, /app/uploads/jazz-3-1100x729@2x.jpg 2200w, /app/uploads/jazz-3-750x497@2x.jpg 1500w, /app/uploads/jazz-3-1600x1060@2x.jpg 3200w" width="4000"/>
+     </figure>
+     <article id="custom-404">
+      <h3>
+       404
+      </h3>
+      <h5>
+       Link not found
+      </h5>
+     </article>
+    </main>
+    <!-- /.main -->
+   </div>
+   <!-- /.content -->
+  </div>
+  <!-- /.wrap -->
+  <div class="bumper">
+  </div>
+  <!-- wp_footer_leaderboard -->
+  <div class="leadfoot">
+   <div class="board" id="div-gpt-ad-1523407988318-1">
+    <script>
+     googletag.cmd.push(function() { googletag.display('div-gpt-ad-1523407988318-1'); })
+    </script>
+   </div>
+  </div>
+  <!-- Newsletter -->
+  <div id="newsletter">
+   <form action="https://visitor.constantcontact.com/d.jsp" id="ccontact" method="post" name="ccoptin">
+    <input name="m" type="hidden" value="1102502724258"/>
+    <input name="p" type="hidden" value="oi"/>
+    <div class="form-group">
+     <label for="cc">
+      Get our weekly newsletter,
+      <strong>
+       The Jazz Messenger
+      </strong>
+     </label>
+     <input class="i1" id="cc" name="ea" placeholder="your@email.com" type="text" value=""/>
+     <button aria-label="Submit" name="Submit" role="button" type="submit" value="Submit">
+      <i class="fa fa-paper-plane">
+      </i>
+     </button>
+    </div>
+   </form>
+  </div>
+  <!-- Footer -->
+  <footer class="content-info" id="footer">
+   <div class="container-fluid">
+    <div id="footer-support">
+     <img alt="" class="footer-support-photo lazyload" height="467" sizes="(max-width: 600px) 100vw, 600px" src="/app/uploads/Louis_Armstrong_restored-750x584.jpg" srcset="/app/uploads/Louis_Armstrong_restored-375x292@2x.jpg 750w, /app/uploads/Louis_Armstrong_restored-375x292.jpg 375w, /app/uploads/Louis_Armstrong_restored-1600x1246.jpg 1600w, /app/uploads/Louis_Armstrong_restored-750x584@2x.jpg 1500w" width="600"/>
+     <blockquote id="footer-support-text">
+      <p>
+       Your contribution helps keep jazz strong on air and in the community
+      </p>
+      <p>
+       Donate online or call
+       <a href="tel:+1-800-811-2400">
+        1-800-811-2400
+       </a>
+      </p>
+     </blockquote>
+     <div id="footer-support-cta">
+      <button class="btn btn-primary" type="button">
+       <a href="/donate">
+        Give now
+       </a>
+      </button>
+     </div>
+    </div>
+   </div>
+   <div class="container-fluid" id="lower-footer">
+    <ul class="footer-nav" id="menu-social-2">
+     <li class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-109">
+      <a class="nav-link" href="https://www.facebook.com/jazzfm91" title="Facebook">
+       Facebook
+      </a>
+     </li>
+     <li class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-110">
+      <a class="nav-link" href="https://twitter.com/jazzfm91" title="Twitter">
+       Twitter
+      </a>
+     </li>
+     <li class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-622">
+      <a class="nav-link" href="https://soundcloud.com/jazzfm91" title="Soundcloud">
+       Soundcloud
+      </a>
+     </li>
+     <li class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-111">
+      <a class="nav-link" href="https://www.youtube.com/user/JAZZFM91" title="YouTube">
+       YouTube
+      </a>
+     </li>
+     <li class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-52062">
+      <a class="nav-link" href="https://www.instagram.com/jazzfm91/" title="Instagram">
+       Instagram
+      </a>
+     </li>
+     <li class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-112">
+      <a class="nav-link" href="/feed" title="RSS">
+       RSS
+      </a>
+     </li>
+    </ul>
+    <ul class="footer-nav" id="menu-footer">
+     <li class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-161">
+      <a class="nav-link" href="https://jazz.fm/about/" title="About JAZZ.FM91">
+       About JAZZ.FM91
+      </a>
+     </li>
+     <li class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-162">
+      <a class="nav-link" href="https://jazz.fm/advertise-with-us/" title="Advertise with Us">
+       Advertise with Us
+      </a>
+     </li>
+     <li class="menu-item menu-item-type-post_type menu-item-object-post nav-item nav-item-63021">
+      <a class="nav-link" href="https://jazz.fm/jazz-fm91-signs-the-canadian-creative-industries-code-of-conduct/" title="Code of Conduct">
+       Code of Conduct
+      </a>
+     </li>
+     <li class="menu-item menu-item-type-taxonomy menu-item-object-category nav-item nav-item-45113">
+      <a class="nav-link" href="/category/board-of-directors/" title="Board of Directors">
+       Board of Directors
+      </a>
+     </li>
+     <li class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-167">
+      <a class="nav-link" href="https://jazz.fm/sponsorship-opportunities/" title="Sponsorship Opportunities">
+       Sponsorship Opportunities
+      </a>
+     </li>
+     <li class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-166">
+      <a class="nav-link" href="https://jazz.fm/privacy-policy/" title="Privacy Policy">
+       Privacy Policy
+      </a>
+     </li>
+     <li class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-164">
+      <a class="nav-link" href="https://jazz.fm/contact/" title="Contact Us">
+       Contact Us
+      </a>
+     </li>
+     <li class="menu-item menu-item-type-taxonomy menu-item-object-category nav-item nav-item-41824">
+      <a class="nav-link" href="/category/employment/" title="Employment">
+       Employment
+      </a>
+     </li>
+     <li class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-61583">
+      <a class="nav-link" href="https://jazz.fm/app/uploads/Jazz_FM91_Bylaw_No_3_Jan-14-2020-update.pdf" title="By-Laws">
+       By-Laws
+      </a>
+     </li>
+    </ul>
+    <ul class="footer-nav" id="badges">
+     <li class="item">
+      <img alt="" class="" height="249" sizes="(max-width: 250px) 100vw, 250px" src="/app/uploads/nyf-gold-2020-250x249.jpg" srcset="/app/uploads/nyf-gold-2020-250x249.jpg 250w, /app/uploads/nyf-gold-2020-600x598.jpg 600w, /app/uploads/nyf-gold-2020-560x560.jpg 560w, /app/uploads/nyf-gold-2020.jpg 630w, /app/uploads/nyf-gold-2020-250x249@2x.jpg 500w" width="250"/>
+     </li>
+     <li class="item">
+      <img alt="" class="" height="156" sizes="(max-width: 250px) 100vw, 250px" src="/app/uploads/ReadTheCodeLogo-smaller_-375x234.jpg" srcset="/app/uploads/ReadTheCodeLogo-smaller_-375x234.jpg 375w, /app/uploads/ReadTheCodeLogo-smaller_.jpg 600w" width="250"/>
+     </li>
+     <li class="item">
+      <img alt="" class="" height="128" sizes="(max-width: 250px) 100vw, 250px" src="/app/uploads/socan-L2P-2020-250x128.png" srcset="/app/uploads/socan-L2P-2020-250x128.png 250w, /app/uploads/socan-L2P-2020-600x308.png 600w, /app/uploads/socan-L2P-2020.png 1463w, /app/uploads/socan-L2P-2020-250x128@2x.png 500w, /app/uploads/socan-L2P-2020-600x308@2x.png 1200w" width="250"/>
+     </li>
+     <li class="item">
+      <img alt="Logo - Jazz Journalists Association Member" class="" height="69" src="/app/uploads/Member-button.jpg" width="230"/>
+     </li>
+    </ul>
+    <ul id="office">
+     <li>
+      <a href="mailto:info@jazz.fm">
+       <i class="fa fa-envelope">
+       </i>
+       info@jazz.fm
+      </a>
+     </li>
+     <li>
+      <a href="tel:1-416-595-0404">
+       <i class="fa fa-phone">
+       </i>
+       416-595-0404
+      </a>
+     </li>
+     <li>
+      <a href="tel:1-416-595-9413">
+       <i class="fa fa-fax">
+       </i>
+       416-595-9413
+      </a>
+     </li>
+     <li>
+      4 Pardee Avenue, Suite 100, Toronto, ON M6K 3H5
+     </li>
+     <li>
+      Charitable Reg. No. 11886 4826 RR0001
+     </li>
+     <li>
+      © 2020 JAZZ.FM91
+     </li>
+    </ul>
+   </div>
+   <div id="bottom-footer">
+    <ul id="partners">
+     <li class="item">
+      <span class="logo">
+       <img alt="LAWO" class="lazyload" height="250" src="/app/uploads/lawo.jpg" width="250"/>
+      </span>
+      <span class="desc">
+       The JAZZ.FM91 Studios are powered by Lawo broadcast technology
+      </span>
+     </li>
+     <li class="item">
+      <span class="logo">
+       <img alt="" class="lazyload" height="77" sizes="(max-width: 250px) 100vw, 250px" src="/app/uploads/remenyi-375x116.png" srcset="/app/uploads/remenyi-375x116.png 375w, /app/uploads/remenyi-768x238.png 768w, /app/uploads/remenyi-375x116@2x.png 750w, /app/uploads/remenyi.png 783w" width="250"/>
+      </span>
+      <span class="desc">
+       JAZZ.FM91 live performances are on pianos available at Remenyi House of Music
+      </span>
+     </li>
+    </ul>
+   </div>
+  </footer>
+  <div aria-hidden="true" class="pum pum-overlay pum-theme-42115 pum-theme-gdpr-theme popmake-overlay pum-overlay-disabled auto_open click_open" data-popmake='{"id":42112,"slug":"privacy","theme_id":42115,"cookies":[{"event":"on_popup_close","settings":{"name":"jazzfm-privacy","key":"","session":true,"time":"90 minutes","path":true}}],"triggers":[{"type":"auto_open","settings":{"cookie_name":"jazzfm-privacy","delay":0}},{"type":"click_open","settings":{"extra_selectors":"","cookie_name":null}}],"mobile_disabled":null,"tablet_disabled":null,"meta":{"display":{"stackable":"1","overlay_disabled":"1","scrollable_content":false,"disable_reposition":false,"size":"custom","responsive_min_width":"0%","responsive_min_width_unit":false,"responsive_max_width":"100%","responsive_max_width_unit":false,"custom_width":"100%","custom_width_unit":false,"custom_height":"380px","custom_height_unit":false,"custom_height_auto":"1","location":"center bottom","position_from_trigger":false,"position_top":"100","position_left":"0","position_bottom":"0","position_right":"0","position_fixed":"1","animation_type":"fade","animation_speed":"350","animation_origin":"center top","overlay_zindex":false,"zindex":"1999999999"},"close":{"text":"X","button_delay":"0","overlay_click":false,"esc_press":false,"f4_press":false},"click_open":[]}}' id="pum-42112" role="dialog">
+   <div class="pum-container popmake theme-42115 size-custom pum-position-fixed" id="popmake-42112">
+    <div class="pum-content popmake-content">
+     <p>
+      Our site uses cookies to tailor your experience, measure site performance and present relevant donation incentives and advertisements. By continuing to browse this site you are agreeing to our use of cookies. To read our privacy and cookies policy, please click
+      <a href="https://jazz.fm/privacy-policy/">
+       here
+      </a>
+      .
+     </p>
+    </div>
+    <button aria-label="Close" class="pum-close popmake-close" type="button">
+     X
+    </button>
+   </div>
+  </div>
+  <script>
+   ( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+  </script>
+  <script>
+   /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done"}};var tribe_system_info = {"sysinfo_optin_nonce":"f2221d1e1b","clipboard_btn_text":"Copy to clipboard","clipboard_copied_text":"System info copied","clipboard_fail_text":"Press \"Cmd + C\" to copy"};/* ]]> */
+  </script>
+  <script src="/app/plugins/dominant-colors-lazy-loading/public/js/dominant-colors-lazy-loading-public.js?ver=0.6.3">
+  </script>
+  <script src="https://code.jquery.com/jquery-1.12.4.min.js">
+  </script>
+  <script>
+   (window.jQuery && jQuery.noConflict()) || document.write('<script src="/wp/wp-includes/js/jquery/jquery.js"><\/script>')
+  </script>
+  <script src="/app/plugins/transaction-manager-pro-2.4/assets/js/main.js?ver=1540180421">
+  </script>
+  <script type="text/javascript">
+   /* <![CDATA[ */
+var aiStrings = {"play_title":"Play %s","pause_title":"Pause %s","previous":"Previous track","next":"Next track","toggle_list_repeat":"Toggle track listing repeat","toggle_list_visible":"Toggle track listing visibility","buy_track":"Buy this track","download_track":"Download this track","volume_up":"Volume Up","volume_down":"Volume Down"};
+/* ]]> */
+  </script>
+  <script src="/app/plugins/audioigniter/player/build/app.js?ver=1.4.2">
+  </script>
+  <script src="/wp/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4">
+  </script>
+  <script src="/wp/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4">
+  </script>
+  <script type="text/javascript">
+   /* <![CDATA[ */
+var pum_vars = {"version":"1.7.19","ajaxurl":"https:\/\/jazz.fm\/wp\/wp-admin\/admin-ajax.php","restapi":"https:\/\/jazz.fm\/wp-json\/pum\/v1","rest_nonce":null,"default_theme":"1379","debug_mode":"","popups":{"pum-42112":{"disable_form_reopen":false,"disable_on_mobile":false,"disable_on_tablet":false,"custom_height_auto":true,"scrollable_content":false,"position_from_trigger":false,"position_fixed":true,"overlay_disabled":true,"stackable":true,"disable_reposition":false,"close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"triggers":[{"type":"auto_open","settings":{"cookie_name":"jazzfm-privacy","delay":0}}],"cookies":[{"event":"on_popup_close","settings":{"name":"jazzfm-privacy","key":"","session":true,"time":"90 minutes","path":true}}],"theme_id":"42115","size":"custom","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"100%","custom_height":"380px","animation_type":"fade","animation_speed":"350","animation_origin":"center top","location":"center bottom","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","zindex":"1999999999","close_button_delay":"0","id":42112,"slug":"privacy"}},"disable_tracking":"","home_url":"\/","message_position":"top","core_sub_forms_enabled":"1"};
+var ajaxurl = "https:\/\/jazz.fm\/wp\/wp-admin\/admin-ajax.php";
+var pum_debug_vars = {"debug_mode_enabled":"Popup Maker: Debug Mode Enabled","debug_started_at":"Debug started at:","debug_more_info":"For more information on how to use this information visit https:\/\/docs.wppopupmaker.com\/?utm_medium=js-debug-info&utm_campaign=ContextualHelp&utm_source=browser-console&utm_content=more-info","global_info":"Global Information","localized_vars":"Localized variables","popups_initializing":"Popups Initializing","popups_initialized":"Popups Initialized","single_popup_label":"Popup: #","theme_id":"Theme ID: ","label_method_call":"Method Call:","label_method_args":"Method Arguments:","label_popup_settings":"Settings","label_triggers":"Triggers","label_cookies":"Cookies","label_delay":"Delay:","label_conditions":"Conditions","label_cookie":"Cookie:","label_settings":"Settings:","label_selector":"Selector:","label_mobile_disabled":"Mobile Disabled:","label_tablet_disabled":"Tablet Disabled:","label_event":"Event: %s","triggers":{"click_open":"Click Open","auto_open":"Time Delay \/ Auto Open"},"cookies":{"on_popup_close":"On Popup Close","on_popup_open":"On Popup Open","pum_sub_form_success":"Subscription Form: Successful","pum_sub_form_already_subscribed":"Subscription Form: Already Subscribed","manual":"Manual JavaScript"}};
+var pum_sub_vars = {"ajaxurl":"https:\/\/jazz.fm\/wp\/wp-admin\/admin-ajax.php","message_position":"top"};
+/* ]]> */
+  </script>
+  <script src="/app/uploads/pum/pum-site-scripts.js?defer&amp;generated=1592625597&amp;ver=1.7.19">
+  </script>
+  <script src="/app/themes/jazz-fm/dist/scripts/main-b607f32cd6.js">
+  </script>
+  <script>
+   window.ga=function(){ga.q.push(arguments)};ga.q=[];ga.l=+new Date;
+        ga('create','UA-3791998-1','auto');ga('send','pageview')
+  </script>
+  <script async="" defer="" src="https://www.google-analytics.com/analytics.js">
+  </script>
+ </body>
+</html>

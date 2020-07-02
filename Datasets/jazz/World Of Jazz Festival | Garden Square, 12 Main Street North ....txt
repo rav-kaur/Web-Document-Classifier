@@ -1,0 +1,1311 @@
+<!DOCTYPE html>
+<head>
+ <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+ <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+ <meta content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=0" name="viewport"/>
+ <title>
+  Page Not Found | To Do Canada
+ </title>
+ <script>
+  var closeimg = 'https://maps.gstatic.com/intl/en_us/mapfiles/close.gif';
+/* image for clustering. used this variable at js for clustering image */
+var styles = [{
+	url: 'https://www.todocanada.ca/wp-content/plugins/Tevolution/images/cluster.png', 
+	height: 50,
+	width: 50,
+	anchor: [-18, 0],
+	textColor: '#000', 
+	textSize: 10,
+	iconAnchor: [15, 48]}];
+ </script>
+ <!-- This site is optimized with the Yoast SEO plugin v14.3 - https://yoast.com/wordpress/plugins/seo/ -->
+ <meta content="noindex, follow" name="robots">
+  <meta content="en_US" property="og:locale"/>
+  <meta content="Page Not Found | To Do Canada" property="og:title"/>
+  <meta content="To Do Canada" property="og:site_name"/>
+  <script class="yoast-schema-graph" type="application/ld+json">
+   {"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.todocanada.ca/#organization","name":"To Do Canada","url":"https://www.todocanada.ca/","sameAs":["https://www.facebook.com/todocanada.ca","https://twitter.com/todo_canada"],"logo":{"@type":"ImageObject","@id":"https://www.todocanada.ca/#logo","inLanguage":"en-US","url":"https://www.todocanada.ca/wp-content/uploads/publisher-logo.png","width":600,"height":60,"caption":"To Do Canada"},"image":{"@id":"https://www.todocanada.ca/#logo"}},{"@type":"WebSite","@id":"https://www.todocanada.ca/#website","url":"https://www.todocanada.ca/","name":"To Do Canada","description":"Things to Do in Canada","publisher":{"@id":"https://www.todocanada.ca/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://www.todocanada.ca/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}
+  </script>
+  <!-- / Yoast SEO plugin. -->
+  <link href="//maps.googleapis.com" rel="dns-prefetch"/>
+  <link href="//cdnjs.cloudflare.com" rel="dns-prefetch"/>
+  <link href="//s.w.org" rel="dns-prefetch"/>
+  <link href="https://www.todocanada.ca/feed/" rel="alternate" title="To Do Canada » Feed" type="application/rss+xml"/>
+  <link href="https://www.todocanada.ca/comments/feed/" rel="alternate" title="To Do Canada » Comments Feed" type="application/rss+xml"/>
+  <script type="text/javascript">
+   var loading = 'Loading...';
+		var ajaxUrl = "https://www.todocanada.ca/wp-admin/admin-ajax.php";
+		var default_city_text = 'Default City';
+  </script>
+  <link href="https://www.todocanada.ca/wp-content/plugins/wysija-newsletters/css/validationEngine.jquery.css" id="validate-engine-css-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://www.todocanada.ca/wp-content/plugins/structured-content/dist/blocks.style.build.css" id="structured-content-frontend-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://www.todocanada.ca/wp-content/plugins/Tevolution/css.minifier.php" id="tevolution_style-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://www.todocanada.ca/wp-content/plugins/content-views-query-and-display-post-page/public/assets/css/cv.css" id="pt-cv-public-style-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://www.todocanada.ca/wp-content/plugins/pt-content-views-pro/public/assets/css/cvpro.min.css" id="pt-cv-public-pro-style-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://www.todocanada.ca/wp-includes/css/dist/block-library/style.min.css" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css"/>
+  <style id="wp-block-library-inline-css" type="text/css">
+   .has-text-align-justify{text-align:justify;}
+  </style>
+  <link href="https://www.todocanada.ca/wp-content/plugins/Templatic-Shortcodes/css/style.css" id="shortcodes-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://www.todocanada.ca/wp-content/plugins/canadahtmlmap/static/css/map.css" id="canada-html5-map-style-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" id="font-awesome-five-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://www.todocanada.ca/wp-content/themes/Directory-child/css/parent-style.css" id="parent-style-css-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://www.todocanada.ca/wp-content/themes/Directory/css/style.css" id="templatic-directory-css-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://www.todocanada.ca/wp-content/themes/Directory-child/style.css" id="directory-css-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://www.todocanada.ca/wp-content/themes/Directory-child/css/responsive.css" id="tmp-responsive-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://www.todocanada.ca/wp-content/themes/Directory/css/admin_style.css" id="templatic-admin-css-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://www.todocanada.ca/wp-content/plugins/jetpack/css/jetpack.css" id="jetpack_css-css" media="all" rel="stylesheet" type="text/css"/>
+  <script src="https://www.todocanada.ca/wp-includes/js/jquery/jquery.js" type="text/javascript">
+  </script>
+  <script src="https://www.todocanada.ca/wp-includes/js/jquery/jquery-migrate.min.js" type="text/javascript">
+  </script>
+  <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;libraries=places&amp;key=AIzaSyBa2p-sccuC7JF2-_eNz3qqgoTiZXMDimc&amp;ver=5.4.2" type="text/javascript">
+  </script>
+  <script src="https://www.todocanada.ca/wp-content/plugins/Tevolution/js/markermanager.js" type="text/javascript">
+  </script>
+  <script src="https://www.todocanada.ca/wp-content/plugins/Tevolution-LocationManager/js/location_script.min.js" type="text/javascript">
+  </script>
+  <script src="https://www.todocanada.ca/wp-content/plugins/canadahtmlmap/static/js/jquery.nicescroll.js" type="text/javascript">
+  </script>
+  <script src="https://www.todocanada.ca/wp-content/themes/Directory/js/sticky_city.js" type="text/javascript">
+  </script>
+  <link href="https://www.todocanada.ca/wp-json/" rel="https://api.w.org/"/>
+  <link href="https://www.todocanada.ca/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+  <link href="https://www.todocanada.ca/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+  <script type="text/javascript">
+   var onloadCallback = function( ) {
+				/* Renders the HTML element with id 'example1' as a reCAPTCHA widget.*/
+				/* The id of the reCAPTCHA widget is assigned to 'widgetId1'.*/
+																							if ( jQuery( '#comment_captcha' ).length > 0) {
+									grecaptcha.render( 'comment_captcha', {
+										'sitekey' : '6LcOdREUAAAAAH3Fhet2zpH0BuCaAat7J-f9UJQq', 
+										'theme' : 'light'
+									});
+								}
+								
+								if ( jQuery( '#contact_recaptcha_div' ).length > 0) {
+									grecaptcha.render( 'contact_recaptcha_div', {
+										'sitekey' : '6LcOdREUAAAAAH3Fhet2zpH0BuCaAat7J-f9UJQq', 
+										'theme' : 'light'
+									});
+								}
+								if ( jQuery( '#popup_register_register_cap' ).length > 0) {
+									grecaptcha.render( 'popup_register_register_cap', {
+										'sitekey' : '6LcOdREUAAAAAH3Fhet2zpH0BuCaAat7J-f9UJQq', 
+										'theme' : 'light'
+									});
+								}
+								if ( jQuery( '#register_login_widget_register_cap' ).length > 0) {
+									grecaptcha.render( 'register_login_widget_register_cap', {
+										'sitekey' : '6LcOdREUAAAAAH3Fhet2zpH0BuCaAat7J-f9UJQq', 
+										'theme' : 'light'
+									});
+								}
+								if ( jQuery( '#userform_register_cap' ).length > 0) {
+									grecaptcha.render( 'userform_register_cap', {
+										'sitekey' : '6LcOdREUAAAAAH3Fhet2zpH0BuCaAat7J-f9UJQq', 
+										'theme' : 'light'
+									});
+								}
+								
+																
+																									if ( jQuery( '#captcha_div' ).length > 0) {
+											grecaptcha.render( 'captcha_div', {
+												'sitekey' : '6LcOdREUAAAAAH3Fhet2zpH0BuCaAat7J-f9UJQq', 
+												'theme' : 'light'
+											});
+										}
+																		};
+  </script>
+  <script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&amp;render=explicit&amp;hl=en">
+  </script>
+  <script type="text/javascript">
+   var ajaxUrl = "https://www.todocanada.ca/wp-admin/admin-ajax.php";
+		var tevolutionajaxUrl = "https://www.todocanada.ca/wp-content/plugins/Tevolution/tevolution-ajax.php";
+		var upload_single_title = "Upload Image"; 
+		var RecaptchaOptions = { theme : '', lang : '', tabindex :'' };
+			var current_user="0";
+	var favourites_sort="";
+	/*check wether payment gateway validattion is statisfied or not*/
+var validate_gateway = true;
+var user_email_error ="Email address already exists, Please enter another email";
+var user_email_verified="The email address is correctly entered. ";
+var user_fname_error="The username you entered already exists, please try a different one";
+var user_login_link =" or <a href='https://www.todocanada.ca/login/'>Sign in</a>";
+var user_fname_verified="This username is available. ";
+var user_name_verified='';
+var user_name_error="Incorrect username";
+var submit_form_error="Please Login before you submit a form.";
+
+var TWEET="Tweet";
+var FB_LIKE="Share";
+var PINT_REST="Pin";
+  </script>
+  <style type="text/css">
+   img#wpstats{display:none}
+  </style>
+  <meta content="https://www.todocanada.ca/wp-content/uploads/2011/07/Glenbowmuseecanoe.jpg" property="og:image"/>
+  <meta content="https://www.todocanada.ca/wp-content/uploads/2011/07/Glenbowmuseecanoe.jpg" name="twitter:image"/>
+  <meta content="wordpress-plugin" name="onesignal"/>
+  <script>
+   window.OneSignal = window.OneSignal || [];
+
+      OneSignal.push( function() {
+        OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
+        OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
+        OneSignal.SERVICE_WORKER_PARAM = { scope: '/' };
+
+        OneSignal.setDefaultNotificationUrl("https://www.todocanada.ca");
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = '8389ebb9-90a6-4b66-9e69-8a626f431f02';
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "";
+oneSignal_options['welcomeNotification']['message'] = "";
+oneSignal_options['path'] = "https://www.todocanada.ca/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/";
+oneSignal_options['persistNotification'] = true;
+oneSignal_options['promptOptions'] = { };
+oneSignal_options['notifyButton'] = { };
+oneSignal_options['notifyButton']['enable'] = true;
+oneSignal_options['notifyButton']['position'] = 'bottom-left';
+oneSignal_options['notifyButton']['theme'] = 'default';
+oneSignal_options['notifyButton']['size'] = 'small';
+oneSignal_options['notifyButton']['displayPredicate'] = function() {
+              return OneSignal.isPushNotificationsEnabled()
+                      .then(function(isPushEnabled) {
+                          return !isPushEnabled;
+                      });
+            };
+oneSignal_options['notifyButton']['showCredit'] = false;
+oneSignal_options['notifyButton']['text'] = {};
+                OneSignal.init(window._oneSignalInitOptions);
+                      });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+  </script>
+  <style media="screen" type="text/css">
+   /* Dynamic To Top Plugin ver. 3.5 - http://www.mattvarone.com */body{position:relative}#dynamic-to-top{display:none;overflow:hidden;width:auto;z-index:90;position:fixed;bottom:20px;right:20px;top:auto;left:auto;font-family:sans-serif;font-size:1.15em;color:#ffffff;text-decoration:none;text-shadow:0 1px 0 #333;font-weight:bold;padding:10px 14px;border:1px solid #00000;background:#000000;-webkit-background-origin:border;-moz-background-origin:border;-icab-background-origin:border;-khtml-background-origin:border;-o-background-origin:border;background-origin:border;-webkit-background-clip:padding-box;-moz-background-clip:padding-box;-icab-background-clip:padding-box;-khtml-background-clip:padding-box;-o-background-clip:padding-box;background-clip:padding-box;-webkit-box-shadow:0 1px 3px rgba( 0, 0, 0, 0.4 ), inset 0 0 0 1px rgba( 0, 0, 0, 0.2 ), inset 0 1px 0 rgba( 255, 255, 255, .4 ), inset 0 10px 10px rgba( 255, 255, 255, .1 );-ms-box-shadow:0 1px 3px rgba( 0, 0, 0, 0.4 ), inset 0 0 0 1px rgba( 0, 0, 0, 0.2 ), inset 0 1px 0 rgba( 255, 255, 255, .4 ), inset 0 10px 10px rgba( 255, 255, 255, .1 );-moz-box-shadow:0 1px 3px rgba( 0, 0, 0, 0.4 ), inset 0 0 0 1px rgba( 0, 0, 0, 0.2 ), inset 0 1px 0 rgba( 255, 255, 255, .4 ), inset 0 10px 10px rgba( 255, 255, 255, .1 );-o-box-shadow:0 1px 3px rgba( 0, 0, 0, 0.4 ), inset 0 0 0 1px rgba( 0, 0, 0, 0.2 ), inset 0 1px 0 rgba( 255, 255, 255, .4 ), inset 0 10px 10px rgba( 255, 255, 255, .1 );-khtml-box-shadow:0 1px 3px rgba( 0, 0, 0, 0.4 ), inset 0 0 0 1px rgba( 0, 0, 0, 0.2 ), inset 0 1px 0 rgba( 255, 255, 255, .4 ), inset 0 10px 10px rgba( 255, 255, 255, .1 );-icab-box-shadow:0 1px 3px rgba( 0, 0, 0, 0.4 ), inset 0 0 0 1px rgba( 0, 0, 0, 0.2 ), inset 0 1px 0 rgba( 255, 255, 255, .4 ), inset 0 10px 10px rgba( 255, 255, 255, .1 );box-shadow:0 1px 3px rgba( 0, 0, 0, 0.4 ), inset 0 0 0 1px rgba( 0, 0, 0, 0.2 ), inset 0 1px 0 rgba( 255, 255, 255, .4 ), inset 0 10px 10px rgba( 255, 255, 255, .1 );-webkit-border-radius:30px;-moz-border-radius:30px;-icab-border-radius:30px;-khtml-border-radius:30px;border-radius:30px}#dynamic-to-top:hover{background:#4d4d4d;background:#000000 -webkit-gradient( linear, 0% 0%, 0% 100%, from( rgba( 255, 255, 255, .2 ) ), to( rgba( 0, 0, 0, 0 ) ) );background:#000000 -webkit-linear-gradient( top, rgba( 255, 255, 255, .2 ), rgba( 0, 0, 0, 0 ) );background:#000000 -khtml-linear-gradient( top, rgba( 255, 255, 255, .2 ), rgba( 0, 0, 0, 0 ) );background:#000000 -moz-linear-gradient( top, rgba( 255, 255, 255, .2 ), rgba( 0, 0, 0, 0 ) );background:#000000 -o-linear-gradient( top, rgba( 255, 255, 255, .2 ), rgba( 0, 0, 0, 0 ) );background:#000000 -ms-linear-gradient( top, rgba( 255, 255, 255, .2 ), rgba( 0, 0, 0, 0 ) );background:#000000 -icab-linear-gradient( top, rgba( 255, 255, 255, .2 ), rgba( 0, 0, 0, 0 ) );background:#000000 linear-gradient( top, rgba( 255, 255, 255, .2 ), rgba( 0, 0, 0, 0 ) );cursor:pointer}#dynamic-to-top:active{background:#000000;background:#000000 -webkit-gradient( linear, 0% 0%, 0% 100%, from( rgba( 0, 0, 0, .3 ) ), to( rgba( 0, 0, 0, 0 ) ) );background:#000000 -webkit-linear-gradient( top, rgba( 0, 0, 0, .1 ), rgba( 0, 0, 0, 0 ) );background:#000000 -moz-linear-gradient( top, rgba( 0, 0, 0, .1 ), rgba( 0, 0, 0, 0 ) );background:#000000 -khtml-linear-gradient( top, rgba( 0, 0, 0, .1 ), rgba( 0, 0, 0, 0 ) );background:#000000 -o-linear-gradient( top, rgba( 0, 0, 0, .1 ), rgba( 0, 0, 0, 0 ) );background:#000000 -ms-linear-gradient( top, rgba( 0, 0, 0, .1 ), rgba( 0, 0, 0, 0 ) );background:#000000 -icab-linear-gradient( top, rgba( 0, 0, 0, .1 ), rgba( 0, 0, 0, 0 ) );background:#000000 linear-gradient( top, rgba( 0, 0, 0, .1 ), rgba( 0, 0, 0, 0 ) )}#dynamic-to-top,#dynamic-to-top:active,#dynamic-to-top:focus,#dynamic-to-top:hover{outline:none}#dynamic-to-top span{display:block;overflow:hidden;width:14px;height:12px;background:url( https://www.todocanada.ca/wp-content/plugins/dynamic-to-top/css/images/up.png )no-repeat center center}
+  </style>
+  <link href="https://www.todocanada.ca/wp-content/uploads/cropped-todocanada-icon.png" rel="icon" sizes="32x32"/>
+  <link href="https://www.todocanada.ca/wp-content/uploads/cropped-todocanada-icon.png" rel="icon" sizes="192x192"/>
+  <link href="https://www.todocanada.ca/wp-content/uploads/cropped-todocanada-icon.png" rel="apple-touch-icon"/>
+  <meta content="https://www.todocanada.ca/wp-content/uploads/cropped-todocanada-icon.png" name="msapplication-TileImage"/>
+  <style id="pt-cv-custom-style-82caf8dour" type="text/css">
+   .pt-cv-no-post {display:none}
+  </style>
+  <link href="https://www.todocanada.ca/wp-content/themes/Directory/custom.css" rel="stylesheet" type="text/css"/>
+  <script type="text/javascript">
+   jQuery(document).ready(function() {	
+		if(jQuery( window ).width() < 980 ){	
+			jQuery('.preview_submit_from_data .b_getdirection.getdir').html("<i class='fas fa fa-map-marker'></i>");	
+			jQuery('.preview_submit_from_data .b_getdirection.large_map').html("<i class='fas fa fa-retweet'></i>");	
+		}	
+		jQuery(window).resize(function() {	
+			if(jQuery( window ).width() < 980 ){	
+				jQuery('.preview_submit_from_data .b_getdirection.getdir').html("<i class='fas fa fa-map-marker'></i>");	
+				jQuery('.preview_submit_from_data .b_getdirection.large_map').html("<i class='fas fa fa-retweet'></i>");	
+			}	
+		});	
+
+	});
+  </script>
+  <script>
+   (adsbygoogle = window.adsbygoogle || []).push({	
+          google_ad_client: "ca-pub-4626985731395134",	
+          enable_page_level_ads: true	
+     });
+  </script>
+ </meta>
+</head>
+<body class="wordpress en_US child-theme y2020 m07 d01 h21 wednesday logged-out error-404 layout-default layout-1c location_manager">
+ <div class="supreme_wrapper">
+  <div class="off-canvas-wrap" data-offcanvas="">
+   <!-- off-canvas-wrap start -->
+   <!-- inner-wrap start -->
+   <div class="inner-wrap">
+    <!-- Navigation  - Contain logo and site title -->
+    <nav class="tab-bar hide-for-large-up">
+     <section class="left-small">
+      <a class="left-off-canvas-toggle menu-icon" href="#">
+       <span>
+       </span>
+      </a>
+      <!-- off canvas icon -->
+     </section>
+     <section class="middle tab-bar-section">
+      <a href="https://www.todocanada.ca/" rel="Home" title="To Do Canada">
+       <img alt="To Do Canada" class="logo" src="https://www.todocanada.ca/wp-content/uploads/todocanadalogo11.png"/>
+      </a>
+     </section>
+    </nav>
+    <aside class="left-off-canvas-menu">
+     <!-- off canvas side menu -->
+     <!-- Primary Navigation Menu Start -->
+     <div class="menu-container" id="menu-mobi-primary">
+      <nav class="wrap" role="navigation">
+       <div id="menu-mobi-primary-title">
+        Menu
+       </div>
+       <!-- #menu-primary-title -->
+       <div class="menu">
+        <ul class="primary_menu clearfix" id="menu-mobi-primary-items">
+         <li class="tmpl-login">
+          <a data-reveal-id="tmpl_reg_login_container" href="javascript:void(0);" onclick="tmpl_login_frm();">
+           Login
+          </a>
+         </li>
+        </ul>
+       </div>
+      </nav>
+     </div>
+     <!-- #menu-primary .menu-container -->
+     <!-- Primary Navigation Menu End -->
+     <div class="nav_bg" id="nav">
+      <div class="menu-container" id="menu-mobi-secondary">
+       <nav class="wrap" role="navigation">
+        <div id="menu-mobi-secondary-title">
+         Menu
+        </div>
+        <!-- #menu-secondary-title -->
+        <div class="menu">
+         <ul class="off-canvas-list" id="menu-mobi-secondary-items">
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-25279" id="menu-item-25279">
+           <a href="https://www.todocanada.ca/">
+            Home
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-154286" id="menu-item-154286">
+           <a href="https://www.todocanada.ca/city/toronto/category/news/">
+            News
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21986" id="menu-item-21986">
+           <a href="https://www.todocanada.ca/Things-to-Do-in-Canada-this-Weekend/">
+            What’s On this Weekend
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-154287" id="menu-item-154287">
+           <a href="https://www.todocanada.ca/covid-19-when-will-all-this-be-over-in-canada/">
+            Reopening Plans
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-154997" id="menu-item-154997">
+           <a href="https://www.todocanada.ca/city/na/post_tag/support-local/">
+            Support Local
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21694" id="menu-item-21694">
+           <a href="https://www.todocanada.ca/Submission/">
+            Submit Listing
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-98972" id="menu-item-98972">
+           <a href="https://www.todocanada.ca/things-niagara-falls/">
+            Niagara Falls
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73024" id="menu-item-73024">
+           <a href="https://www.todocanada.ca/city/calgary/">
+            Calgary
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73025" id="menu-item-73025">
+           <a href="https://www.todocanada.ca/city/edmonton/">
+            Edmonton
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73026" id="menu-item-73026">
+           <a href="https://www.todocanada.ca/city/ottawa/">
+            Ottawa
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73030" id="menu-item-73030">
+           <a href="https://www.todocanada.ca/city/regina/">
+            Regina
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73029" id="menu-item-73029">
+           <a href="https://www.todocanada.ca/city/saskatoon/">
+            Saskatoon
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73023" id="menu-item-73023">
+           <a href="https://www.todocanada.ca/city/toronto/">
+            Toronto
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73027" id="menu-item-73027">
+           <a href="https://www.todocanada.ca/city/vancouver/">
+            Vancouver
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73028" id="menu-item-73028">
+           <a href="https://www.todocanada.ca/city/winnipeg/">
+            Winnipeg
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25231" id="menu-item-25231">
+           <a href="https://www.todocanada.ca/family-fun-entertainment-canada/">
+            Family Fun in Canada
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-42800" id="menu-item-42800">
+           <a href="https://www.todocanada.ca/canada-itineraries/">
+            Canada Itineraries
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46350" id="menu-item-46350">
+           <a href="https://www.todocanada.ca/national-parks-canada-trip-guide/">
+            National Parks
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-56052" id="menu-item-56052">
+           <a href="https://www.todocanada.ca/romantic-getaways-canada/">
+            Romantic Getaways
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-ecategory menu-item-29673" id="menu-item-29673">
+           <a href="https://www.todocanada.ca/city/toronto/events/" title="All Events ">
+            Events
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-listingcategory menu-item-29674" id="menu-item-29674">
+           <a href="https://www.todocanada.ca/city/toronto/thingstodo/" title="Places to Visit &amp; Things to Do">
+            Places to Visit
+           </a>
+          </li>
+         </ul>
+        </div>
+       </nav>
+      </div>
+      <!-- #menu-secondary .menu-container -->
+     </div>
+    </aside>
+    <div class="container-wrap" id="container">
+     <header class="header_container clearfix">
+      <div class="primary_menu_wrapper clearfix">
+       <div class="primary_menu_wrap row">
+        <div class="location_fld_wrapper">
+         <!-- City name link -->
+         <div class="toggle_handler primary_location" data-location="location_aslink" id="loc_city_link">
+          <a href="#" id="directorytab">
+           <img alt="Toronto" height="12" src="https://www.todocanada.ca/wp-content/plugins/Tevolution-LocationManager/images/flags/canada.png" width="18"/>
+           Toronto
+           <i class="fas fa-angle-down">
+           </i>
+          </a>
+         </div>
+         <div class="d_location_type_navigation clearfix" id="directory_location_navigation">
+          <div id="location_navigation_wrap">
+           <div class="d_location_navigation_left" id="horizontal_header_location">
+           </div>
+           <div id="location_loading" style="display:none;">
+            <i class="fas fa-circle-notch fa-spin">
+            </i>
+           </div>
+          </div>
+         </div>
+        </div>
+        <!-- Primary Navigation Menu Start -->
+        <div class="menu-container" id="menu-primary">
+         <nav class="wrap" role="navigation">
+          <div id="menu-primary-title">
+           Menu
+          </div>
+          <!-- #menu-primary-title -->
+          <div class="menu">
+           <ul class="primary_menu clearfix" id="menu-primary-items">
+            <li class="tmpl-login">
+             <a data-reveal-id="tmpl_reg_login_container" href="javascript:void(0);" onclick="tmpl_login_frm();">
+              Login
+             </a>
+            </li>
+           </ul>
+          </div>
+         </nav>
+        </div>
+        <!-- #menu-primary .menu-container -->
+        <!-- Primary Navigation Menu End -->
+       </div>
+      </div>
+      <div class="row clearfix" id="header">
+       <div class="header-wrap">
+        <div class="large-4 columns" id="branding">
+         <hgroup>
+          <div id="site-title">
+           <a href="https://www.todocanada.ca" rel="Home" title="To Do Canada">
+            <img alt="To Do Canada" class="logo" src="https://www.todocanada.ca/wp-content/uploads/todocanadalogo11.png"/>
+           </a>
+          </div>
+          <div id="site-description">
+           <span>
+            Things to Do in Canada
+           </span>
+          </div>
+         </hgroup>
+        </div>
+        <!-- #branding -->
+        <div class="large-8 columns">
+         <div class="header-widget-wrap">
+          <!-- #sidebar-header right start -->
+          <aside class="sidebar" id="sidebar-header">
+           <div class="widget templatic_text" id="templatic_text-46">
+            <div class="widget-wrap widget-inside">
+             <div class="textwidget">
+              <form action="https://www.google.ca" id="cse-search-box" target="_blank">
+               <div>
+                <input name="cx" type="hidden" value="partner-pub-4626985731395134:4498578323"/>
+                <input name="ie" type="hidden" value="UTF-8"/>
+                <input name="q" size="20" type="text"/>
+                <input name="sa" type="submit" value="Search"/>
+               </div>
+              </form>
+              <script src="https://www.google.ca/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+              </script>
+             </div>
+            </div>
+           </div>
+          </aside>
+          <!-- #sidebar-header right end -->
+         </div>
+        </div>
+        <!-- large-8 columns -->
+       </div>
+       <!-- .wrap -->
+       <div class="nav_bg columns" id="nav-secondary">
+        <div class="menu-container clearfix" id="menu-secondary">
+         <nav class="wrap" role="navigation">
+          <!-- #menu-secondary-title -->
+          <div id="menu-secondary-title">
+           Menu
+          </div>
+          <div class="menu">
+           <ul class="" id="menu-secondary-items">
+            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-25279">
+             <a href="https://www.todocanada.ca/">
+              Home
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-154286">
+             <a href="https://www.todocanada.ca/city/toronto/category/news/">
+              News
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21986">
+             <a href="https://www.todocanada.ca/Things-to-Do-in-Canada-this-Weekend/">
+              What’s On this Weekend
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-154287">
+             <a href="https://www.todocanada.ca/covid-19-when-will-all-this-be-over-in-canada/">
+              Reopening Plans
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-154997">
+             <a href="https://www.todocanada.ca/city/na/post_tag/support-local/">
+              Support Local
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21694">
+             <a href="https://www.todocanada.ca/Submission/">
+              Submit Listing
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-98972">
+             <a href="https://www.todocanada.ca/things-niagara-falls/">
+              Niagara Falls
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73024">
+             <a href="https://www.todocanada.ca/city/calgary/">
+              Calgary
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73025">
+             <a href="https://www.todocanada.ca/city/edmonton/">
+              Edmonton
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73026">
+             <a href="https://www.todocanada.ca/city/ottawa/">
+              Ottawa
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73030">
+             <a href="https://www.todocanada.ca/city/regina/">
+              Regina
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73029">
+             <a href="https://www.todocanada.ca/city/saskatoon/">
+              Saskatoon
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73023">
+             <a href="https://www.todocanada.ca/city/toronto/">
+              Toronto
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73027">
+             <a href="https://www.todocanada.ca/city/vancouver/">
+              Vancouver
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73028">
+             <a href="https://www.todocanada.ca/city/winnipeg/">
+              Winnipeg
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25231">
+             <a href="https://www.todocanada.ca/family-fun-entertainment-canada/">
+              Family Fun in Canada
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-42800">
+             <a href="https://www.todocanada.ca/canada-itineraries/">
+              Canada Itineraries
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46350">
+             <a href="https://www.todocanada.ca/national-parks-canada-trip-guide/">
+              National Parks
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-56052">
+             <a href="https://www.todocanada.ca/romantic-getaways-canada/">
+              Romantic Getaways
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-taxonomy menu-item-object-ecategory menu-item-29673">
+             <a href="https://www.todocanada.ca/city/toronto/events/" title="All Events ">
+              Events
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-taxonomy menu-item-object-listingcategory menu-item-29674">
+             <a href="https://www.todocanada.ca/city/toronto/thingstodo/" title="Places to Visit &amp; Things to Do">
+              Places to Visit
+             </a>
+            </li>
+           </ul>
+          </div>
+         </nav>
+        </div>
+        <!-- #menu-secondary .menu-container -->
+       </div>
+      </div>
+      <!-- #header -->
+     </header>
+     <section class="clearfix" id="main">
+      <div class="wrap row">
+       <section class="error_404 large-9 small-12 columns" id="content">
+        <div class="hfeed">
+         <div id="post-0">
+          <div class="wrap404 clearfix">
+           <div class="desc404">
+            <h4>
+             Oops... We may have struck it off from our To-Do list!
+            </h4>
+            <p>
+             You may - Check out our popular posts OR Try digging into our lists by searching below OR
+             <span style="color: #3366ff;">
+              <a href="https://www.todocanada.ca/let-us-help-find-articles/" style="color: #3366ff;" target="_blank">
+               comment here and we will email the article to you, if it exists.
+              </a>
+             </span>
+            </p>
+            <form action="http://www.google.ca" id="cse-search-box" target="_blank">
+             <div>
+              <input name="cx" type="hidden" value="partner-pub-8228390839633607:1281149376"/>
+              <input name="ie" type="hidden" value="UTF-8"/>
+              <input name="q" size="20" type="text"/>
+              <input name="sa" type="submit" value="Search"/>
+             </div>
+            </form>
+            <script src="http://www.google.ca/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+            </script>
+           </div>
+           <p>
+            <strong>
+             Suggestions:
+            </strong>
+            <ol>
+             <li>
+              <span style="color: #3366ff;">
+               <a href="https://www.todocanada.ca/Things-to-Do-in-Canada-this-Weekend/" style="color: #3366ff;" target="_blank">
+                Things to do this weekend
+               </a>
+              </span>
+             </li>
+             <li>
+              <span style="color: #3366ff;">
+               <a href="https://www.todocanada.ca/city/toronto/" style="color: #3366ff;" target="_blank">
+                Toronto
+               </a>
+              </span>
+             </li>
+             <li>
+              <span style="color: #3366ff;">
+               <a href="https://www.todocanada.ca/city/calgary/" style="color: #3366ff;" target="_blank">
+                Calgary
+               </a>
+              </span>
+             </li>
+             <li>
+              <span style="color: #3366ff;">
+               <a href="https://www.todocanada.ca/city/edmonton/" style="color: #3366ff;" target="_blank">
+                Edmonton
+               </a>
+              </span>
+             </li>
+             <li>
+              <span style="color: #3366ff;">
+               <a href="https://www.todocanada.ca/city/banff/" style="color: #3366ff;" target="_blank">
+                Banff
+               </a>
+              </span>
+             </li>
+             <li>
+              <span style="color: #3366ff;">
+               <a href="https://www.todocanada.ca/city/jasper/" style="color: #3366ff;" target="_blank">
+                Jasper
+               </a>
+              </span>
+             </li>
+             <li>
+              <span style="color: #3366ff;">
+               <a href="https://www.todocanada.ca/Planning-a-Trip-to-Niagara-Falls-Canada/" style="color: #3366ff;" target="_blank">
+                Niagara Falls
+               </a>
+              </span>
+             </li>
+            </ol>
+           </p>
+          </div>
+         </div>
+        </div>
+       </section>
+      </div>
+     </section>
+    </div>
+   </div>
+  </div>
+ </div>
+</body>
+<!-- .wrap -->
+<!-- #main -->
+<!-- #container -->
+<a class="exit-off-canvas">
+</a>
+<!-- exit-off-canvas - overlay to exit offcanvas -->
+<a class="exit-selection">
+</a>
+<div class="exit-sorting">
+</div>
+<!-- inner-wrap start -->
+<!-- off-canvas-wrap end -->
+<footer class="clearfix" id="footer">
+ <section class="footer_top clearfix">
+  <div class="footer-wrap clearfix row">
+   <div class="columns">
+    <div class="footer_widget_wrap">
+     <div class="widget templatic_text" id="templatic_text-50">
+      <div class="widget-wrap widget-inside">
+       <h3 class="widget-title">
+        See &amp; Do
+       </h3>
+       <div class="textwidget">
+        <a href="https://www.todocanada.ca/city/na/post_tag/support-local/" target="_blank">
+         Support Local
+        </a>
+        <br/>
+        <a href="https://www.todocanada.ca/festivals-in-canada/" target="_blank">
+         Festivals
+        </a>
+        <br/>
+        <a href="https://www.todocanada.ca/family-fun-entertainment-canada/" target="_blank">
+         Family Fun
+        </a>
+        <br/>
+        <a href="https://www.todocanada.ca/trip-ideas/" target="_blank">
+         Trip Ideas
+        </a>
+        <br/>
+        <a href="https://www.todocanada.ca/Things-to-Do-in-Canada-this-Weekend/" target="_blank">
+         What's On This Weekend
+        </a>
+        <br/>
+        <a href="https://www.todocanada.ca/valentines-day-activities/" target="_blank">
+         Valentine's Day
+        </a>
+        <br/>
+        <a href="https://www.todocanada.ca/family-day-weekend/" target="_blank">
+         Family Day
+        </a>
+        <br/>
+        <a href="https://www.todocanada.ca/victoria-day-fireworks-activities-canada/" target="_blank">
+         Victoria Day
+        </a>
+        <br/>
+        <a href="https://www.todocanada.ca/city/na/post_tag/mothers-day/" target="_blank">
+         Mother's Day
+        </a>
+        <br/>
+        <a href="https://www.todocanada.ca/canada-day-fireworks-festivals/" target="_blank">
+         Canada Day
+        </a>
+        <br/>
+        <a href="https://www.todocanada.ca/thanksgiving-weekend-activities-events-canada/" target="_blank">
+         Thanksgiving
+        </a>
+        <br/>
+        <a href="https://www.todocanada.ca/city/all/post_tag/halloween/" target="_blank">
+         Halloween
+        </a>
+        <br/>
+        <a href="https://www.todocanada.ca/christmas-holiday-activities-events/" target="_blank">
+         Christmas
+        </a>
+        <br/>
+        <a href="https://www.todocanada.ca/new-years-eve-canada/" target="_blank">
+         New Year's Eve
+        </a>
+        <br/>
+       </div>
+      </div>
+     </div>
+     <div class="widget templatic_text" id="templatic_text-51">
+      <div class="widget-wrap widget-inside">
+       <h3 class="widget-title">
+        Explore Canada
+       </h3>
+       <div class="textwidget">
+        <div class="pt-cv-wrapper">
+         <div class="row">
+          <div class="col-md-6 col-sm-6">
+           <b>
+            Cities
+           </b>
+           <br/>
+           <a href="https://www.todocanada.ca/city/banff/" target="_blank">
+            Banff
+           </a>
+           <br/>
+           <a href="https://www.todocanada.ca/city/calgary/" target="_blank">
+            Calgary
+           </a>
+           <br/>
+           <a href="https://www.todocanada.ca/city/central-alberta/" target="_blank">
+            Central Alberta
+           </a>
+           <br/>
+           <a href="https://www.todocanada.ca/city/edmonton/" target="_blank">
+            Edmonton
+           </a>
+           <br/>
+           <a href="https://www.todocanada.ca/city/jasper/" target="_blank">
+            Jasper
+           </a>
+           <br/>
+           <a href="https://www.todocanada.ca/city/ottawa/" target="_blank">
+            Ottawa
+           </a>
+           <br/>
+           <a href="https://www.todocanada.ca/city/regina/" target="_blank">
+            Regina
+           </a>
+           <br/>
+           <a href="https://www.todocanada.ca/city/saskatoon/" target="_blank">
+            Saskatoon
+           </a>
+           <br/>
+           <a href="https://www.todocanada.ca/city/toronto/" target="_blank">
+            Toronto
+           </a>
+           <br/>
+           <a href="https://www.todocanada.ca/city/vancouver/" target="_blank">
+            Vancouver
+           </a>
+           <br/>
+           <a href="https://www.todocanada.ca/city/winnipeg/" target="_blank">
+            Winnipeg
+           </a>
+          </div>
+          <div class="col-md-6 col-sm-6">
+           <b>
+            Provinces
+           </b>
+           <br/>
+           <a href="https://www.todocanada.ca/british-columbia/" target="_blank">
+            British Columbia
+           </a>
+           <br/>
+           <a href="https://www.todocanada.ca/things-to-do-alberta/" target="_blank">
+            Alberta
+           </a>
+           <br/>
+           <a href="https://www.todocanada.ca/explore-saskatchewan-places-see-things/" target="_blank">
+            Saskatchewan
+           </a>
+           <br/>
+           <a href="https://www.todocanada.ca/explore-manitoba/" target="_blank">
+            Manitoba
+           </a>
+           <br/>
+           <a href="https://www.todocanada.ca/discover-ontario/" target="_blank">
+            Ontario
+           </a>
+           <br/>
+           <a href="https://www.todocanada.ca/quebec/" target="_blank">
+            Quebec
+           </a>
+           <br/>
+           <a href="https://www.todocanada.ca/new-brunswick/" target="_blank">
+            New Brunswick
+           </a>
+           <br/>
+           <a href="https://www.todocanada.ca/nova-scotia/" target="_blank">
+            Nova Scotia
+           </a>
+           <br/>
+           <a href="https://www.todocanada.ca/prince-edward-island/" target="_blank">
+            Prince Edward Island
+           </a>
+           <br/>
+           <a href="https://www.todocanada.ca/newfoundland-labrador/" target="_blank">
+            Newfoundland &amp; Labrador
+           </a>
+           <br/>
+           <a href="https://www.todocanada.ca/explore-canadas-territories/" target="_blank">
+            Territories
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="widget templatic_text" id="templatic_text-52">
+      <div class="widget-wrap widget-inside">
+       <h3 class="widget-title">
+        Contact Us
+       </h3>
+       <div class="textwidget">
+        <div class="footer-widget-icons">
+         <a href="https://twitter.com/todo_canada" target="_blank">
+          <i class="fab fa-twitter-square">
+          </i>
+          Twitter
+         </a>
+         <br>
+          <a href="https://plus.google.com/+TodocanadaCa/" target="_blank">
+           <i class="fab fa-google-plus-square">
+           </i>
+           Google+
+          </a>
+          <br>
+           <a href="https://www.facebook.com/todocanada.ca/" target="_blank">
+            <i class="fab fa-facebook-square">
+            </i>
+            Facebook
+           </a>
+           <br>
+            <a href="mailto:report@todocanada.ca?Subject=Hello" target="_blank">
+             <i class="fas fa-envelope-square">
+             </i>
+             Send Mail
+            </a>
+            <br>
+             <a href="https://www.todocanada.ca/Submission/" target="_blank">
+              <i class="fas fa-pen-square">
+              </i>
+              Submit Listing
+             </a>
+             <br>
+              <a href="https://www.todocanada.ca/write-for-us/" target="_blank">
+               <i class="fas fa-plus-square">
+               </i>
+               Write for Us
+              </a>
+             </br>
+            </br>
+           </br>
+          </br>
+         </br>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </section>
+ <section class="footer_bottom clearfix">
+  <div class="footer-wrap clearfix row">
+   <div class="columns">
+    <div class="menu-container" id="menu-footer">
+     <nav class="wrap">
+      <div class="menu">
+       <ul class="" id="menu-footer-items">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49144" id="menu-item-49144">
+         <a href="https://www.todocanada.ca/trip-ideas/">
+          Getaways
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49143" id="menu-item-49143">
+         <a href="https://www.todocanada.ca/canada-itineraries/">
+          Itineraries
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-ecategory menu-item-30581" id="menu-item-30581">
+         <a href="https://www.todocanada.ca/city/toronto/events/">
+          Events
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10346" id="menu-item-10346">
+         <a href="https://www.todocanada.ca/todocanada/">
+          Contact Us
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44690" id="menu-item-44690">
+         <a href="https://www.todocanada.ca/terms-of-use/">
+          Terms of Use
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-10345" id="menu-item-10345">
+         <a href="https://www.todocanada.ca/privacy-policy/">
+          Privacy Policy
+         </a>
+        </li>
+        <li class="tmpl-login">
+         <a data-reveal-id="tmpl_reg_login_container" href="javascript:void(0);" onclick="tmpl_login_frm();">
+          Login
+         </a>
+        </li>
+       </ul>
+      </div>
+     </nav>
+    </div>
+    <!-- #menu-footer .menu-container -->
+    <div class="footer-content">
+     <p class="copyright">
+      © 2020
+      <a href="https://www.todocanada.ca/">
+       todoCanada.ca
+      </a>
+     </p>
+    </div>
+    <!-- .footer-content -->
+   </div>
+  </div>
+  <!-- .wrap -->
+ </section>
+</footer>
+<!-- #footer -->
+<script>
+ var jQuery = jQuery.noConflict();
+		jQuery( document ).ready(function() {
+			jQuery.ajax({
+				url: 'https://www.todocanada.ca/wp-content/plugins/Tevolution/tmplconnector/sharrre.php', 
+				data: {
+					"url": "/",
+					"type" : 'facebook', 
+				},
+				success: function(result) {
+					var counts = result.count;
+					jQuery( '.social-media-share .facebook_share .count' ).html(counts+'<span class="showlabel">&nbsp;Share,</span>' );
+					return false;
+				}
+			});
+		});
+</script>
+<script>
+</script>
+<script async="" type="text/javascript">
+ var category_map = '';
+</script>
+<!-- Login form -->
+<div class="reveal-modal tmpl_login_frm_data" data-reveal="" id="tmpl_reg_login_container">
+ <a class="modal_close" href="javascript:;">
+ </a>
+ <div id="tmpl_login_frm">
+  <div class="login_form_l">
+   <h3>
+    Sign In
+   </h3>
+   <div class="login_form_box">
+    <form action="https://www.todocanada.ca/submit-event/" id="popup_login" method="post" name="popup_login">
+     <input name="action" type="hidden" value="login"/>
+     <div class="form_row clearfix">
+      <label>
+       Username
+       <span class="indicates">
+        *
+       </span>
+      </label>
+      <input class="textfield" id="user_login" name="log" size="20" type="text" value=""/>
+      <span id="user_loginInfo">
+      </span>
+     </div>
+     <div class="form_row clearfix">
+      <label>
+       Password
+       <span class="indicates">
+        *
+       </span>
+      </label>
+      <input class="textfield" id="user_pass" name="pwd" size="20" type="password" value=""/>
+      <span id="user_passInfo">
+      </span>
+     </div>
+     <input name="redirect_to" type="hidden" value=""/>
+     <input name="testcookie" type="hidden" value="1"/>
+     <div class="form_row rember clearfix">
+      <label>
+       <input class="fl" id="rememberme" name="rememberme" type="checkbox" value="forever"/>
+       Remember me on this computer
+      </label>
+      <!-- html to show social login -->
+      <a class="lw_fpw_lnk" href="javascript:void(0)" onclick="showhide_forgetpw('popup_login');">
+       Forgot your password?
+      </a>
+     </div>
+     <div class="form_row">
+      <input class="b_signin_n" name="submit" type="submit" value="Sign In"/>
+      <p class="forgot_link">
+      </p>
+     </div>
+    </form>
+    <div class="forgotpassword" id="lostpassword_form" style="display:none;">
+     <h3>
+      Forgot password
+     </h3>
+     <form action="https://www.todocanada.ca/submit-event/" id="popup_login_forgot_pass" method="post" name="popup_login_forgot_pass">
+      <input name="action" type="hidden" value="lostpassword"/>
+      <div class="form_row clearfix">
+       <label>
+        Email:
+       </label>
+       <input class="textfield" id="user_login_email" name="user_login" size="20" type="text" value=""/>
+       <span class="message_error2" id="forget_user_email_error">
+       </span>
+      </div>
+      <input name="pwdredirect_to" type="hidden" value=""/>
+      <input class="b_signin_n" name="get_new_password" onclick="return forget_email_validate( 'popup_login_forgot_pass' );" type="submit" value="Get New Password"/>
+     </form>
+    </div>
+   </div>
+   <!-- Enable social media(gigya plugin) if activated-->
+   <!--End of plugin code-->
+   <script async="" type="text/javascript">
+    function showhide_forgetpw(form_id)
+				{
+					jQuery(document).on('click','form#'+form_id+' .lw_fpw_lnk', function(e){
+						jQuery(this).closest('form#'+form_id).next().show();
+						e.preventDefault();
+						return false;
+					});
+				}
+				
+				function forget_email_validate(form_id){
+					var email = jQuery('#'+form_id+' #user_login_email');
+					var pattern = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
+					
+					if(email.val()==''){
+						jQuery('#'+form_id+' #forget_user_email_error').html("Please Enter E-mail");
+						email.focus();
+						return false;
+					}else if (!pattern.test(email.val())) {						
+						jQuery('#'+form_id+' #forget_user_email_error').html("Please provide a valid email address");
+						email.focus();
+						return false;
+					}else
+					{
+						jQuery('form#'+form_id+' .error_msg').remove();
+						jQuery('form#'+form_id+' .success_msg').remove();
+						jQuery('#'+form_id+' #forget_user_email_error').html("");
+						jQuery.ajax({
+						type: 'POST',
+						url: ajaxUrl,
+						data:'action=tmpl_forgot_pass_validation&user_login='+email.val(),			
+						success: function(result){
+								jQuery('form#'+form_id).prepend(result);
+								jQuery('form#'+form_id+' .error_msg').delay(3000).fadeOut('slow');
+								jQuery('form#'+form_id+' .success_msg').delay(3000).fadeOut('slow');
+							}
+						});
+						return false;
+					}
+				}
+   </script>
+  </div>
+ </div>
+</div>
+<script src="https://www.todocanada.ca/wp-includes/js/jquery/ui/core.min.js" type="text/javascript">
+</script>
+<script src="https://www.todocanada.ca/wp-includes/js/jquery/ui/widget.min.js" type="text/javascript">
+</script>
+<script src="https://www.todocanada.ca/wp-includes/js/jquery/ui/tabs.min.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+ /* <![CDATA[ */
+var PT_CV_PUBLIC = {"_prefix":"pt-cv-","page_to_show":"5","_nonce":"5538cbaddd","is_admin":"","is_mobile":"","ajaxurl":"https:\/\/www.todocanada.ca\/wp-admin\/admin-ajax.php","lang":"","loading_image_src":"data:image\/gif;base64,R0lGODlhDwAPALMPAMrKygwMDJOTkz09PZWVla+vr3p6euTk5M7OzuXl5TMzMwAAAJmZmWZmZszMzP\/\/\/yH\/C05FVFNDQVBFMi4wAwEAAAAh+QQFCgAPACwAAAAADwAPAAAEQvDJaZaZOIcV8iQK8VRX4iTYoAwZ4iCYoAjZ4RxejhVNoT+mRGP4cyF4Pp0N98sBGIBMEMOotl6YZ3S61Bmbkm4mAgAh+QQFCgAPACwAAAAADQANAAAENPDJSRSZeA418itN8QiK8BiLITVsFiyBBIoYqnoewAD4xPw9iY4XLGYSjkQR4UAUD45DLwIAIfkEBQoADwAsAAAAAA8ACQAABC\/wyVlamTi3nSdgwFNdhEJgTJoNyoB9ISYoQmdjiZPcj7EYCAeCF1gEDo4Dz2eIAAAh+QQFCgAPACwCAAAADQANAAAEM\/DJBxiYeLKdX3IJZT1FU0iIg2RNKx3OkZVnZ98ToRD4MyiDnkAh6BkNC0MvsAj0kMpHBAAh+QQFCgAPACwGAAAACQAPAAAEMDC59KpFDll73HkAA2wVY5KgiK5b0RRoI6MuzG6EQqCDMlSGheEhUAgqgUUAFRySIgAh+QQFCgAPACwCAAIADQANAAAEM\/DJKZNLND\/kkKaHc3xk+QAMYDKsiaqmZCxGVjSFFCxB1vwy2oOgIDxuucxAMTAJFAJNBAAh+QQFCgAPACwAAAYADwAJAAAEMNAs86q1yaWwwv2Ig0jUZx3OYa4XoRAfwADXoAwfo1+CIjyFRuEho60aSNYlOPxEAAAh+QQFCgAPACwAAAIADQANAAAENPA9s4y8+IUVcqaWJ4qEQozSoAzoIyhCK2NFU2SJk0hNnyEOhKR2AzAAj4Pj4GE4W0bkJQIAOw==","is_mobile_tablet":"","sf_no_post_found":"No posts found.","lf__separator":","};
+var PT_CV_PAGINATION = {"first":"\u00ab","prev":"\u2039","next":"\u203a","last":"\u00bb","goto_first":"Go to first page","goto_prev":"Go to previous page","goto_next":"Go to next page","goto_last":"Go to last page","current_page":"Current page is","goto_page":"Go to page"};
+/* ]]> */
+</script>
+<script src="https://www.todocanada.ca/wp-content/plugins/content-views-query-and-display-post-page/public/assets/js/cv.js" type="text/javascript">
+</script>
+<script src="https://www.todocanada.ca/wp-content/plugins/pt-content-views-pro/public/assets/js/cvpro.min.js" type="text/javascript">
+</script>
+<script src="https://www.todocanada.ca/wp-content/plugins/dynamic-to-top/js/libs/jquery.easing.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+ /* <![CDATA[ */
+var mv_dynamic_to_top = {"text":"Back to Top","version":"0","min":"300","speed":"1100","easing":"easeInExpo","margin":"20"};
+/* ]]> */
+</script>
+<script src="https://www.todocanada.ca/wp-content/plugins/dynamic-to-top/js/dynamic.to.top.min.js" type="text/javascript">
+</script>
+<script src="https://www.todocanada.ca/wp-content/themes/Directory/js/_supreme.min.js" type="text/javascript">
+</script>
+<script src="https://www.todocanada.ca/wp-includes/js/wp-embed.min.js" type="text/javascript">
+</script>
+<script src="https://www.todocanada.ca/wp-includes/js/jquery/ui/position.min.js" type="text/javascript">
+</script>
+<script src="https://www.todocanada.ca/wp-includes/js/jquery/ui/menu.min.js" type="text/javascript">
+</script>
+<script src="https://www.todocanada.ca/wp-includes/js/dist/vendor/wp-polyfill.min.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+ ( 'fetch' in window ) || document.write( '<script src="https://www.todocanada.ca/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="https://www.todocanada.ca/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="https://www.todocanada.ca/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="https://www.todocanada.ca/wp-includes/js/dist/vendor/wp-polyfill-url.min.js"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="https://www.todocanada.ca/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="https://www.todocanada.ca/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js"></scr' + 'ipt>' );
+</script>
+<script src="https://www.todocanada.ca/wp-includes/js/dist/dom-ready.min.js" type="text/javascript">
+</script>
+<script src="https://www.todocanada.ca/wp-includes/js/dist/a11y.min.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+ /* <![CDATA[ */
+var uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result found. Use up and down arrow keys to navigate.","manyResults":"%d results found. Use up and down arrow keys to navigate.","itemSelected":"Item selected."};
+/* ]]> */
+</script>
+<script src="https://www.todocanada.ca/wp-includes/js/jquery/ui/autocomplete.min.js" type="text/javascript">
+</script>
+<script src="https://www.todocanada.ca/wp-content/plugins/Tevolution/js/tevolution-script.min.js" type="text/javascript">
+</script>
+<script async="async" src="https://cdn.onesignal.com/sdks/OneSignalSDK.js?" type="text/javascript">
+</script>
+<script src="https://www.todocanada.ca/wp-content/plugins/Templatic-Shortcodes/js/bootstrap-mini.js" type="text/javascript">
+</script>
+<script async="" type="text/javascript">
+ jQuery(function( ) {
+				jQuery(document).on( 'click', '.addtofav', function() {
+					post_id = jQuery(this).attr( 'data-id' );
+					/*add html while login to add to favorite*/
+					jQuery( '#tmpl_login_frm form#loginform' ).append( '<input type="hidden" name="post_id" value="'+post_id+'" />' );
+					jQuery( '#tmpl_login_frm form#loginform' ).append( '<input type="hidden" name="addtofav" value="addtofav" />' );
+					jQuery( '#tmpl_login_frm form#loginform [name=redirect_to]' ).val(jQuery(location).attr( 'href' ) );
+					/*add html while register to add to favorite*/
+					jQuery( '#tmpl_sign_up form#userform' ).append( '<input type="hidden" name="post_id" value="'+post_id+'" />' );
+					jQuery( '#tmpl_sign_up form#userform' ).append( '<input type="hidden" name="addtofav" value="addtofav" />' );
+					jQuery( '#tmpl_sign_up form#userform [name=reg_redirect_link]' ).val(jQuery(location).attr( 'href' ) );
+				});
+			});
+</script>
+<script id="tmpl-foundation" src="https://www.todocanada.ca/wp-content/plugins/Tevolution/js/foundation.min.js">
+</script>
+<!-- Shortcodes Ultimate custom CSS - start -->
+<style type="text/css">
+ .su-spoiler-title {
+    font-size: 18px;
+	color: #007bff;
+}
+.su-heading-style-modern-1-dark {
+    border-bottom: 1px solid #aaa;
+    color: #333;
+    line-height: 2;
+} 
+.su-heading-style-modern-1-dark .su-heading-inner {
+    display: inline-block;
+    line-height: 2;
+    padding: 0 1em;
+    border-bottom: 2px solid #333;
+    margin-bottom: -1px;
+    font-weight: 900;
+}
+.su-heading-style-line-dark {
+    border-bottom: 3px ridge #aaa;
+    color: #333;
+    height: .7em;
+    line-height: 1.2;
+}
+.su-heading-style-line-dark .su-heading-inner {
+    display: inline-block;
+    line-height: 1.2;
+    padding: 0 1em;
+    background: #fff;
+	font-weight: 900;
+}
+</style>
+<!-- Shortcodes Ultimate custom CSS - end -->
+<script async="" type="text/javascript">
+ jQuery(document ).ready(function() {
+
+			/* When click on links available in login box widget */
+
+			jQuery( '#login_widget #tmpl-reg-link' ).click(function() {
+				jQuery( '#login_widget #tmpl_sign_up' ).show();
+				jQuery( '#login_widget #tmpl_login_frm' ).hide();
+			});
+
+			jQuery( '#login_widget #tmpl-back-login' ).click(function() {
+				jQuery( '#login_widget #tmpl_sign_up' ).hide();
+				jQuery( '#login_widget #tmpl_login_frm' ).show();
+			});
+
+			/* When click on links Login/reg pop ups */
+
+			jQuery( '#tmpl_reg_login_container #tmpl-reg-link' ).click(function() {
+				jQuery( '#tmpl_reg_login_container #tmpl_sign_up' ).show();
+				jQuery( '#tmpl_reg_login_container #tmpl_login_frm' ).hide();
+			});
+
+			jQuery( '#tmpl_reg_login_container #tmpl-back-login' ).click(function() {
+				jQuery( '#tmpl_reg_login_container #tmpl_sign_up' ).hide();
+				jQuery( '#tmpl_reg_login_container #tmpl_login_frm' ).show();
+			});
+
+			jQuery( '#login_widget .lw_fpw_lnk' ).click(function() {
+				if ( jQuery( '#login_widget #lostpassword_form' ).css( 'display' ) =='none' ) {
+					jQuery( '#login_widget #lostpassword_form' ).show();
+				} else {
+					jQuery( '#login_widget #lostpassword_form' ).hide();
+				}
+				jQuery( '#login_widget #tmpl_sign_up' ).hide();
+			});
+
+		});
+</script>
+<script async="async" defer="defer" src="https://stats.wp.com/e-202027.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+ _stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:8.6.1',blog:'25662989',post:'0',tz:'-5',srv:'www.todocanada.ca'} ]);
+	_stq.push([ 'clickTrackerInit', '25662989', '0' ]);
+</script>
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+</script>

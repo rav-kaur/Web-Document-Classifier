@@ -1,0 +1,1080 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <meta content="ie=edge" http-equiv="X-UA-Compatible"/>
+  <script type="text/javascript">
+   (window.NREUM||(NREUM={})).loader_config={licenseKey:"646c3c011e",applicationID:"344265166"};window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var i=n[t]={exports:{}};e[t][0].call(i.exports,function(n){var i=e[t][1][n];return r(i||n)},i,i.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<t.length;i++)r(t[i]);return r}({1:[function(e,n,t){function r(){}function i(e,n,t){return function(){return o(e,[u.now()].concat(f(arguments)),n?null:this,t),n?void 0:this}}var o=e("handle"),a=e(4),f=e(5),c=e("ee").get("tracer"),u=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",d=l+"ixn-";a(p,function(e,n){s[n]=i(l+n,!0,"api")}),s.addPageAction=i(l+"addPageAction",!0),s.setCurrentRouteName=i(l+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,i="function"==typeof n;return o(d+"tracer",[u.now(),e,t],r),function(){if(c.emit((i?"":"no-")+"fn-start",[u.now(),r,i],t),i)try{return n.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],t),e}finally{c.emit("fn-end",[u.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=i(d+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),o("err",[e,u.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){var t=e.getEntries();t.forEach(function(e){"first-paint"===e.name?c("timing",["fp",Math.floor(e.startTime)]):"first-contentful-paint"===e.name&&c("timing",["fcp",Math.floor(e.startTime)])})}function i(e,n){var t=e.getEntries();t.length>0&&c("lcp",[t[t.length-1]])}function o(e){if(e instanceof s&&!l){var n,t=Math.round(e.timeStamp);n=t>1e12?Date.now()-t:u.now()-t,l=!0,c("timing",["fi",t,{type:e.type,fid:n}])}}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var a,f,c=e("handle"),u=e("loader"),s=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){a=new PerformanceObserver(r),f=new PerformanceObserver(i);try{a.observe({entryTypes:["paint"]}),f.observe({entryTypes:["largest-contentful-paint"]})}catch(p){}}if("addEventListener"in document){var l=!1,d=["click","keydown","mousedown","pointerdown","touchstart"];d.forEach(function(e){document.addEventListener(e,o,!1)})}}},{}],3:[function(e,n,t){function r(e,n){if(!i)return!1;if(e!==i)return!1;if(!n)return!0;if(!o)return!1;for(var t=o.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var f=navigator.userAgent,c=f.match(a);c&&f.indexOf("Chrome")===-1&&f.indexOf("Chromium")===-1&&(i="Safari",o=c[1])}n.exports={agent:i,version:o,match:r}},{}],4:[function(e,n,t){function r(e,n){var t=[],r="",o=0;for(r in e)i.call(e,r)&&(t[o]=n(r,e[r]),o+=1);return t}var i=Object.prototype.hasOwnProperty;n.exports=r},{}],5:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,i=t-n||0,o=Array(i<0?0:i);++r<i;)o[r]=e[n+r];return o}n.exports=r},{}],6:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function i(e){function n(e){return e&&e instanceof r?e:e?c(e,f,o):o()}function t(t,r,i,o){if(!l.aborted||o){e&&e(t,r,i);for(var a=n(i),f=v(t),c=f.length,u=0;u<c;u++)f[u].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function d(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||i(t)}function w(e,n){u(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:d,addEventListener:d,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function o(){return new r}function a(){(s.api||s.feature)&&(l.aborted=!0,s=l.backlog={})}var f="nr@context",c=e("gos"),u=e(4),s={},p={},l=n.exports=i();l.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(i.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return e[n]=r,r}var i=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){i.buffer([e],r),i.emit(e,n,t)}var i=e("ee").get("handle");n.exports=r,r.ee=i},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,o,function(){return i++})}var i=1,o="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=E.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();u(y,function(n,t){e[n]||(e[n]=t)}),c("mark",["onload",a()+E.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function i(){"complete"===d.readyState&&o()}function o(){c("mark",["domContent",a()+E.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(f=Math.max((new Date).getTime(),f))-E.offset}var f=(new Date).getTime(),c=e("handle"),u=e(4),s=e("ee"),p=e(3),l=window,d=l.document,m="addEventListener",v="attachEvent",g=l.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:g,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1169.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),E=n.exports={offset:f,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),e(2),d[m]?(d[m]("DOMContentLoaded",o,!1),l[m]("load",r,!1)):(d[v]("onreadystatechange",i),l[v]("onload",r)),c("mark",["firstbyte",f],null,"api");var x=0,O=e(6)},{}],"wrap-function":[function(e,n,t){function r(e){return!(e&&e instanceof Function&&e.apply&&!e[a])}var i=e("ee"),o=e(5),a="nr@original",f=Object.prototype.hasOwnProperty,c=!1;n.exports=function(e,n){function t(e,n,t,i){function nrWrapper(){var r,a,f,c;try{a=this,r=o(arguments),f="function"==typeof t?t(r,a):t||{}}catch(u){l([u,"",[r,a,i],f])}s(n+"start",[r,a,i],f);try{return c=e.apply(a,r)}catch(p){throw s(n+"err",[r,a,p],f),p}finally{s(n+"end",[r,a,c],f)}}return r(e)?e:(n||(n=""),nrWrapper[a]=e,p(e,nrWrapper),nrWrapper)}function u(e,n,i,o){i||(i="");var a,f,c,u="-"===i.charAt(0);for(c=0;c<n.length;c++)f=n[c],a=e[f],r(a)||(e[f]=t(a,u?f+i:i,o,f))}function s(t,r,i){if(!c||n){var o=c;c=!0;try{e.emit(t,r,i,n)}catch(a){l([a,t,r,i])}c=o}}function p(e,n){if(Object.defineProperty&&Object.keys)try{var t=Object.keys(e);return t.forEach(function(t){Object.defineProperty(n,t,{get:function(){return e[t]},set:function(n){return e[t]=n,n}})}),n}catch(r){l([r])}for(var i in e)f.call(e,i)&&(n[i]=e[i]);return n}function l(n){try{e.emit("internal-error",n)}catch(t){}}return e||(e=i),t.inPlace=u,t.flag=a,t}},{}]},{},["loader"]);
+  </script>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.min.css" rel="stylesheet"/>
+  <link href="https://fonts.googleapis.com/css?family=Merriweather:400,700|Roboto:400,700" rel="stylesheet"/>
+  <link href="https://www.pbs.org/kenburns/assets/css/main.css" rel="stylesheet"/>
+  <link href="https://www.pbs.org/kenburns/assets/css/theming.css" rel="stylesheet"/>
+  <style>
+   p a {
+        color: #126EB5;
+        text-decoration: none;
+    }
+
+    p a:hover {
+        text-decoration: underline;
+    }
+
+    
+    ol li::before,
+    ul li::before {
+        background: #1f6771
+    }
+
+        blockquote {
+        border-left-color: #1f6771;
+    }
+
+    .c-Blockquote-Icon path {
+        fill: #1f6771;
+    }
+    .c-Blockquote-Author::before {
+        background: #1f6771;
+    }
+
+    
+    .c-TextUnderline span {
+        border-bottom-color: #1f6771
+    }
+
+    
+    .c-Button,
+    .c-Button_flat {
+        border-color: #1f6771;
+        color: #1f6771;
+        background: transparent;
+    }
+    .c-Button:hover,
+    .c-Button_flat:hover {
+        color: #ffffff;
+    }
+    .c-Button:active,
+    .c-Button_flat:active {
+        background: #1e272e;
+        border-color: #1e272e;
+    }
+    .c-Button-Icon polyline,
+    .c-Button_flat-Icon polyline {
+        stroke: #1f6771;
+    }
+    .c-Button:hover .c-Button-Icon polyline,
+    .c-Button_flat:hover .c-Button_flat-Icon polyline {
+        stroke: #ffffff;
+    }
+    .c-Button_flat {
+        background: #1f6771;
+        color: #ffffff;
+    }
+    .c-Button_flat:hover {
+        background: #143f45;
+        border-color: #143f45;
+    }
+    .c-Button_flat .c-Button-Icon polyline {
+        stroke: #ffffff;
+    }
+    .c-Button:before {
+        background: #1f6771;
+    }
+
+    
+    .c-Hero {
+        background: #1e272e;
+    }
+    .c-Hero-Info {
+        background: #1e272e;
+        color: #ffffff;
+    }
+    .c-Hero .flickity-page-dots .dot {
+        background: transparent;
+        border-color: #ffffff;
+    }
+    .c-Hero .flickity-page-dots .dot.is-selected {
+        background: #ffffff;
+    }
+    .c-Hero-Slide.is-dark .c-Hero-Info {
+        color: #222222;
+    }
+
+    
+    .c-FilterBar-Tab {
+        background: #1f6771;
+    }
+
+    .c-FilterBar-Tab.is-active {
+        background: #1e272e;
+        color: #ffffff;
+    }
+    .c-FilterBar-TabContent {
+        background: #1e272e;
+        color: #ffffff;
+    }
+
+    
+    .c-Menu-Wrap,
+    .c-Menu .main-menu,
+    .c-Menu-Dropdown {
+        background: #317278;
+    }
+
+    .c-StoriesFilter .dropbtn,
+    .c-StoriesFilter .dropbtn-wo-focus:focus{
+        background: #317278;
+    }
+    .c-StoriesFilter .dropbtn:hover, 
+    .c-StoriesFilter .dropbtn-w-focus:focus{
+        background: #143f45;
+    }
+
+    
+    .c-Menu-Logo,
+    .c-Menu-Nav > .c-Menu-Item,
+    .c-Menu-ButtonLabel,
+    .c-Menu.is-fixed .c-Menu-Logo,
+    .c-Menu.is-fixed .c-Menu-Nav > .c-Menu-Item,
+    .c-Menu.is-fixed .c-Menu-ButtonLabel,
+    .c-Menu-ButtonIcon span,
+    .c-Menu-ButtonIcon span:before,
+    .c-Menu-ButtonIcon span:after {
+        color: #ffffff;
+    }
+
+    .c-Menu.is-fixed .has-dropdown::after {
+        opacity: 0.5;
+    }
+
+     {
+        background: #ffffff;
+    }
+
+    .c-Menu.is-fixed .c-Menu-ButtonIcon span,
+    .c-Menu.is-fixed .c-Menu-ButtonIcon span:before,
+    .c-Menu.is-fixed .c-Menu-ButtonIcon span:after {
+        background: #ffffff;
+    }
+
+    .c-Menu.is-fixed .c-Menu-Wrap,
+    .c-Menu.is-fixed .c-Menu-Dropdown {
+        background: #317278;
+    }
+
+    .c-Menu-Bug {
+        background-color: #1e272e;
+    }
+
+    .c-Menu-Bug svg path {
+        fill: #ffffff;
+    }
+    
+    .c-Menu-BugLabel {
+        color: #ffffff;
+    }
+
+    .c-Menu-Dropdown,
+    .c-Menu-Dropdown .has-dropdown .c-Menu-Item {
+        color: #ffffff;
+    }
+
+    @media (min-width: 764px) {
+        .c-Menu-Dropdown .c-Menu-Item:hover {
+            background: #143f45;
+        }
+    }
+
+    .c-Menu-Item.has-dropdown::after{
+        background: url('https://www.pbs.org/kenburns/assets/images/icn-dropdown.svg') no-repeat center
+    }
+
+    
+    .c-Media:hover .c-Media_Txt {
+        background-color: #e1e9eb;
+    }
+
+    
+    .c-Player_Description a{
+        color: #126EB5;
+    }
+
+    
+    .c-Card.has-border .c-Card-Content {
+        border-color: #e1e9eb;
+    }
+
+    .c-Card.c-Card.has-border .c-Card-Content:hover,
+    .c-Card.c-Card.has-border .c-Card-Content:active {
+        background: #e1e9eb;
+    }
+
+    .c-Card-Badge p {
+        background-color: #1f6771;
+    }
+
+    
+    .c-Pagination-Item {
+        color: #1f6771;
+    }
+
+    .c-Pagination-Item.is-active {
+        border-bottom-color: #1e272e;
+        color: #1e272e;
+    }
+
+        
+    .asset-grid__item-content,
+    .filmmaker-grid__item-content{
+        background: #e5e5e5
+    }
+    .asset-grid__close,
+    .filmmaker-grid__close{
+        color: #2e2d2d
+    }
+    .asset-grid__item-content a:not(.c-Button),
+    .filmmaker-grid__item-content a:not(.c-Button){
+        color: #1f6771
+    }
+    .js-active-grid-item:after{
+        border-bottom-color: #e5e5e5
+    }
+    
+    
+    .c-ContactBar {
+        display: inline-block;
+        width: 100%;
+        background: #e5e5e5;
+    }
+
+    .c-ContactBar-Email {
+        background:white;
+    }
+
+    .c-ContactBar-Confirm .c-Button_flat {
+        background: white;
+        border-color: white;
+        color: #222222;
+    }
+
+    .c-ContactBar-Confirm:not(.is-valid):hover .c-Button_flat {
+        background: #1f6771;
+        border-color: #1f6771;
+        color: white;
+    }
+
+    .c-ContactBar-Confirm:not(.is-valid):hover path {
+        fill: white;
+    }
+
+    .c-ContactBar-Confirm path {
+        fill: #222222;
+    }
+
+    .c-ContactBar-Confirm.is-valid .c-Button_flat {
+        background: #1f6771;
+        border-color: #1f6771;
+        color: transparent;
+    }
+
+    .c-ContactBar-Confirm.is-valid  path {
+        fill: white;
+    }
+
+    .c-ContactBar-Label {
+        color: #ffffff
+    }
+
+        .c-Callout {
+        background: #1e272e;
+    }
+
+
+    
+    .c-Footer {
+        background: #2e2d2d
+    }
+
+    .c-Footer-Credits,
+    .c-Footer-Credits a,
+    .c-Footer-Copy {
+        color: #ffffff
+    }
+
+    .c-Footer-Credits a {
+        text-decoration: underline
+    }
+
+    .c-Footer-Nav {
+        background: #e5e5e5
+    }
+
+    .c-Footer-NavLink {
+        color: #ffffff
+    }
+  </style>
+  <link href="https://unpkg.com/flickity@2/dist/flickity.min.css" rel="stylesheet"/>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.10.0/baguetteBox.min.css" rel="stylesheet"/>
+  <script>
+   var PBS_CHROME_CONFIG = {'api_key': 'cc3baf44-855f-4c85-a904-88004968a69d'};
+  </script>
+  <script src="//d2ok2u3bz752mp.cloudfront.net/js/gc.js" type="text/javascript">
+  </script>
+  <!-- Google Tag Manager -->
+  <script>
+   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','GTMDataLayer','GTM-TWTDGH');
+  </script>
+  <!-- End Google Tag Manager -->
+  <title>
+   Jazz | Home | Ken Burns
+  </title>
+  <meta content="SEOmatic" name="generator"/>
+  <meta content="Jazz has been called the purest expression of American democracy. Join us for an exploration of jazz, America's greatest cultural achievement." name="description"/>
+  <meta content="no-referrer-when-downgrade" name="referrer"/>
+  <meta content="all" name="robots"/>
+  <meta content="19013582168" property="fb:profile_id"/>
+  <meta content="en_US" property="og:locale"/>
+  <meta content="en_US" property="og:locale:alternate"/>
+  <meta content="Jazz" property="og:site_name"/>
+  <meta content="article" property="og:type"/>
+  <meta content="https://www.pbs.org/kenburns/jazz/" property="og:url"/>
+  <meta content="Home | Ken Burns" property="og:title"/>
+  <meta content="Jazz has been called the purest expression of American democracy. Join us for an exploration of jazz, America's greatest cultural achievement." property="og:description"/>
+  <meta content="https://kenburns-tc.pbs.org/uploads/_1200x630_crop_center-center_82_none/jazz_social_promo.jpg?mtime=1531265479" property="og:image"/>
+  <meta content="1200" property="og:image:width"/>
+  <meta content="630" property="og:image:height"/>
+  <meta content="summary_large_image" name="twitter:card"/>
+  <meta content="@PBS" name="twitter:site"/>
+  <meta content="@PBS" name="twitter:creator"/>
+  <meta content="Home | Ken Burns" name="twitter:title"/>
+  <meta content="Jazz has been called the purest expression of American democracy. Join us for an exploration of jazz, America's greatest cultural achievement." name="twitter:description"/>
+  <meta content="https://kenburns-tc.pbs.org/uploads/jazz_social_promo.jpg" name="twitter:image"/>
+  <meta content="1920" name="twitter:image:width"/>
+  <meta content="1080" name="twitter:image:height"/>
+  <link href="https://www.pbs.org/kenburns/jazz/" rel="canonical"/>
+  <link href="https://www.pbs.org/kenburns/jazz/" rel="home"/>
+  <link href="https://www.pbs.org/kenburns/jazz/humans.txt" rel="author" type="text/plain"/>
+  <link href="https://www.pbs.org/kenburns/jazz/" hreflang="en-us" rel="alternate"/>
+ </head>
+ <body>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript>
+   <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-TWTDGH" style="display:none;visibility:hidden" title="Google Tag Manager" width="0">
+   </iframe>
+  </noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  <div class="c-Menu js-Menu">
+   <div class="main-menu">
+    <div class="o-Grid-Container">
+     <div class="c-Menu-Wrap">
+      <a class="c-Menu-Logo" href="https://www.pbs.org/kenburns/jazz/">
+       <img alt="Jazz" src="https://kenburns-tc.pbs.org/uploads/jazz.png"/>
+      </a>
+      <div class="c-Menu-PriorityNav js-Menu-PriorityNav">
+       <div class="c-Menu-Button">
+        <span class="c-Menu-ButtonLabel">
+         Menu
+        </span>
+        <div class="c-Menu-ButtonIcon">
+         <span>
+         </span>
+         <span>
+         </span>
+         <span>
+         </span>
+        </div>
+       </div>
+       <ul class="c-Menu-Dropdown">
+        <li class="c-Menu-Item is-active">
+         <a href="https://www.pbs.org/kenburns/jazz/" style="color: ;">
+          Home
+         </a>
+         <span class="arrow">
+         </span>
+        </li>
+        <li class="c-Menu-Item has-dropdown">
+         <a href="https://www.pbs.org/kenburns/jazz/about" style="color: ;">
+          About
+         </a>
+         <span class="arrow">
+         </span>
+         <ul class="c-Menu-Dropdown">
+          <li class="c-Menu-Item">
+           <a href="https://www.pbs.org/kenburns/jazz/note-from-ken-burns">
+            A Note from Ken Burns
+           </a>
+          </li>
+          <li class="c-Menu-Item">
+           <a href="https://www.pbs.org/kenburns/jazz/q-a-with-filmmakers">
+            Q&amp;A with the Filmmakers
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="c-Menu-Item has-dropdown">
+         <a href="https://www.pbs.org/kenburns/jazz/video" style="color: ;">
+          Video
+         </a>
+         <span class="arrow">
+         </span>
+         <ul class="c-Menu-Dropdown">
+          <li class="c-Menu-Item">
+           <a href="https://www.pbs.org/kenburns/jazz/episode-guide">
+            Episode Guide
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="c-Menu-Item">
+         <a href="https://www.pbs.org/kenburns/jazz/music-101" style="color: ;">
+          Music 101
+         </a>
+         <span class="arrow">
+         </span>
+        </li>
+        <li class="c-Menu-Item">
+         <a href="https://www.pbs.org/kenburns/jazz/roots-of-jazz" style="color: ;">
+          Roots of Jazz
+         </a>
+         <span class="arrow">
+         </span>
+        </li>
+        <li class="c-Menu-Item">
+         <a href="https://www.pbslearningmedia.org/resource/jazz-ken-burns-jazz/jazz-ken-burns-jazz/#.W3RqcJMzob0" style="color: ;" target="_blank">
+          Classroom
+         </a>
+         <span class="arrow">
+         </span>
+        </li>
+        <li class="c-Menu-Item">
+         <a href="https://shop.pbs.org/ken-burns-jazz?utm_source=PBS&amp;utm_medium=Link&amp;utm_campaign=pbs_content_kenburns_jazz_buydvdtopnav" style="color: ;" target="_blank">
+          Shop
+         </a>
+         <span class="arrow">
+         </span>
+        </li>
+        <li class="c-Menu-Item">
+         <a href="http://www.pbs.org/kenburns/unum" style="color: ;" target="_blank">
+          UNUM
+         </a>
+         <span class="arrow">
+         </span>
+        </li>
+       </ul>
+      </div>
+      <nav class="c-Menu-NavWrapper">
+       <ul class="c-Menu-Nav">
+        <li class="c-Menu-Item is-active">
+         <a handle="" href="https://www.pbs.org/kenburns/jazz/" slug="home" style="color: ;">
+          Home
+         </a>
+         <span class="arrow">
+         </span>
+        </li>
+        <li class="c-Menu-Item has-dropdown">
+         <a handle="" href="https://www.pbs.org/kenburns/jazz/about" slug="about" style="color: ;">
+          About
+         </a>
+         <span class="arrow">
+         </span>
+         <ul class="c-Menu-Dropdown">
+          <li class="c-Menu-Item">
+           <a href="https://www.pbs.org/kenburns/jazz/note-from-ken-burns">
+            A Note from Ken Burns
+           </a>
+          </li>
+          <li class="c-Menu-Item">
+           <a href="https://www.pbs.org/kenburns/jazz/q-a-with-filmmakers">
+            Q&amp;A with the Filmmakers
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="c-Menu-Item has-dropdown">
+         <a handle="" href="https://www.pbs.org/kenburns/jazz/video" slug="video" style="color: ;">
+          Video
+         </a>
+         <span class="arrow">
+         </span>
+         <ul class="c-Menu-Dropdown">
+          <li class="c-Menu-Item">
+           <a href="https://www.pbs.org/kenburns/jazz/episode-guide">
+            Episode Guide
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="c-Menu-Item">
+         <a handle="" href="https://www.pbs.org/kenburns/jazz/music-101" slug="music-101" style="color: ;">
+          Music 101
+         </a>
+         <span class="arrow">
+         </span>
+        </li>
+        <li class="c-Menu-Item">
+         <a handle="" href="https://www.pbs.org/kenburns/jazz/roots-of-jazz" slug="roots-of-jazz" style="color: ;">
+          Roots of Jazz
+         </a>
+         <span class="arrow">
+         </span>
+        </li>
+        <li class="c-Menu-Item">
+         <a handle="" href="https://www.pbslearningmedia.org/resource/jazz-ken-burns-jazz/jazz-ken-burns-jazz/#.W3RqcJMzob0" slug="classroom" style="color: ;" target="_blank">
+          Classroom
+         </a>
+         <span class="arrow">
+         </span>
+        </li>
+        <li class="c-Menu-Item">
+         <a handle="" href="https://shop.pbs.org/ken-burns-jazz?utm_source=PBS&amp;utm_medium=Link&amp;utm_campaign=pbs_content_kenburns_jazz_buydvdtopnav" slug="shop" style="color: ;" target="_blank">
+          Shop
+         </a>
+         <span class="arrow">
+         </span>
+        </li>
+        <li class="c-Menu-Item">
+         <a handle="" href="http://www.pbs.org/kenburns/unum" slug="unum" style="color: ;" target="_blank">
+          UNUM
+         </a>
+         <span class="arrow">
+         </span>
+        </li>
+       </ul>
+      </nav>
+     </div>
+     <a class="c-Menu-Bug" href="https://www.pbs.org/kenburns" title="Ken Burns">
+      <svg class="o-Media-Img" fill="none" height="19" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
+       <path clip-rule="evenodd" d="M12.8439 5.1L9.03662 1.24228C8.98099 1.18592 8.98092 1.09467 9.0369 1.03795L10.0192 0.0426053C10.075 -0.0139008 10.1649 -0.0144052 10.2209 0.042317L16 6L10.2209 11.9577C10.1653 12.0141 10.0752 12.0142 10.0192 11.9574L9.0369 10.9621C8.98113 10.9056 8.98064 10.8145 9.03662 10.7578L12.844 6.9H0V5.1H12.8439Z" fill="#333333" fill-rule="evenodd" transform="translate(16 2) scale(-1 1)">
+       </path>
+      </svg>
+      <span class="o-Text_bodySmall o-Media-Body c-Menu-BugLabel">
+       Ken Burns
+      </span>
+     </a>
+    </div>
+   </div>
+  </div>
+  <main>
+   <div class="o-Grid-Container c-Hero u-Spacer_3">
+    <div class="flush-container has-multiple-slides js-Hero">
+     <div class="c-Hero-Slide">
+      <div class="c-Hero-ImageBox">
+       <img alt="A black-and-white photo of Louis Armstrong playing the trumpet, taken in 1953." class="c-Hero-Image" data-flickity-lazyload="https://kenburns-tc.pbs.org/uploads/_1500xAUTO_crop_center-center_85_none/jazz_hero_v1.jpg" src="https://kenburns-tc.pbs.org/uploads/_1500xAUTO_crop_center-center_85_none/jazz_hero_v1.jpg"/>
+      </div>
+      <div "="" class="c-Hero-Info">
+       <img alt="Jazz Recrop" class="c-Hero-Precontent" src="https://kenburns-tc.pbs.org/uploads/_500xAUTO_crop_center-center_85_none/jazz-recrop.png"/>
+       <div class="c-Hero-Caption">
+        Premiered on PBS: January 8, 2001
+       </div>
+      </div>
+     </div>
+     <a class="c-Hero-Slide" href="/kenburns/jazz/episode-guide">
+      <div class="c-Hero-ImageBox">
+       <img alt="A black-and-white photo of a woman with folowers in her hair singing into a microphone." class="c-Hero-Image" data-flickity-lazyload="https://kenburns-tc.pbs.org/uploads/_1500xAUTO_crop_center-center_85_none/Jazz_Ep6_cover.jpg" src="https://kenburns-tc.pbs.org/uploads/_1500xAUTO_crop_center-center_85_none/Jazz_Ep6_cover.jpg"/>
+      </div>
+      <div "="" class="c-Hero-Info">
+       <img alt="Jazz Recrop" class="c-Hero-Precontent" src="https://kenburns-tc.pbs.org/uploads/_500xAUTO_crop_center-center_85_none/jazz-recrop.png"/>
+       <div class="c-Hero-Caption">
+        View the full film with Passport until March 9, 2020.
+       </div>
+      </div>
+     </a>
+     <div class="c-Hero-Control">
+      <svg fill="white" height="20" viewbox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg">
+       <path class="c-Hero-Play" clip-rule="evenodd" d="M10 20C15.5228 20 20 15.5228 20 10C20 4.47717 15.5228 0 10 0C4.47717 0 0 4.47717 0 10C0 15.5228 4.47717 20 10 20ZM15 9.78259L6 5V15L15 9.78259Z" fill-rule="evenodd">
+       </path>
+       <path class="c-Hero-Pause" clip-rule="evenodd" d="M20 10C20 15.5228 15.5228 20 10 20C4.47717 20 0 15.5228 0 10C0 4.47717 4.47717 0 10 0C15.5228 0 20 4.47717 20 10ZM6 5H9V15H6V5ZM14 5H11V15H14V5Z" fill-rule="evenodd">
+       </path>
+      </svg>
+     </div>
+    </div>
+   </div>
+   <div class="o-Grid-Container" id="">
+    <div class="o-Grid-Row u-Spacer_2">
+     <div class="o-Grid-Col_6 u-Spacer_1" id="">
+      <h2 class="c-TextUnderline u-Spacer_2" style="text-align:">
+       <span>
+        About the Film
+       </span>
+      </h2>
+      <div class="o-Text_bodyText">
+       <p>
+        Filmmaker Ken Burns tells the story of jazz — the quintessential American art form. The 10-part series follows the growth and development of jazz music from the gritty streets of New Orleans to the Lincoln Gardens on Chicago's south side, where Louis Armstrong first won fame, from Prohibition-era speakeasies to the wide-open clubs of Kansas City, from the elegant Roseland Ballroom in Times Square, where only whites were allowed to dance, to the more egalitarian Savoy Ballroom in Harlem, where people of all colors mingled.
+       </p>
+       <p>
+        Six years in the making,
+        <em>
+         Jazz
+        </em>
+        features 75 interviews, more than 500 pieces of music, 2,400 still photographs and more than 2,000 archival film clips — many rare and never before seen. Third-person voices are provided by Samuel L. Jackson, Delroy Lindo, Derek Jacobi and Harry Connick Jr., among others.
+       </p>
+       <a class="c-Button" href="/kenburns/jazz/note-from-ken-burns/" title="Read A Note from Ken Burns &gt;">
+        <span>
+         Read A Note from Ken Burns
+        </span>
+        <svg class="c-Button-Icon" height="32px" version="1.1" viewbox="0 0 13 32" width="13px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+         <polyline fill="none" fill-rule="evenodd" points="2 25 10 16.5 2 8" stroke="#979797" stroke-width="3">
+         </polyline>
+        </svg>
+       </a>
+      </div>
+     </div>
+     <div class="o-Grid-Col_6 u-Spacer_1" id="">
+      <h2 class="c-TextUnderline u-Spacer_2">
+       <span>
+        Own the Film
+       </span>
+      </h2>
+      <div class="c-Card">
+       <div class="o-ImageBox c-Card-Img">
+        <img alt="Jazz Shop Image" class="o-ImageBox-Img" src="https://kenburns-tc.pbs.org/uploads/jazz_shopimage.jpg"/>
+       </div>
+       <div class="c-Card-Content">
+        <div class="c-Card-Content_text">
+         <div class="o-Text_titleSmall c-Card-Title">
+         </div>
+         <div class="o-Text_titleCaption c-Card-Title">
+         </div>
+         <p class="c-Card-Text">
+          Your purchase supports PBS and helps make our programming possible.
+         </p>
+        </div>
+        <ul class="c-Card-List">
+         <li>
+          Available On:
+         </li>
+         <li>
+          <div class="o-Media o-Media-Platrom o-Media-Platrom_pbs">
+           <div class="o-Media-Img pbs">
+            <svg data-name="Layer 1" id="Layer_1" viewbox="0 0 650.72 144.33" xmlns="http://www.w3.org/2000/svg">
+             <defs>
+              <style>
+               .cls-1{fill:#2638c4;}.cls-2{fill:#fff;}
+              </style>
+             </defs>
+             <title>
+              ShopPBS_rgb
+             </title>
+             <path class="cls-1" d="M519.56,306.27a72.17,72.17,0,1,1-72.17-72.17,72.17,72.17,0,0,1,72.17,72.17" transform="translate(-71.2 -234.1)">
+             </path>
+             <path class="cls-1" d="M700.35,298.23c-7.89-4.09-14.28-7.42-14.28-13.75,0-4.48,3.84-7.26,10.28-7.26A38.74,38.74,0,0,1,716,282.79v-16.3a53.19,53.19,0,0,0-19.68-4.32c-19,0-27.56,11.34-27.56,23.61,0,14.4,9.69,21.32,20.39,27s14.54,8,14.54,14c0,5.09-4.42,8-11.82,8-10.28,0-17.58-4.75-22.31-8.55v17.32a44.54,44.54,0,0,0,22.19,6.82c18.48,0,30.14-9.64,30.14-25.16C721.92,309.17,708.24,302.32,700.35,298.23Z" transform="translate(-71.2 -234.1)">
+             </path>
+             <path class="cls-1" d="M559.42,263H536.6v86.59h17V322h3.43c21.33,0,34.59-11.35,34.59-29.61C591.66,274,579.61,263,559.42,263Zm-5.78,14.43h5c10,0,16.46,5.79,16.46,14.75,0,9.7-6,15.27-16.33,15.27h-5.14Z" transform="translate(-71.2 -234.1)">
+             </path>
+             <path class="cls-1" d="M646.05,302.94c5.77-4.05,8.58-9.89,8.58-17.81,0-13.67-10-22.16-26.22-22.16H602v86.59h27.61c21.16,0,30.8-13.58,30.8-26.21C660.39,313.36,654.93,305.64,646.05,302.94Zm-18.86-25.38c6.67,0,11,4.15,11,10.58s-4.67,10.71-11.89,10.71H619V277.56ZM619,335.11V312.5h10.78c8.6,0,13.73,4.21,13.73,11.24,0,7.55-5.15,11.37-15.3,11.37Z" transform="translate(-71.2 -234.1)">
+             </path>
+             <path class="cls-2" d="M500,307l-8,1.63v14.81a9.08,9.08,0,0,1-9.38,8.94h-4.1v17.21H465.28V332.35h4.1a9.08,9.08,0,0,0,9.38-8.94V308.6l8-1.63a2.66,2.66,0,0,0,1.83-3.84l-21-40.16h13.18l21,40.16A2.66,2.66,0,0,1,500,307Z" transform="translate(-71.2 -234.1)">
+             </path>
+             <path class="cls-2" d="M473,303.13,452,263H430.21c-19.77,0-36.56,16.18-36.09,35.95.35,14.75,9.86,25.8,23.09,30v20.68h32.43V332.35h4.09a9.08,9.08,0,0,0,9.38-8.94V308.6l8-1.63A2.66,2.66,0,0,0,473,303.13Zm-27.33-2.29a8.25,8.25,0,1,1,8.24-8.25A8.25,8.25,0,0,1,445.62,300.84Z" transform="translate(-71.2 -234.1)">
+             </path>
+             <path class="cls-1" d="M82.7,349.49a46.7,46.7,0,0,1-10.86-3.75V330.63a47,47,0,0,0,10.86,4.82,40.71,40.71,0,0,0,12.38,2q8.13,0,12.26-3.11a9.76,9.76,0,0,0,4.12-8.19,10.2,10.2,0,0,0-4.19-8.38q-4.18-3.3-14.73-7.62Q81.62,305.72,76.41,300a20.52,20.52,0,0,1-5.21-14.35,20.8,20.8,0,0,1,3.88-12.58,24.65,24.65,0,0,1,10.66-8.19A39.09,39.09,0,0,1,101.05,262a64.55,64.55,0,0,1,11.68.89,71.34,71.34,0,0,1,9.27,2.41v14.1a58.63,58.63,0,0,0-9.08-2.79,45.4,45.4,0,0,0-10.09-1.15c-4.75,0-8.53.85-11.37,2.55a8.18,8.18,0,0,0-4.25,7.49,7.86,7.86,0,0,0,2,5.4,17.79,17.79,0,0,0,5.4,3.93Q98,296.59,106,300q11.06,4.69,16,10.73a22.14,22.14,0,0,1,5,14.54,24.79,24.79,0,0,1-3.56,13.27,23.88,23.88,0,0,1-10.6,9.08,39.59,39.59,0,0,1-17,3.31A59.13,59.13,0,0,1,82.7,349.49Z" transform="translate(-71.2 -234.1)">
+             </path>
+             <path class="cls-1" d="M188.5,290.11q6,5.85,6,16.51v43.06H180V309.42q0-5.85-2.93-9.15t-8.89-3.3a17.39,17.39,0,0,0-8.51,2,32.87,32.87,0,0,0-6.85,5.08v45.6H138.34V257.34h14.48v33.53a32.34,32.34,0,0,1,8.7-4.89,31.34,31.34,0,0,1,10.86-1.71Q182.54,284.27,188.5,290.11Z" transform="translate(-71.2 -234.1)">
+             </path>
+             <path class="cls-1" d="M221.73,347.07a28.32,28.32,0,0,1-11.43-11.55,40.63,40.63,0,0,1,.06-35.82,28.34,28.34,0,0,1,11.5-11.49,34.54,34.54,0,0,1,16.7-3.94,33.28,33.28,0,0,1,16.38,4,28.75,28.75,0,0,1,11.37,11.43,34.86,34.86,0,0,1,4.12,17.21q0,10.54-4.19,18.22A29.23,29.23,0,0,1,254.69,347a35.48,35.48,0,0,1-33,.12ZM250.43,333q4.77-5.53,4.76-15.82,0-9.65-4.57-15a15.24,15.24,0,0,0-12.19-5.34,15.79,15.79,0,0,0-12.26,5.27q-4.75,5.28-4.76,15.43,0,9.91,4.76,15.44a16.09,16.09,0,0,0,24.26,0Z" transform="translate(-71.2 -234.1)">
+             </path>
+             <path class="cls-1" d="M332.67,292.59q8.38,8.31,8.38,24.57a39.06,39.06,0,0,1-3.81,17.59,28.27,28.27,0,0,1-11.05,12,32.59,32.59,0,0,1-17,4.31,30.54,30.54,0,0,1-12.32-2.28v26.92H282.37V289.22q15.12-5,27.06-5Q324.28,284.27,332.67,292.59Zm-11.56,39.94q4.69-5.83,4.7-15.62t-4.45-14.86q-4.44-5.21-12.06-5.21a39.26,39.26,0,0,0-12.45,2v36.71a22.72,22.72,0,0,0,11.56,2.79A15.43,15.43,0,0,0,321.11,332.53Z" transform="translate(-71.2 -234.1)">
+             </path>
+            </svg>
+           </div>
+           <div class="o-Media-Body">
+            <a href="https://shop.pbs.org/ken-burns-jazz?utm_source=PBS&amp;utm_medium=Link&amp;utm_campaign=pbs_content_kenburns_jazz_buydvdmodule" target="_blank">
+             DVD or Blu-Ray
+            </a>
+           </div>
+          </div>
+         </li>
+         <li>
+          <div class="o-Media o-Media-Platrom o-Media-Platrom_apple">
+           <div class="o-Media-Img">
+            <svg fill="none" height="24" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+             <rect fill="white" height="24" width="24">
+             </rect>
+             <path clip-rule="evenodd" d="M11.5696 3.35343C12.2984 2.46385 12.7906 1.23065 12.6565 0C11.6063 0.04327 10.3348 0.702501 9.58197 1.59081C8.90634 2.37731 8.31422 3.63341 8.47237 4.83988C9.64524 4.93151 10.8409 4.24046 11.5696 3.35343ZM14.1988 11.1586C14.1722 8.49874 16.3547 7.22355 16.4522 7.15991C15.2262 5.3553 13.3157 5.10713 12.635 5.07914C11.0092 4.91369 9.46178 6.04126 8.63811 6.04126C7.81445 6.04126 6.54037 5.10332 5.1929 5.12877C3.42032 5.15422 1.78691 6.1647 0.874682 7.7606C-0.967488 10.974 0.402753 15.735 2.19684 18.3414C3.07491 19.6166 4.11999 21.0496 5.49276 20.9987C6.81492 20.9452 7.31469 20.1384 8.91267 20.1384C10.5119 20.1384 10.9611 20.9987 12.3604 20.972C13.7825 20.9465 14.6834 19.6726 15.5538 18.3923C16.561 16.9122 16.976 15.4792 17 15.4067C16.9684 15.3914 14.2266 14.3351 14.1988 11.1586Z" fill="#020303" fill-rule="evenodd" transform="translate(3 1)">
+             </path>
+            </svg>
+           </div>
+           <div class="o-Media-Body">
+            <a href="https://geo.itunes.apple.com/us/tv-season/ken-burns-jazz/id258230275?4&amp;at=11l3Sf&amp;ct=KenBurns:JazzSITE" target="_blank">
+             Apple iTunes
+            </a>
+           </div>
+          </div>
+         </li>
+         <li>
+          <div class="o-Media o-Media-Platrom o-Media-Platrom_amazon">
+           <div class="o-Media-Img">
+            <svg fill="none" height="24" viewbox="0 0 33 24" width="33" xmlns="http://www.w3.org/2000/svg">
+             <rect fill="white" height="24" width="33">
+             </rect>
+             <path clip-rule="evenodd" d="M5.6545 11.5575C8.7774 11.5575 11.3097 8.96983 11.3097 5.77838C11.3097 2.58694 8.7774 0 5.6545 0C2.53214 0 0 2.58694 0 5.77838C0 8.96983 2.53214 11.5575 5.6545 11.5575ZM3.91648 7.96552V3.34153C3.91648 3.3257 3.93264 3.31493 3.94674 3.32212L8.55593 5.63376C8.57209 5.64166 8.57209 5.66467 8.55593 5.67329L3.94674 7.98493C3.93264 7.99212 3.91648 7.98133 3.91648 7.96552Z" fill="#7DAE41" fill-rule="evenodd" transform="translate(10.845 3)">
+             </path>
+             <path d="M22.3993 1.20032C22.3993 1.20032 21.5525 1.33832 22.1975 0.807135C24.5595 -0.529104 26.602 0.19687 26.602 0.19687C26.602 0.19687 26.9994 0.324828 26.9988 0.660502C27.0551 3.45157 25.1545 5.06167 25.1545 5.06167C24.6347 5.29888 24.9125 4.65484 24.9125 4.65484C25.0961 4.31987 25.6258 2.62712 25.6258 2.62712C25.6258 2.62712 26.0872 1.29879 25.2206 1.12196C24.3541 0.944416 22.3993 1.20032 22.3993 1.20032Z" fill="#141411" transform="translate(3 13.7718)">
+             </path>
+             <path d="M13.0029 4.2372C6.30382 4.2372 0.339239 0.613771 0.339239 0.613771C0.339239 0.613771 0.119072 0.531103 0.0248232 0.687808C-0.086345 0.898406 0.211911 1.11405 0.211911 1.11405C2.27064 2.93475 6.49025 5.97812 13.0303 6.21676C19.571 6.4554 24.2407 2.88874 24.2407 2.88874C24.2407 2.88874 24.7014 2.57823 24.5199 2.27777C24.3392 1.97732 23.9544 2.12036 23.9544 2.12036C23.9544 2.12036 19.7018 4.2372 13.0029 4.2372Z" fill="#141411" transform="translate(3 13.7718)">
+             </path>
+            </svg>
+           </div>
+           <div class="o-Media-Body">
+            <a href="https://www.amazon.com/gp/product/B002P3CVZ2/ref=as_li_tl?ie=UTF8&amp;tag=p05a2-20&amp;camp=1789&amp;creative=9325&amp;linkCode=as2&amp;creativeASIN=B002P3CVZ2&amp;linkId=d71cc7258f5afde8d40449b68a3ec6b0" target="_blank">
+             Amazon Video
+            </a>
+           </div>
+          </div>
+         </li>
+        </ul>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="o-Grid-Container" id="">
+    <h2 class="c-TextUnderline u-Spacer_2">
+     <span>
+      Explore More
+     </span>
+    </h2>
+    <div class="o-Grid-Row u-Spacer_2">
+     <div class="o-Grid-Col_4 u-Spacer_1" id="">
+      <a class="c-Card c-Card_promo has-border" href="/kenburns/jazz/roots-of-jazz/">
+       <div class="o-ImageBox c-Card-Img">
+        <img alt="A photo showing a watercolor map, which depicts the eastern portion of the United States of America. | Roots of Jazz" class="o-ImageBox-Img" src="https://kenburns-tc.pbs.org/uploads/_493x277_crop_center-center_85_none/RootsOfJazz_screenshot_promo.jpg"/>
+       </div>
+       <div class="c-Card-Content">
+        <div class="c-Card-Content_text">
+         <div class="o-Text_titleCaption c-Card-Title">
+          Roots of Jazz
+         </div>
+         <p class="c-Card-Text">
+          Explore the cities and scenes that made jazz.
+         </p>
+        </div>
+        <button class="c-Button">
+         <span>
+          Explore
+         </span>
+         <svg class="c-Button-Icon" height="32px" version="1.1" viewbox="0 0 13 32" width="13px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+          <polyline fill="none" fill-rule="evenodd" points="2 25 10 16.5 2 8" stroke="#979797" stroke-width="3">
+          </polyline>
+         </svg>
+        </button>
+       </div>
+      </a>
+     </div>
+     <div class="o-Grid-Col_4 u-Spacer_1" id="">
+      <a class="c-Card c-Card_promo has-border" href="/kenburns/jazz/music-101/">
+       <div class="o-ImageBox c-Card-Img">
+        <img alt="Black-and-white photos showing The Benny Goodman Trio performing, with Benny Goodman on the trumpet, Gene Krupa on the drums, and Teddy Wilson on the piano, in 1937. | Music 101" class="o-ImageBox-Img" src="https://kenburns-tc.pbs.org/uploads/_493x277_crop_center-center_85_none/Benny-Goodman-Trio_music-101-promo.jpg"/>
+       </div>
+       <div class="c-Card-Content">
+        <div class="c-Card-Content_text">
+         <div class="o-Text_titleCaption c-Card-Title">
+          Music 101
+         </div>
+         <p class="c-Card-Text">
+          A basic primer on key musical concepts.
+         </p>
+        </div>
+        <button class="c-Button">
+         <span>
+          Explore
+         </span>
+         <svg class="c-Button-Icon" height="32px" version="1.1" viewbox="0 0 13 32" width="13px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+          <polyline fill="none" fill-rule="evenodd" points="2 25 10 16.5 2 8" stroke="#979797" stroke-width="3">
+          </polyline>
+         </svg>
+        </button>
+       </div>
+      </a>
+     </div>
+     <div class="o-Grid-Col_4 u-Spacer_1" id="">
+      <a class="c-Card c-Card_promo has-border" href="http://www.pbs.org/kenburns/unum/">
+       <div class="o-ImageBox c-Card-Img">
+        <div class="c-Card-Badge">
+         <p>
+          Available on
+          <strong>
+           UNUM
+          </strong>
+          <br/>
+         </p>
+        </div>
+        <img alt="A promotional composite image for Ken Burns' UNUM. It shows a map of the United States of America made up of small circles, and in each of those circles is an image from one of Ken Burns' films. Many of these images are faces of interviewees or historical photos. In the background is a geometric gray, blue and white pattern. | Unum" class="o-ImageBox-Img" src="https://kenburns-tc.pbs.org/uploads/_493x277_crop_center-center_85_none/UNUM_generic.jpg"/>
+       </div>
+       <div class="c-Card-Content">
+        <div class="c-Card-Content_text">
+         <div class="o-Text_titleCaption c-Card-Title">
+          Unum
+         </div>
+         <p class="c-Card-Text">
+          <p>
+           Ken Burns curates a new way to explore US history by theme and era.
+          </p>
+         </p>
+        </div>
+        <button class="c-Button">
+         <span>
+          Explore on UNUM
+         </span>
+         <svg class="c-Button-Icon" height="32px" version="1.1" viewbox="0 0 13 32" width="13px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+          <polyline fill="none" fill-rule="evenodd" points="2 25 10 16.5 2 8" stroke="#979797" stroke-width="3">
+          </polyline>
+         </svg>
+        </button>
+       </div>
+      </a>
+     </div>
+    </div>
+   </div>
+   <div class="o-Grid-Container" id="">
+    <div class="o-Grid-Row u-Spacer_2">
+     <div class="u-Spacer_1" id="">
+      <h2 class="c-TextUnderline u-Spacer_2">
+       <span>
+        Explore Related Films
+       </span>
+      </h2>
+      <div class="c-ImageGrid js-ImageGrid">
+       <div class="o-Grid-Row">
+        <a class="c-ImageGrid-Item js-is-loadable js-ignore" data-tags="" href="http://www.pbs.org/kenburns/empire/" target="_blank" title="Examine the lives of three men who shared the primary responsibility for this life-changing invention.">
+         <img alt="The poster for 'Empire Of The Air: The Men Who Made Radio.' It shows an orange angel against a green-hued cityscape, as electricity crackles around a radio transmitter." class="c-ImageGrid-Thumb" src="https://kenburns-tc.pbs.org/uploads/_250xAUTO_crop_center-center_60_none/Empire-Of-The-Air-Poster.jpg"/>
+         <div class="c-ImageGrid-Modal">
+          <div class="o-Text_titleSmall c-ImageGrid-Title">
+           Empire of the Air [1991]
+          </div>
+          <div class="c-ImageGrid-Text">
+           Examine the lives of three men who shared the primary responsibility for this life-changing invention.
+          </div>
+         </div>
+        </a>
+        <a class="c-ImageGrid-Item js-is-loadable js-ignore" data-tags="" href="https://www.pbs.org/kenburns/thomas-hart-benton" target="_blank" title="The bittersweet story of a great American artist who became emblematic of the price all artists must pay.">
+         <img alt="The poster for 'Thomas Hart Benton.' It shows a brown-hued photo of Thomas Hart benton sitting, posing in front of one of his paintings." class="c-ImageGrid-Thumb" src="https://kenburns-tc.pbs.org/uploads/_250xAUTO_crop_center-center_60_none/Thomas-Hart-Benton-Poster.jpg"/>
+         <div class="c-ImageGrid-Modal">
+          <div class="o-Text_titleSmall c-ImageGrid-Title">
+           Thomas Hart Benton [1988]
+          </div>
+          <div class="c-ImageGrid-Text">
+           The bittersweet story of a great American artist who became emblematic of the price all artists must pay.
+          </div>
+         </div>
+        </a>
+        <a class="c-ImageGrid-Item js-is-loadable js-ignore" data-tags="" href="/kenburns/mark-twain/" target="_blank" title="&quot;I am not an American, I am the American.&quot; The remarkable story of Samuel Clemens' adventurous life as a writer.">
+         <img alt="The poster for 'Mark Twain: A Film By Ken Burns.' It shows a sepia-toned photo of Mark Twain against a black background." class="c-ImageGrid-Thumb" src="https://kenburns-tc.pbs.org/uploads/_250xAUTO_crop_center-center_60_none/Mark-Twain-Poster.jpg"/>
+         <div class="c-ImageGrid-Modal">
+          <div class="o-Text_titleSmall c-ImageGrid-Title">
+           Mark Twain [2002]
+          </div>
+          <div class="c-ImageGrid-Text">
+           "I am not an American, I am the American." The remarkable story of Samuel Clemens' adventurous life as a writer.
+          </div>
+         </div>
+        </a>
+        <a class="c-ImageGrid-Item js-is-loadable js-ignore" data-tags="" href="https://www.pbs.org/flw/" target="_blank" title="The man whose buildings and ideas changed the way we live, work and see the world around us.">
+         <img alt="The poster for 'Frank Lloyd Wright: A Film By Ken Burns &amp; Lynn Novick.' The black-and-white image shows Wright sitting in a chair facing the camera." class="c-ImageGrid-Thumb" src="https://kenburns-tc.pbs.org/uploads/_250xAUTO_crop_center-center_60_none/Frank-Lloyd-Wright-Poster.jpg"/>
+         <div class="c-ImageGrid-Modal">
+          <div class="o-Text_titleSmall c-ImageGrid-Title">
+           Frank Lloyd Wright [1998]
+          </div>
+          <div class="c-ImageGrid-Text">
+           The man whose buildings and ideas changed the way we live, work and see the world around us.
+          </div>
+         </div>
+        </a>
+        <a class="c-ImageGrid-Item js-is-loadable js-ignore" data-tags="" href="https://www.pbs.org/kenburns/the-shakers/" target="_blank" title='Though they were celibate, the "Shakers" constitute the most enduring religious experiment in American history.'>
+         <img alt="The poster for 'The Shakers.' The sepia-toned image shows a woman wearing traditional Shaker clothing, as she bows in a dance pose." class="c-ImageGrid-Thumb" src="https://kenburns-tc.pbs.org/uploads/_250xAUTO_crop_center-center_60_none/The-Shakers-Poster.jpg"/>
+         <div class="c-ImageGrid-Modal">
+          <div class="o-Text_titleSmall c-ImageGrid-Title">
+           The Shakers [1984]
+          </div>
+          <div class="c-ImageGrid-Text">
+           Though they were celibate, the "Shakers" constitute the most enduring religious experiment in American history.
+          </div>
+         </div>
+        </a>
+        <a class="c-ImageGrid-Item js-is-loadable js-ignore" data-tags="" href="https://www.pbs.org/kenburns/films/" target="_blank" title="">
+         <img alt="A composite image showing various film posters from the catalogue of Ken Burns films." class="c-ImageGrid-Thumb" src="https://kenburns-tc.pbs.org/uploads/_250xAUTO_crop_center-center_60_none/See-All-Films-Poster.png"/>
+         <div class="c-ImageGrid-Modal">
+          <div class="o-Text_titleSmall c-ImageGrid-Title">
+           See All Films
+          </div>
+          <div class="c-ImageGrid-Text">
+          </div>
+         </div>
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </main>
+  <div class="c-ContactBar">
+   <div class="o-Grid-Container">
+    <div class="c-ContactBar-Left">
+     <div class="c-ContactBar-Label is-centered">
+      Sign up to get updates about the film and future projects from Ken Burns and Florentine Films.
+     </div>
+     <form action="https://pbs.us7.list-manage.com/subscribe/post?u=010ade517d096d5a52d474345&amp;id=3f2b0ab2a2" class="c-ContactBar-Newsletter" method="POST" target="_blank">
+      <input aria-label="Enter Email Address" class="c-ContactBar-Email" name="EMAIL" placeholder="Email Address..." required="" type="email"/>
+      <div class="c-ContactBar-Confirm js-ContactButton">
+       <input class="c-Button_flat" type="submit" value="Subscribe"/>
+       <svg fill="none" height="24" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+        <path d="M1.70455 13.1707V3.18183C1.81818 3.25524 1.86068 3.32988 1.94523 3.40585C2.97625 4.33354 4.00671 5.26134 4.97773 6.12744C5.02216 6.16707 5.02011 6.16707 5.06443 6.20659C6.29409 7.30305 7.32454 8.21476 8.0942 8.88354C8.53352 9.26512 8.88216 9.56341 9.13511 9.77244C9.24538 9.86456 9.35745 9.95418 9.47125 10.0412C9.52489 10.0816 9.57114 10.1146 9.61512 10.1427C9.78682 10.2526 9.87057 10.2937 10.0964 10.2937C10.3207 10.2937 10.4032 10.2534 10.575 10.1446C10.6189 10.1168 10.6655 10.084 10.7193 10.0439C10.8343 9.95693 10.9476 9.86744 11.0591 9.77549C11.3149 9.56659 11.6684 9.26829 12.1133 8.88659C12.8928 8.2178 13.9378 7.30585 15.1836 6.20927C15.228 6.17024 15.2362 6.17024 15.2807 6.1311C16.2423 5.28427 17.2727 4.37854 18.2955 3.47159V13.1707H1.70455ZM10.0991 8.26037C9.78562 7.99736 9.4745 7.73113 9.1658 7.46171C8.40284 6.7989 7.37625 5.89146 6.1517 4.79963L6.06318 4.72061C5.09432 3.85646 4.06137 2.94817 3.03205 2.02195C2.9525 1.95049 2.87489 1.82927 2.79795 1.82927H17.4949C17.4183 1.82927 17.341 1.94805 17.2619 2.01829C16.2191 2.94451 15.1726 3.86171 14.1911 4.72598C14.1468 4.765 14.1468 4.76049 14.1026 4.79939C12.8619 5.89159 11.8217 6.79707 11.0489 7.46012C10.7348 7.73027 10.4182 7.99703 10.0991 8.26037ZM19.7553 0H0.211474C0.0862468 0 0 0.0737805 0 0.208902V14.7194C0 14.8541 0.085565 15 0.211474 15H19.7553C19.8806 15 20 14.8545 20 14.7194V0.208902C20 0.0741463 19.8814 0 19.7553 0Z" fill="white" id="mail" transform="translate(2 4)">
+        </path>
+        <path clip-rule="evenodd" d="M19.4142 1.41421L6.70711 14.1213L0 7.41421L1.41421 6L6.70711 11.2929L18 0L19.4142 1.41421Z" fill="white" fill-rule="evenodd" id="check" transform="translate(2 4)">
+        </path>
+       </svg>
+      </div>
+     </form>
+    </div>
+    <div class="c-ContactBar-Right">
+     <div class="c-ContactBar-Label">
+      Connect with Us
+     </div>
+     <ul class="c-ContactBar-Social">
+      <li>
+       <a href="https://www.facebook.com/kenburnspbs/" title="Facebook Link">
+        <svg fill="none" height="32" viewbox="0 0 32 32" width="32" xmlns="http://www.w3.org/2000/svg">
+         <path d="M22 20.7858C22 21.4563 21.4563 22 20.7859 22H15.1796V13.4805H18.0394L18.4674 10.1602H15.1796V8.04042C15.1796 7.07913 15.4465 6.42405 16.825 6.42405L18.5833 6.42323V3.45363C18.2791 3.41323 17.2355 3.32281 16.0212 3.32281C13.4863 3.32281 11.7509 4.87009 11.7509 7.71169V10.1602H8.88389V13.4805H11.7509V22H1.21424C0.543482 22 0 21.4563 0 20.7858V1.21427C0 0.543533 0.543482 0 1.21424 0H20.7859C21.4563 0 22 0.543533 22 1.21427V20.7858Z" fill="white" transform="translate(5 5)">
+         </path>
+        </svg>
+       </a>
+      </li>
+      <li>
+       <a href="https://www.twitter.com/pbs/" title="Twitter Link">
+        <svg fill="none" height="32" viewbox="0 0 32 32" width="32" xmlns="http://www.w3.org/2000/svg">
+         <path clip-rule="evenodd" d="M24 2.25632C23.0559 2.65223 22.1114 2.89948 21.1677 2.99877C22.2337 2.3753 22.9546 1.49456 23.3303 0.356559C22.3553 0.920457 21.3148 1.30635 20.2083 1.51424C19.2335 0.504867 18.0357 0 16.6143 0C15.2539 0 14.0941 0.467516 13.1345 1.40273C12.175 2.33795 11.6954 3.46848 11.6954 4.7945C11.6954 5.1507 11.736 5.51691 11.8173 5.89296C9.80703 5.79403 7.92125 5.30174 6.15977 4.41608C4.39828 3.53024 2.90334 2.35015 1.67494 0.875637C1.22822 1.61772 1.00485 2.42431 1.00485 3.29521C1.00485 4.11655 1.2028 4.87868 1.59887 5.58123C1.99475 6.28378 2.52783 6.85278 3.19792 7.28823C2.40596 7.25853 1.66485 7.05556 0.974572 6.67951V6.7389C0.974572 7.89676 1.34765 8.91342 2.09381 9.78942C2.83998 10.6654 3.78165 11.2169 4.91865 11.4445C4.4923 11.5533 4.06072 11.6077 3.62427 11.6077C3.33998 11.6077 3.03026 11.583 2.69531 11.5338C3.01007 12.4936 3.58876 13.2827 4.43137 13.9012C5.27398 14.52 6.22836 14.8388 7.29434 14.8589C5.50762 16.2242 3.47212 16.9071 1.18784 16.9071C0.751209 16.9071 0.355324 16.8876 0 16.8479C2.28428 18.2827 4.80202 19 7.5534 19C9.29955 19 10.9392 18.7305 12.4719 18.1912C14.0051 17.6519 15.3146 16.9295 16.401 16.0238C17.4872 15.1185 18.4238 14.0769 19.2105 12.8991C19.9972 11.7216 20.5834 10.4922 20.9694 9.21058C21.3552 7.92883 21.5481 6.64507 21.5481 5.3584C21.5481 5.08128 21.543 4.87357 21.5327 4.73492C22.4974 4.05241 23.3198 3.22597 24 2.25632Z" fill="white" fill-rule="evenodd" transform="translate(4 7)">
+         </path>
+        </svg>
+       </a>
+      </li>
+      <li>
+       <a href="https://www.instagram.com/kenburnspbs/" title="Instagram Link">
+        <svg fill="none" height="32" viewbox="0 0 32 32" width="32" xmlns="http://www.w3.org/2000/svg">
+         <path d="M11 1.98202C13.9371 1.98202 14.285 1.9932 15.4449 2.04612C16.5174 2.09507 17.0998 2.27427 17.4875 2.42487C18.0009 2.62442 18.3674 2.86282 18.7523 3.24773C19.1372 3.63263 19.3756 3.99911 19.5751 4.51251C19.7257 4.90017 19.9049 5.48261 19.9539 6.55506C20.0068 7.71501 20.018 8.06288 20.018 11C20.018 13.9372 20.0068 14.285 19.9539 15.4449C19.9049 16.5174 19.7257 17.0999 19.5751 17.4875C19.3756 18.0009 19.1372 18.3674 18.7523 18.7523C18.3674 19.1372 18.0009 19.3756 17.4875 19.5751C17.0998 19.7258 16.5174 19.905 15.4449 19.9539C14.2852 20.0068 13.9373 20.018 11 20.018C8.06266 20.018 7.71479 20.0068 6.55506 19.9539C5.48257 19.905 4.90013 19.7258 4.51251 19.5751C3.99906 19.3756 3.63259 19.1372 3.24768 18.7523C2.86278 18.3674 2.62437 18.0009 2.42487 17.4875C2.27423 17.0999 2.09503 16.5174 2.04608 15.445C1.99316 14.285 1.98198 13.9372 1.98198 11C1.98198 8.06288 1.99316 7.71501 2.04608 6.5551C2.09503 5.48261 2.27423 4.90017 2.42487 4.51251C2.62437 3.99911 2.86278 3.63263 3.24768 3.24773C3.63259 2.86282 3.99906 2.62442 4.51251 2.42487C4.90013 2.27427 5.48257 2.09507 6.55501 2.04612C7.71496 1.9932 8.06284 1.98202 11 1.98202ZM11 0C8.01254 0 7.63798 0.0126627 6.46471 0.0661955C5.29385 0.119641 4.49426 0.305565 3.79454 0.577508C3.07119 0.85862 2.45775 1.23475 1.84623 1.84627C1.2347 2.45779 0.858576 3.07123 0.577464 3.79458C0.305521 4.49431 0.119597 5.29389 0.0661518 6.46476C0.0126191 7.63798 0 8.01258 0 11C0 13.9875 0.0126191 14.3621 0.0661518 15.5353C0.119597 16.7062 0.305521 17.5057 0.577464 18.2055C0.858576 18.9288 1.2347 19.5423 1.84623 20.1538C2.45775 20.7653 3.07119 21.1414 3.79454 21.4225C4.49426 21.6945 5.29385 21.8804 6.46471 21.9338C7.63798 21.9874 8.01254 22 11 22C13.9874 22 14.362 21.9874 15.5352 21.9338C16.7061 21.8804 17.5057 21.6945 18.2054 21.4225C18.9288 21.1414 19.5422 20.7653 20.1537 20.1538C20.7653 19.5423 21.1414 18.9288 21.4225 18.2055C21.6944 17.5057 21.8804 16.7062 21.9338 15.5353C21.9873 14.3621 22 13.9875 22 11C22 8.01258 21.9873 7.63798 21.9338 6.46476C21.8804 5.29389 21.6944 4.49431 21.4225 3.79458C21.1414 3.07123 20.7653 2.45779 20.1537 1.84627C19.5422 1.23475 18.9288 0.85862 18.2054 0.577508C17.5057 0.305565 16.7061 0.119641 15.5352 0.0661955C14.362 0.0126627 13.9874 0 11 0ZM11 5.35136C7.88032 5.35136 5.35131 7.88036 5.35131 11C5.35131 14.1197 7.88032 16.6487 11 16.6487C14.1196 16.6487 16.6486 14.1197 16.6486 11C16.6486 7.88036 14.1196 5.35136 11 5.35136ZM11 14.6667C8.97495 14.6667 7.33329 13.0251 7.33329 11C7.33329 8.97499 8.97495 7.33333 11 7.33333C13.025 7.33333 14.6667 8.97499 14.6667 11C14.6667 13.0251 13.025 14.6667 11 14.6667ZM18.1918 5.12819C18.1918 5.85721 17.6008 6.44821 16.8718 6.44821C16.1428 6.44821 15.5518 5.85721 15.5518 5.12819C15.5518 4.39916 16.1428 3.80821 16.8718 3.80821C17.6008 3.80821 18.1918 4.39916 18.1918 5.12819Z" fill="white" transform="translate(5 5)">
+         </path>
+        </svg>
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </div>
+  <footer class="o-Grid-Container c-Footer">
+   <div class="c-Footer-Credits">
+    <div class="o-Text_bodySmall u-Spacer_0 s-rich-text">
+     <p>
+      Jazz is a co-production of Florentine Films and WETA.
+     </p>
+    </div>
+    <div class="o-Text_caption u-Spacer_2 s-rich-text">
+     <p>
+      Financial support for the original broadcast of Jazz was provided by:
+      <br/>
+     </p>
+    </div>
+    <ul class="c-Footer-Logos u-Spacer_1">
+     <li>
+      <a href="http://www.gm.com/" target="_blank">
+       <img alt="The General Motors Logo" src="https://kenburns-tc.pbs.org/uploads/GM_logo.png"/>
+      </a>
+     </li>
+     <li>
+      <img alt="Public Broadcasting Service Pbs Logo" src="https://kenburns-tc.pbs.org/uploads/pbs_logo.png"/>
+     </li>
+     <li>
+      <a href="http://parkfoundation.org/" target="_blank">
+       <img alt="The Park Foundation logo." src="https://kenburns-tc.pbs.org/uploads/park-foundation-logo-gray-extra-pad.png"/>
+      </a>
+     </li>
+     <li>
+      <img alt="Cpb Logo" src="https://kenburns-tc.pbs.org/uploads/cpb_logo.png"/>
+     </li>
+     <li>
+      <a href="http://www.pewtrusts.com/" target="_blank">
+       <img alt="The Pew Charitable Trusts logo." src="https://kenburns-tc.pbs.org/uploads/pew-charitable-trust-logo-gray-extra-pad.png"/>
+      </a>
+     </li>
+    </ul>
+    <div class="o-Text_bodySmall u-Spacer_0 s-rich-text">
+     <p>
+      <a href="http://www.ddcf.org/" rel="noreferrer noopener" target="_blank">
+       The Doris Duke Charitable Foundation
+      </a>
+      ,
+      <a href="http://www.crt.state.la.us/" rel="noreferrer noopener" target="_blank">
+       Louisiana Department of Culture, Recreation and Tourism
+      </a>
+      ,
+     </p>
+    </div>
+    <ul class="c-Footer-Logos u-Spacer_1">
+     <li>
+      <a href="http://www.neh.gov/" target="_blank">
+       <img alt="The National Endowment for the Humanities logo." src="https://kenburns-tc.pbs.org/uploads/neh-logo-gray-extra-pad.png"/>
+      </a>
+     </li>
+    </ul>
+    <div class="o-Text_bodySmall u-Spacer_0 s-rich-text">
+     <p>
+      <a href="http://www.loganfdn.org/" rel="noreferrer noopener" target="_blank">
+       The Reva and David Logan Foundation
+      </a>
+      ,
+      <a href="http://www.macfdn.org/" rel="noreferrer noopener" target="_blank">
+       The John D. and Catherine T. MacArthur Foundation
+      </a>
+      ,
+      <a href="https://www.arts.gov/" rel="noreferrer noopener" target="_blank">
+       The National Endowment for the Arts
+      </a>
+      and Helen and Peter Bing.
+     </p>
+    </div>
+   </div>
+   <nav class="c-Footer-Nav">
+    <div class="c-Footer-NavInner">
+     <a class="o-Text_bodySmall c-Footer-NavLink" href="https://www.pbs.org/about/">
+      About PBS
+     </a>
+     <a class="o-Text_bodySmall c-Footer-NavLink" href="https://www.pbs.org/cgi-registry/sitemembershiplink.cgir">
+      Donate
+     </a>
+     <a class="o-Text_bodySmall c-Footer-NavLink" href="https://www.pbs.org/cgi-registry/sitemembershiplink.cgir">
+      PBS Foundation
+     </a>
+     <a class="o-Text_bodySmall c-Footer-NavLink" href="https://www.pbs.org/cgi-registry/whatson/index.cgir">
+      TV Schedules
+     </a>
+     <a class="o-Text_bodySmall c-Footer-NavLink" href="https://www.pbs.org/about/careers/">
+      Careers
+     </a>
+     <a class="o-Text_bodySmall c-Footer-NavLink" href="https://www.pbs.org/about/policies/privacy-policy/">
+      Privacy Policy
+     </a>
+     <a class="o-Text_bodySmall c-Footer-NavLink" href="https://www.pbs.org/about/policies/terms-of-use/">
+      Terms Of Use
+     </a>
+     <a class="o-Text_bodySmall c-Footer-NavLink" href="https://shop.pbs.org/ken-burns?utm_source=PBS&amp;utm_medium=Link&amp;utm_campaign=pbs_content_kenburns_jazz_buydvdfooter_kb_collection">
+      Shop
+     </a>
+    </div>
+   </nav>
+   <div class="o-Text_bodyMicro c-Footer-Copy">
+    © 2020 Public Broadcasting Service (PBS). All Rights Reserved. PBS is a 501(c)(3) not-for-profit organization.
+   </div>
+  </footer>
+  <script src="https://www.pbs.org/kenburns/assets/js/app.js">
+  </script>
+  <script type="application/ld+json">
+   {"@context":"http://schema.org","@graph":[{"@type":"WebPage","author":{"@id":"#identity"},"copyrightHolder":{"@id":"#identity"},"copyrightYear":"2020-02-11T14:43:00-05:00","creator":{"@id":"#creator"},"dateModified":"2020-06-30T10:40:05-04:00","datePublished":"2020-02-11T14:43:00-05:00","description":"Jazz has been called the purest expression of American democracy. Join us for an exploration of jazz, America's greatest cultural achievement.","headline":"Home | Ken Burns","image":{"@type":"ImageObject","url":"https://kenburns-tc.pbs.org/uploads/_1200x630_crop_center-center_82_none/jazz_social_promo.jpg?mtime=1531265479"},"inLanguage":"en-us","mainEntityOfPage":"https://www.pbs.org/kenburns/jazz/","name":"Home | Ken Burns","publisher":{"@id":"#creator"},"url":"https://www.pbs.org/kenburns/jazz/"},{"@id":"#identity","@type":"LocalBusiness","priceRange":"$"},{"@id":"#creator","@type":"Organization"},{"@type":"BreadcrumbList","description":"Breadcrumbs list","itemListElement":[{"@type":"ListItem","item":"https://www.pbs.org/kenburns/jazz/","name":"Home","position":1}],"name":"Breadcrumbs"}]}
+  </script>
+  <script type="text/javascript">
+   window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"646c3c011e","applicationID":"344265166","transactionName":"Z1NQZEtSCEcAVEQPWF4ZZ0JQHA9aBVJISEdYRg==","queueTime":0,"applicationTime":1889,"atts":"SxRTEgNIG0k=","errorBeacon":"bam.nr-data.net","agent":""}
+  </script>
+ </body>
+</html>
