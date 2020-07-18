@@ -1,1167 +1,622 @@
-<!DOCTYPE html>
-<html class="no-js" lang="en-CA">
- <!-- start : Framework/Generic -->
- <!-- start : ocom/common/global/components/framework/head -->
- <head>
-  <!-- start : ocom/common/global/components/head -->
-  <title>
-   What Is the Internet of Things (IoT)? | Oracle Canada
-  </title>
-  <meta content="What Is the Internet of Things (IoT)?" name="Title"/>
-  <meta content="IoT is when physical objects are embedded with sensors, software, and other technologies for the purpose of connecting and exchanging data with other devices and systems, ranging from ordinary household objects to sophisticated industrial tools." name="Description"/>
-  <meta content="IoT, What is IoT, internet of things definition, IoT Security, Security for IoT" name="Keywords"/>
-  <meta content="ca-en" name="siteid"/>
-  <meta content="CA" name="countryid"/>
-  <meta content="index, follow" name="robots"/>
-  <meta content="Canada" name="country"/>
-  <meta content="en" name="Language"/>
-  <meta content="2020-03-06T17:35:59Z" name="Updated Date"/>
-  <script type="text/javascript">
-   var pageData = pageData || {};
-		//page info
-		pageData.pageInfo = pageData.pageInfo || {};
-		pageData.pageInfo.language = "en";
-		pageData.pageInfo.country = "Canada";
-		pageData.pageInfo.pageTitle = "What Is the Internet of Things (IoT)?";
-		pageData.pageInfo.description = "IoT is when physical objects are embedded with sensors, software, and other technologies for the purpose of connecting and exchanging data with other devices and systems, ranging from ordinary household objects to sophisticated industrial tools.";
-		pageData.pageInfo.keywords = "IoT, What is IoT, internet of things definition, IoT Security, Security for IoT";
-		pageData.pageInfo.siteId = "ca-en";
-		pageData.pageInfo.countryId = "CA";
-		pageData.pageInfo.updatedDate = "2020-03-06T17:35:59Z";
-  </script>
-  <!-- start : ocom/common/global/components/seo-taxonomy-meta-data-->
-  <script type="text/javascript">
-   var pageData = pageData || {};
-		//taxonmy
-		pageData.taxonomy = pageData.taxonomy || {};
-		pageData.taxonomy.productServices = [];
-		pageData.taxonomy.industry = [];
-		pageData.taxonomy.region = [];
-		pageData.taxonomy.contentType = [];
-		pageData.taxonomy.buyersJourney = [];
-		pageData.taxonomy.revenue = [];
-		pageData.taxonomy.title = [];
-		pageData.taxonomy.audience = [];
-		pageData.taxonomy.persona = [];
-  </script>
-  <!-- end : ocom/common/global/components/seo-taxonomy-meta-data-->
-  <!-- start : ocom/common/global/components/social-media-meta-tags -->
-  <!-- F13v0 -->
-  <meta content="What is the Internet of Things (IoT)?" property="og:title">
-   <meta content="Physical objects are embedded with sensors, software, and other technologies for the purpose of connecting and exchanging data with other devices and systems, ranging from ordinary household objects to sophisticated industrial tools." property="og:description">
-    <meta content="https://www.oracle.com/us/assets/oracle-social-share-fb-480-2516041.jpg" property="og:image">
-     <!-- /F13v0 -->
-     <!-- F13v1 -->
-     <meta content="summary" name="twitter:card"/>
-     <meta content="What is the Internet of Things (IoT)?" name="twitter:title"/>
-     <meta content="Physical objects are embedded with sensors, software, and other technologies for the purpose of connecting and exchanging data with other devices and systems, ranging from ordinary household objects to sophisticated industrial tools." name="twitter:description"/>
-     <meta content="https://www.oracle.com/us/assets/oracle-social-share-fb-480-2516041.jpg" name="twitter:image"/>
-     <!-- /F13v1 -->
-     <!-- end : ocom/common/global/components/social-media-meta-tags -->
-     <!-- start : ocom/common/global/components/seo-hreflang-meta-tags -->
-     <link href="https://www.oracle.com/ca-en/internet-of-things/what-is-iot.html" rel="canonical"/>
-     <link href="https://www.oracle.com/ae/internet-of-things/what-is-iot.html" hreflang="en-AE" rel="alternate"/>
-     <link href="https://www.oracle.com/ar/internet-of-things/what-is-iot.html" hreflang="es-AR" rel="alternate"/>
-     <link href="https://www.oracle.com/au/internet-of-things/what-is-iot.html" hreflang="en-AU" rel="alternate"/>
-     <link href="https://www.oracle.com/be/internet-of-things/what-is-iot.html" hreflang="en-BE" rel="alternate"/>
-     <link href="https://www.oracle.com/br/internet-of-things/what-is-iot.html" hreflang="pt-BR" rel="alternate"/>
-     <link href="https://www.oracle.com/ca-en/internet-of-things/what-is-iot.html" hreflang="en-CA" rel="alternate"/>
-     <link href="https://www.oracle.com/ca-fr/internet-of-things/what-is-iot.html" hreflang="fr-CA" rel="alternate"/>
-     <link href="https://www.oracle.com/ch-de/internet-of-things/what-is-iot.html" hreflang="de-CH" rel="alternate"/>
-     <link href="https://www.oracle.com/ch-fr/internet-of-things/what-is-iot.html" hreflang="fr-CH" rel="alternate"/>
-     <link href="https://www.oracle.com/cl/internet-of-things/what-is-iot.html" hreflang="es-CL" rel="alternate"/>
-     <link href="https://www.oracle.com/cn/internet-of-things/what-is-iot.html" hreflang="zh-CN" rel="alternate"/>
-     <link href="https://www.oracle.com/co/internet-of-things/what-is-iot.html" hreflang="es-CO" rel="alternate"/>
-     <link href="https://www.oracle.com/cz/internet-of-things/what-is-iot.html" hreflang="cs-CZ" rel="alternate"/>
-     <link href="https://www.oracle.com/de/internet-of-things/what-is-iot.html" hreflang="de-DE" rel="alternate"/>
-     <link href="https://www.oracle.com/internet-of-things/what-is-iot.html" hreflang="en-US" rel="alternate"/>
-     <link href="https://www.oracle.com/es/internet-of-things/what-is-iot.html" hreflang="es-ES" rel="alternate"/>
-     <link href="https://www.oracle.com/fr/internet-of-things/what-is-iot.html" hreflang="fr-FR" rel="alternate"/>
-     <link href="https://www.oracle.com/hk/internet-of-things/what-is-iot.html" hreflang="en-HK" rel="alternate"/>
-     <link href="https://www.oracle.com/id/internet-of-things/what-is-iot.html" hreflang="en-ID" rel="alternate"/>
-     <link href="https://www.oracle.com/ie/internet-of-things/what-is-iot.html" hreflang="en-IE" rel="alternate"/>
-     <link href="https://www.oracle.com/in/internet-of-things/what-is-iot.html" hreflang="en-IN" rel="alternate"/>
-     <link href="https://www.oracle.com/it/internet-of-things/what-is-iot.html" hreflang="it-IT" rel="alternate"/>
-     <link href="https://www.oracle.com/jp/internet-of-things/what-is-iot.html" hreflang="ja-JP" rel="alternate"/>
-     <link href="https://www.oracle.com/kr/internet-of-things/what-is-iot.html" hreflang="ko-KR" rel="alternate"/>
-     <link href="https://www.oracle.com/mx/internet-of-things/what-is-iot.html" hreflang="es-MX" rel="alternate"/>
-     <link href="https://www.oracle.com/nl/internet-of-things/what-is-iot.html" hreflang="nl-NL" rel="alternate"/>
-     <link href="https://www.oracle.com/ph/internet-of-things/what-is-iot.html" hreflang="en-PH" rel="alternate"/>
-     <link href="https://www.oracle.com/pl/internet-of-things/what-is-iot.html" hreflang="pl-PL" rel="alternate"/>
-     <link href="https://www.oracle.com/ro/internet-of-things/what-is-iot.html" hreflang="ro-RO" rel="alternate"/>
-     <link href="https://www.oracle.com/ru/internet-of-things/what-is-iot.html" hreflang="ru-RU" rel="alternate"/>
-     <link href="https://www.oracle.com/sa/internet-of-things/what-is-iot.html" hreflang="en-SA" rel="alternate"/>
-     <link href="https://www.oracle.com/se/internet-of-things/what-is-iot.html" hreflang="sv-SE" rel="alternate"/>
-     <link href="https://www.oracle.com/sg/internet-of-things/what-is-iot.html" hreflang="en-SG" rel="alternate"/>
-     <link href="https://www.oracle.com/sk/internet-of-things/what-is-iot.html" hreflang="sk-SK" rel="alternate"/>
-     <link href="https://www.oracle.com/tr/internet-of-things/what-is-iot.html" hreflang="tr-TR" rel="alternate"/>
-     <link href="https://www.oracle.com/tw/internet-of-things/what-is-iot.html" hreflang="zh-TW" rel="alternate"/>
-     <link href="https://www.oracle.com/uk/internet-of-things/what-is-iot.html" hreflang="en-GB" rel="alternate"/>
-     <link href="https://www.oracle.com/za/internet-of-things/what-is-iot.html" hreflang="en-ZA" rel="alternate"/>
-     <meta content="ae,ar,au,be,br,ca-en,ca-fr,ch-de,ch-fr,cl,cn,co,cz,de,es,fr,hk,id,ie,in,it,jp,kr,mx,nl,ph,pl,ro,ru,sa,se,sg,sk,tr,tw,uk,za" name="altpages"/>
-     <script type="text/javascript">
-      var pageData = pageData || {};
-						//page info
-						pageData.pageInfo = pageData.pageInfo || {};
-						pageData.pageInfo.altPages = "ae,ar,au,be,br,ca-en,ca-fr,ch-de,ch-fr,cl,cn,co,cz,de,es,fr,hk,id,ie,in,it,jp,kr,mx,nl,ph,pl,ro,ru,sa,se,sg,sk,tr,tw,uk,za";
-     </script>
-     <!-- end : ocom/common/global/components/seo-hreflang-meta-tags -->
-     <!-- end : ocom/common/global/components/head -->
-     <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport"/>
-     <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
-     <!-- start : ocom/common/global/components/framework/layoutAssetHeadInfo -->
-     <!-- Container/Display Start -->
-     <!-- BEGIN: oWidget_C/_Raw-Text/Display -->
-     <!-- BEGIN OCOM CSS/JS -->
-     <script>
-      !function(){
- var d=document.documentElement;d.className=d.className.replace(/no-js/,'js');
- if(document.location.href.indexOf('betamode=') > -1) document.write('<script src="https://www.oracle.com/asset/web/js/ocom-betamode.js"><\/script>');
- }();
-     </script>
-     <link data-wscss="" href="https://www.oracle.com/asset/web/css/ocom-v1-base.css" rel="stylesheet"/>
-     <link as="style" data-wscss="" href="https://www.oracle.com/asset/web/css/ocom-v1-styles.css" onerror="this.rel='stylesheet'" onload="this.rel='stylesheet'" rel="preload"/>
-     <noscript>
-      <link href="https://www.oracle.com/asset/web/css/ocom-v1-styles.css" rel="stylesheet"/>
-     </noscript>
-     <link as="script" data-reqjq="" data-wsjs="" href="https://www.oracle.com/asset/web/js/ocom-v1-base.js" rel="preload"/>
-     <link as="script" data-reqjq="" data-wsjs="" href="https://www.oracle.com/asset/web/js/ocom-v1-lib.js" rel="preload"/>
-     <script async="" data-wsjs="" onload="$('head link[data-reqjq][rel=preload]').each(function(){var a = document.createElement('script');a.async=false;a.src=$(this).attr('href');this.parentNode.insertBefore(a, this);});$(function(){$('script[data-reqjq][data-src]').each(function(){this.async=true;this.src=$(this).data('src');});});" src="https://www.oracle.com/asset/web/js/jquery-min.js">
-     </script>
-     <!-- END OCOM CSS/JS -->
-     <!-- END: oWidget_C/_Raw-Text/Display -->
-     <!-- Container/Display end -->
-     <!-- Container/Display Start -->
-     <!-- BEGIN: oWidget_C/_Raw-Text/Display -->
-     <!-- www-us HeadAdminContainer -->
-     <link href="https://www.oracle.com/asset/web/favicons/favicon-32.png" rel="icon" sizes="32x32"/>
-     <link href="https://www.oracle.com/asset/web/favicons/favicon-128.png" rel="icon" sizes="128x128"/>
-     <link href="https://www.oracle.com/asset/web/favicons/favicon-192.png" rel="icon" sizes="192x192"/>
-     <link href="https://www.oracle.com/asset/web/favicons/favicon-120.png" rel="apple-touch-icon" sizes="120x120"/>
-     <link href="https://www.oracle.com/asset/web/favicons/favicon-152.png" rel="apple-touch-icon" sizes="152x152"/>
-     <link href="https://www.oracle.com/asset/web/favicons/favicon-180.png" rel="apple-touch-icon" sizes="180x180"/>
-     <meta content="#fcfbfa" name="msapplication-TileColor">
-      <meta content="favicon-128.png" name="msapplication-square70x70logo">
-       <meta content="favicon-270.png" name="msapplication-square150x150logo">
-        <meta content="favicon-270.png" name="msapplication-TileImage">
-         <meta content="none" name="msapplication-config">
-          <style>
-           #oReactiveChatContainer1 { display:none;}
-          </style>
-          <!--DTM embed code - Header -->
-          <script src="//assets.adobedtm.com/6f37a0dc9cdbe818dc4979828b58b88e3f060ea4/satelliteLib-e598c5b61e39a10b402e048e87dd27b0f1cd2d4c.js">
-          </script>
-          <!--End-->
-          <!-- END: oWidget_C/_Raw-Text/Display -->
-          <!-- Container/Display end -->
-          <!-- end : ocom/common/global/components/framework/layoutAssetHeadInfo -->
-          <script>
-           (window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"rua.upush":"false","rua.cpush":"false","rua.upre":"false","rua.cpre":"false","rua.uprl":"false","rua.cprl":"false","rua.cprf":"false","rua.trans":"","rua.cook":"false","rua.ims":"false","rua.ufprl":"false","rua.cfprl":"false"}]);
-          </script>
-          <script>
-           !function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="DXNLE-YBWWY-AR74T-WMD99-77VRA",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(c){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"DXNLE-YBWWY-AR74T-WMD99-77VRA";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="eyd75kap4awgwjqacqfaaaagsnpp4y7k-f-6c426743d-clienttons-s.akamaihd.net",i={"ak.v":"27","ak.cp":"82485","ak.ai":parseInt("604074",10),"ak.ol":"0","ak.cr":32,"ak.ipv":6,"ak.proto":"","ak.rid":"80cba99","ak.r":36405,"ak.a2":n,"ak.m":"dscx","ak.n":"essl","ak.bpcip":"2607:fea8:fe0:2c6b::","ak.cport":54428,"ak.gh":"104.123.196.108","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1593730026","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==I6SrDir+ahfZYUjwzjNiPXV/Vh1ypUY5SS1nTQe8Zt00VI5aNK6rBG7h3rU0meRUjKX5rSVsgzMGHskoZRBzVCndp9KMoyvS8OmVLFbZoxIcY0xYTLZ44KbnTsgtKCtYC+jfQfCJDIg0GJAXv45iOSsyDTrjyAHT2tNja8WSuQb9w3XWVlVLEH5bNO0MziA3VGlRMlCLUsFOERoqFu9cko1wN0BsFU+3Cu80XZmKUgbENMGBsBTLP8bp85d2suXrPSWX/EvDTCfHW8OnRqCJCS9GuRg67+thGMrTyFvdTjHWUWsX1UEEU0aHTaQkU058FC/PQ/YJOFRsEkydDglAjoibwuJvD2tqgnlI41eJeSfCr4F+5CxIvHoOfQAdedAv9j5Tv8NAGtV0xkDxnkL0MZmrSUkxg1D5PSNViWWwDM4=","ak.pv":"85"};if(""!==t)i["ak.ruds"]=t;var o={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))i["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:a,init:function(){if(!o.i){var e=BOOMR.subscribe;e("before_beacon",o.av,null,null),e("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);
-          </script>
-         </meta>
-        </meta>
-       </meta>
-      </meta>
-     </meta>
-    </meta>
-   </meta>
-  </meta>
- </head>
- <!-- end : ocom/common/global/components/framework/head -->
- <!-- start : ocom/common/global/components/framework/layoutAssetStartBodyInfo -->
- <body class="f11 f11v6">
-  <!-- Container/Display Start -->
-  <!-- BEGIN: oWidget_C/_Raw-Text/Display -->
-  <!-- www-us StartBodyAdminContainer -->
-  <!-- END: oWidget_C/_Raw-Text/Display -->
-  <!-- Container/Display end -->
-  <div class="f11w1">
-   <!-- Dispatcher:null -->
-   <!-- BEGIN: oWidget_C/_Raw-Text/Display -->
-   <!-- U28v0 -->
-   <section class="u28 u28v0" data-trackas="header" id="u28">
-    <div class="u28w1">
-     <div class="cwidth">
-      <div class="u28s1">
-       <a class="u28home rw-logo" data-lbl="logo" href="/ca-en/index.html" tabindex="1">
-        Home
-       </a>
-       <a class="u28ham" data-lbl="menu" data-trackas="menu" href="/ca-en/menu-content/navigation.html" tabindex="2">
-        Menu
-       </a>
-      </div>
-      <div class="u28s2">
-       <div class="u28w2">
-        <form action="/search/results" class="askoracle" data-contentpaths="/content/Web/Shared/Auto-Suggest Panel Event" id="askoracle" method="get" name="askoracle">
-         <input name="Nty" type="hidden" value="1"/>
-         <input name="Dy" type="hidden" value="1"/>
-         <input name="Ntk" type="hidden" value="SI-ALL5"/>
-         <input name="cty" type="hidden" value="ca"/>
-         <input name="lang" type="hidden" value="en"/>
-         <div class="u28w3">
-          <div class="u28logo rw-logo">
-           <span>
-            Oracle
-           </span>
-          </div>
-          <a class="u28-back rw-cv-left" href="#back">
-           <span>
-            Back
-           </span>
-          </a>
-          <a class="u28-searchicon" href="#search">
-           <span>
-            Search
-           </span>
-          </a>
-          <span class="u28input">
-           <input aria-label="Search Oracle.com" autocomplete="off" data-ctytxt="Country: Canada (English)" data-filtertxt="Filtered By:" data-prefix="Ask" id="askoracleinput" name="Ntt" placeholder="Ask" role="combobox" tabindex="3" value=""/>
-           <span class="u28-microphone rw-microphone">
-            <span>
-             Search by voice
-            </span>
-           </span>
-           <span class="u28submit icn-search">
-            <input class="u28searchbttn" tabindex="0" type="submit" value="Submit Search"/>
-           </span>
-          </span>
-         </div>
-        </form>
-       </div>
-       <div class="u28-profile">
-        <a class="u28prof" data-lbl="sign-in-account" href="#" tabindex="4">
-         <span>
-          Sign In
-         </span>
-        </a>
-        <div class="u28-profilew1">
-         <span class="u28actbck u28back">
-          Back
-         </span>
-         <span class="u28acttitle">
-          Oracle Account
-         </span>
-         <ul class="u28l-out">
-          <li>
-           <a class="u28btn1" data-lbl="profile:sign-in-account" href="https://www.oracle.com/webapps/redirect/signon?nexturl=">
-            Sign In
-           </a>
-          </li>
-          <li>
-           <a class="u28btn2" data-lbl="profile:create-account" href="https://profile.oracle.com/myprofile/account/create-account.jspx">
-            Create an Account
-           </a>
-          </li>
-         </ul>
-         <ul class="u28l-in">
-          <li>
-           <a data-lbl="help" href="/ca-en/corporate/contact/help.html">
-            Help
-           </a>
-          </li>
-          <li>
-           <a data-lbl="signout" href="javascript:sso_sign_out();" id="u28pfile-sout">
-            Sign Out
-           </a>
-          </li>
-         </ul>
-         <div class="u28-profilew2">
-          <span class="u28acttitle">
-           Cloud Account
-          </span>
-          <a class="u28cloudbg" data-lbl="sign-in-to-cloud" href="https://cloud.oracle.com/sign-in">
-           Sign in to Cloud
-          </a>
-         </div>
-        </div>
-       </div>
-      </div>
-      <div class="u28s3">
-       <a class="u28b1" data-lbl="free-cloud-trial" href="/ca-en/cloud/free/" tabindex="5">
-        Free Cloud Trial
-       </a>
-      </div>
-     </div>
-    </div>
-    <div class="u28w4" id="u28w4">
-     <div class="u28w1a u28w5 clstrgt">
-      <div class="u28w6">
-       <!-- Search Results -->
-       <div class="u28w8 u28trgt">
-       </div>
-       <div class="u28w9">
-        <div class="u28result u28noresults">
-         <div class="u28rw1">
-          <div class="u28rw2">
-           <h4>
-            No results found
-           </h4>
-           <p>
-            Your search did not match any results
-           </p>
-           <p>
-            We suggest you try the following to help find what you're looking for:
-           </p>
-           <ul class="u28w7a">
-            <li>
-             Check the spelling of your keyword search.
-            </li>
-            <li>
-             Use synonyms for the keyword you typed, for example, try “application” instead of “software.”
-            </li>
-            <li>
-             Try one of the popular searches shown below.
-            </li>
-            <li>
-             Start a new search.
-            </li>
-           </ul>
-           <p>
-           </p>
-           <p>
-            <strong>
-             Trending Questions
-            </strong>
-           </p>
-          </div>
-         </div>
-        </div>
-       </div>
-      </div>
-     </div>
-    </div>
-    <nav class="u28nav" data-trackas="menu" id="u28nav">
-     <span class="mnavback u28back">
-      Back
-     </span>
-    </nav>
-   </section>
-   <!-- /U28v0 -->
-   <!-- END: oWidget_C/_Raw-Text/Display -->
-   <!-- end : ocom/common/global/components/framework/layoutAssetStartBodyInfo -->
-   <!-- start : ocom/common/global/components/banner -->
-   <!-- Dispatcher:null -->
-   <!-- BEGIN: oWidget_C/_Raw-Text/Display -->
-   <!-- CH11v0 -->
-   <section class="ch11 ch11v0 pghero herotabs" data-ocomid="ch11" data-trackas="ch11">
-    <div class="ch11bg" style="background-image:url(/a/ocom/img/ch11-iot.jpg);">
-    </div>
-   </section>
-   <!-- /CH11v0 -->
-   <!-- END: oWidget_C/_Raw-Text/Display -->
-   <!-- end : ocom/common/global/components/banner -->
-   <!-- start : ocom/common/global/components/u03v5-breadcrumb -->
-   <!-- U03v5 -->
-   <nav class="u03 u03v5 u03bttns" data-ocomid="u03" data-trackas="breadcrumb">
-    <div class="cwidth">
-     <div class="u03w1">
-      <ul>
-       <li class="u03first">
-        <a href="/ca-en/index.html">
-         Oracle Canada - English
-        </a>
-       </li>
-       <li>
-        <a href="/ca-en/solutions/">
-         Solutions
-        </a>
-       </li>
-       <li>
-        <a href="/ca-en/internet-of-things/">
-         Internet of Things
-        </a>
-       </li>
-      </ul>
-      <h1>
-       What Is the Internet of Things (IoT)?
-      </h1>
-     </div>
-     <div class="u03w2">
-      <!-- Dispatcher:null -->
-      <!-- BEGIN: oWidget_C/_Raw-Text/Display -->
-      <div class="obttns">
-       <div class="obttn5">
-        <a data-adbtrack=":ow:o:p:nav:062520IotBC" data-cxdtrack=":ow:o:p:nav:062520IoTBC" data-lbl="bc-cta:try-oracle-cloud-free-tier" href="/ca-en/cloud/free/">
-         <span>
-          Try Oracle Cloud Free Tier
-         </span>
-        </a>
-       </div>
-      </div>
-      <!-- END: oWidget_C/_Raw-Text/Display -->
-     </div>
-    </div>
-    <script type="text/javascript">
-     var pageData = pageData || {};
-		//page info
-		pageData.pageInfo = pageData.pageInfo || {};
-		pageData.pageInfo.breadCrumbs = "Oracle Canada - English / Solutions / Internet of Things";
-    </script>
-    <script type="application/ld+json">
-     {
-	"@context": "https://schema.org",
-	"@type": "BreadcrumbList",
-	"itemListElement":
-	  [
-		{ "@type": "ListItem", "position": 1, "name": "Oracle Canada - English", "item": "https://www.oracle.com/ca-en/index.html" },
-		{ "@type": "ListItem", "position": 2, "name": "Solutions", "item": "https://www.oracle.com/ca-en/solutions/" },
-		{ "@type": "ListItem", "position": 3, "name": "Internet of Things", "item": "https://www.oracle.com/ca-en/internet-of-things/" }
-	  ]
-	}
-    </script>
-   </nav>
-   <!-- /U03v5 -->
-   <!-- end : ocom/common/global/components/u03v5-breadcrumb -->
-   <!--  Start : ocom/common/global/components/ct12-content-tabs -->
-   <!-- CT12v0 -->
-   <nav class="ct12 ct12v0" data-moretxt="More" data-ocomid="ct12">
-    <div class="ct12w1 cwidth">
-     <div class="ct12w2">
-      <ul>
-       <li>
-        <div>
-         <a href="/ca-en/internet-of-things/">
-          Overview
-         </a>
-        </div>
-       </li>
-       <li>
-        <div>
-         <a href="/ca-en/internet-of-things/saas-applications.html">
-          SaaS Applications
-         </a>
-        </div>
-       </li>
-       <li>
-        <div>
-         <a href="/ca-en/internet-of-things/solutions.html">
-          Solutions
-         </a>
-        </div>
-       </li>
-       <li class="ct12current">
-        <div>
-         <span>
-          Resources
-         </span>
-         <span class="ct12w6">
-          <ul>
-           <li>
-            <span>
-             <a href="/ca-en/internet-of-things/what-is-iot.html">
-              What Is IoT?
-             </a>
-            </span>
-           </li>
-           <li>
-            <span>
-             <a href="/ca-en/internet-of-things/tech-partners/">
-              IoT Technology Partners and Integrations
-             </a>
-            </span>
-           </li>
-          </ul>
-         </span>
-        </div>
-       </li>
-      </ul>
-     </div>
-     <div class="ct12w4">
-      <!-- Dispatcher:null -->
-      <!-- BEGIN: oWidget_C/_Raw-Text/Display -->
-      <div class="obttns">
-       <div class="obttn4">
-        <a class="atgchat-link" href="#chat">
-         <span>
-          Chat now
-         </span>
-        </a>
-       </div>
-      </div>
-      <!-- END: oWidget_C/_Raw-Text/Display -->
-     </div>
-    </div>
-   </nav>
-   <!-- /CT12v0 -->
-   <!--  end : ocom/common/global/components/ct12-content-tabs -->
-   <!-- start : ocom/common/global/components/compass/related-widgets -->
-   <!-- Dispatcher:null -->
-   <!-- BEGIN: oWidget_C/_Raw-Text/Display -->
-   <!-- CH12v0 -->
-   <section class="ch12 ch12v0 bgvdarkblue txtlight" data-ocomid="ch12" data-trackas="ch12" style="background-image:url(/a/ocom/img/ch12-what-is-iot.jpg);">
-    <div class="ch12w1 cwidth">
-     <div class="ch12w2">
-      <h2>
-       IoT
-      </h2>
-      <p>
-       The Internet of Things (IoT) describes the network of physical objects—“things”—that are embedded with sensors, software, and other technologies for the purpose of connecting and exchanging data with other devices and systems over the internet. These devices range from ordinary household objects to sophisticated industrial tools. With more than 7 billion connected IoT devices today, experts are expecting this number to grow to 10 billion by 2020 and 22 billion by 2025.
-      </p>
-      <div class="obttns">
-       <div class="obttn1">
-        <a data-adbtrack="NAMK200204P00035:ow:o:s:feb:Iot:WhatIsIoT" data-cxdtrack=":ow:o:s:feb:Iot:WhatIsIoT" href="https://go.oracle.com/LP=88830?elqCampaignId=238833" target="_blank">
-         Download the research
-        </a>
-       </div>
-      </div>
-     </div>
-    </div>
-   </section>
-   <!-- /CH12v0 -->
-   <!-- END: oWidget_C/_Raw-Text/Display -->
-   <!-- Dispatcher:null -->
-   <!-- BEGIN: oWidget_C/_Raw-Text/Display -->
-   <!-- F19v0 -->
-   <section class="f19 f19v0 cpad">
-    <div class="f19w1 cwidth">
-     <div class="f19w2 f19-2col">
-      <div class="f19col f19side">
-       <!-- CB143v0 -->
-       <section class="cb143 cb143v0 cpad" data-ocomid="cb143" data-trackas="cb143">
-        <div class="cb143w1 cwidth">
-         <h2>
-          Share this Page
-         </h2>
-         <ul class="icn-socialcolors">
-          <li class="icn-facebook">
-           <a class="sharelink" data-sharetype="facebook" href="#placeholder" title="Oracle on Facebook">
-            <span>
-             Facebook
-            </span>
-           </a>
-          </li>
-          <li class="icn-twitter">
-           <a class="sharelink" data-sharetype="twitter" href="#placeholder" title="Oracle on Twitter">
-            <span>
-             Twitter
-            </span>
-           </a>
-          </li>
-          <li class="icn-linkedin">
-           <a class="sharelink" data-sharetype="linkedin" href="#placeholder" title="Oracle on Linkedin">
-            <span>
-             LinkedIn
-            </span>
-           </a>
-          </li>
-          <li class="icn-email">
-           <a class="sharelink" data-sharetype="email" href="#placeholder" title="Oracle Email">
-            <span>
-             Email
-            </span>
-           </a>
-          </li>
-         </ul>
-        </div>
-       </section>
-       <!-- /CB143v0 -->
-       <!-- S20v0 -->
-       <section class="s20 s20v0 s20sticky cpad" data-ocomid="s20" data-trackas="s20">
-        <div class="s20w1 cwidth">
-         <div class="col-w1">
-          <h3>
-           In-Page Topics
-          </h3>
-          <div class="s20w2">
-           <ul>
-            <li>
-             <a href="#link1">
-              Why Is IoT so Important?
-             </a>
-            </li>
-            <li>
-             <a href="#link2">
-              What Technologies Have Made IoT Possible?
-             </a>
-            </li>
-            <li>
-             <a href="#link3">
-              What Is Industrial IoT?
-             </a>
-            </li>
-            <li>
-             <a href="#link4">
-              Unlock Business Value with IoT
-             </a>
-            </li>
-            <li>
-             <a href="#link5">
-              What Are IoT Applications?
-             </a>
-            </li>
-            <li>
-             <a href="#link6">
-              What Are the Top IoT Applications?
-             </a>
-            </li>
-            <li>
-             <a href="#link7">
-              What Industries Can Benefit from IoT?
-             </a>
-            </li>
-            <li>
-             <a href="#link8">
-              How Is IoT Changing the World? Take a Look at Connected Cars.
-             </a>
-            </li>
-            <li>
-             <a href="#link9">
-              Make the Best Business Decisions with Oracle IoT
-             </a>
-            </li>
-           </ul>
-          </div>
-         </div>
-        </div>
-       </section>
-       <!-- /S20v0 -->
-      </div>
-      <main class="f19col f19main">
-       <!-- CC01v5 -->
-       <section class="cc01 cc01v5 cpad crule" id="link1">
-        <div class="cc01w1 cwidth">
-         <h2>
-          Why Is IoT so Important?
-         </h2>
-         <p>
-          Over the past few years, IoT has become one of the most important technologies of the 21st century. Now that we can connect everyday objects—kitchen appliances, cars, thermostats, baby monitors—to the internet via embedded devices, seamless communication is possible between people, processes, and things.
-         </p>
-         <p>
-          By means of low-cost computing, the cloud, big data, analytics, and mobile technologies, physical things can share and collect data with minimal human intervention. In this hyperconnected world, digital systems can record, monitor, and adjust each interaction between connected things. The physical world meets the digital world—and they cooperate.
-         </p>
-        </div>
-       </section>
-       <!-- /CC01v5 -->
-       <!-- CC01v5 -->
-       <section class="cc01 cc01v5 cpad crule" id="link2">
-        <div class="cc01w1 cwidth">
-         <h2>
-          What Technologies Have Made IoT Possible?
-         </h2>
-         <p>
-          While the idea of IoT has been in existence for a long time, a collection of recent advances in a number of different technologies has made it practical.
-         </p>
-         <div class="cc01w2">
-          <ul class="obullets">
-           <li>
-            <strong>
-             Access to low-cost, low-power sensor technology.
-            </strong>
-            Affordable and reliable sensors are making IoT technology possible for more manufacturers.
-           </li>
-           <li>
-            <strong>
-             Connectivity.
-            </strong>
-            A host of network protocols for the internet has made it easy to connect sensors to the cloud and to other “things” for efficient data transfer.
-           </li>
-           <li>
-            <strong>
-             Cloud computing platforms.
-            </strong>
-            The increase in the availability of cloud platforms enables both businesses and consumers to access the infrastructure they need to scale up without actually having to manage it all.
-           </li>
-           <li>
-            <strong>
-             Machine learning and analytics.
-            </strong>
-            With advances in machine learning and analytics, along with access to varied and vast amounts of data stored in the cloud, businesses can gather insights faster and more easily. The emergence of these allied technologies continues to push the boundaries of IoT and the data produced by IoT also feeds these technologies.
-           </li>
-           <li>
-            <strong>
-             Conversational artificial intelligence (AI).
-            </strong>
-            Advances in neural networks have brought natural-language processing (NLP) to IoT devices (such as digital personal assistants Alexa, Cortana, and Siri) and made them appealing, affordable, and viable for home use.
-           </li>
-          </ul>
-         </div>
-        </div>
-       </section>
-       <!-- /CC01v5 -->
-       <!-- CC01v5 -->
-       <section class="cc01 cc01v5 cpad crule" id="link3">
-        <div class="cc01w1 cwidth">
-         <h2>
-          What Is Industrial IoT?
-         </h2>
-         <p>
-          Industrial IoT (IIoT) refers to the application of IoT technology in industrial settings, especially with respect to instrumentation and control of sensors and devices that engage cloud technologies. Recently, industries have used machine-to-machine communication (M2M)  to achieve wireless automation and control. But with the emergence of cloud and allied technologies (such as analytics and machine learning), industries can achieve a new automation layer and with it create new revenue and business models. IIoT is sometimes called the fourth wave of the industrial revolution, or Industry 4.0. The following are some common uses for IIoT:
-         </p>
-         <ul class="obullets">
-          <li>
-           Smart manufacturing
-          </li>
-          <li>
-           Preventive and predictive maintenance
-          </li>
-          <li>
-           Smart power grids
-          </li>
-          <li>
-           Smart cities
-          </li>
-          <li>
-           Connected and smart logistics
-          </li>
-          <li>
-           Smart digital supply chains
-          </li>
-         </ul>
-        </div>
-       </section>
-       <!-- /CC01v5 -->
-       <!-- CC01v5 -->
-       <section class="cc01 cc01v5 cpad crule" id="link4">
-        <div class="cc01w1 cwidth">
-         <h2>
-          Unlock Business Value with IoT
-         </h2>
-         <p>
-          As IoT becomes more widespread in the marketplace, companies are capitalizing on the tremendous business value it can offer. These benefits include:
-         </p>
-         <ul class="obullets">
-          <li>
-           Deriving data-driven insights from IoT data to help better manage the business
-          </li>
-          <li>
-           Increasing productivity and efficiency of business operations
-          </li>
-          <li>
-           Creating new business models and revenue streams
-          </li>
-          <li>
-           Easily and seamlessly connecting the physical business world to the digital world to drive quick time to value
-          </li>
-         </ul>
-        </div>
-       </section>
-       <!-- /CC01v5 -->
-       <!-- CC01v5 -->
-       <section class="cc01 cc01v5 cpad crule" id="link5">
-        <div class="cc01w1 cwidth">
-         <h2>
-          What Are IoT Applications?
-         </h2>
-         <h4>
-          Business-Ready, SaaS IoT Applications
-         </h4>
-         <p>
-          IoT applications are prebuilt software-as-a-service (SaaS) applications that can analyze and present captured IoT sensor data to business users via dashboards.
-         </p>
-         <p>
-          IoT applications use machine learning algorithms to analyze massive amounts of connected sensor data in the cloud. Using real-time IoT dashboards and alerts, you gain visibility into key performance indicators, statistics for mean time between failures, and other information. Machine learning–based algorithms can identify equipment anomalies and send alerts to users and even trigger automated fixes or proactive counter measures.
-         </p>
-         <p>
-          With cloud-based IoT applications, business users can quickly enhance existing processes for supply chains, customer service, human resources, and financial services. There’s no need to recreate entire business processes.
-         </p>
-        </div>
-       </section>
-       <!-- /CC01v5 -->
-       <!-- CC01v5 -->
-       <section class="cc01 cc01v5 cpad crule" id="link6">
-        <div class="cc01w1 cwidth">
-         <h2>
-          What Are the Top IoT Applications?
-         </h2>
-         <p>
-          The ability of IoT to provide sensor information as well as enable device-to-device communication is driving a broad set of applications. The following are some of the most popular applications and what they do.
-         </p>
-         <ul class="obullets">
-          <li>
-           <strong>
-            Create new efficiencies in manufacturing through machine monitoring and product-quality monitoring.
-           </strong>
-           Machines can be continuously monitored and analyzed to make sure they are performing within required tolerances. Products can also be monitored in real time to identify and address quality defects.
-          </li>
-          <li>
-           <strong>
-            Improve the tracking and “ring-fencing”  of physical assets.
-           </strong>
-           Tracking enables businesses to quickly determine asset location. Ring-fencing allows them to make sure that high-value assets are protected from theft and removal.
-          </li>
-          <li>
-           <strong>
-            Use wearables to monitor human health analytics and environmental conditions.
-           </strong>
-           IoT wearables enable people to better understand their own health and allow physicians to remotely monitor patients. This technology also enables companies to track the health and safety of their employees, which is especially useful for workers employed in hazardous conditions.
-          </li>
-          <li>
-           <strong>
-            Drive efficiencies and new possibilities in existing processes.
-           </strong>
-           One example of this is the use of IoT to increase efficiency and safety in fleet management. Companies can use IoT fleet monitoring to direct trucks, in real time, to improve efficiency.
-          </li>
-          <li>
-           <strong>
-            Enable business process changes.
-           </strong>
-           An example of this is the use of IoT devices to monitor the health of remote machines and trigger service calls for preventive maintenance. The ability to remotely monitor machines is also enabling new product-as-a-service business models, where customers no longer need to buy a product but instead pay for its usage.
-          </li>
-         </ul>
-        </div>
-       </section>
-       <!-- /CC01v5 -->
-       <!-- CC01v5 -->
-       <section class="cc01 cc01v5 cpad crule" id="link7">
-        <div class="cc01w1 cwidth">
-         <h2>
-          What Industries Can Benefit from IoT?
-         </h2>
-         <p>
-          Organizations best suited for IoT are those that would benefit from using sensor devices in their business processes.
-         </p>
-         <h4>
-          Manufacturing
-         </h4>
-         <p>
-          Manufacturers can gain a competitive advantage by using production-line monitoring to enable proactive maintenance on equipment when sensors detect an impending failure. Sensors can actually measure when production output is compromised. With the help of sensor alerts, manufacturers can quickly check equipment for accuracy or remove it from production until it is repaired. This allows companies to reduce operating costs, get better uptime, and improve asset performance management.
-         </p>
-         <h4>
-          Automotive
-         </h4>
-         <p>
-          The automotive industry stands to realize significant advantages from the use of IoT applications. In addition to the benefits of applying IoT to production lines, sensors can detect impending equipment failure in vehicles already on the road and can alert the driver with details and recommendations. Thanks to aggregated information gathered by IoT-based applications, automotive manufacturers and suppliers can learn more about how to keep cars running and car owners informed.
-         </p>
-         <h4>
-          Transportation and Logistics
-         </h4>
-         <p>
-          Transportation and logistical systems benefit from a variety of IoT applications. Fleets of cars, trucks, ships, and trains that carry inventory can be rerouted based on weather conditions, vehicle availability, or driver availability, thanks to IoT sensor data. The inventory itself could also be equipped with sensors for track-and-trace and temperature-control monitoring. The food and beverage, flower, and pharmaceutical industries often carry temperature-sensitive inventory that would benefit greatly from IoT monitoring applications that send alerts when temperatures rise or fall to a level that threatens the product.
-         </p>
-         <h4>
-          Retail
-         </h4>
-         <p>
-          IoT applications allow retail companies to manage inventory, improve customer experience, optimize supply chain, and reduce operational costs. For example, smart shelves fitted with weight sensors can collect RFID-based information and send the data to the IoT platform to automatically monitor inventory and trigger alerts if items are running low. Beacons can push targeted offers and promotions to customers to provide an engaging experience.
-         </p>
-         <h4>
-          Public Sector
-         </h4>
-         <p>
-          The benefits of IoT in the public sector and other service-related environments are similarly wide-ranging. For example, government-owned utilities can use IoT-based applications to notify their users of mass outages and even of smaller interruptions of water, power, or sewer services. IoT applications can collect data concerning the scope of an outage and deploy resources to help utilities recover from outages with greater speed.
-         </p>
-         <h4>
-          Healthcare
-         </h4>
-         <p>
-          IoT asset monitoring provides multiple benefits to the healthcare industry. Doctors, nurses, and orderlies often need to know the exact location of patient-assistance assets such as wheelchairs. When a hospital’s wheelchairs are equipped with IoT sensors, they can be tracked from the IoT asset-monitoring application so that anyone looking for one can quickly find the nearest available wheelchair. Many hospital assets can be tracked this way to ensure proper usage as well as financial accounting for the physical assets in each department.
-         </p>
-         <h4>
-          General Safety Across All Industries
-         </h4>
-         <p>
-          In addition to tracking physical assets, IoT can be used to improve worker safety. Employees in hazardous environments such as mines, oil and gas fields, and chemical and power plants, for example, need to know about the occurrence of a hazardous event that might affect them. When they are connected to IoT sensor–based applications, they can be notified of accidents or rescued from them as swiftly as possible. IoT applications are also used for wearables that can monitor human health and environmental conditions. Not only do these types of applications help people better understand their own health, they also permit physicians to monitor patients remotely.
-         </p>
-        </div>
-       </section>
-       <!-- /CC01v5 -->
-       <!-- CC01v5 -->
-       <section class="cc01 cc01v5 cpad crule" id="link8">
-        <div class="cc01w1 cwidth">
-         <h2>
-          How Is IoT Changing the World? Take a Look at Connected Cars.
-         </h2>
-         <p>
-          IoT is reinventing the automobile by enabling connected cars. With IoT, car owners can operate their cars remotely—by, for example, preheating the car before the driver gets in it or by remotely summoning a car by phone. Given IoT’s ability to enable device-to-device communication, cars will even be able to book their own service appointments when warranted.
-         </p>
-         <p>
-          The connected car allows car manufacturers or dealers to turn the car ownership model on its head. Previously, manufacturers have had an arms-length relationship with individual buyers (or none at all). Essentially, the manufacturer’s relationship with the car ended once it was sent to the dealer. With connected cars, automobile makers or dealers can have a continuous relationship with their customers. Instead of selling cars, they can charge drivers usage fees, offering a “transportation-as-a-service” using autonomous cars. IoT allows manufacturers to upgrade their cars continuously with new software, a sea-change difference from the traditional model of car ownership in which vehicles immediately depreciate in performance and value.
-         </p>
-        </div>
-       </section>
-       <!-- /CC01v5 -->
-       <!-- CC01v5 -->
-       <section class="cc01 cc01v5 cpad crule" id="link9">
-        <div class="cc01w1 cwidth">
-         <h2>
-          Make the Best Business Decisions with Oracle IoT
-         </h2>
-         <p>
-          With
-          <a href="/ca-en/internet-of-things/">
-           Oracle IoT applications and Oracle’s IoT platform
-          </a>
-          , you can extend your supply chain, ERP, HR, and customer experience (CX) applications to the digital world. Leverage intelligent, predictive algorithms and digital twins to improve operational efficiency, boost worker productivity, enhance CX, and create new business models and opportunities.
-         </p>
-        </div>
-       </section>
-       <!-- /CC01v5 -->
-      </main>
-     </div>
-    </div>
-   </section>
-   <!-- /F19v0 -->
-   <!-- END: oWidget_C/_Raw-Text/Display -->
-   <!-- Dispatcher:null -->
-   <!-- BEGIN: oWidget_C/_Raw-Text/Display -->
-   <!-- U10v3 -->
-   <section class="u10 u10v3 u10fl" data-lbl="get-started:" data-trackas="ffooter-spot">
-    <div class="u10w8 cwidth">
-     <div class="u10w9">
-      <h2>
-       Get Started
-      </h2>
-     </div>
-     <div class="u10w1 u104up">
-      <div class="u10w2">
-       <a data-lbl="find-an-event" href="https://www.oracle.com/search/events?Ntt=IoT&amp;Dy=1&amp;Nty=1&amp;Ntk=S4" target="_top">
-        <div class="u10w6 icn-img icn-event">
-        </div>
-        <span>
-         Find an event
-        </span>
-       </a>
-      </div>
-      <div class="u10w2">
-       <a data-lbl="follow-us" href="https://twitter.com/OracleIoT" target="_blank">
-        <div class="u10w6 icn-img icn-twitter">
-        </div>
-        <span>
-         Follow us
-        </span>
-       </a>
-      </div>
-      <div class="u10w2">
-       <a data-lbl="try-oracle-cloud-free-tier" href="/ca-en/cloud/free/?source=:ow:o:s:gts:0917IoTGS&amp;intcmp=:ow:o:s:gts:0917IoTGS" target="_top">
-        <div class="u10w6 icn-img icn-software">
-        </div>
-        <span>
-         Try Oracle Cloud Free Tier
-        </span>
-       </a>
-      </div>
-      <div class="u10w2">
-       <a data-lbl="contact-us" href="/ca-en/corporate/contact/global.html" target="_top">
-        <div class="u10w6 icn-img icn-telephone">
-        </div>
-        <span>
-         Contact us
-        </span>
-       </a>
-      </div>
-     </div>
-    </div>
-   </section>
-   <!-- /U10v3 -->
-   <!-- END: oWidget_C/_Raw-Text/Display -->
-   <!-- end : ocom/common/global/components/compass/related-widgets -->
-   <!-- start : ocom/common/global/components/framework/layoutAssetEndBodyInfo -->
-   <!-- Dispatcher:null -->
-   <!-- BEGIN: oWidget_C/_Raw-Text/Display -->
-   <!-- U10v6 -->
-   <div class="u10 u10v6" data-ocomid="redwood" data-trackas="ffooter" id="u10">
-    <div class="u10w1">
-     <div class="u10w2">
-      <div class="u10w3">
-       <h5>
-        Resources for
-       </h5>
-       <ul>
-        <li>
-         <a data-lbl="resources-for:developer" href="https://developer.oracle.com/ca-en/">
-          Developers
-         </a>
-        </li>
-        <li>
-         <a data-lbl="resources-for:startup" href="/ca-en/startup/">
-          Startups
-         </a>
-        </li>
-        <li>
-         <a data-lbl="resources-for:student-and-educator" href="https://academy.oracle.com/en/oa-web-overview.html">
-          Students and Educators
-         </a>
-        </li>
-       </ul>
-      </div>
-     </div>
-     <div class="u10w2">
-      <div class="u10w3">
-       <h5>
-        Partners
-       </h5>
-       <ul>
-        <li>
-         <a data-lbl="partners:oracle-partnernetwork-ocom" href="/ca-en/partnernetwork/">
-          Oracle PartnerNetwork
-         </a>
-        </li>
-        <li>
-         <a data-lbl="partners:find-partner" href="https://partner-finder.oracle.com">
-          Find a Partner
-         </a>
-        </li>
-        <li>
-         <a data-lbl="partners:login-to-opn" href="https://www.oracle.com/opn/index.html">
-          Log in to OPN
-         </a>
-        </li>
-       </ul>
-      </div>
-     </div>
-     <div class="u10w2">
-      <div class="u10w3">
-       <h5>
-        Solutions
-       </h5>
-       <ul>
-        <li>
-         <a data-lbl="emerging-tech:ai" href="/ca-en/artificial-intelligence/">
-          Artificial Intelligence
-         </a>
-        </li>
-        <li>
-         <a data-lbl="emerging-tech:internet-of-things" href="/ca-en/internet-of-things/">
-          Internet of Things
-         </a>
-        </li>
-        <li>
-         <a data-lbl="emerging-technlogy:blockchain" href="/ca-en/blockchain/">
-          Blockchain
-         </a>
-        </li>
-       </ul>
-      </div>
-     </div>
-     <div class="u10w2">
-      <div class="u10w3">
-       <h5>
-        What’s New
-       </h5>
-       <ul>
-        <li>
-         <a data-lbl="whatsnew:free-training-rsc" href="/ca-en/education/">
-          Online Training Resources
-         </a>
-        </li>
-        <li>
-         <a data-lbl="whatsnew:java-14-downloads" href="/ca-en/java/technologies/javase-downloads.html">
-          Java SE14 download
-         </a>
-        </li>
-        <li>
-         <a data-lbl="whatsnew:cloud-trial" href="/ca-en/cloud/free/">
-          Try Oracle Cloud Free Tier
-         </a>
-        </li>
-       </ul>
-      </div>
-     </div>
-     <div class="u10w2">
-      <div class="u10w3">
-       <h5>
-        Contact Us
-       </h5>
-       <ul>
-        <li>
-         <a href="tel:18003633059">
-          Phone: 1-800-363-3059
-         </a>
-        </li>
-        <li>
-         <a data-lbl="contact-us:how-can-we-help" href="/ca-en/corporate/contact/">
-          How can we help?
-         </a>
-        </li>
-        <li>
-         <a data-lbl="contact-us:subscribe-to-emails" href="https://go.oracle.com/subscribe/?l_code=en-us&amp;src1=OW:O:FO">
-          Subscribe to emails
-         </a>
-        </li>
-       </ul>
-      </div>
-     </div>
-     <div class="u10w4">
-      <hr/>
-     </div>
-     <div class="u10w5">
-      <ul class="scl-icons">
-       <li class="scl-facebook">
-        <a data-lbl="scl-icon:facebook" href="https://www.facebook.com/Oracle/" title="Oracle on Facebook">
-        </a>
-       </li>
-       <li class="scl-twitter">
-        <a data-lbl="scl-icon:twitter" href="https://twitter.com/oracle" title="Follow Oracle on Twitter">
-        </a>
-       </li>
-       <li class="scl-linkedin">
-        <a data-lbl="scl-icon:linkedin" href="https://www.linkedin.com/company/oracle/" title="Oracle on LinkedIn">
-        </a>
-       </li>
-       <li class="scl-youtube">
-        <a data-lbl="scl-icon:you-tube" href="http://www.youtube.com/oracle/" title="Watch Oracle on YouTube">
-        </a>
-       </li>
-      </ul>
-      <div class="u10-ologo">
-       <a href="/ca-en/index.html">
-        Oracle
-       </a>
-      </div>
-      <h3>
-       Integrated Cloud Applications &amp; Platform Services
-      </h3>
-      <ul class="u10-links">
-       <li>
-        <a data-lbl="copyright" href="/ca-en/index.html">
-         © 2020 Oracle
-        </a>
-       </li>
-       <li>
-        <a data-lbl="site-map" href="/ca-en/sitemap.html">
-         Sitemap
-        </a>
-       </li>
-       <li>
-        <a data-lbl="terms-of-use-and-privacy" href="/ca-en/legal/privacy/">
-         Terms of Use and Privacy
-        </a>
-       </li>
-       <li class="u10mtool" id="u10cmenu">
-        <a class="u10ticon u10regn" data-lbl="country-region" href="/ca-en/menu-content/navigation.html">
-         Country/Region
-        </a>
-       </li>
-       <li>
-        <div id="teconsent">
-        </div>
-       </li>
-       <li>
-        <a data-lbl="ad-choices" href="/ca-en/legal/privacy/marketing-cloud-data-cloud-privacy-policy.html#13">
-         Ad Choices
-        </a>
-       </li>
-       <li>
-        <a data-lbl="ad-choices" href="/ca-en/corporate/careers/">
-         Careers
-        </a>
-       </li>
-      </ul>
-     </div>
-    </div>
-   </div>
-   <!-- /U10v6 -->
-   <!-- END: oWidget_C/_Raw-Text/Display -->
-  </div>
-  <!-- Container/Display Start -->
-  <!-- BEGIN: oWidget_C/_Raw-Text/Display -->
-  <!-- Start - End Body Admin Container -->
-  <!-- Start SiteCatalyst code -->
-  <script language="JavaScript" src="https://www.oracleimg.com/us/assets/metrics/ora_ocom.js">
-  </script>
-  <!-- End SiteCatalyst code -->
-  <!--DTM embed code - Footer -->
-  <script type="text/javascript">
-   _satellite.pageBottom();
-  </script>
-  <!--End-->
-  <!-- End - End Body Admin Container -->
-  <!-- END: oWidget_C/_Raw-Text/Display -->
-  <!-- Container/Display end -->
-  <!-- end : ocom/common/global/components/framework/layoutAssetEndBodyInfo -->
- </body>
- <!-- end : Framework/Generic -->
-</html>
+
+
+
+
+
+
+What Is the Internet of Things (IoT)? | Oracle Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+nav
+
+
+
+
+
+
+
+
+
+
+
+Oracle
+
+
+Close
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+Products
+Resources
+Support
+
+
+
+View AccountsSign In
+
+Back
+Oracle Account
+
+Sign-In
+Create an Account
+
+
+Help
+Sign Out
+
+
+Cloud Account
+Sign in to Cloud
+Sign Up for Free Cloud Tier
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No results found
+Your search did not match any results.
+We suggest you try the following to help find what you're looking for:
+
+Check the spelling of your keyword search.
+Use synonyms for the keyword you typed, for example, try “application” instead of “software.”
+Try one of the popular searches shown below.
+Start a new search.
+
+Trending Questions
+
+
+
+
+
+
+
+
+Close
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oracle Canada - English
+Solutions
+Internet of Things
+
+What Is the Internet of Things (IoT)?
+
+
+
+
+
+Try Oracle Cloud Free Tier
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Overview
+SaaS Applications
+Solutions
+
+
+Resources
+
+
+What Is IoT?
+IoT Technology Partners and Integrations
+
+
+
+
+
+
+
+
+
+
+
+Chat now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IoT
+The Internet of Things (IoT) describes the network of physical objects—“things”—that are embedded with sensors, software, and other technologies for the purpose of connecting and exchanging data with other devices and systems over the internet. These devices range from ordinary household objects to sophisticated industrial tools. With more than 7 billion connected IoT devices today, experts are expecting this number to grow to 10 billion by 2020 and 22 billion by 2025.
+
+Download the research
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Share this Page
+
+Facebook
+Twitter
+LinkedIn
+Email
+
+
+
+
+
+
+
+
+In-Page Topics
+
+
+Why Is IoT so Important?
+What Technologies Have Made IoT Possible?
+What Is Industrial IoT?
+Unlock Business Value with IoT
+What Are IoT Applications?
+What Are the Top IoT Applications?
+What Industries Can Benefit from IoT?
+How Is IoT Changing the World? Take a Look at Connected Cars.
+Make the Best Business Decisions with Oracle IoT
+
+
+
+
+
+
+
+
+
+
+
+Why Is IoT so Important?
+Over the past few years, IoT has become one of the most important technologies of the 21st century. Now that we can connect everyday objects—kitchen appliances, cars, thermostats, baby monitors—to the internet via embedded devices, seamless communication is possible between people, processes, and things.
+By means of low-cost computing, the cloud, big data, analytics, and mobile technologies, physical things can share and collect data with minimal human intervention. In this hyperconnected world, digital systems can record, monitor, and adjust each interaction between connected things. The physical world meets the digital world—and they cooperate.
+
+
+
+
+
+
+What Technologies Have Made IoT Possible?
+While the idea of IoT has been in existence for a long time, a collection of recent advances in a number of different technologies has made it practical.
+
+
+Access to low-cost, low-power sensor technology. Affordable and reliable sensors are making IoT technology possible for more manufacturers.
+Connectivity. A host of network protocols for the internet has made it easy to connect sensors to the cloud and to other “things” for efficient data transfer.
+Cloud computing platforms. The increase in the availability of cloud platforms enables both businesses and consumers to access the infrastructure they need to scale up without actually having to manage it all.
+Machine learning and analytics. With advances in machine learning and analytics, along with access to varied and vast amounts of data stored in the cloud, businesses can gather insights faster and more easily. The emergence of these allied technologies continues to push the boundaries of IoT and the data produced by IoT also feeds these technologies.
+Conversational artificial intelligence (AI). Advances in neural networks have brought natural-language processing (NLP) to IoT devices (such as digital personal assistants Alexa, Cortana, and Siri) and made them appealing, affordable, and viable for home use.
+
+
+
+
+
+
+
+
+What Is Industrial IoT?
+Industrial IoT (IIoT) refers to the application of IoT technology in industrial settings, especially with respect to instrumentation and control of sensors and devices that engage cloud technologies. Recently, industries have used machine-to-machine communication (M2M)  to achieve wireless automation and control. But with the emergence of cloud and allied technologies (such as analytics and machine learning), industries can achieve a new automation layer and with it create new revenue and business models. IIoT is sometimes called the fourth wave of the industrial revolution, or Industry 4.0. The following are some common uses for IIoT:
+
+Smart manufacturing
+Preventive and predictive maintenance
+Smart power grids
+Smart cities
+Connected and smart logistics
+Smart digital supply chains
+
+
+
+
+
+
+
+Unlock Business Value with IoT
+As IoT becomes more widespread in the marketplace, companies are capitalizing on the tremendous business value it can offer. These benefits include:
+
+Deriving data-driven insights from IoT data to help better manage the business
+Increasing productivity and efficiency of business operations
+Creating new business models and revenue streams
+Easily and seamlessly connecting the physical business world to the digital world to drive quick time to value
+
+
+
+
+
+
+
+What Are IoT Applications?
+Business-Ready, SaaS IoT Applications
+IoT applications are prebuilt software-as-a-service (SaaS) applications that can analyze and present captured IoT sensor data to business users via dashboards.
+IoT applications use machine learning algorithms to analyze massive amounts of connected sensor data in the cloud. Using real-time IoT dashboards and alerts, you gain visibility into key performance indicators, statistics for mean time between failures, and other information. Machine learning–based algorithms can identify equipment anomalies and send alerts to users and even trigger automated fixes or proactive counter measures.
+With cloud-based IoT applications, business users can quickly enhance existing processes for supply chains, customer service, human resources, and financial services. There’s no need to recreate entire business processes.
+
+
+
+
+
+
+What Are the Top IoT Applications?
+The ability of IoT to provide sensor information as well as enable device-to-device communication is driving a broad set of applications. The following are some of the most popular applications and what they do.
+
+Create new efficiencies in manufacturing through machine monitoring and product-quality monitoring. Machines can be continuously monitored and analyzed to make sure they are performing within required tolerances. Products can also be monitored in real time to identify and address quality defects.
+Improve the tracking and “ring-fencing”  of physical assets. Tracking enables businesses to quickly determine asset location. Ring-fencing allows them to make sure that high-value assets are protected from theft and removal.
+Use wearables to monitor human health analytics and environmental conditions. IoT wearables enable people to better understand their own health and allow physicians to remotely monitor patients. This technology also enables companies to track the health and safety of their employees, which is especially useful for workers employed in hazardous conditions.
+Drive efficiencies and new possibilities in existing processes. One example of this is the use of IoT to increase efficiency and safety in fleet management. Companies can use IoT fleet monitoring to direct trucks, in real time, to improve efficiency.
+Enable business process changes. An example of this is the use of IoT devices to monitor the health of remote machines and trigger service calls for preventive maintenance. The ability to remotely monitor machines is also enabling new product-as-a-service business models, where customers no longer need to buy a product but instead pay for its usage.
+
+
+
+
+
+
+
+What Industries Can Benefit from IoT?
+Organizations best suited for IoT are those that would benefit from using sensor devices in their business processes.
+Manufacturing
+Manufacturers can gain a competitive advantage by using production-line monitoring to enable proactive maintenance on equipment when sensors detect an impending failure. Sensors can actually measure when production output is compromised. With the help of sensor alerts, manufacturers can quickly check equipment for accuracy or remove it from production until it is repaired. This allows companies to reduce operating costs, get better uptime, and improve asset performance management.
+Automotive
+The automotive industry stands to realize significant advantages from the use of IoT applications. In addition to the benefits of applying IoT to production lines, sensors can detect impending equipment failure in vehicles already on the road and can alert the driver with details and recommendations. Thanks to aggregated information gathered by IoT-based applications, automotive manufacturers and suppliers can learn more about how to keep cars running and car owners informed.
+Transportation and Logistics
+Transportation and logistical systems benefit from a variety of IoT applications. Fleets of cars, trucks, ships, and trains that carry inventory can be rerouted based on weather conditions, vehicle availability, or driver availability, thanks to IoT sensor data. The inventory itself could also be equipped with sensors for track-and-trace and temperature-control monitoring. The food and beverage, flower, and pharmaceutical industries often carry temperature-sensitive inventory that would benefit greatly from IoT monitoring applications that send alerts when temperatures rise or fall to a level that threatens the product.
+Retail
+IoT applications allow retail companies to manage inventory, improve customer experience, optimize supply chain, and reduce operational costs. For example, smart shelves fitted with weight sensors can collect RFID-based information and send the data to the IoT platform to automatically monitor inventory and trigger alerts if items are running low. Beacons can push targeted offers and promotions to customers to provide an engaging experience.
+Public Sector
+The benefits of IoT in the public sector and other service-related environments are similarly wide-ranging. For example, government-owned utilities can use IoT-based applications to notify their users of mass outages and even of smaller interruptions of water, power, or sewer services. IoT applications can collect data concerning the scope of an outage and deploy resources to help utilities recover from outages with greater speed.
+Healthcare
+IoT asset monitoring provides multiple benefits to the healthcare industry. Doctors, nurses, and orderlies often need to know the exact location of patient-assistance assets such as wheelchairs. When a hospital’s wheelchairs are equipped with IoT sensors, they can be tracked from the IoT asset-monitoring application so that anyone looking for one can quickly find the nearest available wheelchair. Many hospital assets can be tracked this way to ensure proper usage as well as financial accounting for the physical assets in each department.
+General Safety Across All Industries
+In addition to tracking physical assets, IoT can be used to improve worker safety. Employees in hazardous environments such as mines, oil and gas fields, and chemical and power plants, for example, need to know about the occurrence of a hazardous event that might affect them. When they are connected to IoT sensor–based applications, they can be notified of accidents or rescued from them as swiftly as possible. IoT applications are also used for wearables that can monitor human health and environmental conditions. Not only do these types of applications help people better understand their own health, they also permit physicians to monitor patients remotely.
+
+
+
+
+
+
+How Is IoT Changing the World? Take a Look at Connected Cars.
+IoT is reinventing the automobile by enabling connected cars. With IoT, car owners can operate their cars remotely—by, for example, preheating the car before the driver gets in it or by remotely summoning a car by phone. Given IoT’s ability to enable device-to-device communication, cars will even be able to book their own service appointments when warranted.
+The connected car allows car manufacturers or dealers to turn the car ownership model on its head. Previously, manufacturers have had an arms-length relationship with individual buyers (or none at all). Essentially, the manufacturer’s relationship with the car ended once it was sent to the dealer. With connected cars, automobile makers or dealers can have a continuous relationship with their customers. Instead of selling cars, they can charge drivers usage fees, offering a “transportation-as-a-service” using autonomous cars. IoT allows manufacturers to upgrade their cars continuously with new software, a sea-change difference from the traditional model of car ownership in which vehicles immediately depreciate in performance and value.
+
+
+
+
+
+
+Make the Best Business Decisions with Oracle IoT
+With Oracle IoT applications and Oracle’s IoT platform, you can extend your supply chain, ERP, HR, and customer experience (CX) applications to the digital world. Leverage intelligent, predictive algorithms and digital twins to improve operational efficiency, boost worker productivity, enhance CX, and create new business models and opportunities.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Get Started
+
+
+
+
+ 
+Find an event
+
+
+
+
+ 
+Follow us
+
+
+
+
+ 
+Try Oracle Cloud Free Tier
+
+
+
+
+ 
+Contact us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Resources for
+
+Developers
+Startups
+Students and Educators
+
+
+
+
+
+Partners
+
+Oracle PartnerNetwork
+Find a Partner
+Log in to OPN
+
+
+
+
+
+Solutions
+
+Artificial Intelligence
+Internet of Things
+Blockchain
+
+
+
+
+
+What’s New
+
+Oracle's response to COVID-19
+Java SE14 download
+Try Oracle Cloud Free Tier
+
+
+
+
+
+Contact Us
+
+Phone: 1-800-363-3059
+How can we help?
+Subscribe to emails
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oracle
+Integrated Cloud Applications & Platform Services
+
+© 2020 Oracle
+Sitemap
+Terms of Use and Privacy
+Country/Region
+
+Ad Choices
+Careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

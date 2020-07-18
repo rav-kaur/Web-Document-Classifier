@@ -1,832 +1,363 @@
-<!DOCTYPE html>
-<!--[if gt IE 8]><!-->
-<html class="no-js gt-ie8" dir="ltr" lang="en">
- <!--<![endif]-->
- <head>
-  <meta charset="utf-8"/>
-  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
-  <title>
-   404: Page not found
-  </title>
-  <meta content="width=device-width,initial-scale=1" name="viewport"/>
-  <meta content="This site provides enterprise businesses with the latest Internet of Things (IoT) news and blogs, covering technologies, platforms, deployment strategies, security, and IoT industry and vertical markets." name="description"/>
-  <meta content="noodp,NOINDEX,FOLLOW" name="robots"/>
-  <meta content="rZaq1jkHspRZlqJRwuEdqAuVm5wiEXePze_foZRIYqc" name="google-site-verification"/>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js">
-  </script>
-  <link href="https://cdn.ttgtmedia.com/rms/ux/responsive/css/main.css?v=7.76" rel="stylesheet"/>
-  <script src="https://cdn.ttgtmedia.com/rms/ux/responsive/js/responsive.min.js?v=7.76">
-  </script>
-  <script async="" src="https://optimizely.techtarget.com/optimizely-edge/17796810052">
-  </script>
-  <link href="https://cdn.ttgtmedia.com/rms/ux/responsive/css/iotagenda.css" rel="stylesheet"/>
-  <script>
-   TT("page", {"isChannel":true,"siteName":"IoTAgenda","appCode":"0","uaid":"UA-19046353-38","uid":"4500257821","adAbbr":"IoTAgenda","zone":"HOME","ga":true,"id":"543e1f2050121510VgnVCM100000ef01c80aRCRD","lang":"en","inlineLinkCount":0,"contentType":"HOME","timestamp":"2020-07-02 18:46:59","siteType":"editorial","gaPageTrackUrl":"/ERROR 404/${uri}","homeAdId":"4500257821","wordCount":0,"uidType":"channel","adScheme":"4","ttgtRegHost":"https://users.techtarget.com","atHost":"https://go.techtarget.com","regHost":"https://users.techtarget.com","is404":true,"adId":"4500257821","pageIndex":0,"siteId":3040,"gaSiteAcct":"UA-19046353-38"});
-  </script>
-  <!-- Begin Chartbeat -->
-  <script>
-   var _sf_startpt=(new Date()).getTime();
-  </script>
-  <!-- End Chartbeat -->
-  <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
-  <link href="/apple-touch-icon-144x144.png" rel="apple-touch-icon" sizes="144×144"/>
-  <link href="/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114×114"/>
-  <link href="/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72×72"/>
-  <link href="/apple-touch-icon-precomposed.png" rel="apple-touch-icon"/>
-  <link href="/apple-touch-icon-144x144-precomposed.png" rel="apple-touch-icon-precomposed" sizes="144×144"/>
-  <link href="/apple-touch-icon-114x114-precomposed.png" rel="apple-touch-icon-precomposed" sizes="114×114"/>
-  <link href="/apple-touch-icon-72x72-precomposed.png" rel="apple-touch-icon-precomposed" sizes="72×72"/>
-  <link href="/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed"/>
- </head>
- <body id="pageNotFound">
-  <!-- Begin Google Tag Manager -->
-  <noscript>
-   <iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-PWWZSH" style="display:none;visibility:hidden" width="0">
-   </iframe>
-  </noscript>
-  <script>
-   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-PWWZSH');
-  </script>
-  <!-- End Google Tag Manager -->
-  <div class="site-container" id="site-container">
-   <!-- PinnedNavBarController, generated at 18:46:59 Thu Jul 2, 2020, by cds4 -->
-   <!-- AdsController, generated at 18:46:59 Thu Jul 2, 2020, by cds4 -->
-   <div class="ad ad-ist" id="interstitial">
-    <script>
-     GPT.display('interstitial')
-    </script>
-   </div>
-   <div class="ad-wrapper header-leaderboard ad-mobile">
-    <!-- AdsController, generated at 18:46:59 Thu Jul 2, 2020, by cds4 -->
-    <div class="ad ad-mb" id="mobile-lb">
-     <script>
-      GPT.display('mobile-lb')
-     </script>
-    </div>
-   </div>
-   <header class="header header_v2" id="page-header">
-    <button class="nav-toggle">
-     <i class="icon" data-icon="9">
-     </i>
-    </button>
-    <a class="header-logo mobile-link" href="https://internetofthingsagenda.techtarget.com">
-     <span class="header-logo-mobile">
-      <img src="https://cdn.ttgtmedia.com/rms/ux/responsive/img/iot_logo_mobile.png"/>
-     </span>
-    </a>
-    <a class="header-logo desktop-link" href="https://internetofthingsagenda.techtarget.com">
-     <img alt="TechTarget" class="header-logo-desktop replace_2x" src="https://cdn.ttgtmedia.com/rms/ux/responsive/img/TT20_iota_84x44.gif"/>
-     <img alt="TechTarget" class="header-logo-small replace_2x" src="https://cdn.ttgtmedia.com/rms/ux/responsive/img/TT20_iota_64x34.gif"/>
-    </a>
-    <button class="header-search-toggle">
-     <i class="icon" data-icon="g">
-     </i>
-    </button>
-    <form action="https://www.techtarget.com/search/query" class="header-search" method="get">
-     <label class="visuallyhidden" for="header-search-input">
-      Search the TechTarget Network
-     </label>
-     <input autocomplete="off" class="header-search-input ui-autocomplete-input" id="header-search-input" name="q" placeholder="Search the TechTarget Network" type="text"/>
-     <button class="header-search-submit">
-      <i class="icon" data-icon="g">
-      </i>
-     </button>
-    </form>
-    <nav class="nav" id="page-nav">
-     <a class="nav-join-pro" href="https://users.techtarget.com/registration/IoTAgenda/LoginRegister.page">
-      <span>
-       Sign-up now. Start my free, unlimited access.
-      </span>
-     </a>
-     <div class="nav-user">
-      <a class="nav-user-login" href="https://users.techtarget.com/registration/IoTAgenda/LoginRegister.page">
-       <span class="nav-user-action">
-        Login
-       </span>
-      </a>
-      <a class="register" href="https://users.techtarget.com/registration/IoTAgenda/Register.page">
-       <span class="nav-user-action">
-        Register
-       </span>
-      </a>
-     </div>
-     <script>
-      TT(["context","lib/jquery"],function(c,$){var u=c.getUser();if(u.loggedIn){$('div.nav-user').children("a:first")
-			.before('<i class="icon header_logged_in_icon" title="'+u.displayName+'"></i>')
-			.attr("href", "https://users.techtarget.com/registration/IoTAgenda/Logout.page?fromURL=" + window.location.href).children("span.nav-user-action:first").text('Logout');
-			$('.register').removeAttr('href');$('a.register').hide();}else{$('div.nav-user').children("a:first").attr("href", "https://users.techtarget.com/registration/IoTAgenda/LoginRegister.page?fromURL="+window.location.href);
-			$('a.nav-join-pro').attr("href", "https://users.techtarget.com/registration/IoTAgenda/LoginRegister.page?fromURL="+window.location.href);}});
-     </script>
-     <div class="nav-links">
-      <ul>
-       <li id="nav-links-TechtargetNetwork">
-        <a href="https://www.techtarget.com/network">
-         Techtarget Network
-        </a>
-       </li>
-       <li id="nav-links-BeaContributor">
-        <a href="https://internetofthingsagenda.techtarget.com/about/Share-Your-Ideas-and-Experience">
-         Be a Contributor
-        </a>
-       </li>
-       <li id="nav-links-FullStream">
-        <a href="https://internetofthingsagenda.techtarget.com/blog/IoT-Agenda">
-         Full Stream
-        </a>
-       </li>
-       <li id="nav-links-StartingPoint">
-        <a href="https://internetofthingsagenda.techtarget.com/First-things-first">
-         Starting Point
-        </a>
-       </li>
-       <li id="nav-links-Definitions">
-        <a href="https://internetofthingsagenda.techtarget.com/definitions">
-         Definitions
-        </a>
-       </li>
-       <li id="nav-links-PremiumContent">
-        <a href="https://internetofthingsagenda.techtarget.com/ehandbooks">
-         Premium Content
-        </a>
-       </li>
-       <li class="nav-links-sponsoredcommunities">
-        <a href="https://internetofthingsagenda.techtarget.com/sponsored_communities">
-         Sponsored Communities
-        </a>
-       </li>
-      </ul>
-     </div>
-     <div class="nav-rss">
-      <a href="https://internetofthingsagenda.techtarget.com/rss">
-       <span class="nav-user-action">
-        RSS
-       </span>
-      </a>
-     </div>
-     <ul class="nav-list">
-      <li class="nav-list-item nav-list-item-logo nav-list-item-iota">
-       <div class="nav-list-item-header">
-        <a href="https://internetofthingsagenda.techtarget.com">
-         <img alt="IoT Agenda" class="header-logo-desktop replace_2x" src="https://cdn.ttgtmedia.com/rms/ux/responsive/img/iot_logo.png"/>
-         <img alt="IoT Agenda" class="header-logo-small replace_2x" src="https://cdn.ttgtmedia.com/rms/ux/responsive/img/iot_logo.png"/>
-        </a>
-       </div>
-      </li>
-      <li class="nav-list-item nav-list-item-topics">
-       <div class="nav-list-item-header">
-        <span class="nav-list-item-header-type">
-         Topic
-        </span>
-        <span class="nav-list-item-header-title">
-         <a href="https://internetofthingsagenda.techtarget.com/resources">
-          All Topics
-         </a>
-        </span>
-        <i class="icon icon-arrow-down" data-icon="5">
-        </i>
-        <i class="icon icon-navigation-detail" data-icon="A">
-        </i>
-       </div>
-       <div class="nav-list-item-dropdown">
-        <div class="nav-list-item-jscroll">
-         <ul class="nav-list-sublist">
-          <li class="nav-list-sublist-item">
-           <a href="https://internetofthingsagenda.techtarget.com/resources/Enterprise-Internet-of-Things-IoT">
-            Business
-           </a>
-          </li>
-          <li class="nav-list-sublist-item">
-           <a href="https://internetofthingsagenda.techtarget.com/resources/Internet-of-Things-IoT-Network">
-            Network
-           </a>
-          </li>
-          <li class="nav-list-sublist-item">
-           <a href="https://internetofthingsagenda.techtarget.com/resources/Internet-of-Things-IoT-Platform">
-            Platform
-           </a>
-          </li>
-          <li class="nav-list-sublist-item">
-           <a href="https://internetofthingsagenda.techtarget.com/resources/Internet-of-Things-IoT-Security">
-            Security
-           </a>
-          </li>
-          <li class="nav-list-sublist-item">
-           <a href="https://internetofthingsagenda.techtarget.com/resources/IoT-Industry-and-Vertical-Markets">
-            Industry and Verticals
-           </a>
-          </li>
-         </ul>
-        </div>
-       </div>
-      </li>
-     </ul>
-     <ul class="nav-social">
-      <li class="nav-social-item title">
-       Follow:
-      </li>
-      <li class="nav-social-item" id="navBarTwitter" title="Follow @IoTAgenda on Twitter">
-       <a href="https://twitter.com/IoTAgenda" target="_blank">
-        <i class="icon" data-icon="c">
-        </i>
-       </a>
-      </li>
-      <li class="nav-social-item" id="navBarLinkedIn" title="Follow IoTAgenda on LinkedIn">
-       <a href="https://www.linkedin.com/company/iot-agenda/" target="_blank">
-        <i class="icon" data-icon="o">
-        </i>
-       </a>
-      </li>
-     </ul>
-    </nav>
-   </header>
-   <div class="ad-wrapper header-leaderboard ad-desktop">
-    <!-- AdsController, generated at 18:46:59 Thu Jul 2, 2020, by cds4 -->
-    <div class="ad ad-lb" id="leaderboard">
-     <script>
-      GPT.display('leaderboard')
-     </script>
-    </div>
-   </div>
-   <div class="main-content" id="main-content">
-    <article class="content-columns" id="content-columns">
-     <div class="content-left" id="content-left">
-     </div>
-     <div class="content-center" id="content-center">
-      <!-- ErrorPageController, generated at 09:59:33 Thu Jul 2, 2020, by cds4 -->
-      <section class="pageNotFound-section" id="error-copy">
-       <div class="pageNotFound-section-inner">
-        <h2>
-         Page not found.
-        </h2>
-        <p>
-         The page you were trying to reach at this address doesn't seem to exist. This is usually the result of a bad or outdated link. We apologize for any inconvenience.
-        </p>
-        <h3>
-         What can I do now?
-        </h3>
-        <p>
-         If this is your first time visiting TechTarget, welcome! Sorry for the circumstances under which we're meeting. Here's where you can go from here:
-        </p>
-        <form action="https://www.techtarget.com/search/query" class="pageNotFound-search" method="get">
-         <label class="visuallyhidden" for="pageNotFound-title">
-          Search
-         </label>
-         <input class="pageNotFound-textfield" id="pageNotFound-title" name="q" placeholder="Search" type="text"/>
-         <input class="pageNotFound-search-btn" type="submit" value="g"/>
-        </form>
-        <ul class="pageNotFound-list">
-         <li>
-          Check out the latest
-          <a href="https://internetofthingsagenda.techtarget.com/info/news">
-           news
-          </a>
-          .
-         </li>
-         <li>
-          Our
-          <a href="https://internetofthingsagenda.techtarget.com">
-           home page
-          </a>
-          contains the latest information on IoT.
-         </li>
-         <li>
-          Our
-          <a href="https://internetofthingsagenda.techtarget.com/about">
-           about page
-          </a>
-          contains more information about the site you are on, IoT Agenda.
-         </li>
-         <li>
-          If you need to, please
-          <a href="https://internetofthingsagenda.techtarget.com/about/contact">
-           contact us
-          </a>
-          , we would love to hear from you.
-         </li>
-        </ul>
-       </div>
-       <div class="pageNotFound-sidebar">
-        <h3>
-         Browse By Category
-        </h3>
-        <ul class="pageNotFound-category-list">
-         <li>
-          <a href="https://internetofthingsagenda.techtarget.com/resources/Enterprise-Internet-of-Things-IoT">
-           Enterprise Internet of Things (IoT)
-          </a>
-         </li>
-         <li>
-          <a href="https://internetofthingsagenda.techtarget.com/resources/Internet-of-Things-IoT-Network">
-           Internet of Things (IoT) Network
-          </a>
-         </li>
-         <li>
-          <a href="https://internetofthingsagenda.techtarget.com/resources/Internet-of-Things-IoT-Platform">
-           Internet of Things (IoT) Platform
-          </a>
-         </li>
-         <li>
-          <a href="https://internetofthingsagenda.techtarget.com/resources/Internet-of-Things-IoT-Security">
-           Internet of Things (IoT) Security
-          </a>
-         </li>
-         <li>
-          <a href="https://internetofthingsagenda.techtarget.com/resources/IoT-Industry-and-Vertical-Markets">
-           IoT Industry and Vertical Markets
-          </a>
-         </li>
-        </ul>
-       </div>
-      </section>
-     </div>
-     <div class="content-right" id="content-right">
-     </div>
-    </article>
-   </div>
-   <!-- GoogleAdSenseController, generated at 16:06:56 Thu Jul 2, 2020, by cds4 -->
-   <section class="main-content ads-by-google" id="ads-by-google">
-    <h2>
-     <a href="https://www.google.com/adsense/support/bin/request.py?contact=abg_afc">
-      -ADS BY GOOGLE
-     </a>
-    </h2>
-    <script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
-    </script>
-    <!-- Search Sites Responsive AFC -->
-    <ins class="adsbygoogle" data-ad-client="ca-pub-6050985421795229" data-ad-format="auto" data-ad-slot="8728364240" style="display:block">
-    </ins>
-    <script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-    </script>
-   </section>
-   <!-- NetworkCoverageController, generated at 16:23:51 Thu Jul 2, 2020, by cds4 -->
-   <section class="latest-wrapper" id="network-coverage">
-    <nav class="latest-nav-wrapper">
-     <h2>
-      Latest TechTarget
-      <span class="latest-title">
-       resources
-      </span>
-     </h2>
-     <ul class="latest-nav">
-      <li>
-       <a class="latest-nav-item selected" data-item="1" href="#">
-        CIO
-        <i class="icon mobile-icon" data-icon="5">
-        </i>
-        <i class="icon desktop-icon" data-icon="A">
-        </i>
-       </a>
-      </li>
-      <li>
-       <a class="latest-nav-item" data-item="2" href="#">
-        Security
-        <i class="icon mobile-icon" data-icon="5">
-        </i>
-        <i class="icon desktop-icon" data-icon="A">
-        </i>
-       </a>
-      </li>
-      <li>
-       <a class="latest-nav-item" data-item="3" href="#">
-        Networking
-        <i class="icon mobile-icon" data-icon="5">
-        </i>
-        <i class="icon desktop-icon" data-icon="A">
-        </i>
-       </a>
-      </li>
-      <li>
-       <a class="latest-nav-item" data-item="4" href="#">
-        Data Center
-        <i class="icon mobile-icon" data-icon="5">
-        </i>
-        <i class="icon desktop-icon" data-icon="A">
-        </i>
-       </a>
-      </li>
-      <li>
-       <a class="latest-nav-item" data-item="5" href="#">
-        Data Management
-        <i class="icon mobile-icon" data-icon="5">
-        </i>
-        <i class="icon desktop-icon" data-icon="A">
-        </i>
-       </a>
-      </li>
-     </ul>
-    </nav>
-    <span class="latest-nav-mask before-mask">
-    </span>
-    <span class="latest-nav-mask after-mask">
-    </span>
-    <div class="latest-body">
-     <div class="latest-content" data-item="1">
-      <h2 class="searchcio">
-       <a href="https://searchcio.techtarget.com">
-        <span class="logo-search">
-         Search
-        </span>
-        <span class="logo-1">
-         CIO
-        </span>
-       </a>
-      </h2>
-      <ul>
-       <li>
-        <i class="icon" data-icon="2">
-        </i>
-        <h3>
-         <a href="https://searchcio.techtarget.com/feature/Post-COVID-19-strategies-for-CIOs-on-leading-through-crisis">
-          Post COVID-19 strategies for CIOs on leading through crisis
-         </a>
-        </h3>
-        <p>
-         To see their companies through the current crisis, CIOs should consider these five strategies focused around IT budgets, ...
-        </p>
-       </li>
-       <li>
-        <i class="icon" data-icon="2">
-        </i>
-        <h3>
-         <a href="https://searchcio.techtarget.com/ehandbook/Workplace-of-the-future-undergoes-last-minute-alterations">
-          Workplace of the future undergoes last-minute alterations
-         </a>
-        </h3>
-        <p>
-         Future of work plans entailed offices that fostered better employee engagements and productivity, while accommodating a small ...
-        </p>
-       </li>
-       <li class="hide-for-small">
-        <i class="icon" data-icon="2">
-        </i>
-        <h3>
-         <a href="https://searchcio.techtarget.com/ehandbook/Return-to-office-plans-stress-safety-security-collaboration">
-          Return-to-office plans stress safety, security, collaboration
-         </a>
-        </h3>
-        <p>
-         As offices reopen amid myriad safety measures in COVID-19's wake, companies work to maintain continuity and productivity with ...
-        </p>
-       </li>
-      </ul>
-     </div>
-     <div class="latest-content" data-item="2">
-      <h2 class="searchsecurity">
-       <a href="https://searchsecurity.techtarget.com">
-        <span class="logo-search">
-         Search
-        </span>
-        <span class="logo-1">
-         Security
-        </span>
-       </a>
-      </h2>
-      <ul>
-       <li>
-        <i class="icon" data-icon="2">
-        </i>
-        <h3>
-         <a href="https://searchsecurity.techtarget.com/feature/Interconnected-critical-infrastructure-increases-cybersecurity-risk">
-          Interconnected critical infrastructure increases cybersecurity risk
-         </a>
-        </h3>
-        <p>
-         Separately managed but interconnected critical infrastructure sectors are not all bound to security requirements and may be at ...
-        </p>
-       </li>
-       <li>
-        <i class="icon" data-icon="2">
-        </i>
-        <h3>
-         <a href="https://searchsecurity.techtarget.com/news/252485557/Microsoft-fixes-Windows-Codecs-flaws-with-emergency-patches">
-          Microsoft fixes Windows Codecs flaws with emergency patches
-         </a>
-        </h3>
-        <p>
-         Microsoft addressed two vulnerabilities, one rated critical and the other rated important, after being alerted by a researcher ...
-        </p>
-       </li>
-       <li class="hide-for-small">
-        <i class="icon" data-icon="2">
-        </i>
-        <h3>
-         <a href="https://searchsecurity.techtarget.com/news/252485531/Snake-ransomware-poses-unique-danger-to-industrial-systems">
-          Snake ransomware poses unique danger to industrial systems
-         </a>
-        </h3>
-        <p>
-         The new ransomware family known as Snake, or Ekans, is designed for organizations with industrial control systems and has already...
-        </p>
-       </li>
-      </ul>
-     </div>
-     <div class="latest-content" data-item="3">
-      <h2 class="searchnetworking">
-       <a href="https://searchnetworking.techtarget.com">
-        <span class="logo-search">
-         Search
-        </span>
-        <span class="logo-1">
-         Networking
-        </span>
-       </a>
-      </h2>
-      <ul>
-       <li>
-        <i class="icon" data-icon="2">
-        </i>
-        <h3>
-         <a href="https://searchnetworking.techtarget.com/news/252485606/Tech-pros-focus-on-application-delivery-during-pandemic">
-          Tech pros focus on application delivery during pandemic
-         </a>
-        </h3>
-        <p>
-         Tech pros have added security, automation and session capacity to their application delivery infrastructure to support business ...
-        </p>
-       </li>
-       <li>
-        <i class="icon" data-icon="2">
-        </i>
-        <h3>
-         <a href="https://searchnetworking.techtarget.com/feature/How-the-cloud-fractures-application-delivery-infrastructure-ops">
-          How the cloud fractures application delivery infrastructure ops
-         </a>
-        </h3>
-        <p>
-         Within a single IT organization, traditional network teams may clash with cloud teams over application delivery infrastructure ...
-        </p>
-       </li>
-       <li class="hide-for-small">
-        <i class="icon" data-icon="2">
-        </i>
-        <h3>
-         <a href="https://searchnetworking.techtarget.com/feature/Why-network-configuration-templates-are-useful-in-automation">
-          Why network configuration templates are useful in automation
-         </a>
-        </h3>
-        <p>
-         If a network team automates network configuration templates, it can save time and eliminate redundant activities in order to ...
-        </p>
-       </li>
-      </ul>
-     </div>
-     <div class="latest-content" data-item="4">
-      <h2 class="searchdatacenter">
-       <a href="https://searchdatacenter.techtarget.com">
-        <span class="logo-search">
-         Search
-        </span>
-        <span class="logo-1">
-         Data
-        </span>
-        <span class="logo-2">
-         Center
-        </span>
-       </a>
-      </h2>
-      <ul>
-       <li>
-        <i class="icon" data-icon="2">
-        </i>
-        <h3>
-         <a href="https://searchdatacenter.techtarget.com/feature/An-introduction-to-DCIM-software-metrics-and-terms">
-          An introduction to DCIM software metrics and terms
-         </a>
-        </h3>
-        <p>
-         Infrastructure management is no easy task. The right software can help admins track how efficient their server racks and ...
-        </p>
-       </li>
-       <li>
-        <i class="icon" data-icon="2">
-        </i>
-        <h3>
-         <a href="https://searchdatacenter.techtarget.com/tip/6-steps-to-prep-your-organization-for-ISO-9001-certification">
-          6 steps to prep your organization for ISO 9001 certification
-         </a>
-        </h3>
-        <p>
-         ISO 9001 is a quality management standard. Before your team decides to become certified with an official audit, you should have ...
-        </p>
-       </li>
-       <li class="hide-for-small">
-        <i class="icon" data-icon="2">
-        </i>
-        <h3>
-         <a href="https://searchdatacenter.techtarget.com/news/252484947/Honeywell-touts-quantum-computer-speed-but-how-fast-is-fast">
-          Honeywell touts quantum computer speed, but how fast is fast?
-         </a>
-        </h3>
-        <p>
-         Honeywell has delivered what it believes is the industry's fastest quantum computer. But analysts say it will take more than ...
-        </p>
-       </li>
-      </ul>
-     </div>
-     <div class="latest-content" data-item="5">
-      <h2 class="searchdatamanagement">
-       <a href="https://searchdatamanagement.techtarget.com">
-        <span class="logo-search">
-         Search
-        </span>
-        <span class="logo-1">
-         Data
-        </span>
-        <span class="logo-2">
-         Management
-        </span>
-       </a>
-      </h2>
-      <ul>
-       <li>
-        <i class="icon" data-icon="2">
-        </i>
-        <h3>
-         <a href="https://searchdatamanagement.techtarget.com/news/252485621/Ahana-brings-PrestoDB-SQL-query-engine-to-the-cloud">
-          Ahana brings PrestoDB SQL query engine to the cloud
-         </a>
-        </h3>
-        <p>
-         Soon after announcing its seed round of funding, Ahana launched commercial support services for the open source federated SQL ...
-        </p>
-       </li>
-       <li>
-        <i class="icon" data-icon="2">
-        </i>
-        <h3>
-         <a href="https://searchdatamanagement.techtarget.com/news/252485561/Confluent-enables-infinite-Kafka-scalability-in-the-cloud">
-          Confluent enables infinite Kafka scalability in the cloud
-         </a>
-        </h3>
-        <p>
-         Kafka gets data retention boost that can make it easier for users to store event streaming data for long periods of time, which ...
-        </p>
-       </li>
-       <li class="hide-for-small">
-        <i class="icon" data-icon="2">
-        </i>
-        <h3>
-         <a href="https://searchdatamanagement.techtarget.com/news/252485449/Fivetran-raises-100M-to-advance-enterprise-data-integration">
-          Fivetran raises $100M to advance enterprise data integration
-         </a>
-        </h3>
-        <p>
-         The co-founder and CEO of Fivetran talks about what the vendor is doing to help organizations meet the challenges of enterprise ...
-        </p>
-       </li>
-      </ul>
-     </div>
-    </div>
-   </section>
-   <!-- FooterLinksController, generated at 16:23:51 Thu Jul 2, 2020, by cds4 -->
-   <footer id="page-footer">
-    <div class="content-left">
-     <!-- Plug in TechTarget Logo inside the anchor tag here. -->
-     <div class="column column-logo">
-      <a href="#">
-      </a>
-     </div>
-    </div>
-    <div class="content-center">
-     <ul class="column">
-      <li class="footer-item footer-item-col-1 footer-item-row-1">
-       <a href="https://internetofthingsagenda.techtarget.com/about">
-        About Us
-       </a>
-      </li>
-      <li class="footer-item footer-item-col-1 footer-item-row-2">
-       <a href="https://internetofthingsagenda.techtarget.com/about/editors">
-        Meet The Editors
-       </a>
-      </li>
-      <li class="footer-item footer-item-col-1 footer-item-row-3">
-       <a href="https://internetofthingsagenda.techtarget.com/about/contact">
-        Contact Us
-       </a>
-      </li>
-      <li class="footer-item footer-item-col-1 footer-item-row-4">
-       <a href="https://www.techtarget.com/privacy-policy-may25/">
-        Privacy Policy
-       </a>
-      </li>
-      <li class="footer-item footer-item-col-1 footer-item-row-5">
-       <a href="https://internetofthingsagenda.techtarget.com/photostories">
-        Photo Stories
-       </a>
-      </li>
-     </ul>
-     <ul class="column">
-      <li class="footer-item footer-item-col-2 footer-item-row-1">
-       <a href="https://internetofthingsagenda.techtarget.com/about/advertising">
-        Advertisers
-       </a>
-      </li>
-      <li class="footer-item footer-item-col-2 footer-item-row-2">
-       <a href="https://internetofthingsagenda.techtarget.com/about/partners">
-        Business Partners
-       </a>
-      </li>
-      <li class="footer-item footer-item-col-2 footer-item-row-3">
-       <a href="https://www.techtarget.com/solutions/">
-        Media Kit
-       </a>
-      </li>
-      <li class="footer-item footer-item-col-2 footer-item-row-4">
-       <a href="https://www.techtarget.com">
-        Corporate Site
-       </a>
-      </li>
-     </ul>
-     <ul class="column column-mobile-hidden">
-      <li class="footer-item footer-item-col-3 footer-item-row-1">
-       <a href="https://internetofthingsagenda.techtarget.com/contributors">
-        Contributors
-       </a>
-      </li>
-      <li class="footer-item footer-item-col-3 footer-item-row-2">
-       <a href="https://reprints.ygsgroup.com/m/techtarget">
-        Reprints
-       </a>
-      </li>
-      <li class="footer-item footer-item-col-3 footer-item-row-3">
-       <a href="https://internetofthingsagenda.techtarget.com/events">
-        Events
-       </a>
-      </li>
-      <li class="footer-item footer-item-col-3 footer-item-row-4">
-       <a href="https://internetofthingsagenda.techtarget.com/eproducts">
-        E-Products
-       </a>
-      </li>
-     </ul>
-    </div>
-    <div class="content-right">
-     <div class="column column-legal">
-      <p class="footer-legal">
-       All Rights Reserved,
-       <span>
-        <a href="https://internetofthingsagenda.techtarget.com/about/copyright">
-         Copyright 2005 - 2020
-        </a>
-        , TechTarget
-       </span>
-       <br/>
-       <br/>
-       <span>
-        <a href="https://www.techtarget.com/CA-rights-request">
-         Do Not Sell My Personal Info
-        </a>
-       </span>
-      </p>
-     </div>
-    </div>
-   </footer>
-   <script src="https://cdn.ttgtmedia.com/rms/ux/responsive/js/responsive-ui.min.js?v=7.76">
-   </script>
-   <!-- Begin Chartbeat -->
-   <script>
-    var _sf_async_config={};
-    _sf_async_config.uid = 41935;
-    _sf_async_config.domain = 'techtargetnetwork.com';
-    _sf_async_config.sections = 'IoTAgenda, IoTAgenda - NO TOPIC';
-    _sf_async_config.authors = 'NO AUTHOR, HOME, IoTAgenda - HOME';
-    _sf_async_config.useCanonical = true;
-    (function(){
-      function loadChartbeat() {
-        window._sf_endpt=(new Date()).getTime();
-        var e = document.createElement('script');
-        e.setAttribute('language', 'javascript');
-        e.setAttribute('type', 'text/javascript');
-        e.setAttribute('src',
-           (('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'https://static.chartbeat.com/') + 'js/chartbeat.js');
-        document.body.appendChild(e);
-      }
-      var oldonload = window.onload;
-      window.onload = (typeof window.onload != 'function') ?
-         loadChartbeat : function() { oldonload(); loadChartbeat(); };
-    })();
-   </script>
-   <!-- End Chartbeat -->
-  </div>
-  <div class="mobile-sidebars" id="mobile-sidebars">
-  </div>
-  <div class="image-overlay" id="image-overlay">
-   <div class="image-overlay-img">
-   </div>
-   <div class="image-overlay-close">
-    Close
-   </div>
-  </div>
-  <!--
-Component Load Times
-====================
-DefaultPageController=22 ms
-PinnedNavBarController=52 ms
-AdsController=0 ms
 
-Total time=74 ms
-Request Serving Server: cds4
--->
- </body>
-</html>
+
+
+
+
+404: Page not found
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search the TechTarget Network
+
+
+
+
+Sign-up now. Start my free, unlimited access.
+
+Login
+Register
+
+
+
+
+Techtarget Network
+Be a Contributor
+Full Stream
+Starting Point
+Definitions
+Premium Content
+
+Sponsored Communities
+
+
+
+
+RSS
+
+
+
+
+
+
+
+
+
+
+
+
+Topic 
+All Topics
+  
+
+
+
+
+ Business
+ Network
+ Platform
+ Security
+ Industry and Verticals
+
+
+
+
+
+Follow:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			Page not found.
+
+			The page you were trying to reach at this address doesn't seem to exist. This is usually the result of a bad or outdated link. We apologize for any inconvenience.
+
+			What can I do now?
+
+			If this is your first time visiting TechTarget, welcome! Sorry for the circumstances under which we're meeting. Here's where you can go from here:
+
+ Search  
+
+
+Check out the latest news.
+Our home page contains the latest information on IoT.
+Our about page contains more information about the site you are on, IoT Agenda.
+If you need to, please contact us, we would love to hear from you.
+
+
+
+
+				Browse By Category
+
+Enterprise Internet of Things (IoT)
+Internet of Things (IoT) Network
+Internet of Things (IoT) Platform
+Internet of Things (IoT) Security
+IoT Industry and Vertical Markets
+
+
+
+
+
+
+
+
+
+-ADS BY GOOGLE
+
+
+
+
+
+
+
+
+Latest TechTarget resources
+
+
+
+							CIO
+
+
+
+
+
+							Security
+
+
+
+
+
+							Networking
+
+
+
+
+
+							Data Center
+
+
+
+
+
+							Data Management
+
+
+
+
+
+
+
+
+
+
+
+SearchCIO
+
+
+
+
+Top 7 edge computing challenges in the enterprise
+While organizations are seeing the benefits of bringing data closer to the edge, there are some challenges that come with edge ...
+
+
+
+Rise of automation creates new RPA job descriptions
+As automation increases in the enterprise, new RPA jobs are emerging that require a unique combination of hard and soft skills ...
+
+
+
+Dell, PwC, Peapod accelerate digital transformation initiatives
+Several organizations have made the decision to continue with digital transformation efforts during the pandemic to better ...
+
+
+
+
+
+
+SearchSecurity
+
+
+
+
+'SigRed' alert: Experts urge action on Windows DNS vulnerability
+Experts are urging organizations to take immediate action on SigRed, a 17-year-old Windows DNS server vulnerability discovered by...
+
+
+
+Identity theft subscription services uncovered on dark web
+Identity theft subscriptions are now being offered on the dark web. This information is being used for carding operations, ...
+
+
+
+Risk & Repeat: Twitter breach leads to account hijacking
+This week's Risk & Repeat podcast discusses how threat actors gained access to Twitter's internal systems and hijacked the ...
+
+
+
+
+
+
+SearchNetworking
+
+
+
+
+IT spending priorities in 2020 shift to network management, UC
+The global pandemic has temporarily slowed SD-WAN and campus network spending, but enterprises are still investing in network ...
+
+
+
+How to secure a home network for remote workforces
+Remote workers rarely achieve the same network security at home that offices provide. Yet, with the right tools, remote workers ...
+
+
+
+HPE ups SD-WAN chops with Silver Peak acquisition
+Hewlett Packard Enterprise's Silver Peak acquisition could significantly improve the software-defined WAN offering that's ...
+
+
+
+
+
+
+SearchDataCenter
+
+
+
+
+The basics and benefits of lights-out management
+For remote IT capabilities, lights-out management tools enable admins to power servers off and on, monitor temperatures and ...
+
+
+
+Build an effective IT asset disposal process
+Whether vendor guidance or internal analysis prompts asset disposal, managers must decide how to transfer data, map ...
+
+
+
+IT asset retirement in the data center
+Is your data center equipment starting to show signs of aging? These performance metrics can evaluate hardware health and help ...
+
+
+
+
+
+
+SearchDataManagement
+
+
+
+
+Distributed SQL database capabilities come to MariaDB X5
+Open source database vendor updates its MariaDB platform with a new release that integrates improved Kafka support and a faster ...
+
+
+
+How to choose the right database to fit your data model(s)
+Choosing the right database for your enterprise applications can be a difficult process. Read on for some considerations on data ...
+
+
+
+YugabyteDB 2.2 improves open source distributed SQL database
+Yugabyte updates its open source database platform that is API compatible with both Apache Cassandra and PostgreSQL with improved...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About Us
+Meet The Editors
+Contact Us
+Privacy Policy
+Photo Stories
+
+
+Advertisers
+Business Partners
+Media Kit
+Corporate Site
+
+
+Contributors
+Reprints
+Events
+E-Products
+
+
+
+
+All Rights Reserved, 
+Copyright 2005 - 2020, TechTarget
+
+
+Do Not Sell My Personal Info
+
+
+
+
+
+
+
+
+
+
+Close
+
+
+
+

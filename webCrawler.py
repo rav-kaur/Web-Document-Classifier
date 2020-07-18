@@ -1,6 +1,7 @@
 import requests, webbrowser
 from bs4 import BeautifulSoup
 import os 
+import sklearn
 
 keyword = input("Enter something to search: ")
 #keywords = ["ebola virus","python" , "geeksforgeeks"]
@@ -69,7 +70,7 @@ while (count < num_pages):
         temp_path = parent_dir+"/"+keyword+"/"
         file_path = os.path.join(temp_path,title)
         file = open(file_path+".txt","w+",encoding="utf8")
-        file.write(page_soup.prettify())
+        file.write(page_soup.get_text())
         
         count = count+1 # count of # of pages
 

@@ -1,3064 +1,471 @@
-<!DOCTYPE html >
-<!--[if IE 8]>    <html class="ie8" lang="en"> <![endif]-->
-<!--[if IE 9]>    <html class="ie9" lang="en"> <![endif]-->
-<!--[if gt IE 8]><!-->
-<html lang="en-US">
- <!--<![endif]-->
- <head>
-  <!-- Google Tag Manager -->
-  <script>
-   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-KJRMSDS');
-  </script>
-  <!-- End Google Tag Manager -->
-  <meta content="A7E0B1CBA195F0332647BA4D67A6FAD0" name="msvalidate.01"/>
-  <meta content="0658c032236ae945" name="yandex-verification"/>
-  <!-- Start Alexa Certify Javascript -->
-  <script type="text/javascript">
-   _atrk_opts = { atrk_acct:"2pcJs1O7kI20L7", domain:"iotforall.com",dynamic: true};
-(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://certify-js.alexametrics.com/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
-  </script>
-  <noscript>
-   <img alt="" height="1" src="https://certify.alexametrics.com/atrk.gif?account=2pcJs1O7kI20L7" style="display:none" width="1"/>
-  </noscript>
-  <!-- End Alexa Certify Javascript -->
-  <meta charset="utf-8"/>
-  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-  <meta content="1937064139911112" property="fb:app_id"/>
-  <link href="https://www.iotforall.com/xmlrpc.php" rel="pingback"/>
-  <!-- Social Warfare v3.6.1 https://warfareplugins.com -->
-  <style>
-   @font-face {font-family: "sw-icon-font";src:url("https://www.iotforall.com/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.eot?ver=3.6.1");src:url("https://www.iotforall.com/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.eot?ver=3.6.1#iefix") format("embedded-opentype"),url("https://www.iotforall.com/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.woff?ver=3.6.1") format("woff"),
-	url("https://www.iotforall.com/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.ttf?ver=3.6.1") format("truetype"),url("https://www.iotforall.com/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.svg?ver=3.6.1#1445203416") format("svg");font-weight: normal;font-style: normal;}
-  </style>
-  <!-- Social Warfare v3.6.1 https://warfareplugins.com -->
-  <link href="https://www.iotforall.com/wp-content/uploads/2018/11/IFA-Favicon.png" rel="icon" type="image/png"/>
-  <!-- This site is optimized with the Yoast SEO Premium plugin v12.2 - https://yoast.com/wordpress/plugins/seo/ -->
-  <title>
-   Page not found | IoT For All
-  </title>
-  <meta content="noindex,follow" name="robots"/>
-  <meta content="en_US" property="og:locale"/>
-  <meta content="object" property="og:type"/>
-  <meta content="Page not found | IoT For All" property="og:title"/>
-  <meta content="IoT For All" property="og:site_name"/>
-  <meta content="summary_large_image" name="twitter:card"/>
-  <meta content="Page not found | IoT For All" name="twitter:title"/>
-  <meta content="@iotforall" name="twitter:site"/>
-  <script class="yoast-schema-graph yoast-schema-graph--main" type="application/ld+json">
-   {"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.iotforall.com/#website","url":"https://www.iotforall.com/","name":"IoT For All","potentialAction":{"@type":"SearchAction","target":"https://www.iotforall.com/?s={search_term_string}","query-input":"required name=search_term_string"}}]}
-  </script>
-  <!-- / Yoast SEO Premium plugin. -->
-  <link href="//fonts.googleapis.com" rel="dns-prefetch">
-   <link href="https://www.iotforall.com/feed/" rel="alternate" title="IoT For All » Feed" type="application/rss+xml"/>
-   <link href="https://www.iotforall.com/comments/feed/" rel="alternate" title="IoT For All » Comments Feed" type="application/rss+xml"/>
-   <style type="text/css">
-    img.wp-smiley,
-img.emoji {
-	display: inline !important;
-	border: none !important;
-	box-shadow: none !important;
-	height: 1em !important;
-	width: 1em !important;
-	margin: 0 .07em !important;
-	vertical-align: -0.1em !important;
-	background: none !important;
-	padding: 0 !important;
-}
-   </style>
-   <link href="https://www.iotforall.com/wp-content/plugins/formidable/css/formidableforms.css?ver=3232119" id="formidable-css" media="all" rel="stylesheet" type="text/css"/>
-   <link href="https://www.iotforall.com/wp-content/plugins/social-warfare/assets/js/post-editor/dist/blocks.style.build.css?ver=5.3.4" id="social-warfare-block-css-css" media="all" rel="stylesheet" type="text/css"/>
-   <link href="https://www.iotforall.com/wp-includes/css/dist/block-library/style.min.css?ver=5.3.4" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css"/>
-   <link href="https://www.iotforall.com/wp-content/plugins/wp-ulike/assets/css/wp-ulike.min.css?ver=3.6.2" id="wp-ulike-css" media="all" rel="stylesheet" type="text/css"/>
-   <style id="wp-ulike-inline-css" type="text/css">
-    .wp_ulike_btn.wp_ulike_put_image:after { background-image: url(https://www.iotforall.com/wp-content/uploads/2019/02/Fire-Initial-Still.png) !important; }.wp_ulike_btn.wp_ulike_put_image.image-unlike:after { background-image: url(https://www.iotforall.com/wp-content/uploads/2019/02/Fire-SM_once.gif) !important; filter: none; }.wpulike .wp_ulike_is_loading .wp_ulike_btn, #buddypress .activity-content .wpulike .wp_ulike_is_loading .wp_ulike_btn, #bbpress-forums .bbp-reply-content .wpulike .wp_ulike_is_loading .wp_ulike_btn {background-image: url(https://www.iotforall.com/wp-content/uploads/2019/02/Fire-Initial-Still.png) !important;}.wpulike.wpulike-default a {
-background-size:     cover;
-background-repeat:   no-repeat;
-background-position: center center;
-}
-.wpulike .wp_ulike_btn {
-border-radius: 0;
-border: none;
-padding: .25em .5em;
-font-size: .75em;
-cursor: pointer;
-width: 40px;
-color: rgba(0,0,0,0);
-background-color: rgba(0,0,0,0);
-box-shadow: none;
-text-shadow: none;
-text-decoration: none;
-display: inline;
-display: flex;
-height: 40px;
-max-height: 40px;
-}
-.wpulike .wp_ulike_btn::after {
-height: 34px;
-width: 34px;
-}
-.wpulike .wp_ulike_btn {
-background-size: 34px 34px;
-transition: background 1s linear 1s;
-padding: 0;
-margin: 0;
-background-position: center;
-}
-.wpulike .count-box {
-border: none;
-border-radius: 0;
-vertical-align: middle;
-color: #333;
-font-size: 12px;
-text-align: center;
-text-decoration: none;
-background-color: rgba(0,0,0,0);
-box-shadow:none;
-}
-.wpulike .count-box:before {
-display: none;
-}
-.wpulike .wp_ulike_btn:hover {
-background-color: rgba(0,0,0,0);
-}
-
-.wpulike {
-margin-bottom: 30px;
-padding: 0;
-}
-
-.wpulike .count-box {
-font-family: helvetica;
-font-size: 10px;
-margin: auto;
-width: 100%;
-}
-.td-classic-sharing .wpulike, .shareparent .wpulike {
-margin-bottom: 0;
-margin-right: 12px;
-margin-top: 16px;
-}
-.td-post-sharing-bottom .wpulike {
-margin-top: 11px;
-}
-.shareparent .wp_ulike_general_class {
-padding-top:5px;
-}
-.fire-finder .sidebar-share-text {
-font-size: 9px;
-line-height: initial;
-margin-bottom: 5px;
-}
-.wpulike .count-box {
-font-size: 13px;
-}
-   </style>
-   <link href="https://www.iotforall.com/wp-content/plugins/social-warfare/assets/css/style.min.css?ver=3.6.1" id="social_warfare-css" media="all" rel="stylesheet" type="text/css"/>
-   <link href="https://www.iotforall.com/wp-content/themes/Newspaper/style.css?ver=5.3.4" id="Newspaper-css" media="all" rel="stylesheet" type="text/css"/>
-   <link href="https://www.iotforall.com/wp-content/themes/newspaper%20child%20theme/style.css?ver=8.0.0" id="child-style-css" media="all" rel="stylesheet" type="text/css"/>
-   <link href="https://www.iotforall.com/wp-content/plugins/td-composer/td-multi-purpose/style.css?ver=72ece2de773553959e5098a544851753" id="td-plugin-multi-purpose-css" media="all" rel="stylesheet" type="text/css"/>
-   <link href="https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400%2C400italic%2C600%2C600italic%2C700%2C100%2C200%2C300%2C500%2C800%2C900%7CRoboto%3A300%2C400%2C400italic%2C500%2C500italic%2C700%2C900%2C100%2C200%2C600%2C800&amp;ver=9.0.1" id="google-fonts-style-css" media="all" rel="stylesheet" type="text/css"/>
-   <link href="https://www.iotforall.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=5.6" id="js_composer_front-css" media="all" rel="stylesheet" type="text/css"/>
-   <link href="https://www.iotforall.com/wp-content/themes/newspaper%20child%20theme/style.css?ver=9.0.1" id="td-theme-css" media="all" rel="stylesheet" type="text/css"/>
-   <link href="https://www.iotforall.com/wp-content/themes/Newspaper/includes/demos/tech/demo_style.css?ver=9.0.1" id="td-theme-demo-style-css" media="all" rel="stylesheet" type="text/css"/>
-   <link href="https://www.iotforall.com/wp-content/plugins/td-cloud-library/assets/css/tdb_less_front.css?ver=dc11e23cd0219f30e55307de07f135fc" id="tdb_front_style-css" media="all" rel="stylesheet" type="text/css"/>
-   <script src="https://www.iotforall.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp" type="text/javascript">
-   </script>
-   <script src="https://www.iotforall.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1" type="text/javascript">
-   </script>
-   <link href="https://www.iotforall.com/wp-json/" rel="https://api.w.org/"/>
-   <link href="https://www.iotforall.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
-   <link href="https://www.iotforall.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
-   <meta content="WordPress 5.3.4" name="generator"/>
-   <script type="text/javascript">
-    document.documentElement.className += " js";
-   </script>
-   <script>
-    window.tdwGlobal = {"adminUrl":"https:\/\/www.iotforall.com\/wp-admin\/","wpRestNonce":"cb00b95294","wpRestUrl":"https:\/\/www.iotforall.com\/wp-json\/","permalinkStructure":"\/%postname%\/"};
-   </script>
-   <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-   <meta content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress." name="generator"/>
-   <!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://www.iotforall.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]-->
-   <!-- JS generated by theme -->
-   <script>
-    var tdBlocksArray = []; //here we store all the items for the current page
-
-	    //td_block class - each ajax block uses a object of this class for requests
-	    function tdBlock() {
-		    this.id = '';
-		    this.block_type = 1; //block type id (1-234 etc)
-		    this.atts = '';
-		    this.td_column_number = '';
-		    this.td_current_page = 1; //
-		    this.post_count = 0; //from wp
-		    this.found_posts = 0; //from wp
-		    this.max_num_pages = 0; //from wp
-		    this.td_filter_value = ''; //current live filter value
-		    this.is_ajax_running = false;
-		    this.td_user_action = ''; // load more or infinite loader (used by the animation)
-		    this.header_color = '';
-		    this.ajax_pagination_infinite_stop = ''; //show load more at page x
-	    }
-
-
-        // td_js_generator - mini detector
-        (function(){
-            var htmlTag = document.getElementsByTagName("html")[0];
-
-	        if ( navigator.userAgent.indexOf("MSIE 10.0") > -1 ) {
-                htmlTag.className += ' ie10';
-            }
-
-            if ( !!navigator.userAgent.match(/Trident.*rv\:11\./) ) {
-                htmlTag.className += ' ie11';
-            }
-
-	        if ( navigator.userAgent.indexOf("Edge") > -1 ) {
-                htmlTag.className += ' ieEdge';
-            }
-
-            if ( /(iPad|iPhone|iPod)/g.test(navigator.userAgent) ) {
-                htmlTag.className += ' td-md-is-ios';
-            }
-
-            var user_agent = navigator.userAgent.toLowerCase();
-            if ( user_agent.indexOf("android") > -1 ) {
-                htmlTag.className += ' td-md-is-android';
-            }
-
-            if ( -1 !== navigator.userAgent.indexOf('Mac OS X')  ) {
-                htmlTag.className += ' td-md-is-os-x';
-            }
-
-            if ( /chrom(e|ium)/.test(navigator.userAgent.toLowerCase()) ) {
-               htmlTag.className += ' td-md-is-chrome';
-            }
-
-            if ( -1 !== navigator.userAgent.indexOf('Firefox') ) {
-                htmlTag.className += ' td-md-is-firefox';
-            }
-
-            if ( -1 !== navigator.userAgent.indexOf('Safari') && -1 === navigator.userAgent.indexOf('Chrome') ) {
-                htmlTag.className += ' td-md-is-safari';
-            }
-
-            if( -1 !== navigator.userAgent.indexOf('IEMobile') ){
-                htmlTag.className += ' td-md-is-iemobile';
-            }
-
-        })();
-
-
-
-
-        var tdLocalCache = {};
-
-        ( function () {
-            "use strict";
-
-            tdLocalCache = {
-                data: {},
-                remove: function (resource_id) {
-                    delete tdLocalCache.data[resource_id];
-                },
-                exist: function (resource_id) {
-                    return tdLocalCache.data.hasOwnProperty(resource_id) && tdLocalCache.data[resource_id] !== null;
-                },
-                get: function (resource_id) {
-                    return tdLocalCache.data[resource_id];
-                },
-                set: function (resource_id, cachedData) {
-                    tdLocalCache.remove(resource_id);
-                    tdLocalCache.data[resource_id] = cachedData;
-                }
-            };
-        })();
-
-    
-    
-var td_viewport_interval_list=[{"limitBottom":767,"sidebarWidth":228},{"limitBottom":1018,"sidebarWidth":300},{"limitBottom":1140,"sidebarWidth":324}];
-var td_animation_stack_effect="type2";
-var tds_animation_stack=true;
-var td_animation_stack_specific_selectors=".entry-thumb, img[class*=\"wp-image-\"], a.td-sml-link-to-image > img";
-var td_animation_stack_general_selectors=".td-animation-stack .entry-thumb, .post .entry-thumb, .post img[class*=\"wp-image-\"], a.td-sml-link-to-image > img";
-var td_ajax_url="https:\/\/www.iotforall.com\/wp-admin\/admin-ajax.php?td_theme_name=Newspaper&v=9.0.1";
-var td_get_template_directory_uri="https:\/\/www.iotforall.com\/wp-content\/themes\/Newspaper";
-var tds_snap_menu="";
-var tds_logo_on_sticky="";
-var tds_header_style="tdm_header_style_3";
-var td_please_wait="Please wait...";
-var td_email_user_pass_incorrect="User or password incorrect!";
-var td_email_user_incorrect="Email or username incorrect!";
-var td_email_incorrect="Email incorrect!";
-var tds_more_articles_on_post_enable="";
-var tds_more_articles_on_post_time_to_wait="";
-var tds_more_articles_on_post_pages_distance_from_top=0;
-var tds_theme_color_site_wide="#0d838c";
-var tds_smart_sidebar="";
-var tdThemeName="Newspaper";
-var td_magnific_popup_translation_tPrev="Previous (Left arrow key)";
-var td_magnific_popup_translation_tNext="Next (Right arrow key)";
-var td_magnific_popup_translation_tCounter="%curr% of %total%";
-var td_magnific_popup_translation_ajax_tError="The content from %url% could not be loaded.";
-var td_magnific_popup_translation_image_tError="The image #%curr% could not be loaded.";
-var tdsDateFormat="l, F j, Y";
-var tdDateNamesI18n={"month_names":["January","February","March","April","May","June","July","August","September","October","November","December"],"month_names_short":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"day_names":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"day_names_short":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]};
-var td_ad_background_click_link="";
-var td_ad_background_click_target="";
-   </script>
-   <!-- Header style compiled by theme -->
-   <style>
-    @font-face {
-                                      font-family: "Inter-Bold";
-                                      src: local("Inter-Bold"), url("https://www.iotforall.com/wp-content/uploads/2020/04/Inter-Bold.woff") format("woff");
-                                    }
-                                
-                                    @font-face {
-                                      font-family: "Inter-Regular";
-                                      src: local("Inter-Regular"), url("https://www.iotforall.com/wp-content/uploads/2020/04/Inter-Regular.woff") format("woff");
-                                    }
-                                
-                                    @font-face {
-                                      font-family: "Inter-Medium";
-                                      src: local("Inter-Medium"), url("https://www.iotforall.com/wp-content/uploads/2020/04/Inter-Medium.woff") format("woff");
-                                    }
-                                
-                                    @font-face {
-                                      font-family: "Inter-ExtraBold";
-                                      src: local("Inter-ExtraBold"), url("https://www.iotforall.com/wp-content/uploads/2020/04/Inter-ExtraBold.woff") format("woff");
-                                    }
-                                
-                                    @font-face {
-                                      font-family: "Inter-SemiBold";
-                                      src: local("Inter-SemiBold"), url("https://www.iotforall.com/wp-content/uploads/2020/04/Inter-SemiBold.woff") format("woff");
-                                    }
-                                
-.td-header-wrap .black-menu .sf-menu > .current-menu-item > a,
-    .td-header-wrap .black-menu .sf-menu > .current-menu-ancestor > a,
-    .td-header-wrap .black-menu .sf-menu > .current-category-ancestor > a,
-    .td-header-wrap .black-menu .sf-menu > li > a:hover,
-    .td-header-wrap .black-menu .sf-menu > .sfHover > a,
-    .td-header-style-12 .td-header-menu-wrap-full,
-    .sf-menu > .current-menu-item > a:after,
-    .sf-menu > .current-menu-ancestor > a:after,
-    .sf-menu > .current-category-ancestor > a:after,
-    .sf-menu > li:hover > a:after,
-    .sf-menu > .sfHover > a:after,
-    .td-header-style-12 .td-affix,
-    .header-search-wrap .td-drop-down-search:after,
-    .header-search-wrap .td-drop-down-search .btn:hover,
-    input[type=submit]:hover,
-    .td-read-more a,
-    .td-post-category:hover,
-    .td-grid-style-1.td-hover-1 .td-big-grid-post:hover .td-post-category,
-    .td-grid-style-5.td-hover-1 .td-big-grid-post:hover .td-post-category,
-    .td_top_authors .td-active .td-author-post-count,
-    .td_top_authors .td-active .td-author-comments-count,
-    .td_top_authors .td_mod_wrap:hover .td-author-post-count,
-    .td_top_authors .td_mod_wrap:hover .td-author-comments-count,
-    .td-404-sub-sub-title a:hover,
-    .td-search-form-widget .wpb_button:hover,
-    .td-rating-bar-wrap div,
-    .td_category_template_3 .td-current-sub-category,
-    .dropcap,
-    .td_wrapper_video_playlist .td_video_controls_playlist_wrapper,
-    .wpb_default,
-    .wpb_default:hover,
-    .td-left-smart-list:hover,
-    .td-right-smart-list:hover,
-    .woocommerce-checkout .woocommerce input.button:hover,
-    .woocommerce-page .woocommerce a.button:hover,
-    .woocommerce-account div.woocommerce .button:hover,
-    #bbpress-forums button:hover,
-    .bbp_widget_login .button:hover,
-    .td-footer-wrapper .td-post-category,
-    .td-footer-wrapper .widget_product_search input[type="submit"]:hover,
-    .woocommerce .product a.button:hover,
-    .woocommerce .product #respond input#submit:hover,
-    .woocommerce .checkout input#place_order:hover,
-    .woocommerce .woocommerce.widget .button:hover,
-    .single-product .product .summary .cart .button:hover,
-    .woocommerce-cart .woocommerce table.cart .button:hover,
-    .woocommerce-cart .woocommerce .shipping-calculator-form .button:hover,
-    .td-next-prev-wrap a:hover,
-    .td-load-more-wrap a:hover,
-    .td-post-small-box a:hover,
-    .page-nav .current,
-    .page-nav:first-child > div,
-    .td_category_template_8 .td-category-header .td-category a.td-current-sub-category,
-    .td_category_template_4 .td-category-siblings .td-category a:hover,
-    #bbpress-forums .bbp-pagination .current,
-    #bbpress-forums #bbp-single-user-details #bbp-user-navigation li.current a,
-    .td-theme-slider:hover .slide-meta-cat a,
-    a.vc_btn-black:hover,
-    .td-trending-now-wrapper:hover .td-trending-now-title,
-    .td-scroll-up,
-    .td-smart-list-button:hover,
-    .td-weather-information:before,
-    .td-weather-week:before,
-    .td_block_exchange .td-exchange-header:before,
-    .td_block_big_grid_9.td-grid-style-1 .td-post-category,
-    .td_block_big_grid_9.td-grid-style-5 .td-post-category,
-    .td-grid-style-6.td-hover-1 .td-module-thumb:after,
-    .td-pulldown-syle-2 .td-subcat-dropdown ul:after,
-    .td_block_template_9 .td-block-title:after,
-    .td_block_template_15 .td-block-title:before,
-    div.wpforms-container .wpforms-form div.wpforms-submit-container button[type=submit] {
-        background-color: #0d838c;
-    }
-
-    .td_block_template_4 .td-related-title .td-cur-simple-item:before {
-        border-color: #0d838c transparent transparent transparent !important;
-    }
-
-    .woocommerce .woocommerce-message .button:hover,
-    .woocommerce .woocommerce-error .button:hover,
-    .woocommerce .woocommerce-info .button:hover {
-        background-color: #0d838c !important;
-    }
-    
-    
-    .td_block_template_4 .td-related-title .td-cur-simple-item,
-    .td_block_template_3 .td-related-title .td-cur-simple-item,
-    .td_block_template_9 .td-related-title:after {
-        background-color: #0d838c;
-    }
-
-    .woocommerce .product .onsale,
-    .woocommerce.widget .ui-slider .ui-slider-handle {
-        background: none #0d838c;
-    }
-
-    .woocommerce.widget.widget_layered_nav_filters ul li a {
-        background: none repeat scroll 0 0 #0d838c !important;
-    }
-
-    a,
-    cite a:hover,
-    .td_mega_menu_sub_cats .cur-sub-cat,
-    .td-mega-span h3 a:hover,
-    .td_mod_mega_menu:hover .entry-title a,
-    .header-search-wrap .result-msg a:hover,
-    .td-header-top-menu .td-drop-down-search .td_module_wrap:hover .entry-title a,
-    .td-header-top-menu .td-icon-search:hover,
-    .td-header-wrap .result-msg a:hover,
-    .top-header-menu li a:hover,
-    .top-header-menu .current-menu-item > a,
-    .top-header-menu .current-menu-ancestor > a,
-    .top-header-menu .current-category-ancestor > a,
-    .td-social-icon-wrap > a:hover,
-    .td-header-sp-top-widget .td-social-icon-wrap a:hover,
-    .td-page-content blockquote p,
-    .td-post-content blockquote p,
-    .mce-content-body blockquote p,
-    .comment-content blockquote p,
-    .wpb_text_column blockquote p,
-    .td_block_text_with_title blockquote p,
-    .td_module_wrap:hover .entry-title a,
-    .td-subcat-filter .td-subcat-list a:hover,
-    .td-subcat-filter .td-subcat-dropdown a:hover,
-    .td_quote_on_blocks,
-    .dropcap2,
-    .dropcap3,
-    .td_top_authors .td-active .td-authors-name a,
-    .td_top_authors .td_mod_wrap:hover .td-authors-name a,
-    .td-post-next-prev-content a:hover,
-    .author-box-wrap .td-author-social a:hover,
-    .td-author-name a:hover,
-    .td-author-url a:hover,
-    .td_mod_related_posts:hover h3 > a,
-    .td-post-template-11 .td-related-title .td-related-left:hover,
-    .td-post-template-11 .td-related-title .td-related-right:hover,
-    .td-post-template-11 .td-related-title .td-cur-simple-item,
-    .td-post-template-11 .td_block_related_posts .td-next-prev-wrap a:hover,
-    .comment-reply-link:hover,
-    .logged-in-as a:hover,
-    #cancel-comment-reply-link:hover,
-    .td-search-query,
-    .td-category-header .td-pulldown-category-filter-link:hover,
-    .td-category-siblings .td-subcat-dropdown a:hover,
-    .td-category-siblings .td-subcat-dropdown a.td-current-sub-category,
-    .widget a:hover,
-    .td_wp_recentcomments a:hover,
-    .archive .widget_archive .current,
-    .archive .widget_archive .current a,
-    .widget_calendar tfoot a:hover,
-    .woocommerce a.added_to_cart:hover,
-    .woocommerce-account .woocommerce-MyAccount-navigation a:hover,
-    #bbpress-forums li.bbp-header .bbp-reply-content span a:hover,
-    #bbpress-forums .bbp-forum-freshness a:hover,
-    #bbpress-forums .bbp-topic-freshness a:hover,
-    #bbpress-forums .bbp-forums-list li a:hover,
-    #bbpress-forums .bbp-forum-title:hover,
-    #bbpress-forums .bbp-topic-permalink:hover,
-    #bbpress-forums .bbp-topic-started-by a:hover,
-    #bbpress-forums .bbp-topic-started-in a:hover,
-    #bbpress-forums .bbp-body .super-sticky li.bbp-topic-title .bbp-topic-permalink,
-    #bbpress-forums .bbp-body .sticky li.bbp-topic-title .bbp-topic-permalink,
-    .widget_display_replies .bbp-author-name,
-    .widget_display_topics .bbp-author-name,
-    .footer-text-wrap .footer-email-wrap a,
-    .td-subfooter-menu li a:hover,
-    .footer-social-wrap a:hover,
-    a.vc_btn-black:hover,
-    .td-smart-list-dropdown-wrap .td-smart-list-button:hover,
-    .td_module_17 .td-read-more a:hover,
-    .td_module_18 .td-read-more a:hover,
-    .td_module_19 .td-post-author-name a:hover,
-    .td-instagram-user a,
-    .td-pulldown-syle-2 .td-subcat-dropdown:hover .td-subcat-more span,
-    .td-pulldown-syle-2 .td-subcat-dropdown:hover .td-subcat-more i,
-    .td-pulldown-syle-3 .td-subcat-dropdown:hover .td-subcat-more span,
-    .td-pulldown-syle-3 .td-subcat-dropdown:hover .td-subcat-more i,
-    .td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-display-option:hover,
-    .td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-display-option:hover i,
-    .td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-link:hover,
-    .td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-item .td-cur-simple-item,
-    .td_block_template_2 .td-related-title .td-cur-simple-item,
-    .td_block_template_5 .td-related-title .td-cur-simple-item,
-    .td_block_template_6 .td-related-title .td-cur-simple-item,
-    .td_block_template_7 .td-related-title .td-cur-simple-item,
-    .td_block_template_8 .td-related-title .td-cur-simple-item,
-    .td_block_template_9 .td-related-title .td-cur-simple-item,
-    .td_block_template_10 .td-related-title .td-cur-simple-item,
-    .td_block_template_11 .td-related-title .td-cur-simple-item,
-    .td_block_template_12 .td-related-title .td-cur-simple-item,
-    .td_block_template_13 .td-related-title .td-cur-simple-item,
-    .td_block_template_14 .td-related-title .td-cur-simple-item,
-    .td_block_template_15 .td-related-title .td-cur-simple-item,
-    .td_block_template_16 .td-related-title .td-cur-simple-item,
-    .td_block_template_17 .td-related-title .td-cur-simple-item,
-    .td-theme-wrap .sf-menu ul .td-menu-item > a:hover,
-    .td-theme-wrap .sf-menu ul .sfHover > a,
-    .td-theme-wrap .sf-menu ul .current-menu-ancestor > a,
-    .td-theme-wrap .sf-menu ul .current-category-ancestor > a,
-    .td-theme-wrap .sf-menu ul .current-menu-item > a,
-    .td_outlined_btn {
-        color: #0d838c;
-    }
-
-    a.vc_btn-black.vc_btn_square_outlined:hover,
-    a.vc_btn-black.vc_btn_outlined:hover,
-    .td-mega-menu-page .wpb_content_element ul li a:hover,
-    .td-theme-wrap .td-aj-search-results .td_module_wrap:hover .entry-title a,
-    .td-theme-wrap .header-search-wrap .result-msg a:hover {
-        color: #0d838c !important;
-    }
-
-    .td-next-prev-wrap a:hover,
-    .td-load-more-wrap a:hover,
-    .td-post-small-box a:hover,
-    .page-nav .current,
-    .page-nav:first-child > div,
-    .td_category_template_8 .td-category-header .td-category a.td-current-sub-category,
-    .td_category_template_4 .td-category-siblings .td-category a:hover,
-    #bbpress-forums .bbp-pagination .current,
-    .post .td_quote_box,
-    .page .td_quote_box,
-    a.vc_btn-black:hover,
-    .td_block_template_5 .td-block-title > *,
-    .td_outlined_btn {
-        border-color: #0d838c;
-    }
-
-    .td_wrapper_video_playlist .td_video_currently_playing:after {
-        border-color: #0d838c !important;
-    }
-
-    .header-search-wrap .td-drop-down-search:before {
-        border-color: transparent transparent #0d838c transparent;
-    }
-
-    .block-title > span,
-    .block-title > a,
-    .block-title > label,
-    .widgettitle,
-    .widgettitle:after,
-    .td-trending-now-title,
-    .td-trending-now-wrapper:hover .td-trending-now-title,
-    .wpb_tabs li.ui-tabs-active a,
-    .wpb_tabs li:hover a,
-    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab.vc_active > a,
-    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab:hover > a,
-    .td_block_template_1 .td-related-title .td-cur-simple-item,
-    .woocommerce .product .products h2:not(.woocommerce-loop-product__title),
-    .td-subcat-filter .td-subcat-dropdown:hover .td-subcat-more, 
-    .td_3D_btn,
-    .td_shadow_btn,
-    .td_default_btn,
-    .td_round_btn, 
-    .td_outlined_btn:hover {
-    	background-color: #0d838c;
-    }
-
-    .woocommerce div.product .woocommerce-tabs ul.tabs li.active {
-    	background-color: #0d838c !important;
-    }
-
-    .block-title,
-    .td_block_template_1 .td-related-title,
-    .wpb_tabs .wpb_tabs_nav,
-    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container,
-    .woocommerce div.product .woocommerce-tabs ul.tabs:before {
-        border-color: #0d838c;
-    }
-    .td_block_wrap .td-subcat-item a.td-cur-simple-item {
-	    color: #0d838c;
-	}
-
-
-    
-    .td-grid-style-4 .entry-title
-    {
-        background-color: rgba(13, 131, 140, 0.7);
-    }
-
-    
-    .block-title > span,
-    .block-title > span > a,
-    .block-title > a,
-    .block-title > label,
-    .widgettitle,
-    .widgettitle:after,
-    .td-trending-now-title,
-    .td-trending-now-wrapper:hover .td-trending-now-title,
-    .wpb_tabs li.ui-tabs-active a,
-    .wpb_tabs li:hover a,
-    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab.vc_active > a,
-    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab:hover > a,
-    .td_block_template_1 .td-related-title .td-cur-simple-item,
-    .woocommerce .product .products h2:not(.woocommerce-loop-product__title),
-    .td-subcat-filter .td-subcat-dropdown:hover .td-subcat-more,
-    .td-weather-information:before,
-    .td-weather-week:before,
-    .td_block_exchange .td-exchange-header:before,
-    .td-theme-wrap .td_block_template_3 .td-block-title > *,
-    .td-theme-wrap .td_block_template_4 .td-block-title > *,
-    .td-theme-wrap .td_block_template_7 .td-block-title > *,
-    .td-theme-wrap .td_block_template_9 .td-block-title:after,
-    .td-theme-wrap .td_block_template_10 .td-block-title::before,
-    .td-theme-wrap .td_block_template_11 .td-block-title::before,
-    .td-theme-wrap .td_block_template_11 .td-block-title::after,
-    .td-theme-wrap .td_block_template_14 .td-block-title,
-    .td-theme-wrap .td_block_template_15 .td-block-title:before,
-    .td-theme-wrap .td_block_template_17 .td-block-title:before {
-        background-color: #222222;
-    }
-
-    .woocommerce div.product .woocommerce-tabs ul.tabs li.active {
-    	background-color: #222222 !important;
-    }
-
-    .block-title,
-    .td_block_template_1 .td-related-title,
-    .wpb_tabs .wpb_tabs_nav,
-    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container,
-    .woocommerce div.product .woocommerce-tabs ul.tabs:before,
-    .td-theme-wrap .td_block_template_5 .td-block-title > *,
-    .td-theme-wrap .td_block_template_17 .td-block-title,
-    .td-theme-wrap .td_block_template_17 .td-block-title::before {
-        border-color: #222222;
-    }
-
-    .td-theme-wrap .td_block_template_4 .td-block-title > *:before,
-    .td-theme-wrap .td_block_template_17 .td-block-title::after {
-        border-color: #222222 transparent transparent transparent;
-    }
-    
-    .td-theme-wrap .td_block_template_4 .td-related-title .td-cur-simple-item:before {
-        border-color: #222222 transparent transparent transparent !important;
-    }
-
-    
-    .td-header-wrap .td-header-top-menu-full,
-    .td-header-wrap .top-header-menu .sub-menu {
-        background-color: #06142d;
-    }
-    .td-header-style-8 .td-header-top-menu-full {
-        background-color: transparent;
-    }
-    .td-header-style-8 .td-header-top-menu-full .td-header-top-menu {
-        background-color: #06142d;
-        padding-left: 15px;
-        padding-right: 15px;
-    }
-
-    .td-header-wrap .td-header-top-menu-full .td-header-top-menu,
-    .td-header-wrap .td-header-top-menu-full {
-        border-bottom: none;
-    }
-
-
-    
-    .td-header-wrap .td-header-sp-top-widget .td-icon-font,
-    .td-header-style-7 .td-header-top-menu .td-social-icon-wrap .td-icon-font {
-        color: #ffffff;
-    }
-
-    
-    .td-header-wrap .td-header-menu-wrap-full,
-    .td-header-menu-wrap.td-affix,
-    .td-header-style-3 .td-header-main-menu,
-    .td-header-style-3 .td-affix .td-header-main-menu,
-    .td-header-style-4 .td-header-main-menu,
-    .td-header-style-4 .td-affix .td-header-main-menu,
-    .td-header-style-8 .td-header-menu-wrap.td-affix,
-    .td-header-style-8 .td-header-top-menu-full {
-		background-color: #ffffff;
-    }
-
-
-    .td-boxed-layout .td-header-style-3 .td-header-menu-wrap,
-    .td-boxed-layout .td-header-style-4 .td-header-menu-wrap,
-    .td-header-style-3 .td_stretch_content .td-header-menu-wrap,
-    .td-header-style-4 .td_stretch_content .td-header-menu-wrap {
-    	background-color: #ffffff !important;
-    }
-
-
-    @media (min-width: 1019px) {
-        .td-header-style-1 .td-header-sp-recs,
-        .td-header-style-1 .td-header-sp-logo {
-            margin-bottom: 28px;
-        }
-    }
-
-    @media (min-width: 768px) and (max-width: 1018px) {
-        .td-header-style-1 .td-header-sp-recs,
-        .td-header-style-1 .td-header-sp-logo {
-            margin-bottom: 14px;
-        }
-    }
-
-    .td-header-style-7 .td-header-top-menu {
-        border-bottom: none;
-    }
-    
-    
-    
-    .sf-menu > .current-menu-item > a:after,
-    .sf-menu > .current-menu-ancestor > a:after,
-    .sf-menu > .current-category-ancestor > a:after,
-    .sf-menu > li:hover > a:after,
-    .sf-menu > .sfHover > a:after,
-    .td_block_mega_menu .td-next-prev-wrap a:hover,
-    .td-mega-span .td-post-category:hover,
-    .td-header-wrap .black-menu .sf-menu > li > a:hover,
-    .td-header-wrap .black-menu .sf-menu > .current-menu-ancestor > a,
-    .td-header-wrap .black-menu .sf-menu > .sfHover > a,
-    .header-search-wrap .td-drop-down-search:after,
-    .header-search-wrap .td-drop-down-search .btn:hover,
-    .td-header-wrap .black-menu .sf-menu > .current-menu-item > a,
-    .td-header-wrap .black-menu .sf-menu > .current-menu-ancestor > a,
-    .td-header-wrap .black-menu .sf-menu > .current-category-ancestor > a {
-        background-color: #0d838c;
-    }
-
-
-    .td_block_mega_menu .td-next-prev-wrap a:hover {
-        border-color: #0d838c;
-    }
-
-    .header-search-wrap .td-drop-down-search:before {
-        border-color: transparent transparent #0d838c transparent;
-    }
-
-    .td_mega_menu_sub_cats .cur-sub-cat,
-    .td_mod_mega_menu:hover .entry-title a,
-    .td-theme-wrap .sf-menu ul .td-menu-item > a:hover,
-    .td-theme-wrap .sf-menu ul .sfHover > a,
-    .td-theme-wrap .sf-menu ul .current-menu-ancestor > a,
-    .td-theme-wrap .sf-menu ul .current-category-ancestor > a,
-    .td-theme-wrap .sf-menu ul .current-menu-item > a {
-        color: #0d838c;
-    }
-    
-    
-    
-    .td-header-wrap .td-header-menu-wrap .sf-menu > li > a,
-    .td-header-wrap .td-header-menu-social .td-social-icon-wrap a,
-    .td-header-style-4 .td-header-menu-social .td-social-icon-wrap i,
-    .td-header-style-5 .td-header-menu-social .td-social-icon-wrap i,
-    .td-header-style-6 .td-header-menu-social .td-social-icon-wrap i,
-    .td-header-style-12 .td-header-menu-social .td-social-icon-wrap i,
-    .td-header-wrap .header-search-wrap #td-header-search-button .td-icon-search {
-        color: #181e25;
-    }
-    .td-header-wrap .td-header-menu-social + .td-search-wrapper #td-header-search-button:before {
-      background-color: #181e25;
-    }
-    
-    
-    .td-theme-wrap .sf-menu .td-normal-menu .sub-menu .td-menu-item > a {
-        color: #181e25;
-    }
-
-    
-    .td-theme-wrap .sf-menu .td-normal-menu .td-menu-item > a:hover,
-    .td-theme-wrap .sf-menu .td-normal-menu .sfHover > a,
-    .td-theme-wrap .sf-menu .td-normal-menu .current-menu-ancestor > a,
-    .td-theme-wrap .sf-menu .td-normal-menu .current-category-ancestor > a,
-    .td-theme-wrap .sf-menu .td-normal-menu .current-menu-item > a {
-        color: #0d838c;
-    }
-
-    
-    .td-theme-wrap .td-mega-span h3 a {
-        color: #181e25;
-    }
-    
-    .td-theme-wrap .td_mega_menu_sub_cats a {
-        color: #181e25;
-    }
-    
-    .td-theme-wrap .td_mod_mega_menu:hover .entry-title a,
-    .td-theme-wrap .sf-menu .td_mega_menu_sub_cats .cur-sub-cat {
-        color: #0d838c;
-    }
-    .td-theme-wrap .sf-menu .td-mega-menu .td-post-category:hover,
-    .td-theme-wrap .td-mega-menu .td-next-prev-wrap a:hover {
-        background-color: #0d838c;
-    }
-    .td-theme-wrap .td-mega-menu .td-next-prev-wrap a:hover {
-        border-color: #0d838c;
-    }
-
-    
-    .td-theme-wrap .td-aj-search-results .td-module-title a,
-    .td-theme-wrap #td-header-search,
-    .td-theme-wrap .header-search-wrap .result-msg a {
-        color: #181e25;
-    }
-    .td-theme-wrap .td-aj-search-results .td_module_wrap:hover .entry-title a,
-    .td-theme-wrap .header-search-wrap .result-msg a:hover {
-        color: #4db2ec;
-    }
-    
-    .td-theme-wrap .td-aj-search-results .td-post-date {
-        color: #29323d;
-    }
-    
-    .td-theme-wrap .header-search-wrap .td-drop-down-search .btn {
-        background-color: #181e25;
-    }
-    
-    .td-theme-wrap .header-search-wrap .td-drop-down-search .btn:hover {
-        background-color: #0d838c;
-    }
-    .td-theme-wrap .td-aj-search-results .td_module_wrap:hover .entry-title a,
-    .td-theme-wrap .header-search-wrap .result-msg a:hover {
-        color: #0d838c !important;
-    }
-
-    
-    @media (max-width: 767px) {
-        body .td-header-wrap .td-header-main-menu {
-            background-color: #ffffff !important;
-        }
-    }
-
-
-    
-    @media (max-width: 767px) {
-        body #td-top-mobile-toggle i,
-        .td-header-wrap .header-search-wrap .td-icon-search {
-            color: #181e25 !important;
-        }
-    }
-
-    
-    .td-menu-background:before,
-    .td-search-background:before {
-        background: #181e25;
-        background: -moz-linear-gradient(top, #181e25 0%, #181e25 100%);
-        background: -webkit-gradient(left top, left bottom, color-stop(0%, #181e25), color-stop(100%, #181e25));
-        background: -webkit-linear-gradient(top, #181e25 0%, #181e25 100%);
-        background: -o-linear-gradient(top, #181e25 0%, @mobileu_gradient_two_mob 100%);
-        background: -ms-linear-gradient(top, #181e25 0%, #181e25 100%);
-        background: linear-gradient(to bottom, #181e25 0%, #181e25 100%);
-        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#181e25', endColorstr='#181e25', GradientType=0 );
-    }
-
-    
-    .td-mobile-content .current-menu-item > a,
-    .td-mobile-content .current-menu-ancestor > a,
-    .td-mobile-content .current-category-ancestor > a,
-    #td-mobile-nav .td-menu-login-section a:hover,
-    #td-mobile-nav .td-register-section a:hover,
-    #td-mobile-nav .td-menu-socials-wrap a:hover i,
-    .td-search-close a:hover i {
-        color: #0d838c;
-    }
-
-    
-    .td-banner-wrap-full,
-    .td-header-style-11 .td-logo-wrap-full {
-        background-color: #f7f7f7;
-    }
-
-    .td-header-style-11 .td-logo-wrap-full {
-        border-bottom: 0;
-    }
-
-    @media (min-width: 1019px) {
-        .td-header-style-2 .td-header-sp-recs,
-        .td-header-style-5 .td-a-rec-id-header > div,
-        .td-header-style-5 .td-g-rec-id-header > .adsbygoogle,
-        .td-header-style-6 .td-a-rec-id-header > div,
-        .td-header-style-6 .td-g-rec-id-header > .adsbygoogle,
-        .td-header-style-7 .td-a-rec-id-header > div,
-        .td-header-style-7 .td-g-rec-id-header > .adsbygoogle,
-        .td-header-style-8 .td-a-rec-id-header > div,
-        .td-header-style-8 .td-g-rec-id-header > .adsbygoogle,
-        .td-header-style-12 .td-a-rec-id-header > div,
-        .td-header-style-12 .td-g-rec-id-header > .adsbygoogle {
-            margin-bottom: 24px !important;
-        }
-    }
-
-    @media (min-width: 768px) and (max-width: 1018px) {
-        .td-header-style-2 .td-header-sp-recs,
-        .td-header-style-5 .td-a-rec-id-header > div,
-        .td-header-style-5 .td-g-rec-id-header > .adsbygoogle,
-        .td-header-style-6 .td-a-rec-id-header > div,
-        .td-header-style-6 .td-g-rec-id-header > .adsbygoogle,
-        .td-header-style-7 .td-a-rec-id-header > div,
-        .td-header-style-7 .td-g-rec-id-header > .adsbygoogle,
-        .td-header-style-8 .td-a-rec-id-header > div,
-        .td-header-style-8 .td-g-rec-id-header > .adsbygoogle,
-        .td-header-style-12 .td-a-rec-id-header > div,
-        .td-header-style-12 .td-g-rec-id-header > .adsbygoogle {
-            margin-bottom: 14px !important;
-        }
-    }
-
-     
-    .td-header-wrap .td-logo-text-container .td-tagline-text {
-        color: #67798e;
-    }
-    
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Page not found | IoT For All
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Home
+Podcast
+News
+Join
+
+Become a Contributor
+Become a Partner
+Submit a Press Release
+
+
+More
+
+About
+Team
+Partners
+Event Partners
+Newsletter
+Ebooks
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IoT For All
+
+
+Home
+Podcast
+News
+Join
+
+Become a Contributor
+Become a Partner
+Submit a Press Release
+
+
+More
+
+About
+Team
+Partners
+Event Partners
+Newsletter
+Ebooks
+
+
+
+
+
+
+
+
+
+
+
+                    Ooops... Error 404                
+
+                    Sorry, but the page you are looking for doesn't exist.                
+
+                    You can go to the                    HOMEPAGE
+
+OUR LATEST POSTS
+
+
+
+
+
+Designing A New Standard for Worker Safety: UI for Industry IoT 
+July 17, 2020 
+
+
+ 
+
+
+
+
+The IoT Trust Label: Benefits and Challenges to Implementation 
+July 16, 2020 
+
+
+ 
+
+
+
+
+The Importance of the Antenna in IoT Product Development 
+July 15, 2020 
+
+
+ 
+
+
+
+
+
+How Will COVID-19 Impact Industrial Analytics and IoT? 
+July 14, 2020 
+
+
+ 
+
+
+
+
+Evolving Private IoT Networks: LoRa and CBRS 
+July 13, 2020 
+
+
+ 
+
+
+
+
+IoT Applications in Construction 
+July 12, 2020 
+
+
+  
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+Editor's Picks
+
+
+
+
+Designing A New Standard for Worker Safety: UI for Industry IoT 
+July 17, 2020 
+
+
+ 
+
+
+
+
+The IoT Trust Label: Benefits and Challenges to Implementation 
+July 16, 2020 
+
+
+ 
+
+
+
+
+The Importance of the Antenna in IoT Product Development 
+July 15, 2020 
+
+
    
-    
-    .td-footer-wrapper,
-    .td-footer-wrapper .td_block_template_7 .td-block-title > *,
-    .td-footer-wrapper .td_block_template_17 .td-block-title,
-    .td-footer-wrapper .td-block-title-wrap .td-wrapper-pulldown-filter {
-        background-color: #181e25;
-    }
-
-    
-    .td-sub-footer-container {
-        background-color: #181e25;
-    }
-
-    
-    .post .td-post-header .entry-title {
-        color: #181e25;
-    }
-    .td_module_15 .entry-title a {
-        color: #181e25;
-    }
-
-    
-    .td-module-meta-info .td-post-author-name a {
-    	color: #181e25;
-    }
-
-    
-    .td-post-content,
-    .td-post-content p {
-    	color: #29323d;
-    }
-
-    
-    .td-post-content h1,
-    .td-post-content h2,
-    .td-post-content h3,
-    .td-post-content h4,
-    .td-post-content h5,
-    .td-post-content h6 {
-    	color: #181e25;
-    }
-
-    
-    .post blockquote p,
-    .page blockquote p {
-    	color: #181e25;
-    }
-    .post .td_quote_box,
-    .page .td_quote_box {
-        border-color: #181e25;
-    }
-
-
-    
-    .td-page-header h1,
-    .td-page-title,
-    .woocommerce-page .page-title {
-    	color: #29323d;
-    }
-
-    
-    .td-page-content p,
-    .td-page-content .td_block_text_with_title,
-    .woocommerce-page .page-description > p {
-    	color: #29323d;
-    }
-
-    
-    .td-page-content h1,
-    .td-page-content h2,
-    .td-page-content h3,
-    .td-page-content h4,
-    .td-page-content h5,
-    .td-page-content h6 {
-    	color: #29323d;
-    }
-
-    .td-page-content .widgettitle {
-        color: #fff;
-    }
-
-
-
-    
-    .top-header-menu > li > a,
-    .td-weather-top-widget .td-weather-now .td-big-degrees,
-    .td-weather-top-widget .td-weather-header .td-weather-city,
-    .td-header-sp-top-menu .td_data_time {
-        font-family:Inter-Bold;
-	
-    }
-    
-    .top-header-menu .menu-item-has-children li a {
-    	font-family:Inter-Bold;
-	
-    }
-    
-    ul.sf-menu > .td-menu-item > a,
-    .td-theme-wrap .td-header-menu-social {
-        font-family:Inter-Bold;
-	
-    }
-    
-    .sf-menu ul .td-menu-item a {
-        font-family:Inter-Bold;
-	
-    }
-	
-    .td_mod_mega_menu .item-details a {
-        font-family:Inter-Bold;
-	
-    }
-    
-    .td_mega_menu_sub_cats .block-mega-child-cats a {
-        font-family:Inter-Medium;
-	
-    }
-    
-    .td-header-wrap .td-logo-text-container .td-logo-text {
-        font-family:Inter-Regular;
-	
-    }
-    
-    .td-header-wrap .td-logo-text-container .td-tagline-text {
-        font-family:Inter-Regular;
-	
-    }
-
-
-
-	
-    .block-title > span,
-    .block-title > a,
-    .widgettitle,
-    .td-trending-now-title,
-    .wpb_tabs li a,
-    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab > a,
-    .td-theme-wrap .td-related-title a,
-    .woocommerce div.product .woocommerce-tabs ul.tabs li a,
-    .woocommerce .product .products h2:not(.woocommerce-loop-product__title),
-    .td-theme-wrap .td-block-title {
-        font-family:Inter-Bold;
-	font-weight:bold;
-	
-    }
-    
-    .td_module_wrap .td-post-author-name a {
-        font-family:Inter-SemiBold;
-	font-size:12px;
-	font-weight:300;
-	
-    }
-    
-    .td-post-date .entry-date {
-        font-family:Inter-Regular;
-	font-size:12px;
-	font-weight:300;
-	
-    }
-    
-    .td-module-comments a,
-    .td-post-views span,
-    .td-post-comments a {
-        font-family:Inter-Regular;
-	
-    }
-    
-    .td-big-grid-meta .td-post-category,
-    .td_module_wrap .td-post-category,
-    .td-module-image .td-post-category {
-        font-family:Inter-Bold;
-	font-weight:800;
-	
-    }
-    
-    .td-subcat-filter .td-subcat-dropdown a,
-    .td-subcat-filter .td-subcat-list a,
-    .td-subcat-filter .td-subcat-dropdown span {
-        font-family:Inter-Regular;
-	
-    }
-    
-    .td-excerpt,
-    .td_module_14 .td-excerpt {
-        font-family:Inter-Regular;
-	font-size:16px;
-	line-height:28px;
-	
-    }
-
-
-	
-	.td_module_wrap .td-module-title {
-		font-family:Inter-Bold;
-	
-	}
-     
-    .td_module_1 .td-module-title {
-    	font-weight:bold;
-	
-    }
-    
-    .td_module_2 .td-module-title {
-    	font-size:14px;
-	font-weight:bold;
-	
-    }
-    
-    .td_module_3 .td-module-title {
-    	font-weight:bold;
-	
-    }
-    
-    .td_module_4 .td-module-title {
-    	font-weight:bold;
-	
-    }
-    
-    .td_module_5 .td-module-title {
-    	font-weight:bold;
-	
-    }
-    
-    .td_module_6 .td-module-title {
-    	font-weight:bold;
-	
-    }
-    
-    .td_module_7 .td-module-title {
-    	font-size:16px;
-	line-height:26px;
-	font-weight:bold;
-	
-    }
-    
-    .td_module_8 .td-module-title {
-    	font-size:16px;
-	line-height:26px;
-	
-    }
-    
-    .td_module_9 .td-module-title {
-    	font-weight:bold;
-	
-    }
-    
-    .td_module_10 .td-module-title {
-    	font-weight:bold;
-	
-    }
-    
-    .td_module_11 .td-module-title {
-    	font-weight:bold;
-	
-    }
-    
-    .td_module_12 .td-module-title {
-    	font-weight:bold;
-	
-    }
-    
-    .td_module_13 .td-module-title {
-    	font-weight:bold;
-	
-    }
-    
-    .td_module_14 .td-module-title {
-    	font-weight:bold;
-	
-    }
-    
-    .td_module_15 .entry-title {
-    	font-weight:bold;
-	
-    }
-    
-    .td_module_16 .td-module-title {
-    	font-size:22px;
-	line-height:32px;
-	font-weight:bold;
-	
-    }
-    
-    .td_module_17 .td-module-title {
-    	font-weight:bold;
-	
-    }
-    
-    .td_module_18 .td-module-title {
-    	font-weight:bold;
-	
-    }
-    
-    .td_module_19 .td-module-title {
-    	font-weight:bold;
-	
-    }
-
-
-
-
-	
-	.td_block_trending_now .entry-title,
-	.td-theme-slider .td-module-title,
-    .td-big-grid-post .entry-title {
-		font-family:Inter-Bold;
-	
-	}
-    
-    .td_module_mx1 .td-module-title {
-    	font-weight:bold;
-	
-    }
-    
-    .td_module_mx2 .td-module-title {
-    	line-height:10px;
-	font-weight:bold;
-	
-    }
-    
-    .td_module_mx3 .td-module-title {
-    	font-weight:bold;
-	
-    }
-    
-    .td_module_mx4 .td-module-title {
-    	font-weight:bold;
-	
-    }
-    
-    .td_module_mx5 .td-module-title {
-    	font-weight:bold;
-	
-    }
-    
-    .td_module_mx6 .td-module-title {
-    	font-weight:bold;
-	
-    }
-    
-    .td_module_mx7 .td-module-title {
-    	font-weight:bold;
-	
-    }
-    
-    .td_module_mx8 .td-module-title {
-    	font-weight:bold;
-	
-    }
-    
-    .td_module_mx9 .td-module-title {
-    	font-weight:bold;
-	
-    }
-    
-    .td_module_mx10 .td-module-title {
-    	font-weight:bold;
-	
-    }
-    
-    .td_module_mx11 .td-module-title {
-    	font-weight:bold;
-	
-    }
-    
-    .td_module_mx12 .td-module-title {
-    	font-weight:bold;
-	
-    }
-    
-    .td_module_mx13 .td-module-title {
-    	font-weight:bold;
-	
-    }
-    
-    .td_module_mx14 .td-module-title {
-    	font-weight:bold;
-	
-    }
-    
-    .td_module_mx15 .td-module-title {
-    	font-weight:bold;
-	
-    }
-    
-    .td_module_mx16 .td-module-title {
-    	font-weight:bold;
-	
-    }
-    
-    .td_module_mx17 .td-module-title {
-    	font-weight:bold;
-	
-    }
-    
-    .td_module_mx18 .td-module-title {
-    	font-weight:bold;
-	
-    }
-    
-    .td_module_mx19 .td-module-title {
-    	font-weight:bold;
-	
-    }
-    
-    .td_module_mx20 .td-module-title {
-    	font-weight:bold;
-	
-    }
-    
-    .td_module_mx21 .td-module-title {
-    	font-weight:600;
-	
-    }
-    
-    .td_module_mx22 .td-module-title {
-    	font-weight:bold;
-	
-    }
-    
-    .td_module_mx23 .td-module-title {
-    	font-weight:bold;
-	
-    }
-    
-    .td_module_mx24 .td-module-title {
-    	font-weight:bold;
-	
-    }
-    
-    .td_module_mx25 .td-module-title {
-    	font-weight:bold;
-	
-    }
-    
-    .td_module_mx26 .td-module-title {
-    	font-weight:bold;
-	
-    }
-    
-    .td_block_trending_now .entry-title {
-    	font-weight:bold;
-	
-    }
-    
-    .td-theme-slider.iosSlider-col-1 .td-module-title {
-        font-weight:bold;
-	
-    }
-    
-    .td-theme-slider.iosSlider-col-2 .td-module-title {
-        font-weight:bold;
-	
-    }
-    
-    .td-theme-slider.iosSlider-col-3 .td-module-title {
-        font-weight:bold;
-	
-    }
-    
-    .td-big-grid-post.td-big-thumb .td-big-grid-meta,
-    .td-big-thumb .td-big-grid-meta .entry-title {
-        font-weight:800;
-	
-    }
-    
-    .td-big-grid-post.td-medium-thumb .td-big-grid-meta,
-    .td-medium-thumb .td-big-grid-meta .entry-title {
-        font-weight:800;
-	
-    }
-    
-    .td-big-grid-post.td-small-thumb .td-big-grid-meta,
-    .td-small-thumb .td-big-grid-meta .entry-title {
-        font-weight:800;
-	
-    }
-    
-    .td-big-grid-post.td-tiny-thumb .td-big-grid-meta,
-    .td-tiny-thumb .td-big-grid-meta .entry-title {
-        font-weight:bold;
-	
-    }
-    
-    .homepage-post .td-post-template-8 .td-post-header .entry-title {
-        font-weight:bold;
-	
-    }
-
-
-    
-	#td-mobile-nav,
-	#td-mobile-nav .wpb_button,
-	.td-search-wrap-mob {
-		font-family:Inter-Bold;
-	
-	}
-
-
-	
-	.post .td-post-header .entry-title {
-		font-family:Poppins;
-	
-	}
-    
-    .td-post-template-default .td-post-header .entry-title {
-        font-weight:800;
-	
-    }
-    
-    .td-post-template-1 .td-post-header .entry-title {
-        font-weight:800;
-	
-    }
-    
-    .td-post-content p,
-    .td-post-content {
-        font-family:Inter-Regular;
-	font-size:18px;
-	line-height:36px;
-	
-    }
-    
-    .post blockquote p,
-    .page blockquote p,
-    .td-post-text-content blockquote p {
-        font-family:Inter-Bold;
-	
-    }
-    
-    .post .td_quote_box p,
-    .page .td_quote_box p {
-        font-family:Inter-SemiBold;
-	
-    }
-    
-    .post .td_pull_quote p,
-    .page .td_pull_quote p {
-        font-family:Inter-SemiBold;
-	font-weight:normal;
-	
-    }
-    
-    .td-post-content li {
-        font-family:Inter-Regular;
-	font-size:18px;
-	line-height:38px;
-	
-    }
-    
-    .td-post-content h1 {
-        font-family:Poppins;
-	font-size:38px;
-	line-height:42px;
-	font-weight:800;
-	
-    }
-    
-    .td-post-content h2 {
-        font-family:Poppins;
-	font-size:30px;
-	line-height:36px;
-	font-weight:800;
-	
-    }
-    
-    .td-post-content h3 {
-        font-family:Inter-Bold;
-	font-size:26px;
-	line-height:30px;
-	font-weight:bold;
-	
-    }
-    
-    .td-post-content h4 {
-        font-family:Inter-SemiBold;
-	font-size:22px;
-	line-height:28px;
-	font-weight:bold;
-	
-    }
-    
-    .td-post-content h5 {
-        font-family:Inter-SemiBold;
-	font-size:20px;
-	line-height:26px;
-	font-weight:bold;
-	
-    }
-    
-    .td-post-content h6 {
-        font-family:Inter-Medium;
-	font-weight:500;
-	
-    }
-
-
-
-
-
-    
-    .post .td-category a {
-        font-family:Inter-Bold;
-	
-    }
-    
-    .td-page-title,
-    .woocommerce-page .page-title,
-    .td-category-title-holder .td-page-title {
-    	font-family:Poppins;
-	font-size:38px;
-	line-height:48px;
-	font-style:normal;
-	font-weight:800;
-	
-    }
-    
-    .td-page-content p,
-    .td-page-content li,
-    .td-page-content .td_block_text_with_title,
-    .woocommerce-page .page-description > p,
-    .wpb_text_column p {
-    	font-family:Inter-Regular;
-	font-size:18px;
-	line-height:36px;
-	font-weight:normal;
-	
-    }
-    
-    .td-page-content h1,
-    .wpb_text_column h1 {
-    	font-family:Poppins;
-	font-style:normal;
-	font-weight:800;
-	
-    }
-    
-    .td-page-content h2,
-    .wpb_text_column h2 {
-    	font-family:Poppins;
-	font-weight:800;
-	
-    }
-    
-    .td-page-content h3,
-    .wpb_text_column h3 {
-    	font-family:Inter-Bold;
-	
-    }
-    
-    .td-page-content h4,
-    .wpb_text_column h4 {
-    	font-family:Inter-Bold;
-	
-    }
-    
-    .td-page-content h5,
-    .wpb_text_column h5 {
-    	font-family:Inter-Bold;
-	
-    }
-    
-    .td-page-content h6,
-    .wpb_text_column h6 {
-    	font-family:Inter-Bold;
-	
-    }
-
-
-
-
-    
-	.footer-text-wrap {
-		font-family:Inter-Regular;
-	font-size:16px;
-	line-height:20px;
-	
-	}
-	
-	.td-sub-footer-copy {
-		font-family:Inter-Regular;
-	
-	}
-	
-	.td-sub-footer-menu ul li a {
-		font-family:Inter-Bold;
-	font-weight:bold;
-	
-	}
-
-
-
-
-	
-    .entry-crumbs a,
-    .entry-crumbs span,
-    #bbpress-forums .bbp-breadcrumb a,
-    #bbpress-forums .bbp-breadcrumb .bbp-breadcrumb-current {
-    	font-family:Inter-Regular;
-	
-    }
-    
-    .category .td-category a {
-    	font-family:Inter-Bold;
-	
-    }
-    
-    .td-trending-now-display-area .entry-title {
-    	font-family:Inter-Regular;
-	
-    }
-    
-    .page-nav a,
-    .page-nav span {
-    	font-family:Inter-Bold;
-	
-    }
-    
-    #td-outer-wrap span.dropcap {
-    	font-family:Inter-Regular;
-	
-    }
-    
-    .widget_archive a,
-    .widget_calendar,
-    .widget_categories a,
-    .widget_nav_menu a,
-    .widget_meta a,
-    .widget_pages a,
-    .widget_recent_comments a,
-    .widget_recent_entries a,
-    .widget_text .textwidget,
-    .widget_tag_cloud a,
-    .widget_search input,
-    .woocommerce .product-categories a,
-    .widget_display_forums a,
-    .widget_display_replies a,
-    .widget_display_topics a,
-    .widget_display_views a,
-    .widget_display_stats {
-    	font-family:Inter-Regular;
-	
-    }
-    
-	input[type="submit"],
-	.td-read-more a,
-	.vc_btn,
-	.woocommerce a.button,
-	.woocommerce button.button,
-	.woocommerce #respond input#submit {
-		font-family:Inter-Bold;
-	
-	}
-	
-    body, p {
-    	font-family:Inter-Regular;
-	font-size:20px;
-	line-height:24px;
-	font-weight:normal;
-	
-    }
-   </style>
-   <!-- Button style compiled by theme -->
-   <style>
-    .tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu > .current-category-ancestor > a,
-                .tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu > .current-menu-ancestor > a,
-                .tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu > .current-menu-item > a,
-                .tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu > .sfHover > a,
-                .tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu > li > a:hover,
-                .tdm_block_column_content:hover .tdm-col-content-title-url .tdm-title,
-                .tds-button2 .tdm-btn-text,
-                .tds-button2 i,
-                .tds-button5:hover .tdm-btn-text,
-                .tds-button5:hover i,
-                .tds-button6 .tdm-btn-text,
-                .tds-button6 i,
-                .tdm_block_list .tdm-list-item i,
-                .tdm_block_pricing .tdm-pricing-feature i,
-                .tdm-social-item i {
-                  color: #0d838c;
-                }
-                .tdm-menu-active-style5 .td-header-menu-wrap .sf-menu > .current-menu-item > a,
-                .tdm-menu-active-style5 .td-header-menu-wrap .sf-menu > .current-menu-ancestor > a,
-                .tdm-menu-active-style5 .td-header-menu-wrap .sf-menu > .current-category-ancestor > a,
-                .tdm-menu-active-style5 .td-header-menu-wrap .sf-menu > li > a:hover,
-                .tdm-menu-active-style5 .td-header-menu-wrap .sf-menu > .sfHover > a,
-                .tds-button1,
-                .tds-button6:after,
-                .tds-title2 .tdm-title-line:after,
-                .tds-title3 .tdm-title-line:after,
-                .tdm_block_pricing.tdm-pricing-featured:before,
-                .tdm_block_pricing.tds_pricing2_block.tdm-pricing-featured .tdm-pricing-header,
-                .tds-progress-bar1 .tdm-progress-bar:after,
-                .tds-progress-bar2 .tdm-progress-bar:after,
-                .tds-social3 .tdm-social-item {
-                  background-color: #0d838c;
-                }
-                .tdm-menu-active-style4 .tdm-header .sf-menu > .current-menu-item > a,
-                .tdm-menu-active-style4 .tdm-header .sf-menu > .current-menu-ancestor > a,
-                .tdm-menu-active-style4 .tdm-header .sf-menu > .current-category-ancestor > a,
-                .tdm-menu-active-style4 .tdm-header .sf-menu > li > a:hover,
-                .tdm-menu-active-style4 .tdm-header .sf-menu > .sfHover > a,
-                .tds-button2:before,
-                .tds-button6:before,
-                .tds-progress-bar3 .tdm-progress-bar:after {
-                  border-color: #0d838c;
-                }
-                .tdm-btn-style1 {
-					background-color: #0d838c;
-				}
-				.tdm-btn-style2:before {
-				    border-color: #0d838c;
-				}
-				.tdm-btn-style2 {
-				    color: #0d838c;
-				}
-				.tdm-btn-style3 {
-				    -webkit-box-shadow: 0 2px 16px #0d838c;
-                    -moz-box-shadow: 0 2px 16px #0d838c;
-                    box-shadow: 0 2px 16px #0d838c;
-				}
-				.tdm-btn-style3:hover {
-				    -webkit-box-shadow: 0 4px 26px #0d838c;
-                    -moz-box-shadow: 0 4px 26px #0d838c;
-                    box-shadow: 0 4px 26px #0d838c;
-				}
-				
-				
-                .tdm-header-style-1.td-header-wrap .td-header-top-menu-full,
-                .tdm-header-style-1.td-header-wrap .top-header-menu .sub-menu,
-                .tdm-header-style-2.td-header-wrap .td-header-top-menu-full,
-                .tdm-header-style-2.td-header-wrap .top-header-menu .sub-menu,
-                .tdm-header-style-3.td-header-wrap .td-header-top-menu-full,
-                .tdm-header-style-3.td-header-wrap .top-header-menu .sub-menu{
-                    background-color: #06142d;
-                }
-				
-				
-                .tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu > .current-menu-item > a,
-                .tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu > .current-menu-ancestor > a,
-                .tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu > .current-category-ancestor > a,
-                .tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu > li > a:hover,
-                .tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu > .sfHover > a {
-                  color: #0d838c;
-                }
-                .tdm-menu-active-style4 .tdm-header .sf-menu > .current-menu-item > a,
-                .tdm-menu-active-style4 .tdm-header .sf-menu > .current-menu-ancestor > a,
-                .tdm-menu-active-style4 .tdm-header .sf-menu > .current-category-ancestor > a,
-                .tdm-menu-active-style4 .tdm-header .sf-menu > li > a:hover,
-                .tdm-menu-active-style4 .tdm-header .sf-menu > .sfHover > a {
-                  border-color: #0d838c;
-                }
-                .tdm-menu-active-style5 .tdm-header .td-header-menu-wrap .sf-menu > .current-menu-item > a,
-                .tdm-menu-active-style5 .tdm-header .td-header-menu-wrap .sf-menu > .current-menu-ancestor > a,
-                .tdm-menu-active-style5 .tdm-header .td-header-menu-wrap .sf-menu > .current-category-ancestor > a,
-                .tdm-menu-active-style5 .tdm-header .td-header-menu-wrap .sf-menu > li > a:hover,
-                .tdm-menu-active-style5 .tdm-header .td-header-menu-wrap .sf-menu > .sfHover > a {
-                  background-color: #0d838c;
-                }
-   </style>
-   <noscript>
-    <style type="text/css">
-     .wpb_animate_when_almost_visible { opacity: 1; }
-    </style>
-   </noscript>
-   <style id="tdw-css-placeholder">
-    .authorparent {
-  display: flex;
-  width: 100%;
-  border-radius: 8px;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  background-color: #fff;
-}
-.teamparent {
-  display: flex;
-  width: 100%;
-  border-radius: 8px;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  background-color: #fff;
-}
-.authorname {
-  width: 100%;
-  height: 60px;
-  color: #394756;
-  padding-top: 20px;
-  text-align: center;
-  font-family: 'Inter', sans-serif;
-  font-size: 16px;
-  font-weight: 600;
-  border-radius: 0px 0px 8px 8px;
-}
-.teamname {
-  width: 100%;
-  height: 30px;
-  color: #394756;
-  padding-top: 10px;
-  text-align: center;
-  font-family: 'Inter', sans-serif;
-  font-size: 16px;
-  font-weight: 600;
-}
-.titlename {
-  width: 100%;
-  height: 30px;
-  color: #67798E;
-  padding-top: 8px;
-  padding-bottom: 8px;
-  text-align: center;
-  font-family: 'Inter', sans-serif;
-  font-size: 14px;
-  font-weight: 400;
-}
-.authorpicture {
-  height: 200px;
-  width: 200px;
-  border-radius: 100px;
-  overflow: hidden;
-  margin: auto;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-.partnerparent {
-  display: flex;
-  width: 100%;
-  border-radius: 8px;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  border: 1px solid #F3F5F6;
-  background-color: #fff;
-  box-shadow: 0px 1px 3px rgba(41, 50, 61, 0.16);
-  -webkit-transition: -webkit-transform 200ms ease;
-  transition: -webkit-transform 200ms ease;
-  transition: transform 200ms ease;
-  transition: transform 200ms ease, -webkit-transform 200ms ease;
-}
-.partnerparent:hover {
-  -webkit-transform: scale(1.01);
-  -ms-transform: scale(1.01);
-  transform: scale(1.01);
-}
-.partnername {
-  background-color: #F3F5F6;
-  width: 100%;
-  height: 60px;
-  color: #394756;
-  padding-top: 20px;
-  text-align: center;
-  font-family: 'Inter', sans-serif;
-  font-size: 16px;
-  font-weight: 600;
-  border-radius: 0px 0px 8px 8px;
-}
-.partnerlogo {
-  height: 167px;
-  margin: auto;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-   </style>
-   <noscript>
-    <style id="rocket-lazyload-nojs-css">
-     .rll-youtube-player, [data-lazy-src]{display:none !important;}
-    </style>
-   </noscript>
-   <meta content="17e73b6e2b8f4c7ea385d775cb6e99e3" name="p:domain_verify"/>
-   <meta content="summary_large_image" name="twitter:card"/>
-   <meta content="@iotforall" name="twitter:site"/>
-   <meta content="width=device-width, initial-scale=1" name="viewport"/>
-   <meta content="IE=edge" http-equiv="X-UA-Compatible">
-    <script src="https://www.paypal.com/sdk/js?client-id=Afr9Pch9FR0pg4BCO6zA6Dou-0ET08Y2pCn8OjYmXu97ZjbiFCurbV6pxe6-o-DuLmt-mjoAgP31Gz0F&amp;vault=true">
-    </script>
-    <meta content="width=device-width, initial-scale=1" name="viewport"/>
-    <meta content="IE=edge" http-equiv="X-UA-Compatible">
-     <script src="https://www.paypal.com/sdk/js?client-id=Afr9Pch9FR0pg4BCO6zA6Dou-0ET08Y2pCn8OjYmXu97ZjbiFCurbV6pxe6-o-DuLmt-mjoAgP31Gz0F&amp;vault=true">
-     </script>
-     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&amp;family=Poppins:wght@400;700&amp;display=swap" rel="stylesheet"/>
-    </meta>
-   </meta>
-  </link>
- </head>
- <body class="error404 global-block-template-9 td-tech white-menu wpb-js-composer js-comp-ver-5.6 vc_responsive td-animation-stack-type2 td-full-layout" itemscope="itemscope" itemtype="https://schema.org/WebPage">
-  <!-- Google Tag Manager (noscript) -->
-  <noscript>
-   <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-KJRMSDS" style="display:none;visibility:hidden" width="0">
-   </iframe>
-  </noscript>
-  <!-- End Google Tag Manager (noscript) -->
-  <div id="fb-root">
-  </div>
-  <script>
-   (function(d, s, id) {
- 	 var js, fjs = d.getElementsByTagName(s)[0];
- 	 if (d.getElementById(id)) return;
- 	 js = d.createElement(s); js.id = id;
- 	 js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.8";
- 	 fjs.parentNode.insertBefore(js, fjs);
-	 }(document, 'script', 'facebook-jssdk'));
-  </script>
-  <div class="td-scroll-up">
-   <i class="td-icon-menu-up">
-   </i>
-  </div>
-  <div class="td-menu-background">
-  </div>
-  <div id="td-mobile-nav">
-   <div class="td-mobile-container">
-    <!-- mobile menu top section -->
-    <div class="td-menu-socials-wrap">
-     <!-- socials -->
-     <div class="td-menu-socials">
-      <span class="td-social-icon-wrap">
-       <a href="https://www.facebook.com/iot4all" target="_blank" title="Facebook">
-        <i class="td-icon-font td-icon-facebook">
-        </i>
-       </a>
-      </span>
-      <span class="td-social-icon-wrap">
-       <a href="https://www.instagram.com/iotforall/" target="_blank" title="Instagram">
-        <i class="td-icon-font td-icon-instagram">
-        </i>
-       </a>
-      </span>
-      <span class="td-social-icon-wrap">
-       <a href="https://www.linkedin.com/company/iot-for-all/" target="_blank" title="Linkedin">
-        <i class="td-icon-font td-icon-linkedin">
-        </i>
-       </a>
-      </span>
-      <span class="td-social-icon-wrap">
-       <a href="https://www.iotforall.com/rss-feeds/" target="_blank" title="RSS">
-        <i class="td-icon-font td-icon-rss">
-        </i>
-       </a>
-      </span>
-      <span class="td-social-icon-wrap">
-       <a href="https://twitter.com/iotforall?lang=en" target="_blank" title="Twitter">
-        <i class="td-icon-font td-icon-twitter">
-        </i>
-       </a>
-      </span>
-     </div>
-     <!-- close button -->
-     <div class="td-mobile-close">
-      <a href="#">
-       <i class="td-icon-close-mobile">
-       </i>
-      </a>
-     </div>
-    </div>
-    <!-- login section -->
-    <!-- menu section -->
-    <div class="td-mobile-content">
-     <div class="menu-main-nav-container">
-      <ul class="td-mobile-main-menu" id="menu-main-nav">
-       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-first menu-item-66807" id="menu-item-66807">
-        <a href="https://www.iotforall.com/">
-         Home
-        </a>
-       </li>
-       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41638" id="menu-item-41638">
-        <a href="https://www.iotforall.com/podcast/">
-         Podcast
-        </a>
-       </li>
-       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40726" id="menu-item-40726">
-        <a href="https://www.iotforall.com/iot-press-releases/">
-         News
-        </a>
-       </li>
-       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19018" id="menu-item-19018">
-        <a href="https://www.iotforall.com/contribute/">
-         Join
-         <i class="td-icon-menu-right td-element-after">
-         </i>
-        </a>
-        <ul class="sub-menu">
-         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19016" id="menu-item-19016">
-          <a href="https://www.iotforall.com/contribute/">
-           Become a Contributor
-          </a>
-         </li>
-         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60915" id="menu-item-60915">
-          <a href="https://www.iotforall.com/advertise/">
-           Become a Partner
-          </a>
-         </li>
-         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19017" id="menu-item-19017">
-          <a href="https://www.iotforall.com/press-release-submission/">
-           Submit a Press Release
-          </a>
-         </li>
-        </ul>
-       </li>
-       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1613" id="menu-item-1613">
-        <a href="https://www.iotforall.com/about-iot-for-all/">
-         More
-         <i class="td-icon-menu-right td-element-after">
-         </i>
-        </a>
-        <ul class="sub-menu">
-         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-410" id="menu-item-410">
-          <a href="https://www.iotforall.com/about-iot-for-all/">
-           About
-          </a>
-         </li>
-         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25370" id="menu-item-25370">
-          <a href="https://www.iotforall.com/ifateam/">
-           Team
-          </a>
-         </li>
-         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-66838" id="menu-item-66838">
-          <a href="https://www.iotforall.com/partners/">
-           Partners
-          </a>
-         </li>
-         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42984" id="menu-item-42984">
-          <a href="https://www.iotforall.com/event-partners/">
-           Event Partners
-          </a>
-         </li>
-         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5114" id="menu-item-5114">
-          <a href="https://www.iotforall.com/iot-newsletter/">
-           Newsletter
-          </a>
-         </li>
-         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43936" id="menu-item-43936">
-          <a href="https://www.iotforall.com/iot-ebooks/">
-           Ebooks
-          </a>
-         </li>
-        </ul>
-       </li>
-      </ul>
-     </div>
-    </div>
-   </div>
-   <!-- register/login section -->
-  </div>
-  <div class="td-search-background">
-  </div>
-  <div class="td-search-wrap-mob">
-   <div aria-labelledby="td-header-search-button" class="td-drop-down-search">
-    <form action="https://www.iotforall.com/" class="td-search-form" method="get">
-     <!-- close button -->
-     <div class="td-search-close">
-      <a href="#">
-       <i class="td-icon-close-mobile">
-       </i>
-      </a>
-     </div>
-     <div class="td-search-input" role="search">
-      <span>
-       Search
-      </span>
-      <input autocomplete="off" id="td-header-search-mob" name="s" type="text" value=""/>
-     </div>
-    </form>
-    <div id="td-aj-search-mob">
-    </div>
-   </div>
-  </div>
-  <div class="td-theme-wrap" id="td-outer-wrap">
-   <!--
-Header style multipurpose 3
--->
-   <div class="td-header-wrap tdm-header tdm-header-style-3">
-    <div class="td-header-top-menu-full td-container-wrap td_stretch_container">
-     <div class="td-container td-header-row td-header-top-menu">
-      <div class="top-bar-style-1">
-       <div class="td-header-sp-top-menu">
-       </div>
-       <div class="td-header-sp-top-widget">
-        <span class="td-social-icon-wrap">
-         <a href="https://www.facebook.com/iot4all" target="_blank" title="Facebook">
-          <i class="td-icon-font td-icon-facebook">
-          </i>
-         </a>
-        </span>
-        <span class="td-social-icon-wrap">
-         <a href="https://www.instagram.com/iotforall/" target="_blank" title="Instagram">
-          <i class="td-icon-font td-icon-instagram">
-          </i>
-         </a>
-        </span>
-        <span class="td-social-icon-wrap">
-         <a href="https://www.linkedin.com/company/iot-for-all/" target="_blank" title="Linkedin">
-          <i class="td-icon-font td-icon-linkedin">
-          </i>
-         </a>
-        </span>
-        <span class="td-social-icon-wrap">
-         <a href="https://www.iotforall.com/rss-feeds/" target="_blank" title="RSS">
-          <i class="td-icon-font td-icon-rss">
-          </i>
-         </a>
-        </span>
-        <span class="td-social-icon-wrap">
-         <a href="https://twitter.com/iotforall?lang=en" target="_blank" title="Twitter">
-          <i class="td-icon-font td-icon-twitter">
-          </i>
-         </a>
-        </span>
-       </div>
-      </div>
-      <!-- LOGIN MODAL -->
-     </div>
-    </div>
-    <div class="td-header-menu-wrap-full td-container-wrap td_stretch_container">
-     <div class="td-header-menu-wrap td-header-gradient td-header-menu-no-search">
-      <div class="td-container td-header-row td-header-main-menu">
-       <div class="tdm-menu-btns-socials">
-        <div class="header-search-wrap">
-         <div class="td-search-btns-wrap">
-          <a class="dropdown-toggle" data-toggle="dropdown" href="#" id="td-header-search-button" role="button">
-           <i class="td-icon-search">
-           </i>
-          </a>
-          <a class="dropdown-toggle" data-toggle="dropdown" href="#" id="td-header-search-button-mob" role="button">
-           <i class="td-icon-search">
-           </i>
-          </a>
-         </div>
-         <div aria-labelledby="td-header-search-button" class="td-drop-down-search">
-          <form action="https://www.iotforall.com/" class="td-search-form" method="get">
-           <div class="td-head-form-search-wrap" role="search">
-            <input autocomplete="off" id="td-header-search" name="s" type="text" value=""/>
-            <input class="wpb_button wpb_btn-inverse btn" id="td-header-search-top" type="submit" value="Search"/>
-           </div>
-          </form>
-          <div id="td-aj-search">
-          </div>
-         </div>
-        </div>
-       </div>
-       <div id="td-header-menu" role="navigation">
-        <div id="td-top-mobile-toggle">
-         <a href="#">
-          <i class="td-icon-font td-icon-mobile">
-          </i>
-         </a>
-        </div>
-        <div class="td-main-menu-logo td-logo-in-menu">
-         <a class="td-mobile-logo td-sticky-disable" href="https://www.iotforall.com/">
-          <img alt="" class="td-retina-data" data-retina="https://www.iotforall.com/wp-content/uploads/2017/04/iotforall-05.png" src="https://www.iotforall.com/wp-content/uploads/2017/04/iotforall-05.png"/>
-         </a>
-         <a class="td-header-logo td-sticky-disable" href="https://www.iotforall.com/">
-          <img alt="" class="td-retina-data" data-retina="https://www.iotforall.com/wp-content/uploads/2017/05/iotforalllogo-01.png" src="https://www.iotforall.com/wp-content/uploads/2017/05/iotforalllogo-01.png"/>
-          <span class="td-visual-hidden">
-           IoT For All
-          </span>
-         </a>
-        </div>
-        <div class="menu-main-nav-container">
-         <ul class="sf-menu" id="menu-main-nav-1">
-          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-first td-menu-item td-normal-menu menu-item-66807">
-           <a href="https://www.iotforall.com/">
-            Home
-           </a>
-          </li>
-          <li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-41638">
-           <a href="https://www.iotforall.com/podcast/">
-            Podcast
-           </a>
-          </li>
-          <li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-40726">
-           <a href="https://www.iotforall.com/iot-press-releases/">
-            News
-           </a>
-          </li>
-          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children td-menu-item td-normal-menu menu-item-19018">
-           <a href="https://www.iotforall.com/contribute/">
-            Join
-           </a>
-           <ul class="sub-menu">
-            <li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-19016">
-             <a href="https://www.iotforall.com/contribute/">
-              Become a Contributor
-             </a>
-            </li>
-            <li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-60915">
-             <a href="https://www.iotforall.com/advertise/">
-              Become a Partner
-             </a>
-            </li>
-            <li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-19017">
-             <a href="https://www.iotforall.com/press-release-submission/">
-              Submit a Press Release
-             </a>
-            </li>
-           </ul>
-          </li>
-          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children td-menu-item td-normal-menu menu-item-1613">
-           <a href="https://www.iotforall.com/about-iot-for-all/">
-            More
-           </a>
-           <ul class="sub-menu">
-            <li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-410">
-             <a href="https://www.iotforall.com/about-iot-for-all/">
-              About
-             </a>
-            </li>
-            <li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-25370">
-             <a href="https://www.iotforall.com/ifateam/">
-              Team
-             </a>
-            </li>
-            <li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-66838">
-             <a href="https://www.iotforall.com/partners/">
-              Partners
-             </a>
-            </li>
-            <li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-42984">
-             <a href="https://www.iotforall.com/event-partners/">
-              Event Partners
-             </a>
-            </li>
-            <li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-5114">
-             <a href="https://www.iotforall.com/iot-newsletter/">
-              Newsletter
-             </a>
-            </li>
-            <li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-43936">
-             <a href="https://www.iotforall.com/iot-ebooks/">
-              Ebooks
-             </a>
-            </li>
-           </ul>
-          </li>
-         </ul>
-        </div>
-       </div>
-      </div>
-     </div>
-    </div>
-   </div>
-   <div class="td-main-content-wrap td-container-wrap">
-    <div class="td-container">
-     <div class="td-pb-row">
-      <div class="td-pb-span12">
-       <div class="td-404-title">
-        Ooops... Error 404
-       </div>
-       <div class="td-404-sub-title">
-        Sorry, but the page you are looking for doesn't exist.
-       </div>
-       <div class="td-404-sub-sub-title">
-        You can go to the
-        <a href="https://www.iotforall.com/">
-         HOMEPAGE
-        </a>
-       </div>
-       <h4 class="block-title">
-        <span>
-         OUR LATEST POSTS
-        </span>
-       </h4>
-       <div class="td-block-row">
-        <div class="td-block-span4">
-         <div class="td_module_6 td_module_wrap td-animation-stack">
-          <div class="td-module-thumb">
-           <a class="td-image-wrap" href="https://www.iotforall.com/e-commerce-ai-post-covid/" rel="bookmark" title="E-Commerce and AI Working Together in a Post COVID19 World">
-            <img alt="" class="entry-thumb" height="70" sizes="(max-width: 100px) 100vw, 100px" src="https://www.iotforall.com/wp-content/uploads/2020/06/E-commerce-and-AI-Working-Together-in-a-Post-COVID19-World-2-100x70.jpg" srcset="https://www.iotforall.com/wp-content/uploads/2020/06/E-commerce-and-AI-Working-Together-in-a-Post-COVID19-World-2-100x70.jpg 100w, https://www.iotforall.com/wp-content/uploads/2020/06/E-commerce-and-AI-Working-Together-in-a-Post-COVID19-World-2-218x150.jpg 218w" title="E-Commerce and AI Working Together in a Post COVID19 World" width="100"/>
-           </a>
-          </div>
-          <div class="item-details">
-           <h3 class="entry-title td-module-title">
-            <a href="https://www.iotforall.com/e-commerce-ai-post-covid/" rel="bookmark" title="E-Commerce and AI Working Together in a Post COVID19 World">
-             E-Commerce and AI Working Together in a Post COVID19 World
-            </a>
-           </h3>
-           <div class="td-module-meta-info">
-            <span class="td-post-date">
-             <time class="entry-date updated td-module-date" datetime="2020-07-02T08:00:00+00:00">
-              July 2, 2020
-             </time>
-            </span>
-           </div>
-          </div>
-         </div>
-        </div>
-        <!-- ./td-block-span4 -->
-        <div class="td-block-span4">
-         <div class="td_module_6 td_module_wrap td-animation-stack">
-          <div class="td-module-thumb">
-           <a class="td-image-wrap" href="https://www.iotforall.com/iot-security-best-practices-post-pandemic/" rel="bookmark" title="IoT Security: Post Pandemic Best Practices">
-            <img alt="" class="entry-thumb" height="70" sizes="(max-width: 100px) 100vw, 100px" src="https://www.iotforall.com/wp-content/uploads/2020/07/Best-Practices-to-Reflect-IoT-Security-on-Restarting-after-Pandemic-Lockdown.-100x70.jpg" srcset="https://www.iotforall.com/wp-content/uploads/2020/07/Best-Practices-to-Reflect-IoT-Security-on-Restarting-after-Pandemic-Lockdown.-100x70.jpg 100w, https://www.iotforall.com/wp-content/uploads/2020/07/Best-Practices-to-Reflect-IoT-Security-on-Restarting-after-Pandemic-Lockdown.-218x150.jpg 218w" title="IoT Security: Post Pandemic Best Practices" width="100"/>
-           </a>
-          </div>
-          <div class="item-details">
-           <h3 class="entry-title td-module-title">
-            <a href="https://www.iotforall.com/iot-security-best-practices-post-pandemic/" rel="bookmark" title="IoT Security: Post Pandemic Best Practices">
-             IoT Security: Post Pandemic Best Practices
-            </a>
-           </h3>
-           <div class="td-module-meta-info">
-            <span class="td-post-date">
-             <time class="entry-date updated td-module-date" datetime="2020-07-01T08:00:00+00:00">
-              July 1, 2020
-             </time>
-            </span>
-           </div>
-          </div>
-         </div>
-        </div>
-        <!-- ./td-block-span4 -->
-        <div class="td-block-span4">
-         <div class="td_module_6 td_module_wrap td-animation-stack">
-          <div class="td-module-thumb">
-           <a class="td-image-wrap" href="https://www.iotforall.com/business-digital-transformation-gis/" rel="bookmark" title="Completing Your Digital Business Transformation With GIS">
-            <img alt="" class="entry-thumb" height="70" sizes="(max-width: 100px) 100vw, 100px" src="https://www.iotforall.com/wp-content/uploads/2020/06/Driving-to-Digital-Transformation-with-GIS-100x70.jpg" srcset="https://www.iotforall.com/wp-content/uploads/2020/06/Driving-to-Digital-Transformation-with-GIS-100x70.jpg 100w, https://www.iotforall.com/wp-content/uploads/2020/06/Driving-to-Digital-Transformation-with-GIS-218x150.jpg 218w" title="Completing Your Digital Business Transformation With GIS" width="100"/>
-           </a>
-          </div>
-          <div class="item-details">
-           <h3 class="entry-title td-module-title">
-            <a href="https://www.iotforall.com/business-digital-transformation-gis/" rel="bookmark" title="Completing Your Digital Business Transformation With GIS">
-             Completing Your Digital Business Transformation With GIS
-            </a>
-           </h3>
-           <div class="td-module-meta-info">
-            <span class="td-post-date">
-             <time class="entry-date updated td-module-date" datetime="2020-06-30T08:00:00+00:00">
-              June 30, 2020
-             </time>
-            </span>
-           </div>
-          </div>
-         </div>
-        </div>
-        <!-- ./td-block-span4 -->
-       </div>
-       <!--./row-fluid-->
-       <div class="td-block-row">
-        <div class="td-block-span4">
-         <div class="td_module_6 td_module_wrap td-animation-stack">
-          <div class="td-module-thumb">
-           <a class="td-image-wrap" href="https://www.iotforall.com/smallest-smart-city/" rel="bookmark" title="Deploying the Smallest Smart City in the World">
-            <img alt="" class="entry-thumb" height="70" sizes="(max-width: 100px) 100vw, 100px" src="https://www.iotforall.com/wp-content/uploads/2020/06/The-smallest-smart-city-in-the-world-2-100x70.jpg" srcset="https://www.iotforall.com/wp-content/uploads/2020/06/The-smallest-smart-city-in-the-world-2-100x70.jpg 100w, https://www.iotforall.com/wp-content/uploads/2020/06/The-smallest-smart-city-in-the-world-2-218x150.jpg 218w" title="Deploying the Smallest Smart City in the World" width="100"/>
-           </a>
-          </div>
-          <div class="item-details">
-           <h3 class="entry-title td-module-title">
-            <a href="https://www.iotforall.com/smallest-smart-city/" rel="bookmark" title="Deploying the Smallest Smart City in the World">
-             Deploying the Smallest Smart City in the World
-            </a>
-           </h3>
-           <div class="td-module-meta-info">
-            <span class="td-post-date">
-             <time class="entry-date updated td-module-date" datetime="2020-06-29T08:00:00+00:00">
-              June 29, 2020
-             </time>
-            </span>
-           </div>
-          </div>
-         </div>
-        </div>
-        <!-- ./td-block-span4 -->
-        <div class="td-block-span4">
-         <div class="td_module_6 td_module_wrap td-animation-stack">
-          <div class="td-module-thumb">
-           <a class="td-image-wrap" href="https://www.iotforall.com/drones-keeping-lights-on/" rel="bookmark" title="How Drones Are Keeping the Lights On">
-            <img alt="" class="entry-thumb" height="70" sizes="(max-width: 100px) 100vw, 100px" src="https://www.iotforall.com/wp-content/uploads/2020/06/How-Drones-Are-Keeping-the-Lights-On-100x70.jpg" srcset="https://www.iotforall.com/wp-content/uploads/2020/06/How-Drones-Are-Keeping-the-Lights-On-100x70.jpg 100w, https://www.iotforall.com/wp-content/uploads/2020/06/How-Drones-Are-Keeping-the-Lights-On-218x150.jpg 218w" title="How Drones Are Keeping the Lights On" width="100"/>
-           </a>
-          </div>
-          <div class="item-details">
-           <h3 class="entry-title td-module-title">
-            <a href="https://www.iotforall.com/drones-keeping-lights-on/" rel="bookmark" title="How Drones Are Keeping the Lights On">
-             How Drones Are Keeping the Lights On
-            </a>
-           </h3>
-           <div class="td-module-meta-info">
-            <span class="td-post-date">
-             <time class="entry-date updated td-module-date" datetime="2020-06-26T08:00:00+00:00">
-              June 26, 2020
-             </time>
-            </span>
-           </div>
-          </div>
-         </div>
-        </div>
-        <!-- ./td-block-span4 -->
-        <div class="td-block-span4">
-         <div class="td_module_6 td_module_wrap td-animation-stack">
-          <div class="td-module-thumb">
-           <a class="td-image-wrap" href="https://www.iotforall.com/how-iot-works/" rel="bookmark" title="How Does IoT Work?">
-            <img alt="" class="entry-thumb" height="70" sizes="(max-width: 100px) 100vw, 100px" src="https://www.iotforall.com/wp-content/uploads/2020/06/How-IoT-Works-100x70.jpg" srcset="https://www.iotforall.com/wp-content/uploads/2020/06/How-IoT-Works-100x70.jpg 100w, https://www.iotforall.com/wp-content/uploads/2020/06/How-IoT-Works-218x150.jpg 218w" title="How Does IoT Work?" width="100"/>
-           </a>
-          </div>
-          <div class="item-details">
-           <h3 class="entry-title td-module-title">
-            <a href="https://www.iotforall.com/how-iot-works/" rel="bookmark" title="How Does IoT Work?">
-             How Does IoT Work?
-            </a>
-           </h3>
-           <div class="td-module-meta-info">
-            <span class="td-post-date">
-             <time class="entry-date updated td-module-date" datetime="2020-06-25T08:00:00+00:00">
-              June 25, 2020
-             </time>
-            </span>
-           </div>
-          </div>
-         </div>
-        </div>
-        <!-- ./td-block-span4 -->
-       </div>
-       <!--./row-fluid-->
-      </div>
-     </div>
-     <!-- /.td-pb-row -->
-    </div>
-    <!-- /.td-container -->
-   </div>
-   <!-- /.td-main-content-wrap -->
-   <!-- Instagram -->
-   <!-- Footer -->
-   <div class="td-footer-wrapper td-container-wrap">
-    <div class="td-container">
-     <div class="td-pb-row">
-      <div class="td-pb-span12">
-      </div>
-     </div>
-     <div class="td-pb-row">
-      <div class="td-pb-span4">
-       <div class="td_block_wrap td_block_7 td_block_widget td_uid_2_5efe63e490c6f_rand td-pb-border-top td_block_template_9 td-column-1 td_block_padding" data-td-block-uid="td_uid_2_5efe63e490c6f">
-        <script>
-         var block_td_uid_2_5efe63e490c6f = new tdBlock();
-block_td_uid_2_5efe63e490c6f.id = "td_uid_2_5efe63e490c6f";
-block_td_uid_2_5efe63e490c6f.atts = '{"custom_title":"Editor\u0027s Picks","custom_url":"","block_template_id":"","header_text_color":"#","accent_text_color":"#","big_title_text":"","big_text_color":"#","button_text":"","button_color":"#","m6_tl":"","limit":"3","offset":"","el_class":"","post_ids":"","category_id":"","category_ids":"-45, -20582, -21898, -22598","tag_slug":"","autors_id":"","installed_post_types":"","sort":"","td_ajax_filter_type":"","td_ajax_filter_ids":"","td_filter_default_txt":"All","td_ajax_preloading":"","ajax_pagination":"","ajax_pagination_infinite_stop":"","class":"td_block_widget td_uid_2_5efe63e490c6f_rand","separator":"","f_header_font_header":"","f_header_font_title":"Block header","f_header_font_settings":"","f_header_font_family":"","f_header_font_size":"","f_header_font_line_height":"","f_header_font_style":"","f_header_font_weight":"","f_header_font_transform":"","f_header_font_spacing":"","f_header_":"","f_ajax_font_title":"Ajax categories","f_ajax_font_settings":"","f_ajax_font_family":"","f_ajax_font_size":"","f_ajax_font_line_height":"","f_ajax_font_style":"","f_ajax_font_weight":"","f_ajax_font_transform":"","f_ajax_font_spacing":"","f_ajax_":"","f_more_font_title":"Load more button","f_more_font_settings":"","f_more_font_family":"","f_more_font_size":"","f_more_font_line_height":"","f_more_font_style":"","f_more_font_weight":"","f_more_font_transform":"","f_more_font_spacing":"","f_more_":"","m6f_title_font_header":"","m6f_title_font_title":"Article title","m6f_title_font_settings":"","m6f_title_font_family":"","m6f_title_font_size":"","m6f_title_font_line_height":"","m6f_title_font_style":"","m6f_title_font_weight":"","m6f_title_font_transform":"","m6f_title_font_spacing":"","m6f_title_":"","m6f_cat_font_title":"Article category tag","m6f_cat_font_settings":"","m6f_cat_font_family":"","m6f_cat_font_size":"","m6f_cat_font_line_height":"","m6f_cat_font_style":"","m6f_cat_font_weight":"","m6f_cat_font_transform":"","m6f_cat_font_spacing":"","m6f_cat_":"","m6f_meta_font_title":"Article meta info","m6f_meta_font_settings":"","m6f_meta_font_family":"","m6f_meta_font_size":"","m6f_meta_font_line_height":"","m6f_meta_font_style":"","m6f_meta_font_weight":"","m6f_meta_font_transform":"","m6f_meta_font_spacing":"","m6f_meta_":"","css":"","tdc_css":"","td_column_number":1,"header_color":"","color_preset":"","border_top":"","tdc_css_class":"td_uid_2_5efe63e490c6f_rand","tdc_css_class_style":"td_uid_2_5efe63e490c6f_rand_style"}';
-block_td_uid_2_5efe63e490c6f.td_column_number = "1";
-block_td_uid_2_5efe63e490c6f.block_type = "td_block_7";
-block_td_uid_2_5efe63e490c6f.post_count = "3";
-block_td_uid_2_5efe63e490c6f.found_posts = "1340";
-block_td_uid_2_5efe63e490c6f.header_color = "";
-block_td_uid_2_5efe63e490c6f.ajax_pagination_infinite_stop = "";
-block_td_uid_2_5efe63e490c6f.max_num_pages = "447";
-tdBlocksArray.push(block_td_uid_2_5efe63e490c6f);
-        </script>
-        <div class="td-block-title-wrap">
-         <h4 class="td-block-title">
-          <span class="td-pulldown-size">
-           Editor's Picks
-          </span>
-         </h4>
-        </div>
-        <div class="td_block_inner" id="td_uid_2_5efe63e490c6f">
-         <div class="td-block-span12">
-          <div class="td_module_6 td_module_wrap td-animation-stack">
-           <div class="td-module-thumb">
-            <a class="td-image-wrap" href="https://www.iotforall.com/e-commerce-ai-post-covid/" rel="bookmark" title="E-Commerce and AI Working Together in a Post COVID19 World">
-             <img alt="" class="entry-thumb" height="70" sizes="(max-width: 100px) 100vw, 100px" src="https://www.iotforall.com/wp-content/uploads/2020/06/E-commerce-and-AI-Working-Together-in-a-Post-COVID19-World-2-100x70.jpg" srcset="https://www.iotforall.com/wp-content/uploads/2020/06/E-commerce-and-AI-Working-Together-in-a-Post-COVID19-World-2-100x70.jpg 100w, https://www.iotforall.com/wp-content/uploads/2020/06/E-commerce-and-AI-Working-Together-in-a-Post-COVID19-World-2-218x150.jpg 218w" title="E-Commerce and AI Working Together in a Post COVID19 World" width="100"/>
-            </a>
-           </div>
-           <div class="item-details">
-            <h3 class="entry-title td-module-title">
-             <a href="https://www.iotforall.com/e-commerce-ai-post-covid/" rel="bookmark" title="E-Commerce and AI Working Together in a Post COVID19 World">
-              E-Commerce and AI Working Together in a Post COVID19 World
-             </a>
-            </h3>
-            <div class="td-module-meta-info">
-             <span class="td-post-date">
-              <time class="entry-date updated td-module-date" datetime="2020-07-02T08:00:00+00:00">
-               July 2, 2020
-              </time>
-             </span>
-            </div>
-           </div>
-          </div>
-         </div>
-         <!-- ./td-block-span12 -->
-         <div class="td-block-span12">
-          <div class="td_module_6 td_module_wrap td-animation-stack">
-           <div class="td-module-thumb">
-            <a class="td-image-wrap" href="https://www.iotforall.com/iot-security-best-practices-post-pandemic/" rel="bookmark" title="IoT Security: Post Pandemic Best Practices">
-             <img alt="" class="entry-thumb" height="70" sizes="(max-width: 100px) 100vw, 100px" src="https://www.iotforall.com/wp-content/uploads/2020/07/Best-Practices-to-Reflect-IoT-Security-on-Restarting-after-Pandemic-Lockdown.-100x70.jpg" srcset="https://www.iotforall.com/wp-content/uploads/2020/07/Best-Practices-to-Reflect-IoT-Security-on-Restarting-after-Pandemic-Lockdown.-100x70.jpg 100w, https://www.iotforall.com/wp-content/uploads/2020/07/Best-Practices-to-Reflect-IoT-Security-on-Restarting-after-Pandemic-Lockdown.-218x150.jpg 218w" title="IoT Security: Post Pandemic Best Practices" width="100"/>
-            </a>
-           </div>
-           <div class="item-details">
-            <h3 class="entry-title td-module-title">
-             <a href="https://www.iotforall.com/iot-security-best-practices-post-pandemic/" rel="bookmark" title="IoT Security: Post Pandemic Best Practices">
-              IoT Security: Post Pandemic Best Practices
-             </a>
-            </h3>
-            <div class="td-module-meta-info">
-             <span class="td-post-date">
-              <time class="entry-date updated td-module-date" datetime="2020-07-01T08:00:00+00:00">
-               July 1, 2020
-              </time>
-             </span>
-            </div>
-           </div>
-          </div>
-         </div>
-         <!-- ./td-block-span12 -->
-         <div class="td-block-span12">
-          <div class="td_module_6 td_module_wrap td-animation-stack">
-           <div class="td-module-thumb">
-            <a class="td-image-wrap" href="https://www.iotforall.com/business-digital-transformation-gis/" rel="bookmark" title="Completing Your Digital Business Transformation With GIS">
-             <img alt="" class="entry-thumb" height="70" sizes="(max-width: 100px) 100vw, 100px" src="https://www.iotforall.com/wp-content/uploads/2020/06/Driving-to-Digital-Transformation-with-GIS-100x70.jpg" srcset="https://www.iotforall.com/wp-content/uploads/2020/06/Driving-to-Digital-Transformation-with-GIS-100x70.jpg 100w, https://www.iotforall.com/wp-content/uploads/2020/06/Driving-to-Digital-Transformation-with-GIS-218x150.jpg 218w" title="Completing Your Digital Business Transformation With GIS" width="100"/>
-            </a>
-           </div>
-           <div class="item-details">
-            <h3 class="entry-title td-module-title">
-             <a href="https://www.iotforall.com/business-digital-transformation-gis/" rel="bookmark" title="Completing Your Digital Business Transformation With GIS">
-              Completing Your Digital Business Transformation With GIS
-             </a>
-            </h3>
-            <div class="td-module-meta-info">
-             <span class="td-post-date">
-              <time class="entry-date updated td-module-date" datetime="2020-06-30T08:00:00+00:00">
-               June 30, 2020
-              </time>
-             </span>
-            </div>
-           </div>
-          </div>
-         </div>
-         <!-- ./td-block-span12 -->
-        </div>
-       </div>
-       <!-- ./block -->
-      </div>
-      <div class="td-pb-span4">
-       <div class="td_block_wrap td_block_7 td_block_widget td_uid_3_5efe63e496607_rand td-pb-border-top td_block_template_9 td-column-1 td_block_padding" data-td-block-uid="td_uid_3_5efe63e496607">
-        <script>
-         var block_td_uid_3_5efe63e496607 = new tdBlock();
-block_td_uid_3_5efe63e496607.id = "td_uid_3_5efe63e496607";
-block_td_uid_3_5efe63e496607.atts = '{"custom_title":"Most Popular","custom_url":"","block_template_id":"","header_text_color":"#","accent_text_color":"#","big_title_text":"","big_text_color":"#","button_text":"","button_color":"#","m6_tl":"","limit":"3","offset":"","el_class":"","post_ids":"","category_id":"","category_ids":"-45, -20582, -21898","tag_slug":"","autors_id":"","installed_post_types":"","sort":"popular","td_ajax_filter_type":"","td_ajax_filter_ids":"","td_filter_default_txt":"All","td_ajax_preloading":"","ajax_pagination":"","ajax_pagination_infinite_stop":"","class":"td_block_widget td_uid_3_5efe63e496607_rand","separator":"","f_header_font_header":"","f_header_font_title":"Block header","f_header_font_settings":"","f_header_font_family":"","f_header_font_size":"","f_header_font_line_height":"","f_header_font_style":"","f_header_font_weight":"","f_header_font_transform":"","f_header_font_spacing":"","f_header_":"","f_ajax_font_title":"Ajax categories","f_ajax_font_settings":"","f_ajax_font_family":"","f_ajax_font_size":"","f_ajax_font_line_height":"","f_ajax_font_style":"","f_ajax_font_weight":"","f_ajax_font_transform":"","f_ajax_font_spacing":"","f_ajax_":"","f_more_font_title":"Load more button","f_more_font_settings":"","f_more_font_family":"","f_more_font_size":"","f_more_font_line_height":"","f_more_font_style":"","f_more_font_weight":"","f_more_font_transform":"","f_more_font_spacing":"","f_more_":"","m6f_title_font_header":"","m6f_title_font_title":"Article title","m6f_title_font_settings":"","m6f_title_font_family":"","m6f_title_font_size":"","m6f_title_font_line_height":"","m6f_title_font_style":"","m6f_title_font_weight":"","m6f_title_font_transform":"","m6f_title_font_spacing":"","m6f_title_":"","m6f_cat_font_title":"Article category tag","m6f_cat_font_settings":"","m6f_cat_font_family":"","m6f_cat_font_size":"","m6f_cat_font_line_height":"","m6f_cat_font_style":"","m6f_cat_font_weight":"","m6f_cat_font_transform":"","m6f_cat_font_spacing":"","m6f_cat_":"","m6f_meta_font_title":"Article meta info","m6f_meta_font_settings":"","m6f_meta_font_family":"","m6f_meta_font_size":"","m6f_meta_font_line_height":"","m6f_meta_font_style":"","m6f_meta_font_weight":"","m6f_meta_font_transform":"","m6f_meta_font_spacing":"","m6f_meta_":"","css":"","tdc_css":"","td_column_number":1,"header_color":"","color_preset":"","border_top":"","tdc_css_class":"td_uid_3_5efe63e496607_rand","tdc_css_class_style":"td_uid_3_5efe63e496607_rand_style"}';
-block_td_uid_3_5efe63e496607.td_column_number = "1";
-block_td_uid_3_5efe63e496607.block_type = "td_block_7";
-block_td_uid_3_5efe63e496607.post_count = "3";
-block_td_uid_3_5efe63e496607.found_posts = "1344";
-block_td_uid_3_5efe63e496607.header_color = "";
-block_td_uid_3_5efe63e496607.ajax_pagination_infinite_stop = "";
-block_td_uid_3_5efe63e496607.max_num_pages = "448";
-tdBlocksArray.push(block_td_uid_3_5efe63e496607);
-        </script>
-        <div class="td-block-title-wrap">
-         <h4 class="td-block-title">
-          <span class="td-pulldown-size">
-           Most Popular
-          </span>
-         </h4>
-        </div>
-        <div class="td_block_inner" id="td_uid_3_5efe63e496607">
-         <div class="td-block-span12">
-          <div class="td_module_6 td_module_wrap td-animation-stack">
-           <div class="td-module-thumb">
-            <a class="td-image-wrap" href="https://www.iotforall.com/what-is-iot-simple-explanation/" rel="bookmark" title="What is IoT? – A Simple Explanation of the Internet of Things">
-             <img alt="What is IoT? - A Simple Explanation of the Internet of Things" class="entry-thumb" height="70" sizes="(max-width: 100px) 100vw, 100px" src="https://www.iotforall.com/wp-content/uploads/2017/05/whatisiot-100x70.jpg" srcset="https://www.iotforall.com/wp-content/uploads/2017/05/whatisiot-100x70.jpg 100w, https://www.iotforall.com/wp-content/uploads/2017/05/whatisiot-218x150.jpg 218w" title="What is IoT? – A Simple Explanation of the Internet of Things" width="100"/>
-            </a>
-           </div>
-           <div class="item-details">
-            <h3 class="entry-title td-module-title">
-             <a href="https://www.iotforall.com/what-is-iot-simple-explanation/" rel="bookmark" title="What is IoT? – A Simple Explanation of the Internet of Things">
-              What is IoT? – A Simple Explanation of the Internet of...
-             </a>
-            </h3>
-            <div class="td-module-meta-info">
-             <span class="td-post-date">
-              <time class="entry-date updated td-module-date" datetime="2020-01-09T08:00:45+00:00">
-               January 9, 2020
-              </time>
-             </span>
-            </div>
-           </div>
-          </div>
-         </div>
-         <!-- ./td-block-span12 -->
-         <div class="td-block-span12">
-          <div class="td_module_6 td_module_wrap td-animation-stack">
-           <div class="td-module-thumb">
-            <a class="td-image-wrap" href="https://www.iotforall.com/impact-of-artificial-intelligence-job-losses/" rel="bookmark" title="The Impact of Artificial Intelligence – Widespread Job Losses">
-             <img alt="" class="entry-thumb" height="70" sizes="(max-width: 100px) 100vw, 100px" src="https://www.iotforall.com/wp-content/uploads/2020/01/Artificial-Intelligence-100x70.png" srcset="https://www.iotforall.com/wp-content/uploads/2020/01/Artificial-Intelligence-100x70.png 100w, https://www.iotforall.com/wp-content/uploads/2020/01/Artificial-Intelligence-218x150.png 218w" title="The Impact of Artificial Intelligence – Widespread Job Losses" width="100"/>
-            </a>
-           </div>
-           <div class="item-details">
-            <h3 class="entry-title td-module-title">
-             <a href="https://www.iotforall.com/impact-of-artificial-intelligence-job-losses/" rel="bookmark" title="The Impact of Artificial Intelligence – Widespread Job Losses">
-              The Impact of Artificial Intelligence – Widespread Job Losses
-             </a>
-            </h3>
-            <div class="td-module-meta-info">
-             <span class="td-post-date">
-              <time class="entry-date updated td-module-date" datetime="2020-01-15T14:10:25+00:00">
-               January 15, 2020
-              </time>
-             </span>
-            </div>
-           </div>
-          </div>
-         </div>
-         <!-- ./td-block-span12 -->
-         <div class="td-block-span12">
-          <div class="td_module_6 td_module_wrap td-animation-stack">
-           <div class="td-module-thumb">
-            <a class="td-image-wrap" href="https://www.iotforall.com/iot-applications-in-agriculture/" rel="bookmark" title="IoT Applications in Agriculture">
-             <img alt="" class="entry-thumb" height="70" sizes="(max-width: 100px) 100vw, 100px" src="https://www.iotforall.com/wp-content/uploads/2018/01/Cow-100x70.png" srcset="https://www.iotforall.com/wp-content/uploads/2018/01/Cow-100x70.png 100w, https://www.iotforall.com/wp-content/uploads/2018/01/Cow-218x150.png 218w" title="IoT Applications in Agriculture" width="100"/>
-            </a>
-           </div>
-           <div class="item-details">
-            <h3 class="entry-title td-module-title">
-             <a href="https://www.iotforall.com/iot-applications-in-agriculture/" rel="bookmark" title="IoT Applications in Agriculture">
-              IoT Applications in Agriculture
-             </a>
-            </h3>
-            <div class="td-module-meta-info">
-             <span class="td-post-date">
-              <time class="entry-date updated td-module-date" datetime="2020-01-03T11:30:57+00:00">
-               January 3, 2020
-              </time>
-             </span>
-            </div>
-           </div>
-          </div>
-         </div>
-         <!-- ./td-block-span12 -->
-        </div>
-       </div>
-       <!-- ./block -->
-      </div>
-      <div class="td-pb-span4">
-       <div class="td_block_wrap td_block_text_with_title td_block_widget td_uid_4_5efe63e4a2fe9_rand td-pb-border-top td_block_template_9" data-td-block-uid="td_uid_4_5efe63e4a2fe9">
-        <div class="td-block-title-wrap">
-         <h4 class="td-block-title">
-          <span class="td-pulldown-size">
-           Write with Us
-          </span>
-         </h4>
-        </div>
-        <div class="td_mod_wrap td-fix-index">
-        </div>
-       </div>
-       <aside class="td_block_template_9 widget widget_text">
-        <div class="textwidget">
-         <div class="footer-text-wrap" style="font-size: 14px !important;">
-          Interested in joining our team as a contributing writer or sharing content with our rapidly growing audience? Connect with us by clicking the button below and we will be in touch!
-         </div>
-        </div>
-       </aside>
-      </div>
-     </div>
-    </div>
-   </div>
-  </div>
- </body>
-</html>
-<aside class="td_block_template_9 widget widget_text">
- <div class="textwidget">
-  <form action="https://www.iotforall.com/contribute/guest-submission/" target="blank">
-   <input class="formbutton" type="submit" value="Let's Get Started"/>
-  </form>
- </div>
-</aside>
-<div class="td-footer-bottom-full">
- <div class="td-container">
-  <div class="td-pb-row">
-   <div class="td-pb-span3">
-    <aside class="footer-logo-wrap">
-     <a href="https://www.leverege.com?utm_source=IFA&amp;utm_medium=logo&amp;utm_campaign=footer" target="blank">
-      <img alt="" class="td-retina-data" data-retina="https://www.iotforall.com/wp-content/uploads/2019/03/leveregelogotype_white-1-1024x226.png" src="https://www.iotforall.com/wp-content/uploads/2017/04/poweredbyleverege.png" title=""/>
-     </a>
-    </aside>
-   </div>
-   <div class="td-pb-span5">
-    <aside class="footer-text-wrap">
-     <div class="block-title">
-      <span>
-       ABOUT US
-      </span>
-     </div>
-     IoT For All is a leading technology media property dedicated to providing the highest-quality, unbiased content, resources, and news centered on the Internet of Things and related disciplines. 
-
-All featured images © IoT For All
-    </aside>
-   </div>
-   <div class="td-pb-span4">
-    <aside class="footer-social-wrap td-social-style-2">
-     <div class="block-title">
-      <span>
-       FOLLOW US
-      </span>
-     </div>
-     <span class="td-social-icon-wrap">
-      <a href="https://www.facebook.com/iot4all" target="_blank" title="Facebook">
-       <i class="td-icon-font td-icon-facebook">
-       </i>
-      </a>
-     </span>
-     <span class="td-social-icon-wrap">
-      <a href="https://www.instagram.com/iotforall/" target="_blank" title="Instagram">
-       <i class="td-icon-font td-icon-instagram">
-       </i>
-      </a>
-     </span>
-     <span class="td-social-icon-wrap">
-      <a href="https://www.linkedin.com/company/iot-for-all/" target="_blank" title="Linkedin">
-       <i class="td-icon-font td-icon-linkedin">
-       </i>
-      </a>
-     </span>
-     <span class="td-social-icon-wrap">
-      <a href="https://www.iotforall.com/rss-feeds/" target="_blank" title="RSS">
-       <i class="td-icon-font td-icon-rss">
-       </i>
-      </a>
-     </span>
-     <span class="td-social-icon-wrap">
-      <a href="https://twitter.com/iotforall?lang=en" target="_blank" title="Twitter">
-       <i class="td-icon-font td-icon-twitter">
-       </i>
-      </a>
-     </span>
-    </aside>
-   </div>
-  </div>
- </div>
-</div>
-<!-- Sub Footer -->
-<!--close td-outer-wrap-->
-<script>
- jQuery(document).ready(function(){
-	var formselectopt = jQuery("#field_42gxo_label+.frm_data_container p").text();
-	var formselectoptarr = formselectopt.split(':');
-	jQuery("#field_42gxo_label+.frm_data_container p").text(formselectoptarr[0]);
-
-	/* contributingwriters filter start */
-	jQuery("select#contributing_filter_inner_cls").on("change",function(){
-		var orderby_val = jQuery(this).val();
-		var order_val = jQuery(this).find(':selected').data('user-order');
-		var order_dataname = jQuery(this).find(':selected').data('user-name');
-		jQuery(".contribute_loader").removeClass("d-none");
-	    if (orderby_val != "" && order_val != "") 
-	    {
-	    	var str = '&orderby_val=' + orderby_val + '&order_val=' + order_val + '&order_dataname=' + order_dataname +'&action=contributing_filters';
-		    jQuery.ajax({
-		        type: "POST",
-		        dataType: "html",
-		        url: 'https://www.iotforall.com/wp-admin/admin-ajax.php',
-		        data: str,
-		        success: function(data){
-		            var $data = jQuery(data);
-		            jQuery(".contribute_loader").addClass("d-none");
-		            if($data.length){               
-		                jQuery("#writers_inner_cls").html($data);
-		            } else{
-		                jQuery("#writers_inner_cls").html('<p>No Data Found.</p>');
-		            }   
-		        },
-		        error : function(jqXHR, textStatus, errorThrown) {
-		            $loader.html(jqXHR + " :: " + textStatus + " :: " + errorThrown);
-		        }
-
-		    });
-		    return false;
-	    }
-	});
-	/* contributingwriters filter end */
-
-	/* member filter start */
-	jQuery("select#member_filter_inner_cls").on("change",function(){
-		var orderby_val = jQuery(this).val();
-		var order_val = jQuery(this).find(':selected').data('user-order');
-		jQuery(".contribute_loader").removeClass("d-none");
-	    if (orderby_val != "" && order_val != "") 
-	    {
-	    	var str = '&orderby_val=' + orderby_val + '&order_val=' + order_val +'&action=member_filters';
-		    jQuery.ajax({
-		        type: "POST",
-		        dataType: "html",
-		        url: 'https://www.iotforall.com/wp-admin/admin-ajax.php',
-		        data: str,
-		        success: function(data){
-		            var $data = jQuery(data);
-		            jQuery(".contribute_loader").addClass("d-none");
-		            if($data.length){               
-		                jQuery("#member_inner_cls").html($data);
-		            } else{
-		                jQuery("#member_inner_cls").html('<p>No Data Found.</p>');
-		            }   
-		        },
-		        error : function(jqXHR, textStatus, errorThrown) {
-		            $loader.html(jqXHR + " :: " + textStatus + " :: " + errorThrown);
-		        }
-
-		    });
-		    return false;
-	    }
-	});
-	/* member filter end */
-
-	/* partner filter start */
-	jQuery("select#partners_filter_inner_cls").on("change",function(){
-		var orderby_val = jQuery(this).val();
-		var order_val = jQuery(this).find(':selected').data('user-order');
-		jQuery(".contribute_loader").removeClass("d-none");
-	    if (orderby_val != "" && order_val != "") 
-	    {
-	    	var str = '&orderby_val=' + orderby_val + '&order_val=' + order_val +'&action=partner_filters';
-		    jQuery.ajax({
-		        type: "POST",
-		        dataType: "html",
-		        url: 'https://www.iotforall.com/wp-admin/admin-ajax.php',
-		        data: str,
-		        success: function(data){
-		            var $data = jQuery(data);
-		            jQuery(".contribute_loader").addClass("d-none");
-		            if($data.length){               
-		                jQuery("#partners_inner_cls").html($data);
-		            } else{
-		                jQuery("#partners_inner_cls").html('<p>No Data Found.</p>');
-		            }   
-		        },
-		        error : function(jqXHR, textStatus, errorThrown) {
-		            $loader.html(jqXHR + " :: " + textStatus + " :: " + errorThrown);
-		        }
-
-		    });
-		    return false;
-	    }
-	});
-	/* partner filter end */
-
-	/* Add blockquote cite class */
-	jQuery("blockquote cite").addClass("ibody3");
-
-	/* Add class "ih7" in default_post_sidebar */
-	jQuery('.default_post_sidebar h3').replaceWith(function () {
-	    return "<div class='ih7'>" + jQuery(this).html() + "</div>";
-	});
-
-	/* Add Class on listin now button */
-	jQuery("a.btn_destop_listen").on('click',function () {
-		jQuery("#podcast_mp3_playaudio").addClass("showfixed");
-		jQuery(".media-player-inner .mejs-button.mejs-play button").click();
-	});
-});
-</script>
-<script async="">
- (function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];j.async=1;j.src=o;j.dataset.sumoSiteId='8952fa00bd7ba2003235610084309800d7a475005d3ca8003e49150012689e00';j.dataset.sumoPlatform='wordpress';v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');
-</script>
-<script type="application/javascript">
- var ajaxurl = "https://www.iotforall.com/wp-admin/admin-ajax.php";
-
-      function sumo_add_woocommerce_coupon(code) {
-        jQuery.post(ajaxurl, {
-          action: 'sumo_add_woocommerce_coupon',
-          code: code,
-        });
-      }
-
-      function sumo_remove_woocommerce_coupon(code) {
-        jQuery.post(ajaxurl, {
-          action: 'sumo_remove_woocommerce_coupon',
-          code: code,
-        });
-      }
-
-      function sumo_get_woocommerce_cart_subtotal(callback) {
-        jQuery.ajax({
-          method: 'POST',
-          url: ajaxurl,
-          dataType: 'html',
-          data: {
-            action: 'sumo_get_woocommerce_cart_subtotal',
-          },
-          success: function(subtotal) {
-            return callback(null, subtotal);
-          },
-          error: function(err) {
-            return callback(err, 0);
-          }
-        });
-      }
-</script>
-<!--
-
-        Theme: Newspaper by tagDiv.com 2017
-        Version: 9.0.1 (rara)
-        Deploy mode: deploy
-        
-        uid: 5efe63e4a456f
-    -->
-<script type="text/javascript">
- (function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.8";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
-
-jQuery(()=>{const o=jQuery('#sidebar')
-const t=jQuery(window)
-if(!o[0]){return}
-function isScrolledIntoView(el){if(typeof jQuery==='function'&&el instanceof jQuery){el=el[0]}else if(typeof jQuery==='function'){el=jQuery(el)[0]}
-if(!el){return!1}
-const rect=el.getBoundingClientRect();return(rect.top>=0&&rect.left>=0&&rect.bottom<=(window.innerHeight||document.documentElement.clientHeight)&&rect.right<=(window.innerWidth||document.documentElement.clientWidth))}
-t.scroll(()=>{jQuery('#sidebar').css('left',`${( t.width() - jQuery( '.td-pb-row' ).width() ) / 2 - 60}px`)
-if(isScrolledIntoView('.td-footer-wrapper')||(jQuery('#sidebar').offset().top+jQuery('#sidebar').height()>jQuery('.td-sidebar-guide').offset().top)){o.hide()}else{o.show()}});t.resize(()=>{jQuery('#sidebar').css('left',`${( t.width() - jQuery( '.td-pb-row' ).width() ) / 2 - 60}px`)
-if(isScrolledIntoView('.td-footer-wrapper')||(jQuery('#sidebar').offset().top+jQuery('#sidebar').height()>jQuery('.td-sidebar-guide').offset().top)){o.hide()}else{o.show()}});jQuery(document).ready(()=>{jQuery('#sidebar').css('position','fixed')
-jQuery('#sidebar').css('left',`${( t.width() - jQuery( '.td-pb-row' ).width() ) / 2 - 60}px`)
-if(isScrolledIntoView('.td-footer-wrapper')||(jQuery('#sidebar').offset().top+jQuery('#sidebar').height()>jQuery('.td-sidebar-guide').offset().top)){o.hide()}else{o.show()}})})
-</script>
-<script type="text/javascript">
- /* <![CDATA[ */
-var wp_ulike_params = {"ajax_url":"https:\/\/www.iotforall.com\/wp-admin\/admin-ajax.php","notifications":"0"};
-/* ]]> */
-</script>
-<script src="https://www.iotforall.com/wp-content/plugins/wp-ulike/assets/js/wp-ulike.min.js?ver=3.6.2" type="text/javascript">
-</script>
-<script type="text/javascript">
- /* <![CDATA[ */
-var socialWarfare = {"addons":["pro"],"post_id":"0","floatBeforeContent":""};
-/* ]]> */
-</script>
-<script src="https://www.iotforall.com/wp-content/plugins/social-warfare/assets/js/script.min.js?ver=3.6.1" type="text/javascript">
-</script>
-<script src="https://www.iotforall.com/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.0.1" type="text/javascript">
-</script>
-<script src="https://www.iotforall.com/wp-content/plugins/page-links-to/dist/new-tab.js?ver=3.3.3" type="text/javascript">
-</script>
-<script src="https://www.iotforall.com/wp-content/plugins/td-cloud-library/assets/js/js_files_for_front.min.js?ver=dc11e23cd0219f30e55307de07f135fc" type="text/javascript">
-</script>
-<script type="text/javascript">
- var swp_nonce = "826d7dc968";var swpFloatBeforeContent = false;var swpClickTracking = true; swpPinIt={"enabled":false};
-</script>
-<script>
- (function(d) {
-    var config = {
-      kitId: 'sgq2bst',
-      scriptTimeout: 3000,
-      async: true
-    },
-    h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
-  })(document);
-</script>
-<!-- JS generated by theme -->
-<script>
- (function(){
-			var html_jquery_obj = jQuery('html');
-
-			if (html_jquery_obj.length && (html_jquery_obj.is('.ie8') || html_jquery_obj.is('.ie9'))) {
-
-				var path = 'https://www.iotforall.com/wp-content/themes/newspaper%20child%20theme/style.css';
-
-				jQuery.get(path, function(data) {
-
-					var str_split_separator = '#td_css_split_separator';
-					var arr_splits = data.split(str_split_separator);
-					var arr_length = arr_splits.length;
-
-					if (arr_length > 1) {
-
-						var dir_path = 'https://www.iotforall.com/wp-content/themes/Newspaper';
-						var splited_css = '';
-
-						for (var i = 0; i < arr_length; i++) {
-							if (i > 0) {
-								arr_splits[i] = str_split_separator + ' ' + arr_splits[i];
-							}
-							//jQuery('head').append('<style>' + arr_splits[i] + '</style>');
-
-							var formated_str = arr_splits[i].replace(/\surl\(\'(?!data\:)/gi, function regex_function(str) {
-								return ' url(\'' + dir_path + '/' + str.replace(/url\(\'/gi, '').replace(/^\s+|\s+$/gm,'');
-							});
-
-							splited_css += "<style>" + formated_str + "</style>";
-						}
-
-						var td_theme_css = jQuery('link#td-theme-css');
-
-						if (td_theme_css.length) {
-							td_theme_css.after(splited_css);
-						}
-					}
-				});
-			}
-		})();
-</script>
-<!-- This site is optimized with Phil Singleton's WP SEO Structured Data pro plugin v1.2.11 - https://kcseopro.com/wordpress-seo-structured-data-schema-plugin/ -->
-<!-- / WP SEO Structured Data pro plugin. -->
-<div class="tdw-drag-dialog tdc-window-sidebar" id="tdw-css-writer" style="display: none">
- <header>
-  <a class="tdw-tab tdc-tab-active" data-tab-content="tdw-tab-editor" href="#" title="Editor">
-   Edit with Live CSS
-  </a>
-  <div class="tdw-less-info" title="This will be red when errors are detected in your CSS and LESS">
-  </div>
- </header>
- <div class="tdw-content">
-  <div class="tdw-tabs-content tdw-tab-editor tdc-tab-content-active">
-   <script>
-    (function(jQuery, undefined) {
-
-								jQuery(window).ready(function() {
-
-									if ( 'undefined' !== typeof tdcAdminIFrameUI ) {
-										var $liveIframe  = tdcAdminIFrameUI.getLiveIframe();
-
-										if ( $liveIframe.length ) {
-											$liveIframe.load(function() {
-												$liveIframe.contents().find( 'body').append( '<textarea class="tdw-css-writer-editor" style="display: none"></textarea>' );
-											});
-										}
-									}
-
-								});
-
-							})(jQuery);
-   </script>
-   <textarea class="tdw-css-writer-editor td_live_css_uid_1_5efe63e4a63af">.authorparent {
+
+Most Popular
+
+
+
+
+What is IoT? – A Simple Explanation of the Internet of... 
+July 2, 2020 
+
+
+ 
+
+
+
+
+The Impact of Artificial Intelligence – Widespread Job Losses 
+July 1, 2020 
+
+
+ 
+
+
+
+
+IoT Applications in Agriculture 
+June 30, 2020 
+
+
+   
+
+Write with Us 
+Interested in joining our team as a contributing writer or sharing content with our rapidly growing audience? Connect with us by clicking the button below and we will be in touch!
+
+
+ 
+
+
+ 
+
+
+
+
+
+ABOUT USIoT For All is a leading technology media property dedicated to providing the highest-quality, unbiased content, resources, and news centered on the Internet of Things and related disciplines. 
+
+All featured images © IoT For AllFOLLOW US
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Edit with Live CSS
+
+
+
+
+
+.authorparent {
   display: flex;
   width: 100%;
   border-radius: 8px;
@@ -3169,141 +576,16 @@ var socialWarfare = {"addons":["pro"],"post_id":"0","floatBeforeContent":""};
 }
 
 
-</textarea>
-   <div class="td-code-editor" id="td_live_css_uid_1_5efe63e4a63af">
-   </div>
-   <script>
-    jQuery(window).load(function (){
-
-								if ( 'undefined' !== typeof tdLiveCssInject ) {
-
-									tdLiveCssInject.init();
 
 
-									var editor_textarea = jQuery('.td_live_css_uid_1_5efe63e4a63af');
-									var languageTools = ace.require("ace/ext/language_tools");
-									var tdcCompleter = {
-										getCompletions: function (editor, session, pos, prefix, callback) {
-											if (prefix.length === 0) {
-												callback(null, []);
-												return
-											}
 
-											if ('undefined' !== typeof tdcAdminIFrameUI) {
 
-												var data = {
-													error: undefined,
-													getShortcode: ''
-												};
 
-												tdcIFrameData.getShortcodeFromData(data);
 
-												if (!_.isUndefined(data.error)) {
-													tdcDebug.log(data.error);
-												}
+Save
+Write CSS OR LESS and hit save. CTRL + SPACE for auto-complete.
 
-												if (!_.isUndefined(data.getShortcode)) {
 
-													var regex = /el_class=\"([A-Za-z0-9_-]*\s*)+\"/g,
-														results = data.getShortcode.match(regex);
 
-													var elClasses = {};
 
-													for (var i = 0; i < results.length; i++) {
-														var currentClasses = results[i]
-															.replace('el_class="', '')
-															.replace('"', '')
-															.split(' ');
 
-														for (var j = 0; j < currentClasses.length; j++) {
-															if (_.isUndefined(elClasses[currentClasses[j]])) {
-																elClasses[currentClasses[j]] = '';
-															}
-														}
-													}
-
-													var arrElClasses = [];
-
-													for (var prop in elClasses) {
-														arrElClasses.push(prop);
-													}
-
-													callback(null, arrElClasses.map(function (item) {
-														return {
-															name: item,
-															value: item,
-															meta: 'in_page'
-														}
-													}));
-												}
-											}
-										}
-									};
-									languageTools.addCompleter(tdcCompleter);
-
-									window.editor = ace.edit("td_live_css_uid_1_5efe63e4a63af");
-
-									// 'change' handler is written as function because it's called by tdc_on_add_css_live_components (of wp_footer hook)
-									// We did it to reattach the existing compiled css to the new content received from server.
-									window.editorChangeHandler = function () {
-										//tdwState.lessWasEdited = true;
-
-										window.onbeforeunload = function () {
-											if (tdwState.lessWasEdited) {
-												return "You have attempted to leave this page. Are you sure?";
-											}
-											return false;
-										};
-
-										var editorValue = editor.getSession().getValue();
-
-										editor_textarea.val(editorValue);
-
-										if ('undefined' !== typeof tdcAdminIFrameUI) {
-											tdcAdminIFrameUI.getLiveIframe().contents().find('.tdw-css-writer-editor:first').val(editorValue);
-
-											// Mark the content as modified
-											// This is important for showing info when composer closes
-                                            tdcMain.setContentModified();
-										}
-
-										tdLiveCssInject.less();
-									};
-
-									editor.getSession().setValue(editor_textarea.val());
-									editor.getSession().on('change', editorChangeHandler);
-
-									editor.setTheme("ace/theme/textmate");
-									editor.setShowPrintMargin(false);
-									editor.getSession().setMode("ace/mode/less");
-									editor.setOptions({
-										enableBasicAutocompletion: true,
-										enableSnippets: true,
-										enableLiveAutocompletion: false
-									});
-
-								}
-
-							});
-   </script>
-  </div>
- </div>
- <footer>
-  <a class="tdw-save-css" href="#">
-   Save
-  </a>
-  <div class="tdw-more-info-text">
-   Write CSS OR LESS and hit save. CTRL + SPACE for auto-complete.
-  </div>
-  <div class="tdw-resize">
-  </div>
- </footer>
-</div>
-<script>
- window.lazyLoadOptions={elements_selector:"img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}};window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){return}
-if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){return}
-images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
-if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)
-</script>
-<script async="" data-no-minify="1" src="https://www.iotforall.com/wp-content/plugins/wp-rocket/assets/js/lazyload/12.0/lazyload.min.js">
-</script>
