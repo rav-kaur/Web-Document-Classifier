@@ -269,12 +269,10 @@ This blog is a follow-up to the ELM 7.0 announcement, with a new lens from the c
 
 
 
-Managing complexity in automotive engineering: transform your product development with intelligence, insights and expertise
+Why edge computing is essential to your connected operations strategy
 
-      Written by Brett Hillhouse | April 22, 2020      | Automotive, Engineering 
-Automotive engineers build some of the most complex assets on the planet. Yet no matter how the overall product complexity increases, organizations must still deliver these assets on time and on schedule. This is on top of meeting ever-growing customer expectations and managing through disruptions. ...read more 
-
-
+      Written by Skip Snyder | June 24, 2020      | Blog 
+Much has been said about the growth of IoT devices and the sheer volume of data they generate. Taking the analysis further ahead, IDC predicts that “every connected person in the world will have at least one digital data interaction every 18 seconds — likely from one of the billions of IoT devices, which are ...read more 
 
 
 
@@ -284,10 +282,12 @@ Automotive engineers build some of the most complex assets on the planet. Yet no
 
 
 
-Adopting Engineering Lifecycle Management Tools to Combat Market Uncertainty
 
-      Written by Dibbe Edwards | April 21, 2020      | B2B Integration, Connected Software, Systems Engineering 
-As part of the market moment drumbeat following the launch of ELM 7.0 in mid March, this blog will reposition ELM in light of new market uncertainties from the health and economic crisis. ...read more 
+
+Does your real estate group have the tech budget you need? This report can help.
+
+      Written by Kendra DeKeyrel | August 1, 2019      | Blog, Buildings 
+Verdantix, an independent research firm with expertise in smart buildings, recently took an in-depth look at the state of real estate technology. Based on interviews with 50 large organizations located in Europe and North America, the research also included interviews with a panel of experts and industry veterans across real estate investment, asset management, facilities services and technology. ...read more 
 
 
 

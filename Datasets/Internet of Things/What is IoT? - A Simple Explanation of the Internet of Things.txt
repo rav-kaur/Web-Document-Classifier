@@ -1,76 +1,13 @@
 
 
 
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Page not found | IoT For All
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
  
 
+What is IoT? - A Simple Explanation of the Internet of Things       
 
+       
 
 
 
@@ -96,68 +33,7 @@ Page not found | IoT For All
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-Home
-Podcast
-News
-Join
-
-Become a Contributor
-Become a Partner
-Submit a Press Release
-
-
-More
-
-About
-Team
-Partners
-Event Partners
-Newsletter
-Ebooks
-
-
- 
-
-
- 
-
-
-
-
-
-
-
+HomePodcastNewsJoinBecome a ContributorBecome a PartnerSubmit a Press ReleaseMoreAboutTeamPartnersEvent PartnersNewsletterEbooks
 
 Search
 
@@ -194,63 +70,16 @@ Search
 
 
 
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 IoT For All
+HomePodcastNewsJoinBecome a ContributorBecome a PartnerSubmit a Press ReleaseMoreAboutTeamPartnersEvent PartnersNewsletterEbooks
+ ARTICLE
+SeriesSimple Explanations
 
 
-Home
-Podcast
-News
-Join
 
-Become a Contributor
-Become a Partner
-Submit a Press Release
 
 
-More
 
-About
-Team
-Partners
-Event Partners
-Newsletter
-Ebooks
 
 
 
@@ -262,156 +91,114 @@ Ebooks
 
 
 
-                    Ooops... Error 404                
 
-                    Sorry, but the page you are looking for doesn't exist.                
 
-                    You can go to the                    HOMEPAGE
+LIKE578What is IoT? - A Simple Explanation of the Internet of ThingsThe Internet of Things, or "IoT" for short, is about extending the power of the internet beyond computers and smartphones to a whole range of other things, processes, and environments. Here's everything you need to know.
+Calum McClelland -July 2, 2020
 
-OUR LATEST POSTS
 
 
 
 
 
-Designing A New Standard for Worker Safety: UI for Industry IoT 
-July 17, 2020 
 
 
- 
 
 
 
 
-The IoT Trust Label: Benefits and Challenges to Implementation 
-July 16, 2020 
 
 
- 
 
 
 
 
-The Importance of the Antenna in IoT Product Development 
-July 15, 2020 
 
+Probably, you’ve heard that the Internet of Things has the power to drastically change our lives, from how we manage and operate our homes to even automating jobs across nearly all industries. But what is IoT actually? I’ve been asked that question more times than I can count and, over the past several years, I’ve boiled the answer down to something that I think anyone can understand. In this article, I’m going to share everything you need to know about the Internet of Things.“What is IoT?”If you just Google “what is IoT?”, many of the answers are unnecessarily technical. Case in point:“The Internet of Things (IoT) is a system of interrelated computing devices, mechanical and digital machines, objects, animals or people that are provided with unique identifiers and the ability to transfer data over a network without requiring human-to-human or human-to-computer interaction.”—An unnecessarily technical explanation of IoTIf you just read that and thought, “ok…what?”, you’re not alone. Most people neither want nor to need to dive into the nitty-gritty of IoT. So in this post, I’ll provide you with a simple explanation of the Internet of Things and how it may impact you. This can also serve as a resource to share with others who need an introduction to IoT (like friends, family members, or customers).Before we jump in, note that “The Internet of Things” and “IoT” can and will be used interchangeably. And a quick tip: avoid saying “the IoT.”The Internet of Things (IoT) Explained: Simply and Non-TechnicallyHow are you reading this post right now? It might be on desktop, on mobile, maybe a tablet, but whatever device you’re using, it’s most definitely connected to the internet.An internet connection is a wonderful thing, it give us all sorts of benefits that just weren’t possible before. If you’re old enough, think of your cellphone before it was a smartphone. You could call and you could text sure, but now you can read any book, watch any movie, or listen to any song all in the palm of your hand. And that’s just to name a few of the incredible things your smartphone can do.Image Credit: SamsungConnecting things to the internet yields many amazing benefits. We’ve all seen these benefits with our smartphones, laptops, and tablets, but this is true for everything else too. And yes, I do mean everything.The Internet of Things is actually a pretty simple concept, it means taking all the things in the world and connecting them to the internet.I think that confusion arises not because the concept is so narrow and tightly defined, but rather because it’s so broad and loosely defined. It can be hard to nail down the concept in your head when there are so many examples and possibilities in IoT.To help clarify, I think it’s important to understand the benefits of connecting things to the internet. Why would we even want to connect everything to the internet?Why IoT MattersWhen something is connected to the internet, that means that it can send information or receive information, or both. This ability to send and/or receive information makes things smart, and smart is good.Let’s use smartphones (smartphones) again as an example. Right now you can listen to just about any song in the world, but it’s not because your phone actually has every song in the world stored on it. It’s because every song in the world is stored somewhere else, but your phone can send information (asking for that song) and then receive information (streaming that song on your phone).To be smart, a thing doesn’t need to have super storage or a supercomputer inside of it. All a thing has to do is connect to super storage or to a supercomputer. Being connected is awesome.In the Internet of Things, all the things that are being connected to the internet can be put into three categories:Things that collect information and then send it.Things that receive information and then act on it.Things that do both.And all three of these have enormous benefits that feed on each other.1. Collecting and Sending InformationThis means sensors. Sensors could be temperature sensors, motion sensors, moisture sensors, air quality sensors, light sensors, you name it. These sensors, along with a connection, allow us to automatically collect information from the environment which, in turn, allows us to make more intelligent decisions.(Soil moisture sensor) Image Credit: SparkfunOn the farm, automatically getting information about the soil moisture can tell farmers exactly when their crops need to be watered. Instead of watering too much (which can be an expensive over-use of irrigation systems and environmentally wasteful) or watering too little (which can be an expensive loss of crops), the farmer can ensure that crops get exactly the right amount of water. More money for farmers and more food for the world!Just as our sight, hearing, smell, touch, and taste allow us, humans, to make sense of the world, sensors allow machines to make sense of the world.2. Receiving and Acting on InformationWe’re all very familiar with machines getting information and then acting. Your printer receives a document and it prints it. Your car receives a signal from your car keys and the doors open. The examples are endless.Whether it’s a simple as sending the command “turn on” or as complex as sending a 3D model to a 3D printer, we know that we can tell machines what to do from far away. So what?The real power of the Internet of Things arises when things can do both of the above. Things that collect information and send it, but also receive information and act on it.3. Doing BothLet’s quickly go back to the farming example. The sensors can collect information about the soil moisture to tell the farmer how much to water the crops, but you don’t actually need the farmer. Instead, the irrigation system can automatically turn on as needed, based on how much moisture is in the soil.Image Credit: Everything ConnectsYou can take it a step further too. If the irrigation system receives information about the weather from its internet connection, it can also know when it’s going to rain and decide not to water the crops today because they’ll be watered by the rain anyways.And it doesn’t stop there! All this information about the soil moisture, how much the irrigation system is watering the crops, and how well the crops actually grow can be collected and sent to supercomputers that run amazing algorithms that can make sense of all this information.And that’s just one kind of sensor. Add in other sensors like light, air quality, and temperature, and these algorithms can learn much much more. With dozens, hundreds, thousands of farms all collecting this information, these algorithms can create incredible insights into how to make crops grow the best, helping to feed the world’s growing population.Your Takeaway Definition of IoTWhat is IoT?: The internet of Things, or “IoT” for short, is about extending the power of the internet beyond computers and smartphones to a whole range of other things, processes, and environments. Those “connected” things are used to gather information, send information back, or both.Why does IoT matter?: IoT provides businesses and people better insight into and control over the 99 percent of objects and environments that remain beyond the reach of the internet. And by doing so, IoT allows businesses and people to be more connected to the world around them and to do more meaningful, higher-level work.Want to Learn More About IoT?I promised to keep this simple and non-technical, so I’ll stop there and leave you with two takeaways: a super simple takeaway definition of IoT and a free eBook with which you can deepen that definition if you want to. If you’re interested in a deeper dive, I encourage you to check out the IoT 101: Introduction to The Internet of Things eBook I’ve written (it’s free!).Originally published May 13, 2019. Updated July 14, 2020.FeaturedInternet of ThingsSeriesSimple Explanations
 
- 
 
 
 
 
 
-How Will COVID-19 Impact Industrial Analytics and IoT? 
-July 14, 2020 
 
 
- 
 
 
 
 
-Evolving Private IoT Networks: LoRa and CBRS 
-July 13, 2020 
 
 
- 
 
 
 
 
-IoT Applications in Construction 
-July 12, 2020 
 
+FeaturedInternet of ThingsSeriesSimple ExplanationsAuthor
+Calum McClelland  - Head of Operations, IoT For AllCalum is the Head of Operations at IoT For All. Calum is deeply interested in the moral ramifications of new technologies and believes in leveraging the Internet of Things to help build a better world for everyone.
 
-  
- 
- 
- 
+Calum is the Head of Operations at IoT For All. Calum is deeply interested in the moral ramifications of new technologies and believes in leveraging the Internet of Things to help build a better world for everyone.
 
+ New Episode
 
 
+ Swift Sensor’s Ray Almgren | Implementing IIoT in M...IoT For All - July 28, 2020 Related Articles
 
+ What is Narrowband IoT...
+Simple Explanations Brian Ray July 9, 2020With billions of devices to come online in the near future, we'll need wireless networks that can support them. Is Narrowband IoT (NB-IoT) the solution?
 
+ The 5 Autonomous Drivi...
+Simple Explanations Isabel Harner July 3, 2020Everything you need to know about the 5 levels of driving automation and what they mean for future self-driving cars.
 
+ What is the Cloud? How...
+Simple Explanations Calum McClelland July 2, 2020While the cloud isn't technically necessary for IoT, there can be substantial benefits to using the cloud for many IoT applications. Here's why.Load more    Related ArticlesWhat is Narrowband IoT (NB-IoT)? – Explanation and 5 Business BenefitsJuly 9, 2020
 
+ The 5 Autonomous Driving Levels ExplainedJuly 3, 2020
 
+ What is the Cloud? How Does it Fit into the Internet of Things (IoT)?July 2, 2020
 
+  Articles
 
-Editor's Picks
+ A Security Assurance Framework for Automotive Roland Atoui -  July 28, 2020
 
+ 6 Do’s and Don’ts of Developing IoT Products IoT For All -  July 27, 2020
 
+ 10 Best IoT Development Tools and Technologies in 2020 IoT For All -  July 24, 2020
 
+ The Path to Value in Consumer IoT Security Labeling IoT For All -  July 23, 2020
 
-Designing A New Standard for Worker Safety: UI for Industry IoT 
-July 17, 2020 
 
 
- 
+How IoT Will Improve the Use of Medical Devices for Home Health
+Health and Wellness Alex Jablokow -  July 22, 2020Medical devices are increasingly being used for home healthcare. IoT monitoring will supply clinicians and device designers with clear usage data, enabling better patient training and improved devi...
 
 
 
+5G Security in an IoT Architecture
+Connectivity Roland Atoui -  July 21, 2020Although 5G is revolutionary, it will also bring new risks when it comes to cybersecurity making a secure IoT architecture vital.
 
-The IoT Trust Label: Benefits and Challenges to Implementation 
-July 16, 2020 
 
 
- 
+Using Video and IoT for Business Continuity and Intelligence
+Data Analytics ONVU Technologies -  July 20, 2020When it comes to information gathering, one constant remains: video is central to the goal of assembling and disseminating intelligence across the globe. Every size business — from large, multinati...
 
 
 
+Designing A New Standard for Worker Safety: UI for Industry IoT
+Technology Yunyun Wang -  July 17, 2020Harnessing the potential of IoT devices via wearable technology for workers can translate to a better understanding of how to prevent work injury and reducing unergonomic motions.
 
-The Importance of the Antenna in IoT Product Development 
-July 15, 2020 
 
 
-   
-
-Most Popular
-
-
-
-
-What is IoT? – A Simple Explanation of the Internet of... 
-July 2, 2020 
-
-
- 
-
-
-
-
-The Impact of Artificial Intelligence – Widespread Job Losses 
-July 1, 2020 
-
-
- 
-
-
-
-
-IoT Applications in Agriculture 
-June 30, 2020 
-
-
-   
-
-Write with Us 
+The IoT Trust Label: Benefits and Challenges to Implementation
+Cybersecurity Roland Atoui -  July 16, 2020The race is on to develop a trust label or standards for trust, privacy, and end-to-end security for a range of IoT products that promise to fuse the digital and the physical like never before.Load more    Industry NewsEthereum Industry Leaders to Headline EEA’s #EntEth2020IoT For AllJuly 28, 2020Altair Semiconductor Changes its Name to Sony Semiconductor IsraelIoT For AllJuly 24, 2020Sequitur Labs Launches EmSPARK 2.0 Security Suite for Critical IoT Device ProtectionIoT For AllJuly 23, 2020Actility Named a Cool Vendor in Gartner’s 2020 Cool Vendors ResearchActilityJuly 22, 2020Editor's PicksA Security Assurance Framework for Automotive
+July 28, 20206 Do’s and Don’ts of Developing IoT Products
+July 27, 202010 Best IoT Development Tools and Technologies in 2020
+July 24, 2020Most PopularThe Impact of Artificial Intelligence – Widespread Job Losses
+July 1, 2020IoT Applications in Agriculture
+June 30, 2020Cellular IoT Explained – NB-IoT vs. LTE-M vs. 5G and More
+June 26, 2020Write with Us
 Interested in joining our team as a contributing writer or sharing content with our rapidly growing audience? Connect with us by clicking the button below and we will be in touch!
-
-
- 
-
-
- 
-
-
-
-
-
-ABOUT USIoT For All is a leading technology media property dedicated to providing the highest-quality, unbiased content, resources, and news centered on the Internet of Things and related disciplines. 
-
-All featured images © IoT For AllFOLLOW US
+ABOUT USIoT For All is a leading technology media property dedicated to providing the highest-quality, unbiased content, resources, and news centered on the Internet of Things and related disciplines.All featured images © IoT For AllFOLLOW US
 
 
 
@@ -436,36 +223,8 @@ All featured images © IoT For AllFOLLOW US
 
 
 
- 
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Edit with Live CSS
-
-
-
-
-
-.authorparent {
+          
+Edit with Live CSS  .authorparent {
   display: flex;
   width: 100%;
   border-radius: 8px;
@@ -576,16 +335,5 @@ Edit with Live CSS
 }
 
 
-
-
-
-
-
-
-Save
-Write CSS OR LESS and hit save. CTRL + SPACE for auto-complete.
-
-
-
-
-
+  
+SaveWrite CSS OR LESS and hit save. CTRL + SPACE for auto-complete. 

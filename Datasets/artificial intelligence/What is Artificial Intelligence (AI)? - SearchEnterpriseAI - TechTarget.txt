@@ -3,7 +3,30 @@
 
 
 
-404: Page not found
+What is Artificial Intelligence (AI)?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -89,8 +112,8 @@ SearchEnterpriseAI
 
 
 
-Topic 
-All Topics
+Topic  
+								AI technologies
   
 
 
@@ -98,11 +121,26 @@ All Topics
 
  AI business strategies
  AI infrastructure
- AI technologies
  AI platforms 
  AI careers
  Enterprise applications of AI
  Machine learning platforms
+All Topics
+
+
+
+
+
+SubTopic    All Subtopics
+
+
+
+
+ Bot technology 
+ NLP techniques
+ Neural networks and deep learning 
+ Open source AI tools
+All Subtopics
 
 
 
@@ -119,39 +157,1495 @@ Follow:
 
 
 
-
-
-
-
-
-			Page not found.
-
-			The page you were trying to reach at this address doesn't seem to exist. This is usually the result of a bad or outdated link. We apologize for any inconvenience.
-
-			What can I do now?
-
-			If this is your first time visiting TechTarget, welcome! Sorry for the circumstances under which we're meeting. Here's where you can go from here:
-
- Search  
-
-
-Check out the latest news.
-Our home page contains the latest information on Enterprise Artificial Intelligence .
-Our about page contains more information about the site you are on, SearchEnterpriseAI.
-If you need to, please contact us, we would love to hear from you.
-
-
-
-
-				Browse By Category
-
-AI business strategies
-AI infrastructure
+Home
 AI technologies
-Artificial intelligence platforms
-Careers in artificial intelligence
-Enterprise applications of AI
-Machine learning platforms
+Software applications
+artificial intelligence 
+
+
+
+
+
+
+
+
+
+
+
+
+Tech Accelerator
+Ultimate guide to artificial intelligence in the enterprise
+
+View More
+
+
+
+
+
+
+Definition
+artificial intelligence 
+
+
+
+
+
+
+
+
+									Posted by: Margaret Rouse
+
+WhatIs.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contributor(s): Linda Tucci, Ed Burns, Nicole Laskowski
+
+
+
+
+
+
+
+
+
+
+
+Share this item with your network:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Artificial intelligence (AI) is the simulation of human intelligence processes by machines, especially computer systems. Specific applications of AI include expert systems, natural language processing (NLP), speech recognition and machine vision.
+
+
+
+
+
+
+
+
+AI programming focuses on three cognitive skills: learning, reasoning and self-correction.
+Learning processes. This aspect of AI programming focuses on acquiring data and creating rules for how to turn the data into actionable information. The rules, which are called algorithms, provide computing devices with step-by-step instructions for how to complete a specific task.
+Reasoning processes. This aspect of AI programming focuses on choosing the right algorithm to reach a desired outcome.
+Self-correction processes. This aspect of AI programming is designed to continually fine-tune algorithms and ensure they provide the most accurate results possible.
+
+Advantages and disadvantages of artificial intelligence
+Artificial neural networks and deep learning artificial intelligence technologies are quickly evolving, primarily because AI processes large amounts of data much faster and makes predictions more accurately than humanly possible.
+
+
+
+This article is part of
+Ultimate guide to artificial intelligence in the enterprise
+
+Which also includes:
+4 main types of AI explained
+6 key benefits of AI for business
+Criteria for success in AI: Industry best practices
+
+
+
+
+
+Download1
+Download this entire guide for FREE now!
+
+
+
+While the huge volume of data being created on a daily basis would bury a human researcher, AI applications that use machine learning can take that data and quickly turn it into actionable information. As of this writing, the primary disadvantage of using AI is that it is expensive to process the large amounts of data that AI programming requires.
+
+
+
+Strong AI vs. weak AI
+AI can be categorized as either weak or strong. Weak AI, also known as narrow AI, is an AI system that is designed and trained to complete a specific task. Industrial robots and virtual personal assistants, such as Apple's Siri, use weak AI.
+Strong AI, also known as artificial general intelligence (AGI), describes programming that can replicate the cognitive abilities of the human brain. When presented with an unfamiliar task, a strong AI system can use fuzzy logic to apply knowledge from one domain to another and find a solution autonomously. In theory, a strong AI program should be able to pass both a Turing test and the Chinese room test.
+
+
+Augmented intelligence vs. artificial intelligence
+Some industry experts believe the term artificial intelligence is too closely linked to popular culture, and this has caused the general public to have improbable expectations about how AI will change the workplace and life in general. Some researchers and marketers hope the label augmented intelligence, which has a more neutral connotation, will help people understand that most implementations of AI will be weak and simply improve products and services.
+The concept of the technological singularity -- a future ruled by an artificial superintelligence that far surpasses the human brain's ability to understand it or how it is shaping our reality --  remains within the realm of science fiction.
+
+
+Ethical use of artificial intelligence
+While AI tools present a range of new functionality for businesses, the use of artificial intelligence also raises ethical questions because, for better or worse, an AI system will reinforce what it has already learned.
+This can be problematic because machine learning algorithms, which underpin many of the most advanced AI tools, are only as smart as the data they are given in training. Because a human being selects what data is used to train an AI program, the potential for machine learning bias is inherent and must be monitored closely.
+Anyone looking to use machine learning as part of real-world, in-production systems needs to factor ethics into their AI training processes and strive to avoid bias. This is especially true when using AI algorithms that are inherently unexplainable in deep learning and generative adversarial network (GAN) applications.
+Explainability is a potential stumbling block to using AI in industries that operate under strict regulatory compliance requirements. For example, financial institutions in the United States operate under regulations that require them to explain their credit-issuing decisions. When a decision to refuse credit is made by AI programming, however, it can be difficult to explain how the decision was arrived at because the AI tools used to make such decisions operate by teasing out subtle correlations between thousands of variables. When the decision-making process cannot be explained, the program may be referred to as black box AI.
+
+
+Components of AI
+As the hype around AI has accelerated, vendors have been scrambling to promote how their products and services use AI. Often what they refer to as AI is simply one component of AI, such as machine learning. AI requires a foundation of specialized hardware and software for writing and training machine learning algorithms. No one programming language is synonymous with AI, but a few, including Python, R and Java, are popular.
+
+
+
+AI is not just one technology.
+  
+
+
+
+
+
+
+AI as a service (AIaaS)
+Because hardware, software and staffing costs for AI can be expensive, many vendors are including AI components in their standard offerings or providing access to artificial intelligence as a service (AIaaS) platforms. AIaaS allows individuals and companies to experiment with AI for various business purposes and sample multiple platforms before making a commitment.
+Popular AI cloud offerings include the following:
+
+Amazon AI
+IBM Watson Assistant
+Microsoft Cognitive Services
+Google AI
+
+
+
+Four types of artificial intelligence
+Arend Hintze, an assistant professor of integrative biology and computer science and engineering at Michigan State University, explained in a 2016 article that AI can be categorized into four types, beginning with the task-specific intelligent systems in wide use today and progressing to sentient systems, which do not yet exist. The categories are as follows:
+
+Type 1: Reactive machines. These AI systems have no memory and are task specific. An example is Deep Blue, the IBM chess program that beat Garry Kasparov in the 1990s. Deep Blue can identify pieces on the chessboard and make predictions, but because it has no memory, it cannot use past experiences to inform future ones.
+Type 2: Limited memory. These AI systems have memory, so they can use past experiences to inform future decisions. Some of the decision-making functions in self-driving cars are designed this way.
+Type 3: Theory of mind. Theory of mind is a psychology term. When applied to AI, it means that the system would have the social intelligence to understand emotions. This type of AI will be able to infer human intentions and predict behavior, a necessary skill for AI systems to become integral members of human teams.
+Type 4: Self-awareness. In this category, AI systems have a sense of self, which gives them consciousness. Machines with self-awareness understand their own current state. This type of AI does not yet exist.
+
+
+
+
+
+
+
+
+
+Cognitive computing and AI
+The terms AI and cognitive computing are sometimes used interchangeably, but, generally speaking, the label AI is used in reference to machines that replace human intelligence by simulating how we sense, learn, process and react to information in the environment.
+The label cognitive computing is used in reference to products and services that mimic and augment human thought processes
+
+
+Examples of AI technology
+AI is incorporated into a variety of different types of technology. Here are six examples:
+
+Automation. When paired with AI technologies, automation tools can expand the volume and types of tasks performed. An example is robotic process automation (RPA), a type of software that automates repetitive, rules-based data processing tasks traditionally done by humans. When combined with machine learning and emerging AI tools, RPA can automate bigger portions of enterprise jobs, enabling RPA's tactical bots to pass along intelligence from AI and respond to process changes.
+Machine learning. This is the science of getting a computer to act without programming. Deep learning is a subset of machine learning that, in very simple terms, can be thought of as the automation of predictive analytics. There are three types of machine learning algorithms:
+
+
+
+Supervised learning. Data sets are labeled so that patterns can be detected and used to label new data sets.
+Unsupervised learning. Data sets aren't labeled and are sorted according to similarities or differences.
+Reinforcement learning. Data sets aren't labeled but, after performing an action or several actions, the AI system is given feedback.
+
+
+
+Machine vision. This technology gives a machine the ability to see. Machine vision captures and analyzes visual information using a camera, analog-to-digital conversion and digital signal processing. It is often compared to human eyesight, but machine vision isn't bound by biology and can be programmed to see through walls, for example. It is used in a range of applications from signature identification to medical image analysis. Computer vision, which is focused on machine-based image processing, is often conflated with machine vision.
+Natural language processing. This is the processing of human language by a computer program. One of the older and  best-known examples of NLP is spam detection, which looks at the subject line and text of an email and decides if it's junk. Current approaches to NLP are based on machine learning. NLP tasks include text translation, sentiment analysis and speech recognition.
+Robotics. This field of engineering focuses on the design and manufacturing of robots. Robots are often used to perform tasks that are difficult for humans to perform or perform consistently. For example, robots are used in assembly lines for car production or by NASA to move large objects in space. Researchers are also using machine learning to build robots that can interact in social settings.
+Self-driving cars. Autonomous vehicles use a combination of computer vision, image recognition and deep learning to build automated skill at piloting a vehicle while staying in a given lane and avoiding unexpected obstructions, such as pedestrians.
+
+
+
+History of AI
+The concept of inanimate objects endowed with intelligence has been around since ancient times. The Greek god Hephaestus was depicted in myths as forging robot-like servants out of gold. Engineers in ancient Egypt built statues of gods animated by priests. Throughout the centuries, thinkers from Aristotle to the 13th century Spanish theologian Ramon Llull to René Descartes and Thomas Bayes used the tools and logic of their times to describe human thought processes as symbols, laying the foundation for AI concepts such as general knowledge representation.
+The late 19th and first half of the 20th centuries brought forth the foundational work that would give rise to the modern computer. In 1836, Cambridge University mathematician Charles Babbage and Augusta Ada Byron, Countess of Lovelace, invented the first design for a programmable machine. In the 1940s, Princeton mathematician John Von Neumann conceived the architecture for the stored-program computer -- the idea that a computer's program and the data it processes can be kept in the computer's memory. And Warren McCulloch and Walter Pitts laid the foundation for neural networks.
+With the advent of modern computers, scientists could test their ideas about machine intelligence. One method for determining whether a computer has intelligence was devised by the British mathematician and World War II code-breaker Alan Turing in 1950. The Turing Test focused on a computer's ability to fool interrogators into believing its responses to their questions were made by a human being.
+The modern field of artificial intelligence is widely cited as starting in 1956 during a summer conference at Dartmouth College. Sponsored by the Defense Advanced Research Projects Agency (DARPA), the conference was attended by 10 luminaries in the field, including AI pioneers Marvin Minsky, Oliver Selfridge and John McCarthy, who is credited with coining the term artificial intelligence. Also in attendance were Allen Newell, a computer scientist, and Herbert A. Simon, an economist, political scientist and cognitive psychologist, who presented their groundbreaking Logic Theorist, a computer program capable of proving certain mathematical theorems and referred to as the first AI program.
+In the wake of the Dartmouth College conference, leaders in the fledgling field of AI predicted that a man-made intelligence equivalent to the human brain was around the corner, attracting major government and industry support. Indeed, nearly 20 years of well-funded basic research generated significant advances in AI: For example, in the late 1950s, Newell and Simon published the General Problem Solver (GPS) algorithm, which fell short of solving complex problems but laid the foundations for developing more sophisticated cognitive architectures; McCarthy developed Lisp, a language for AI programming that is still used today. In the mid-1960s MIT Professor Joseph Weizenbaum developed ELIZA, an early natural language processing program that laid the foundation for today's chatbots.
+But the achievement of artificial general intelligence proved elusive, not imminent, hampered by limitations in computer processing and memory and by the complexity of the problem. Government and corporations backed away from their support of AI research, leading to a fallow period lasting from 1974 to 1980 and known as the first "AI Winter." In the 1980s, research on deep learning techniques and industry's adoption of Edward Feigenbaum's expert systems sparked a new wave of AI enthusiasm, only to be followed by another collapse of government funding and industry support. The second AI winter lasted until the mid-1990s.
+
+
+
+Support for the modern field of AI, 1956 to the present.
+  
+
+
+
+
+Increases in computational power and an explosion of data sparked an AI renaissance in the late 1990s that has continued to present times. The latest focus on AI has given rise to breakthroughs in natural language processing, computer vision, robotics, machine learning, deep learning and more. Moreover, AI is becoming ever more tangible, powering cars, diagnosing disease and cementing its role in popular culture. In 1997, IBM's Deep Blue defeated Russian chess grandmaster Garry Kasparov, becoming the first computer program to beat a world chess champion. Fourteen years later, IBM's Watson captivated the public when it defeated two former champions on the game show Jeopardy!. More recently, the historic defeat of 18-time World Go champion Lee Sedol by Google DeepMind's AlphaGo stunned the Go community and marked a major milestone in the development of intelligent machines.
+
+
+Applications of AI
+Artificial intelligence has made its way into a wide variety of markets. Here are eight examples.
+
+AI in healthcare. The biggest bets are on improving patient outcomes and reducing costs. Companies are applying machine learning to make better and faster diagnoses than humans. One of the best-known healthcare technologies is IBM Watson. It understands natural language and can respond to questions asked of it. The system mines patient data and other available data sources to form a hypothesis, which it then presents with a confidence scoring schema. Other AI applications include using online virtual health assistants and chatbots to help patients and healthcare customers find medical information, schedule appointments, understand the billing process and complete other administrative processes. An array of AI technologies is also being used to predict, fight and understand pandemics such as COVID-19.
+AI in business. Machine learning algorithms are being integrated into analytics and customer relationship management (CRM) platforms to uncover information on how to better serve customers. Chatbots have been incorporated into websites to provide immediate service to customers. Automation of job positions has also become a talking point among academics and IT analysts.
+AI in education. AI can automate grading, giving educators more time. It can assess students and adapt to their needs, helping them work at their own pace. AI tutors can provide additional support to students, ensuring they stay on track. And it could change where and how students learn, perhaps even replacing some teachers.
+AI in finance. AI in personal finance applications, such as Intuit Mint or TurboTax, is disrupting financial institutions. Applications such as these collect personal data and provide financial advice. Other programs, such as IBM Watson, have been applied to the process of buying a home. Today, artificial intelligence software performs much of the trading on Wall Street.
+AI in law. The discovery process -- sifting through documents -- in law is often overwhelming for humans. Using AI to help automate the legal industry's labor-intensive processes is saving time and improving client service. Law firms are using machine learning to describe data and predict outcomes, computer vision to classify and extract information from documents and natural language processing to interpret requests for information.
+AI in manufacturing. Manufacturing has been at the forefront of incorporating robots into the workflow. For example, the industrial robots that were at one time programmed to perform single tasks and separated from human workers, increasingly function as cobots: Smaller, multitasking robots that collaborate with humans and take on responsibility for more parts of the job in warehouses, factory floors and other workspaces.
+AI in banking. Banks are successfully employing chatbots to make their customers aware of services and offerings and to handle transactions that don't require human intervention. AI virtual assistants are being used to improve and cut the costs of compliance with banking regulations. Banking organizations are also using AI to improve their decision-making for loans, and to set credit limits and identify investment opportunities.
+AI in transportation. In addition to AI's fundamental role in operating autonomous vehicles, AI technologies are used in transportation to manage traffic, predict flight delays, and make ocean shipping safer and more efficient.
+
+
+
+
+AI in security
+AI and machine learning are at the top of the buzzword list security vendors use today to differentiate their offerings. Those terms also represent truly viable technologies. Artificial intelligence and machine learning in cybersecurity products are adding real value for security teams looking for ways to identify attacks, malware and other threats.
+Organizations use machine learning in security information and event management (SIEM) software and related areas to detect anomalies and identify suspicious activities that indicate threats. By analyzing data and using logic to identify similarities to known malicious code, AI can provide alerts to new and emerging attacks much sooner than human employees and previous technology iterations.
+As a result, AI security technology both dramatically lowers the number of false positives and gives organizations more time to counteract real threats before damage is done. The maturing technology is playing a big role in helping organizations fight off cyberattacks.
+
+
+Regulation of AI technology
+Despite potential risks, there are currently few regulations governing the use of AI tools, and where laws do exist, they typically pertain to AI indirectly. For example, as previously mentioned, United States Fair Lending regulations require financial institutions to explain credit decisions to potential customers. This limits the extent to which lenders can use deep learning algorithms, which by their nature are opaque and lack explainability.
+The Europe Union's General Data Protection Regulation (GDPR) puts strict limits on how enterprises can use consumer data, which impedes the training and functionality of many consumer-facing AI applications.
+In October 2016, the National Science and Technology Council issued a report examining the potential role governmental regulation might play in AI development, but it did not recommend specific legislation be considered.
+Crafting laws to regulate AI will not be easy, in part because AI comprises a variety of technologies that companies use for different ends, and partly because regulations can come at the cost of AI progress and development. The rapid evolution of AI technologies is another obstacle to forming meaningful regulation of AI. Technology breakthroughs and novel applications can make existing laws instantly obsolete. For example, existing laws regulating the privacy of conversations and recorded conversations do not cover the challenge posed by voice assistants like Amazon's Alexa and Apple's Siri that gather but do not distribute conversation -- except to the companies' technology teams which use it to improve machine learning algorithms. And, of course, the laws that governments do manage to craft to regulate AI don't stop criminals from using the technology with malicious intent.
+
+
+
+		
+		
+			
+			
+				
+					This was last updated in May 2020
+
+
+
+
+
+			Continue Reading About artificial intelligence
+		
+
+Automated journalism creeps into newsrooms leaning on AI
+
+
+Algorithmic bias top problem enterprises must tackle
+
+
+AI process automation offers benefits, but challenges remain
+
+
+AI in IT infrastructure transforms how work gets done
+
+
+Artificial intelligence is now a Pentagon priority. Will Silicon Valley help?
+
+
+
+
+
+
+
+
+
+				Related Terms
+
+
+deep learning
+
+Deep learning is a type of machine learning (ML) and artificial intelligence (AI) that imitates the way humans gain certain types... 
+							See complete definition
+
+
+
+self-driving car (autonomous car or driverless car)
+
+A self-driving car (sometimes called an autonomous car or driverless car) is a vehicle that uses a combination of sensors, ... 
+							See complete definition
+
+
+
+supervised learning
+
+Supervised learning is an approach to creating artificial intelligence, where the program is given labeled input data and the ... 
+							See complete definition
+
+
+
+
+
+
+
+
+Dig Deeper on AI technologies
+
+
+
+Ultimate guide to artificial intelligence in the enterprise
+
+
+
+
+By: Linda Tucci
+
+
+
+
+AI vs. machine learning vs. deep learning: Key differences
+
+
+
+
+By: David Petersson
+
+
+
+
+4 main types of AI explained
+
+
+
+
+By: David Petersson
+
+
+
+
+How far are we from artificial general intelligence?
+
+
+
+
+By: Ed Burns
+
+
+
+
+
+
+
+
+
+Sponsored News
+
+
+The Future of Work: AI Assisting Humans to be More Productive
+–Citrix
+
+
+Avoid the Hype in AI—Identifying the Right Solutions for Your Business Needs
+–Intel
+
+See More
+
+Vendor Resources
+
+
+Artificial intelligence in ITSM: Finding the right tools for you
+–ComputerWeekly.com
+
+
+
+Artificial Intelligence, For Real
+–ComputerWeekly.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Join the conversation
+
+
+33 comments
+
+
+
+
+						Send me notifications when other members comment.
+Add My Comment
+
+
+
+
+Register
+
+
+
+
+
+
+
+
+
+						          	I agree to TechTarget’s Terms of Use, Privacy Policy, and the transfer of my information to the United States for processing to provide me with relevant information as described in our Privacy Policy.
+
+
+
+
+Please check the box if you want to proceed.
+
+
+
+
+
+
+						          	I agree to my information being processed by TechTarget and its Partners to contact me via phone, email, or other means regarding information relevant to my professional interests. I may unsubscribe at any time.
+
+
+
+
+Please check the box if you want to proceed.
+
+
+
+
+
+
+
+Login
+
+
+Forgot your password?
+
+
+
+
+
+Forgot your password?
+
+No problem! Submit your e-mail address below. We'll send you an email containing your password.
+
+
+
+
+Submit
+
+
+
+
+
+
+
+Your password has been sent to:
+
+
+
+
+
+
+
+
+
+
+
+Please create a username to comment.
+
+
+
+
+
+
+
+
+Oldest 
+Newest 
+
+
+
+
+
+
+[-]
+
+
+
+Margaret Rouse
+ - 16 Nov 2010 9:07 AM
+
+How is your company adapting AI to the enterprise?
+
+
+
+Add My Comment
+Cancel
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+[-]
+
+
+
+rohitatwal
+ - 22 Apr 2017 11:14 AM
+
+Thank you so much for the nice notes. It is very helpful and easy language.
+
+
+
+Add My Comment
+Cancel
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+[-]
+
+
+
+vimleshppc
+ - 4 Jul 2017 6:12 AM
+
+Really a great article on artificial intelligence. Nowadays artificial intelligence is advanced technology.
+
+
+
+Add My Comment
+Cancel
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+[-]
+
+
+
+RAZA92
+ - 11 Dec 2019 12:12 PM
+
+In Robotics the advance Artificial Intelligence is used now-a-days
+
+
+
+Add My Comment
+Cancel
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+[-]
+
+
+
+mamyibrahimm
+ - 27 Oct 2017 4:16 PM
+
+Thank you for helping us.
+
+
+
+Add My Comment
+Cancel
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+[-]
+
+
+
+jothefu5
+ - 23 Nov 2017 9:59 PM
+
+I just used this page to study for my exam. Thanks for posting!
+
+
+
+Add My Comment
+Cancel
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+[-]
+
+
+
+sadaftaj
+ - 8 Aug 2018 2:28 AM
+
+How can we incorporate the generalization in artificial intelligent systems like as human?
+
+
+
+Add My Comment
+Cancel
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+[-]
+
+
+
+456611
+ - 28 Sep 2018 8:03 AM
+
+Very Good
+
+
+
+Add My Comment
+Cancel
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+[-]
+
+
+
+HarshaliPatel
+ - 7 Jan 2019 1:02 AM
+
+A one in all article, that comprises of all the necessary and helpful note. Thanks for this!Being a student, I can take so much from this!
+
+
+
+Add My Comment
+Cancel
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+[-]
+
+
+
+purityrose
+ - 5 Mar 2019 3:16 AM
+
+where is AI applied in the field of electronics
+
+
+
+Add My Comment
+Cancel
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+[-]
+
+
+
+SHAHZAIB786
+ - 27 Nov 2019 3:08 PM
+
+if we talk about  usage of AI in electronic, then short circuit or automatically circuit breaker work on the basis of artificial intelligence algorithm at the back end...
+
+
+
+Add My Comment
+Cancel
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+[-]
+
+
+
+AI2000
+ - 13 Mar 2019 4:01 PM
+
+what is the algorithm for morality ? Would it not change where cultural differences are far right or left ? What is considered  "moral" in India is not the same as that in Ohio. Saudi Arabia much different than Massachusetts.So the writers of the soft ware  end up acting like the parents of the computer program. In a way teaching right and wrong in their eyes. In a way creating a partial "Theory of Mind" AI.  Where AI can access the internet for like kind time and place issues and look for solutions. Preference toward conservative and liberal solutions can  be guided by historical like kind solution grading. The exact same hardware with different historical event lessons will come up with different solutions. If only with the presentation of the solution. Just as humans do. 
+
+
+
+Add My Comment
+Cancel
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+[-]
+
+
+
+AnonymousRay
+ - 27 Mar 2019 7:29 AM
+
+how AI technology can benefit the hotel industry?
+
+
+
+Add My Comment
+Cancel
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+[-]
+
+
+
+asyrafzainal
+ - 2 Apr 2019 2:46 AM
+
+what is AI technology used in education and cybersecurity
+
+
+
+Add My Comment
+Cancel
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+[-]
+
+
+
+mbrandesm
+ - 29 Apr 2019 9:53 PM
+
+Please excuse me, this is just my personal opinion written as an exercise for school.
+Thanks!
+
+The invention of Artificial Intelligence has definitely had a big and important
+impact on society. Some people say this impact is positive, but others think
+that the benefits it brings may cause addiction.
+
+In my opinion, people can use this advantage for the good of humanity and make their
+life easier than before. For example, when the first robots appeared some of
+the most difficult tasks could be solved efficiently and in short time. It is
+also interesting that some humanoid robots can interact with humans, making
+gestures or moving their heads.
+
+I like many of the uses where this new kind of intelligence can be applied. In the health
+area there are machines that can diagnose human illnesses and in the education
+area students can access additional help through computerized assistants. Machines
+can provide support when someone needs it.
+
+The benefits that AI can bring to society will hopefully make the world better, but
+humanity must take control to assure the correct operation of the machines. I
+say this because I have read about machines getting smarter than people and developing
+their own conscience in levels that might harm human welfare. It is necessary
+to clearly establish limits to avoid misuse of the machine´s learning capacity that
+this new type of intelligence is reaching today.
+
+
+
+Add My Comment
+Cancel
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+[-]
+
+
+
+anuragrai
+ - 12 Jun 2019 11:21 PM
+
+Thank You To sharing This , Very Help Full Post About Artificial Intelligence 
+
+
+
+Add My Comment
+Cancel
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+[-]
+
+
+
+696969696969
+ - 18 Jun 2019 7:23 PM
+
+hehe
+
+
+
+Add My Comment
+Cancel
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+[-]
+
+
+
+696969696969
+ - 18 Jun 2019 7:43 PM
+
+honestly the AI is messing up my life i mean like it aint working right. any ideas on how to fix ladies?-sincerely barbara 
+
+
+
+Add My Comment
+Cancel
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+[-]
+
+
+
+safeharbourship
+ - 1 Jul 2019 4:08 AM
+
+IT is an engrossing article .I am very fascinated by your
+post .Artificial intelligence (AI) is the simulation of human intelligence
+processes by machines, especially computer systems. 
+
+
+
+Add My Comment
+Cancel
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+[-]
+
+
+
+DarkDevil
+ - 23 Jul 2019 1:37 AM
+
+Thats the best notes for forever abou artificial intelligence .
+
+
+
+Add My Comment
+Cancel
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+[-]
+
+
+
+RalphTDolphins
+ - 8 Aug 2019 12:50 PM
+
+Because they cant get tired, machines can do a lot of work and multi tasked work when artificial intelligence is applied, I think maybe in 2050 or 2090, machines would do almost all the jobs done by humans. People would sit at home and control these machines, imagine a company made up of machines (robots), everybody would focus on their work, they can work 24 hours a day, 168 hours a week without getting tired and maybe 8064 hours a year. WOW!!! ALMIGHTY TECHNOLOGY.
+
+
+
+Add My Comment
+Cancel
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+[-]
+
+
+
+Jamesharsel
+ - 9 Aug 2019 6:53 AM
+
+very well said here i want to add a little is that, AI is pervasive in modern society, whether you see it or not.Most
+ often, AI works in the background, making complicated tasks trivial 
+through automation. Much of the Mobile application developers take technology for granted in our 
+daily lives requires multiple layers of artificial intelligence that 
+work together to deliver informed decisions and outcomes.
+
+
+
+Add My Comment
+Cancel
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+[-]
+
+
+
+AnastasijaO
+ - 20 Aug 2019 4:36 PM
+
+Coll article! All I can say that from virtual assistants to self-driving cars, artificial intelligence is developing rapidly. While science fiction often portrays AI as robots with human behaviour, AI can be implemented in anything starting from entertainment to healthcare industries to perform narrow tasks.
+
+
+
+Add My Comment
+Cancel
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+[-]
+
+
+
+Jamesharsel
+ - 6 Sep 2019 5:23 AM
+
+Very Well said here I want to add a little is that mostly the technology has made an innovative advancements in the field of health care. Technology like like low vision aids helping a lot of people who are suffering from eyes diseases. 
+
+
+
+Add My Comment
+Cancel
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+[-]
+
+
+
+Shrma123
+ - 4 Oct 2019 5:44 AM
+
+I love your blog, Very informative post that resolved all me queries, keep updating, Thanks
+
+
+
+Add My Comment
+Cancel
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+[-]
+
+
+
+likhitha002
+ - 23 Oct 2019 2:19 AM
+
+You might comment on the order system of the blog. You should chat it's splendid. Your blog audit would swell up your visitors. I was very pleased to find this site.I wanted to thank you for this great read!!
+
+
+
+Add My Comment
+Cancel
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+[-]
+
+
+
+ivanjarvisleo425
+ - 10 Jan 2020 3:04 AM
+
+its really kul stuff, hope you post more articles
+
+
+
+Add My Comment
+Cancel
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+[-]
+
+
+
+ivanjarvisleo425
+ - 10 Jan 2020 3:05 AM
+
+i love this
+
+
+
+Add My Comment
+Cancel
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+[-]
+
+
+
+CarzyOwl426
+ - 23 Jan 2020 3:54 AM
+
+I really believe that it will be reality in the next few years. It might be developed by any country and in any industry.In a way, it`s sad to realize that the human mind won`t be the evolution top any more. If the AI is going to progress so fast, I`m sure that its gonna be used everywhere.
+
+
+
+Add My Comment
+Cancel
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+[-]
+
+
+
+Himansh
+ - 5 May 2020 1:47 AM
+
+Great Article, Very informative and helpful information about the Age of AI I’ve read about IBM’s Watson in many articles but none of them gave me as satisfactory description as this did. Learning more with quality over quantity sounds fascinating. Further one can get detailed information by visiting the website www.appknock.co
+
+
+
+Add My Comment
+Cancel
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+[-]
+
+
+
+mehreensiddique
+ - 6 May 2020 11:43 AM
+
+It is fine, nonetheless evaluate the information and facts around this correct.  Boost Focus
+
+
+
+Add My Comment
+Cancel
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+[-]
+
+
+
+Abhishekraj2
+ - 18 May 2020 1:44 AM
+
+Thanks for this valuable information
+
+
+
+Add My Comment
+Cancel
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+[-]
+
+
+
+shubhankshah47
+ - 27 Jun 2020 1:56 AM
+
+Hey!!Awesome blog. I enjoyed reading your articles. This is truly a great read for me. I have bookmarked it and I am looking forward to reading new articles. Keep up the good work! Trending Tech Gadgets
+
+
+
+Add My Comment
+Cancel
+
+
+
+
+
+  
+
+
 
 
 
@@ -164,6 +1658,45 @@ Machine learning platforms
 -ADS BY GOOGLE
 
 
+
+
+
+
+
+File Extensions and File Formats
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+
+
+T
+U
+V
+W
+X
+Y
+Z
+#
+
+
+Powered by:
 
 
 
@@ -209,18 +1742,18 @@ SearchBusinessAnalytics
 
 
 
-Prescriptive analytics in healthcare finds use amidst pandemic
-Prescriptive analytics can provide organizations with actionable plans based on their gathered data and assist during a pandemic ...
+Python exploratory data analysis and why it's important
+Exploratory data analysis is a key step to building the best models to gain insight from your data. Read on to see how Python can...
 
 
 
-Implementing an analytics business plan requires commitment
-To get the most out of a data analytics business plan, companies must have clear goals and communication, as well as proper ...
+AI, UX and embedded features all pillars of Power BI platform
+As Microsoft adds new features to Power BI, augmented intelligence and embedded analytics will continue to be a focus, Microsoft ...
 
 
 
-Howard Dresner talks current trends in analytics
-In an interview on the state of business intelligence, longtime analyst Howard Dresner said cloud migration and AI features like ...
+Alteryx ADAPT a program for laid-off workers, recent grads
+Alteryx is offering a free training program in data science to help people whose jobs have been affected by the COVID-19 pandemic...
 
 
 
@@ -232,18 +1765,18 @@ SearchCIO
 
 
 
-Top 7 edge computing challenges in the enterprise
-While organizations are seeing the benefits of bringing data closer to the edge, there are some challenges that come with edge ...
+Enterprise architecture heats up to meet changing needs
+Forrester Research analyst sees barriers to enterprise architects moving forward in skills, tools' ROI and tech-savvy execs who ...
 
 
 
-Rise of automation creates new RPA job descriptions
-As automation increases in the enterprise, new RPA jobs are emerging that require a unique combination of hard and soft skills ...
+Why structural change in an organization is key
+In her book 'Dynamic Reteaming,' Heidi Helfand dives into the importance of reteaming and provides strategies organizations can ...
 
 
 
-Dell, PwC, Peapod accelerate digital transformation initiatives
-Several organizations have made the decision to continue with digital transformation efforts during the pandemic to better ...
+The constant threat of social engineering attacks
+Social engineering attacks aren't anything new, but they continue to evolve and be a big problem for many organizations. Here are...
 
 
 
@@ -255,18 +1788,18 @@ SearchDataManagement
 
 
 
-Distributed SQL database capabilities come to MariaDB X5
-Open source database vendor updates its MariaDB platform with a new release that integrates improved Kafka support and a faster ...
+Data accuracy vendor boosts MDM data quality
+Naveego's latest platform update introduces a new user interface that looks to make it easier for users to integrate different ...
 
 
 
-How to choose the right database to fit your data model(s)
-Choosing the right database for your enterprise applications can be a difficult process. Read on for some considerations on data ...
+Immuta adds automated data governance for Databricks
+Immuta has extended its data governance with new features that help enterprises with data privacy compliance for Databricks ...
 
 
 
-YugabyteDB 2.2 improves open source distributed SQL database
-Yugabyte updates its open source database platform that is API compatible with both Apache Cassandra and PostgreSQL with improved...
+Starburst advances Presto to handle Hadoop data better
+Enterprise Presto SQL vendor Starburst updated its data query platform with expanded support for legacy Hadoop workloads as well ...
 
 
 
@@ -278,18 +1811,18 @@ SearchERP
 
 
 
+10 cloud ERP implementation challenges during COVID-19
+A new cloud ERP system can help your company create digital transformation and find new opportunities. But first, you must ...
+
+
+
+SAP, Siemens partner to advance digital manufacturing
+A new deal between SAP and Siemens combines SAP ERP systems with Siemens Teamcenter PLM platform, enabling companies to develop ...
+
+
+
 Remote ERP implementation: 10 project management essentials
 Implementing ERP remotely can be challenging because for many IT teams it's new territory. Here are ways to make it easier.
-
-
-
-Discrete vs. process manufacturing: Choosing ERP
-Process and discrete manufacturers use different processes to create products. Here's how the two differ and how these affect ERP...
-
-
-
-3 benefits of digital manufacturing
-To save time and money while also streamlining production, companies are increasingly turning to digital manufacturing. Here's a ...
 
 
 
@@ -340,6 +1873,8 @@ Copyright 2018 - 2020, TechTarget
 
 
 Do Not Sell My Personal Info
+
+
 
 
 

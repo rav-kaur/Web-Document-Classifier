@@ -53,7 +53,8 @@
 
 
 
-IBM Blockchain - Enterprise Blockchain Solutions & Services  | IBM
+
+What is Blockchain Technology? | IBM Blockchain  | IBM
 
 
 
@@ -107,79 +108,35 @@ IBM
 
 
 
-IBM Blockchain
+Blockchain
 
 
 
 
-Learn
+Products
 
 
-What is blockchain?
-
-
-Blockchain for business
-
-
-Blockchain for social good
-
-
-Top use cases today
-
-
-Blockchain resources
-
-
-Why Hyperledger?
-
-
-Developer center
-
-
-Blog
-
-
-Podcasts
-
-
-
-
-Platform
-
-
-Services
-
-
-Solutions
-
-
-All offerings
+Blockchain Platform
 
 
 Food Trust
 
 
-Identity
+Blockchain Transparent Supply
 
 
 Rapid Supplier Connect
 
 
-Trade Finance
 
 
-Transparent Supply
+Solutions
 
 
+Supply chain
 
 
-Get started
-
-
-Industries
-
-
-All industries
+Trade finance
 
 
 Financial services
@@ -191,15 +148,62 @@ Government
 Insurance
 
 
-Media and entertainment
-
-
 Retail
 
 
-Supply chain
+Media and entertainment
 
 
+Identity
+
+
+More industry applications
+
+
+All solutions
+
+
+
+
+Services
+
+
+Learn
+
+
+What is blockchain?
+
+
+Webinars
+
+
+Use cases
+
+
+Blockchain for social good
+
+
+Blockchain for business
+
+
+Blog
+
+
+Podcasts
+
+
+Hyperledger Fabric
+
+
+Developer center
+
+
+
+
+Explore More
+
+
+Get started
 
 
 Ecosystem
@@ -208,6 +212,7 @@ Ecosystem
 News and events
 
 
+Blockchain resources
 
 
 
@@ -228,112 +233,18 @@ News and events
 
 
 
-IBM Blockchain is changing business, industries – and even the world
 
 
-IBM Blockchain is more than technology. It’s a movement to help you redefine your most important business relationships through trust, transparency and newfound collaboration.
 
 
+What is blockchain technology?
 
-Get started now
-Need blockchain basics first?
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        New: Use the foundation of leading networks to build your own blockchain ecosystem and share data with your supply chain partners
-      
-
-
- Learn more
-
-
-
-
-
-
-
-Convening business networks where everyone can win
-Right now, visionary companies are coming together to transform the way their industries work with the help of IBM Blockchain. From a food supply that’s becoming safer, smarter and more profitable to supply chains freeing themselves from legacy processes and paperwork, IBM is leading the business world into a new era of collaboration and innovation.
- 10 blockchain networks already changing business
-What’s your potential blockchain ROI?
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-A platform built for today’s multicloud world
-Getting traditional collaborators and longtime competitors to agree on the bold steps needed for blockchain transformation isn’t easy. So the last thing that should slow the process is technology that stands in the way.
-That’s why technical innovators turn to the IBM Blockchain Platform, the leading Hyperledger Fabric platform to build, operate, govern and grow blockchain solutions across any computing environment through Red Hat® OpenShift®.
- Learn about the IBM Blockchain Platform
-
-
-
-
-
-
-
-Blockchain expertise for smarter enterprises
-Today’s early movers know that blockchain works thanks to help from more than 1,600 IBM business and technical experts working on more than 500 IBM Blockchain projects so far.
-To put blockchain at the center of your digital transformation, turn to IBM Blockchain Services to explore, envision, establish and evolve your solution. Or work with the IBM Blockchain Ecosystem to discover new business opportunities with other innovators through the IBM Blockchain Partner Program.
- 
- Co-create with IBM Blockchain Services
-IBM is a Leader in IDC’s MarketScape Blockchain Services 2020 study
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Blockchain is a shared, immutable ledger for recording transactions, tracking assets and building trust. Discover why businesses worldwide are adopting it.
 
 
 
 Get started with IBM Blockchain
-Join an existing network. Build your own blockchain solution. Co-create one with our experts. Partner with others for new opportunities. Wherever you are in your blockchain journey, IBM Blockchain will meet you there – and help take you where you want to go.
- Get started now
-Need blockchain basics first?
-
-
-
-
-
-
-
-  What’s big at IBM Blockchain today?
 
 
 
@@ -350,6 +261,18 @@ Need blockchain basics first?
 
 
 
+Blockchain success starts here
+
+
+ Now in its 3rd edition, IBM’s Blockchain for Dummies has introduced blockchain to more than 68,000 readers.
+What’s inside:
+Grasping blockchain fundamentals
+How blockchain works
+Blockchain in action: use cases
+Hyperledger, hosted by the Linux Foundation
+Ten steps to your first blockchain application
+ 
+ Download "Blockchain for Dummies"
 
 
 
@@ -358,9 +281,113 @@ Need blockchain basics first?
 
 
 
-we.trade strengthens collaboration with IBM
-To make international trade faster and more efficient, we.trade — a blockchain-based platform — will work with IBM to help speed its global commercialization.
-  Learn more from the IBM News Room
+
+
+
+
+
+
+What is blockchain and why is it important?
+
+Blockchain fundamentals
+Blockchain is a shared, immutable ledger that facilitates the process of recording transactions and tracking assets in a business network. An asset can be tangible (a house, a car, cash, land) or intangible (intellectual property, patents, copyrights, branding). Virtually anything of value can be tracked and traded on a blockchain network, reducing risk and cutting costs for all involved.
+The need for blockchain
+You can gain a deeper understanding of blockchain by exploring the context in which it was developed: the need for an efficient, cost-effective, reliable, and secure system for conducting and recording financial transactions.
+The shortcomings of current transaction systems
+Throughout history, instruments of trust, such as minted coins, paper money, letters of credit, and banking systems, have emerged to facilitate the exchange of value and protect buyers and sellers. Important innovations (for example, telephone lines, credit card systems, the Internet, and mobile technologies) have improved the convenience, speed, and efficiency of transactions while shrinking — and sometimes virtually eliminating — the distance between buyers and sellers. 
+In spite of this, many business transactions remain inefficient, expensive, and vulnerable, suffering from the following limitations:
+Cash is useful only in local transactions and in relatively small amounts.
+The time between transaction and settlement can be long.
+Duplication of effort and the need for third-party validation and/or the presence of intermediaries add to inefficiencies.
+Fraud, cyberattacks, and even simple mistakes add to the cost and complexity of doing business, exposing all participants in the network to risk if a central system — such as a bank — is compromised.
+Credit card organizations are walled gardens with a high price of entry. Merchants must pay the high costs of onboarding, which often involves considerable paperwork and a time-consuming vetting process.
+Half of the world’s people don’t have access to bank accounts, requiring them to develop parallel payment systems to conduct transactions.
+Limited transparency and inconsistent information hinder the efficient movement of goods in the shipping industry.
+Transaction volumes worldwide are growing exponentially and will surely magnify the complexities, vulnerabilities, inefficiencies, and costs of current transaction systems. The growth of ecommerce, online banking, and in-app purchases, coupled with the increasing mobility of people around the world, have fueled the growth of transaction volumes. And transaction volumes have exploded with the rise of Internet of Things (IoT) — autonomous objects, such as refrigerators that buy groceries when supplies are running low and cars that deliver themselves to your door, stopping for fuel along the way.
+To address these challenges and others, the world needs faster payment networks that provide mechanisms to establish trust, require no specialized equipment, have no chargebacks or monthly fees, and offer a collective bookkeeping solution for ensuring transparency and trust.
+ Download the "Blockchain for Dummies" ebook now
+
+
+
+
+
+
+
+
+  Key elements of a blockchain
+
+
+
+
+
+
+
+
+
+
+Distributed ledger technology
+All network participants have access to the distributed ledger and its immutable record of transactions. With this shared ledger, transactions are recorded only once, eliminating the duplication of effort that’s typical of traditional business networks.
+
+
+
+
+
+
+
+
+
+Records are immutable
+No participant can change or tamper with a transaction after it’s been recorded to the shared ledger. If a transaction record includes an error, a new transaction must be added to reverse the error, and both transactions are then visible.
+
+
+
+
+
+
+
+
+
+Smart contracts
+To speed transactions, a set of rules – called a smart contract – is stored on the blockchain and executed automatically. A smart contract can define conditions for corporate bond transfers, include terms for travel insurance to be paid and much more.
+
+
+
+
+
+
+
+
+
+
+Blockchain 101 in five minutes
+Understanding the basics of blockchain technology can be challenging. But our friends at IBM Food Trust™ – the blockchain network that’s building a safer, smarter food supply – make it easier with these short videos.
+
+
+
+
+
+
+
+
+  ㅤㅤ ㅤㅤㅤㅤ ㅤㅤ ㅤㅤ ㅤㅤ ㅤㅤ ㅤㅤ
+
+
+
+
+
+
+
+
+
+
+What is Blockchain?
+Step inside the basics of blockchain technology: how blocks contain data representing anything of value, how they’re chronologically connected in an immutable chain, and the differences between blockchain and cryptocurrencies like Bitcoin.
+
+
+ 
+
+Watch: Part 1 (01:24)
+
  
 
 
@@ -373,44 +400,13 @@ To make international trade faster and more efficient, we.trade — a blockchain
 
 
 
-
-
-
-
-COVID-19 shows the need
-IBM Blockchain is here to help you build a more dependable global supply chain. Leverage our scalable business networks and expertise to adapt and become more resilient.
-  Learn how to accelerate your COVID-19 response
- 
-
-
-
-
-
-
-
-
-
-
-  How active IBM Blockchain networks are changing the way the world works
-
-
-
-
-
-
-
-
-
-
-
-
-Creating a smarter food supply
-Visionary growers, processors, wholesalers, distributors, retailers and others are enhancing visibility and accountability throughout the food supply with IBM Food Trust™.
+Blockchain Expanded
+Learn how the decentralized nature of blockchain sets it apart from traditional record-keeping, the value of a permissioned blockchain for business transactions, and how blockchain promotes new levels of trust and transparency.
 
 
  
 
-Watch them work together through IBM Food Trust
+Watch: Part 2 (01:29)
 
  
 
@@ -424,104 +420,14 @@ Watch them work together through IBM Food Trust
 
 
 
-Greater trade finance opportunities for all
-we.trade brings together fierce banking rivals to offer new trade finance opportunities to small and medium-sized businesses – and new efficiency in running their own operations.
+A Traceable Supply Chain
+The food industry is just one of many being transformed through blockchain technology. Learn how it can trace when, where and how food has been grown, picked, shipped and processed – all while protecting network-participant data.
 
 
  
 
-Watch: IBM Blockchain transforming trade finance – and trade
+Watch: Part 3 (01:34)
 
- 
-
-
-
-
-
-
-
-
-
-
-
-See other leading networks
-Learn how IBM Blockchain is bringing newfound transparency and trust to international supply chains, identity management, cross-border payments and more. It's a new day in collaboration and confidence.
-
-
-  Learn more now
- 
-
-
-
-
-
-
-
-
-
-
-The size and scale to help solve your business challenges
-No matter where you are in your blockchain journey, IBM helps you rapidly simplify blockchain complexity to commercialize a network, unlock new value and scale up competitive advantages.
-
-
-#1
-ranked by Juniper Research¹ and HFS Research²
-
-
-500+
-blockchain client engagements to date
-
-
-
-
-
-
-
-What’s your potential ROI with IBM Blockchain?
-
-
- We commissioned a Forrester Total Economic Impact™ (TEI) report to help you identify the cost, benefits, flexibilities and risk factors of working with IBM Blockchain. The research is based on Forrester’s TEI methodology, financial model framework and case studies, plus interviews with IBM Blockchain stakeholders and customers. Register now to watch our latest webinar and read the report to project your cost savings and the business benefits of working with IBM Blockchain. 
- Download Forrester TEI report
-Register for webinar replay: Explore the ROI of blockchain technology
-
-
-
-
-
-
-
-
-
-
-
-
-
-  Resources from IBM Blockchain
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-The hyperconnected supply chain
-Learn how blockchain can deliver end-to-end data visibility, create new value, and create documentation for industry regulators. Watch on demand webinar any time.
-
-
-  Register now
  
 
 
@@ -534,11 +440,14 @@ Learn how blockchain can deliver end-to-end data visibility, create new value, a
 
 
 
-Building blockchains that matter
-Five principles on how blockchain can deliver real business value, be equitable to all participants, and promote open innovation and collaboration.
+Blockchain Builds Trust
+Blockchain creates trust because it represents a shared record of the truth. Data that everyone can believe in will help power other new technologies that dramatically increase efficiency, transparency and confidence.
 
 
-  Read article now
+ 
+
+Watch: Part 4 (00:57)
+
  
 
 
@@ -551,11 +460,79 @@ Five principles on how blockchain can deliver real business value, be equitable 
 
 
 
-Join the IBM Blockchain Insights Forum
-You can help shape the future of IBM Blockchain as part of this growing professional community.
+Types of blockchain networks
 
 
-  Apply today
+ There are several ways to build a blockchain network. They can be public, private, permissioned, or built by a consortium. 
+
+
+
+
+
+
+
+
+
+
+
+
+Public blockchain networks
+A public blockchain is one that anyone can join and participate in, such as Bitcoin. Drawbacks might include substantial computational power required, little or no privacy for transactions, and weak security. These are important considerations for enterprise use cases of blockchain.
+
+
+
+
+Private blockchain networks
+A private blockchain network, similar to a public blockchain network, is a decentralized peer-to-peer network, with the significant difference that one organization governs the network. That organization controls who is allowed to participate in the network, execute a consensus protocol and maintain the shared ledger. Depending on the use case, this can significantly boost trust and confidence between participants. A private blockchain can be run behind a corporate firewall and even be hosted on-premises.
+
+
+
+
+Permissioned blockchain networks
+Businesses who set up a private blockchain, will generally set up a permissioned blockchain network. It is important to note that public blockchain networks can also be a permissioned. This places restrictions on who is allowed to participate in the network, and only in certain transactions. Participants need to obtain an invitation or permission to join.
+
+
+
+
+Consortium blockchains
+Multiple organizations can share the responsibilities of maintaining a blockchain. These pre-selected organizations determine who may submit transactions or access the data. A consortium blockchain is ideal for business when all participants need to be permissioned and have a shared responsibility for the blockchain.
+
+
+
+
+
+
+
+
+
+  See how these industries are using blockchain
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Food: Tracing fresh seafood from the moment it’s caught
+IBM Food Trust is helping Raw Seafoods increase trust across the food supply chain by tracing every catch right from the water — all the way to supermarkets and restaurants.
+ 
+
+Watch: Building trust in food
+
+  Learn about IBM Food Trust™
  
 
 
@@ -568,11 +545,13 @@ You can help shape the future of IBM Blockchain as part of this growing professi
 
 
 
-Explore our Developer Center
-Tools, tutorials, code and more for blockchain app developers using open source Hyperledger Fabric and IBM Blockchain.
+Financial services: Improving cryptocurrency security
+INBLOCK issues Metacoin cryptocurrency, which is based on Hyperledger fabric, to help make digital asset transactions faster, more convenient and safer.
+ 
 
+Watch: Cryptocurrency security
 
-  Start developing
+  IBM Blockchain for Financial services
  
 
 
@@ -585,12 +564,321 @@ Tools, tutorials, code and more for blockchain app developers using open source 
 
 
 
-Learn more about IBM Blockchain now
+Healthcare: Transform outcomes with blockchain 
+The IBM Blockchain Platform can change the way your ecosystem ensures trust, data provenance and efficiency to improve patient care and profitability.
+  Transform healthcare outcomes (188 KB)
+ 
 
 
- Become one of the visionary businesses producing new value, re-writing the rules of your industry and changing the way the world works together. 
+
+
+
+
+
+
+
+
+
+Supply chain: Fresh thinking in blockchain, AI and IoT
+Learn how Golden State Foods is using the immutability of blockchain to trace goods through their supply chain and help ensure food quality.
+ 
+
+Watch: Managing the supply chain
+
+  IBM Blockchain for Supply chain
+ 
+
+
+
+
+
+
+
  Blockchain in your industry
-Connect with our experts
+
+
+
+
+
+
+
+
+
+
+  IBM Blockchain offerings to help make your network a success
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Build on a platform designed for today’s multicloud world
+Technical innovators turn to the IBM Blockchain Platform, the leading Hyperledger Fabric platform, to build, operate, govern and grow blockchain solutions across any computing environment through Red Hat® OpenShift®.
+  Learn about the IBM Blockchain Platform
+ 
+
+
+
+
+
+
+
+
+
+
+
+Be part of the new era of trust in the food industry
+IBM Food Trust helps growers, distributors and retailers build trust and make our food safer, by enhancing visibility and accountability in every step of the food supply. Customize with a suite of solutions that can help contribute directly to your bottom line.
+  See more about IBM Food Trust™
+ 
+
+
+
+
+
+
+
+
+
+
+
+Co-create with guidance from our experts
+As the top-ranked blockchain services provider, IBM Blockchain Services has the expertise to help you build powerful solutions, based on the best technology. More than 1,600 blockchain experts use insights from 100+ live networks to help you build and grow.
+  Begin your path to business success
+ 
+
+
+
+
+
+
+
+
+
+
+
+Join an existing network for a fast start
+Embracing an IBM Blockchain solution is the fastest way to blockchain success. IBM has convened networks that make onboarding easy as you join others in transforming the food supply, supply chains, trade finance, financial services, insurance, and media and advertising.
+  See our fast-growing solutions
+ 
+
+
+
+
+
+
+
+
+
+
+  Learn more with IBM Blockchain Pulse resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Webinars
+Blockchain becomes much easier to understand when you learn about it from the experts. This is mandatory viewing for anyone who wants to understand how blockchain is changing the way the world works.
+
+
+  Register to watch now
+ 
+
+
+
+
+
+
+
+
+
+
+
+Newsletter
+Our monthly newsletter is packed with blockchain news you can use — and could become a regular “must read” among the hundreds of news sources you have at your fingertips.
+
+
+  Sign up for the newsletter
+ 
+
+
+
+
+
+
+
+
+
+
+
+Blog
+There’s no shortage of blockchain content online. But for more than 1 million readers, the IBM Blockchain Pulse Blog is one of the most trusted sources for blockchain thought leadership and insights.
+
+
+  Read the latest posts
+ 
+
+
+
+
+
+
+
+
+
+
+
+Podcasts
+Grab your earbuds and fill your head with knowledge from blockchain innovators. Hear how blockchain is helping individuals take back control of identity, fight global poverty and pollution, and much more.
+
+
+  Listen to Season 1
+ 
+
+
+
+
+
+
+
+
+
+
+
+Go even deeper with IBM insights
+
+
+ The IBM Institute for Business Value produces some of the world’s most-read blockchain thought leadership reports. Continue your blockchain education with their latest perspectives. 
+ Read now
+
+
+
+
+
+
+
+
+
+  Blockchain FAQ
+
+
+
+What’s the difference between blockchain and bitcoin?
+
+Bitcoin is an unregulated, digital currency. Bitcoin uses blockchain technology as its transaction ledger.
+This video illustrates the distinction between the two.
+
+
+Watch to learn more
+
+
+
+
+
+How are the IBM Blockchain Platform and Hyperledger related?
+
+The IBM Blockchain Platform is powered by Hyperledger technology.
+This blockchain solution can help turn any developer into a blockchain developer.
+Visit the Hyperledger web site for details.
+  Learn more about Hyperledger
+  Learn more about IBM Blockchain Platform
+ 
+
+
+
+What are smart contracts?
+
+Smart contracts are an integral part of blockchain technology. They automatically execute transactions and record information onto the ledger without human intervention.
+Conditions of smart contracts are mutually agreed on by network members. They’re a key component for establishing trust and efficiency between parties.
+Smart contracts eliminate essentially all the paperwork, streamlining the entire process and saving time and money.
+To help you learn more about smart contracts, Nigel Gopie, PhD, the IBM Food Trust Global Marketing Leader - IBM Blockchain, has written a blog post that explains smart contracts in more detail.
+ Read the post
+
+
+
+
+How can blockchain impact an entire industry?
+
+Blockchain enables businesses to rethink the way they work.
+In the diamond industry, for example, each party can access:
+High-resolution photos
+Immutable payment records
+Certificates of authenticity and more.
+
+
+
+Watch to learn more
+
+
+
+
+
+Can I deploy on any cloud I want?
+
+IBM Blockchain Platform software is optimized to deploy on Red Hat® OpenShift®, Red Hat’s state-of-the-art enterprise Kubernetes platform.
+This means you have more flexibility when choosing where to deploy your blockchain network components, whether on-premises, in public clouds, or in hybrid cloud architectures.
+ Infographic: Deploy on the cloud of your choice
+
+
+
+
+I need more detailed information. Where is it?
+
+For a more detailed look at how a blockchain network operates and how you can use it, read the Introduction to distributed ledgers.
+→ Learn more from the blockchain tutorial on developerWorks.
+
+Explore the capabilities of the IBM Blockchain Platform - the only fully integrated enterprise-ready blockchain platform designed to help you accelerate the development, governance and operation of a multi-institution business network.
+→ Register to download the IBM Blockchain Platform white paper.
+
+Get the details on Hyperledger Fabric and discover what’s unique  about it, why it matters to business networks, and how to start using it.
+→ Visit the Hyperledger page on developerWorks.
+
+The quick-start guide for developers explains how to build a kick-starter blockchain network and start coding with the IBM Blockchain Platform Starter Plan.
+→ View the quick start guide for developers.
+
+
+
+
+
+
+
+
+
+
+What can we solve together?
+
+
+ Discover how clients around the world are using IBM Blockchain to transform business now. 
+ Explore industry applications
 
 
 
@@ -617,17 +905,6 @@ Visit us on Twitter
 Visit us on LinkedIn
 Visit us on blog
 Visit us on YouTube
-
-
-
-
-
-
-
- ¹ Juniper Research.
-² HFS Research.
-
-
 
 
 

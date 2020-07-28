@@ -178,10 +178,10 @@ United Kingdom
 
 Welcome! Here are the latest Insider stories.
 
+Microsoft will pitch virtualized Windows-as-a-subscription service, update and maintain VMs for customers
+Download: EMM vendor comparison chart 2020
+Enterprise mobility 2020: In a pandemic, UEM to the rescue
 Apple ARM Macs: What you need to know now
-6 best practices for business data visualization
-How to filter Outlook emails on all your devices
-How to choose the right Windows 10 preview and update channels
 
 
 More Insider
@@ -241,10 +241,10 @@ NEW Insider PRO
 
 Latest Insider
 
+6 best practices for business data visualization
+How to filter Outlook emails on all your devices
+How to choose the right Windows 10 preview and update channels
 How to work across time zones in Outlook
-Microsoft wants Windows 10 servicing calendars? Here are two more
-Download: Discover 2020's Best Places to Work in IT
-Download the Best Places to Work in IT archives, 1994 to 2020
 
 
 
@@ -333,45 +333,6 @@ Follow Us
 Close
 
 
-
-
-
-
-
-
-
-
-
-
-How blockchain will kill fake news (and four other predictions for 2020)
-
-
-
-
-
-				RELATED STORIES
-			
-
-
-
-
-Blockchain: You’ve got questions; we’ve got answers
-
-
-
-
-SPONSORED BY Advertiser Name Here
-Sponsored item title goes here as designed
-
-
-
-
-Healthcare, retail industries give blockchain a try
-
-
-
-
-HSBC’s plan to move $20B in assets to blockchain could be a watershed moment
 
 
 
@@ -523,78 +484,6 @@ Closed captioning available on our YouTube channel
 
 
 More for you to like:
-
-
-
-
-
-
-
-
-
-
-
-
-Apple, the FIDO Alliance  and the future of passwords
-Apple, the FIDO Alliance  and the...
-(15:05)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-The problem with mobile and app voting
-The problem with mobile and app...
-(13:57)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Top tech stories of 2019
-Top tech stories of 2019
-(24:55)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-CW@50: 50 years of storage
-CW@50: 50 years of storage
-(2:04)
-
-
-
 
 
 

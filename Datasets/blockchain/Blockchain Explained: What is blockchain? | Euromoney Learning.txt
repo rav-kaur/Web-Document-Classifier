@@ -1,0 +1,833 @@
+
+
+
+
+Blockchain Explained: What is blockchain? | Euromoney Learning
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+Contact
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Request A Call
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Our Expertise
+
+
+
+
+
+Topics
+With unique access to the latest industry news, insights and analysis, we deliver highly relevant and engaging learning programmes with a lasting impact. 
+
+
+
+Banking & Finance
+
+
+
+
+
+Audit, Accounting & Finance
+Aviation & Shipping Finance
+Capital Markets & Derivatives
+Corporate Finance
+Credit & Corporate Banking
+Financial Risk Management
+FinTech
+Governance, Risk & Compliance (GRC)
+Investment & Asset Management
+Islamic Finance
+Private Banking
+
+
+
+
+Project & Infrastructure Finance
+Real Estate Finance
+SME & Retail Banking
+Trade Finance
+Transaction Banking
+Treasury & ALM
+
+
+
+
+
+
+Professional Development
+
+
+
+
+C-Suite & Board Education
+Leadership & Management Development
+Relationship Management
+
+
+
+
+
+Energy, Metals & Legal
+
+
+
+
+Energy Training
+Legal
+London Metal Exchange Training
+
+
+
+
+
+
+
+
+
+
+Virtual Learning
+
+
+Courses
+
+
+euromoney.com
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+Blockchain Explained
+
+What is Blockchain?
+
+
+
+What is blockchain?
+Learn the basics of blockchain technology and why it can enhance trust in both record keeping and financial transactions.
+
+
+ 
+
+
+
+
+Blockchain is a system of recording information in a way that makes it difficult or impossible to change, hack, or cheat the system.
+A blockchain is essentially a digital ledger of transactions that is duplicated and distributed across the entire network of computer systems on the blockchain. Each block in the chain contains a number of transactions, and every time a new transaction occurs on the blockchain, a record of that transaction is added to every participant’s ledger. The decentralised database managed by multiple participants is known as Distributed Ledger Technology (DLT).
+Blockchain is a type of DLT in which transactions are recorded with an immutable cryptographic signature called a hash.
+
+ 
+This means if one block in one chain was changed, it would be immediately apparent it had been tampered with. If hackers wanted to corrupt a blockchain system, they would have to change every block in the chain, across all of the distributed versions of the chain. 
+Blockchains such as Bitcoin and Ethereum are constantly and continually growing as blocks are being added to the chain, which significantly adds to the security of the ledger.
+  
+
+
+
+
+
+Why is there so much hype around blockchain technology?
+There have been many attempts to create digital money in the past, but they have always failed.
+The prevailing issue is trust. If someone creates a new currency called the X dollar, how can we trust that they won't give themselves a million X dollars, or steal your X dollars for themselves?
+Bitcoin was designed to solve this problem by using a specific type of database called a blockchain. Most normal databases, such as an SQL database, have someone in charge who can change the entries (e.g. giving themselves a million X dollars). Blockchain is different because nobody is in charge; it’s run by the people who use it. What’s more, bitcoins can’t be faked, hacked or double spent – so people that own this money can trust that it has some value. 
+
+
+
+
+
+Understanding Libra
+Understand how Facebook leveraged specific aspects of blockchain technology to launch a new cyrptocurrency called Libra, and its potential impact on the banking and finance sector.
+
+
+DOWNLOAD
+
+
+
+
+
+
+
+
+
+
+
+Blockchain Explained
+
+Jump to another blog post in the Blockchain Explained series by clicking one of the tiles below.
+
+
+
+
+
+
+
+
+
+
+
+
+How transactions get into the blockchain
+
+Understand the process to authenticate and authorise a transaction
+
+
+
+
+
+
+
+blog post
+3 minute read
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The difference between blockchain and Bitcoin
+
+Many people wrongly conflate the two. Do you know the difference?
+
+
+
+
+
+
+
+blog post
+3 minute read
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The risks with public blockchains
+
+Understand the three main risks associated with public blockchains
+
+
+
+
+
+
+
+blog post
+3 minute read
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How blockchain data is stored and secured
+
+As more and more blocks are added, how does the data remain manageable?
+
+
+
+
+
+
+
+blog post
+3 minute read
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The rise of private blockchains
+
+What companies are using private blockchains today and why?
+
+
+
+
+
+
+
+blog post
+4 minute read
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Blockchain and FinTech Public Courses
+
+Euromoney’s FinTech training courses are led by world-leading experts and cover a variety of topics including private and public blockchains, cryptocurrency, alternative fundraising strategies, and the role of AI, machine learning and big data in banking.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Blockchain: a Practical, Strategic & Commercial Guide
+
+Stay ahead in blockchain & related cryptocurrency technology
+
+
+
+
+
+
+
+
+Location
+
+
+Dates
+
+
+Days
+
+
+
+
+
+
+
+
+
+
+London
+
+
+02-03 Dec 2020
+
+
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FinTech Training Week
+
+Gain the expertise required to become a leader in FinTech & drive change
+
+
+
+
+
+
+
+
+
+Location
+
+
+Dates
+
+
+Days
+
+
+
+
+
+
+
+
+
+
+London
+
+
+30 Nov-04 Dec 2020
+
+
+5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AI, Machine Learning & Big Data for Banks & Financial Institutions
+
+Enhance your understanding of big data & strategy with this course
+
+
+
+
+
+
+
+
+
+Location
+
+
+Dates
+
+
+Days
+
+
+
+
+
+
+
+
+
+
+London
+
+
+30 Nov-01 Dec 2020
+
+
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Digital Transformation & Leadership in the Banking & Finance Industry
+
+Learn to manage and implement a digitisation strategy to transform your business
+
+
+
+
+
+
+
+
+
+Location
+
+
+Dates
+
+
+Days
+
+
+
+
+
+
+
+
+
+
+London
+
+
+19-21 Oct 2020
+
+
+3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Location
+
+
+Dates
+
+
+Days
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Data Monetisation
+
+Learn how to get the very best from your data with our intensive 3 day course
+
+
+
+
+
+
+
+
+Location
+
+
+Dates
+
+
+Days
+
+
+
+
+
+
+
+
+
+
+London
+
+
+14-16 Sep 2020
+
+
+3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+About us
+
+
+About us
+
+
+Contact us
+
+
+Modern Slavery Act
+
+
+Cancellation Policy
+
+
+
+
+
+
+
+
+Learning
+
+
+Methodologies
+
+
+Courses
+
+
+
+
+
+
+
+
+
+Publication
+
+
+Current Issue
+
+
+Back Issues
+
+
+Forward features
+
+
+Subscribe
+
+
+Marketing / advertising services
+
+
+Research & Awards
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Please read our Terms & Conditions, Privacy Policy and Cookies before using this site.
+All material subject to strictly enforced copyright laws. © 2020 Euromoney Institutional Investor PLC.
+
+Course Sitemap: Financial | Other 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        We use Cookies. If you're happy with cookies, continue browsing.
+    
+PROCEED
+
+
+
+
+

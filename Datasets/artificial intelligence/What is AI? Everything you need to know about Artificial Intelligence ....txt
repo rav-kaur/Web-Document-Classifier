@@ -4,7 +4,14 @@
 
 
 
-Page Not Found (404) | ZDNet
+What is AI? Everything you need to know about Artificial Intelligence | ZDNet
+
+
+
+
+
+
+
 
 
 
@@ -43,6 +50,8 @@ Page Not Found (404) | ZDNet
 
 
    
+
+
 
 
 
@@ -160,29 +169,35 @@ Go
 
 
 
+                Videos
+            
+                Windows 10
+            
+                5G
+            
+                IoT
+            
                 Cloud
             
-                CXO
-            
-                Hardware
-            
-                Mobility
-            
-                Microsoft
-            more
-                Storage
+                AI
             
                 Security
+            more
+                TR Premium
             
-                Enterprise Software
+                Coronavirus
             
-                Data Centers
-            
-                Wearables Fit For Business
-            
-                Apple
+                Working from Home
             
                 Innovation
+            
+                ZDNet Recommends
+            
+                Tonya Hall Show
+            
+                Executive Guides
+            
+                ZDNet Academy
             
                 See All Topics 
             
@@ -258,32 +273,32 @@ Menu
 
 
 
+                Videos
+            
+
+
+
+                Windows 10
+            
+
+
+
+                5G
+            
+
+
+
+                IoT
+            
+
+
+
                 Cloud
             
 
 
 
-                CXO
-            
-
-
-
-                Hardware
-            
-
-
-
-                Mobility
-            
-
-
-
-                Microsoft
-            
-
-
-
-                Storage
+                AI
             
 
 
@@ -293,27 +308,42 @@ Menu
 
 
 
-                Enterprise Software
+                TR Premium
             
 
 
 
-                Data Centers
+                Coronavirus
             
 
 
 
-                Wearables Fit For Business
-            
-
-
-
-                Apple
+                Working from Home
             
 
 
 
                 Innovation
+            
+
+
+
+                ZDNet Recommends
+            
+
+
+
+                Tonya Hall Show
+            
+
+
+
+                Executive Guides
+            
+
+
+
+                ZDNet Academy
             
 
 
@@ -448,20 +478,90 @@ ZDNet around the globe:
  
  
 
+ Special Feature
+
+Inside this Special Feature
+
+
+Managing AI and ML in the Enterprise
+
+
+
+
+What is AI? Everything you need to know about Artificial Intelligence
+
+
+
+
+AI for business: What's going wrong, and how to get it right
+
+
+
+
+Research: AI/ML projects see growth in business operations
+
+
+
+
+Free PDF download: Managing AI and ML in the enterprise 2020
+
+
+
+
+CIO Jury: 83% of tech leaders have no policy for ethically using AI
+
+
+
+
+Developers - it's time to brush up on your philosophy: Ethical AI is the big new thing in tech
+
+
+
+
+AI vs your career? What artificial intelligence will really do to the future of work
+
+
+
+
+AI and ML move into financial services
+
+
+
+
+Healthcare and artificial intelligence: How Databricks uses Apache Spark to analyze huge data sets
+
+
+
+
+How artificial intelligence and machine learning are used in hiring and recruiting
+
+
+
+
+Setting the AI standard: What it could look like in Australia
+
+
+
+
+The true costs and ROI of implementing AI in the enterprise
 
 
 
 
 
-OOPS!
-Page not found / 404. Something went wrong on your end or ours. Find some of our great content below or enter a search query to the right.
+
+
+
+Part of a ZDNet Special Feature: 
+Managing AI and ML in the Enterprise
 
 
 
 
 
 
-Search ZDNet
+What is AI? Everything you need to know about Artificial Intelligence
+An executive guide to artificial intelligence, from machine learning and general AI to neural networks.
 
 
 
@@ -469,31 +569,292 @@ Search ZDNet
 
 
 
-Popular Links:
 
-                    ZDNet Home
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   By
+               
+Nick Heath
+
+            
+                    
+        
+                                        |            February 12, 2018 -- 11:23 GMT (03:23 PST)
+        
+                                                                                    | Topic: Managing AI and ML in the Enterprise
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Getting started with artificial intelligence and machine learning
+
+ 
+
+
+ Watch Now
+
+
+
+
+
+
+
+
+Video: Getting started with artificial intelligence and machine learningWhat is artificial intelligence (AI)?It depends who you ask.Back in the 1950s, the fathers of the field 	 Minsky and McCarthy, described artificial intelligence as any task performed by a program or a machine that, if a human carried out the same activity, we would say the human had to apply intelligence to accomplish the task.That obviously is a fairly broad definition, which is why you will sometimes see arguments over whether something is truly AI or not.AI systems will typically demonstrate at least some of the following behaviours associated with human intelligence: planning, learning, reasoning, problem solving, knowledge representation, perception, motion, and manipulation and, to a lesser extent, social intelligence and creativity.
+
+
+Special Feature
+
+
+
+
+
+
+
+
+                        Special Feature: Managing AI and ML in the Enterprise
+                    
+
+This ebook, based on the latest ZDNet / TechRepublic special feature, advises CXOs on how to approach AI and ML initiatives, figure out where the data science team fits in, and what algorithms to buy versus build.
+
+Read More
+
+
+What are the uses for AI?
+
+
+AI is ubiquitous today, used to recommend what you should buy next online, to understand what you say to virtual assistants such as  	Amazon's Alexa and Apple's Siri, to recognise who and what is in a photo, to spot spam, or detect credit card fraud.What are the different types of AI?At a very high level artificial intelligence can be split into two broad types: narrow AI and general AI.
+
+
+
+
+Narrow AI is what we see all around us in computers today: intelligent systems that have been taught or learned how to carry out specific tasks without being explicitly programmed how to do so.This type of machine intelligence is evident in the speech and language recognition of the Siri virtual assistant on the Apple iPhone, in the vision-recognition systems on self-driving cars, in the recommendation engines that suggest products you might like based on what you bought in the past. Unlike humans, these systems can only learn or be taught how to do specific tasks, which is why they are called narrow AI.What can narrow AI do?There are a vast number of emerging applications for narrow AI: interpreting video feeds from drones carrying out visual inspections of infrastructure such as oil pipelines, organizing personal and business calendars, responding to simple customer-service queries, co-ordinating with other intelligent systems to carry out tasks like booking a hotel at a suitable time and location, helping  	radiologists to spot potential tumors in X-rays, flagging inappropriate content online, detecting wear and tear in elevators from data gathered by IoT devices, the list goes on and on.What can general AI do?Artificial general intelligence is very different, and is the type of adaptable intellect found in humans, a flexible form of intelligence capable of learning how to carry out vastly different tasks, anything from haircutting to building spreadsheets, or to reason about a wide variety of topics based on its accumulated experience. This is the sort of AI more commonly seen in movies, the likes of HAL in  	2001 or Skynet in The Terminator, but which doesn't exist today and AI experts are fiercely divided over how soon it will become a reality.Special report: How to implement AI and machine learning (free PDF)A survey conducted among four groups of experts in 2012/13 by AI researchers Vincent C Müller and philosopher Nick Bostrom reported a 50 percent chance that Artificial General Intelligence (AGI) would be developed between 2040 and 2050, rising to 90 percent by 2075. The group went even further, predicting that so-called ' 	superintelligence' -- which Bostrom defines as "any intellect that greatly exceeds the cognitive performance of humans in virtually all domains of interest" -- was expected some 30 years after the achievement of AGI.That said, some AI experts believe such projections are wildly optimistic given our limited understanding of the human brain, and believe that AGI is still centuries away.
+
+
+
+
+
+
+
+
+                        Artificial intelligence: How to build the business case
+                    
+
+AI might be a hot topic but you'll still need to justify those projects.
+
+Read More
+
+
+What is machine learning?There is a broad body of research in AI, much of which feeds into and complements each other.Currently enjoying something of a resurgence, machine learning is where a computer system is fed large amounts of data, which it then uses to learn how to carry out a specific task, such as understanding speech or captioning a photograph.What are neural networks?Key to the process of machine learning are neural networks. These are brain-inspired networks of interconnected layers of algorithms, called neurons, that feed data into each other, and which can be trained to carry out specific tasks by modifying the importance attributed to input data as it passes between the layers. During training of these neural networks, the weights attached to different inputs will continue to be varied until the output from the neural network is very close to what is desired, at which point the network will have 'learned' how to carry out a particular task.A subset of machine learning is deep learning, where neural networks are expanded into sprawling networks with a huge number of layers that are trained using massive amounts of data. It is these deep neural networks that have fuelled the current leap forward in the ability of computers to carry out task like speech recognition and computer vision.Download now: IT leader's guide to deep learning (Tech Pro Research)There are various types of neural networks, with different strengths and weaknesses. Recurrent neural networks are a type of neural net particularly well suited to language processing and speech recognition, while convolutional neural networks are more commonly used in image recognition. The design of neural networks is also evolving, with researchers recently  	refining a more effective form of deep neural network called long short-term memory or LSTM, allowing it to operate fast enough to be used in on-demand systems like Google Translate.The structure and training of deep neural networks. 
+                                                    Image: Nuance
+                                                Another area of AI research is evolutionary computation, which borrows from Darwin's theory of natural selection, and sees genetic algorithms undergo random mutations and combinations between generations in an attempt to evolve the optimal solution to a given problem. This approach has even been used to help design AI models, effectively using AI to help build AI. This use of evolutionary algorithms to optimize neural networks is called neuroevolution, and could have an important role to play in helping design efficient AI as the use of intelligent systems becomes more prevalent, particularly as demand for data scientists often outstrips supply. The technique was recently showcased by Uber AI Labs, which released papers on using genetic algorithms to train deep neural networks for reinforcement learning problems.Finally there are expert systems, where computers are programmed with rules that allow them to take a series of decisions based on a large number of inputs, allowing that machine to mimic the behaviour of a human expert in a specific domain. An example of these knowledge-based systems might be, for example, an autopilot system flying a plane.What is fueling the resurgence in AI?The biggest breakthroughs for AI research in recent years have been in the field of machine learning, in particular within the field of deep learning.This has been driven in part by the easy availability of data, but even more so by an explosion in parallel computing power in recent years, during which time the use of GPU clusters to train machine-learning systems has become more prevalent. Not only do these clusters offer vastly more powerful systems for training machine-learning models, but they are now widely available as cloud services over the internet. Over time the major tech firms, the likes of Google and Microsoft, have moved to using specialised chips tailored to both running, and more recently training, machine-learning models. An example of one of these custom chips is Google's Tensor Processing Unit (TPU), the latest version of which accelerates the rate at which useful machine-learning models built using Google's TensorFlow software library can infer information from data, as well as the rate at which they can be trained. These chips are not just used to train up models for DeepMind and Google Brain, but also the models that underpin Google Translate and the image recognition in Google Photo, as well as services that allow the public to build machine learning models using  Google's TensorFlow Research Cloud. The second generation of these chips was unveiled at Google's I/O conference in May last year, with an array of these new TPUs able to train a Google machine-learning model used for translation in half the time it would take an array of the top-end graphics processing units (GPUs).What are the elements of machine learning?As mentioned, machine learning is a subset of AI and is generally split into two main categories: supervised and unsupervised learning.Supervised learningA common technique for teaching AI systems is by training them using a very large number of labelled examples. These machine-learning systems are fed huge amounts of data, which has been annotated to highlight the features of interest. These might be photos labelled to indicate whether they contain a dog or written sentences that have footnotes to indicate whether the word 'bass' relates to music or a fish. Once trained, the system can then apply these labels can to new data, for example to a dog in a photo that's just been uploaded.This process of teaching a machine by example is called supervised learning and the role of labelling these examples is commonly carried out by  online workers, employed through platforms like Amazon Mechanical Turk.See also: How artificial intelligence is taking call centers to the next levelTraining these systems typically requires vast amounts of data, with some systems needing to scour millions of examples to learn how to carry out a task effectively -- although this is increasingly possible in an age of big data and widespread data mining. Training datasets are huge and growing in size --  Google's Open Images Dataset has about nine million images, while its labelled video repository YouTube-8M links to seven million labelled videos. ImageNet, one of the early databases of this kind, has more than 14 million categorized images. Compiled over two years, it was put together by nearly 50,000 people -- most of whom were recruited through Amazon Mechanical Turk -- who checked, sorted, and labeled almost one billion candidate pictures.In the long run, having access to huge labelled datasets may also prove less important than access to large amounts of compute power.In recent years, Generative Adversarial Networks ( GANs) have shown how machine-learning systems that are fed a small amount of labelled data can then generate huge amounts of fresh data to teach themselves.This approach could lead to the rise of semi-supervised learning, where systems can learn how to carry out tasks using a far smaller amount of labelled data than is necessary for training systems using supervised learning today.Unsupervised learningIn contrast, unsupervised learning uses a different approach, where algorithms try to identify patterns in data, looking for similarities that can be used to categorise that data.An example might be clustering together fruits that weigh a similar amount or cars with a similar engine size.The algorithm isn't setup in advance to pick out specific types of data, it simply looks for data that can be grouped by its similarities, for example Google News grouping together stories on similar topics each day.Reinforcement learningA crude analogy for reinforcement learning is rewarding a pet with a treat when it performs a trick.In reinforcement learning, the system attempts to maximise a reward based on its input data, basically going through a process of trial and error until it arrives at the best possible outcome.An example of reinforcement learning is Google DeepMind's Deep Q-network, which  has been used to best human performance in a variety of classic video games. The system is fed pixels from each game and determines various information, such as the distance between objects on screen.By also looking at the score achieved in each game the system builds a model of which action will maximise the score in different circumstances, for instance, in the case of the video game Breakout, where the paddle should be moved to in order to intercept the ball.Many AI-related technologies are approaching, or have already reached, the 'peak of inflated expectations' in Gartner's Hype Cycle, with the backlash-driven 'trough of disillusionment' lying in wait. 
+                                                    Image: Gartner / Annotations: ZDNet
+                                                Which are the leading firms in AI?
+
+
+
+
+
+
+
+
+                        Google's DeepMind and the NHS: A glimpse of what AI means for the future of healthcare
+                    
+
+The Google subsidiary has struck a series of deals with organisations in the UK health service -- so what's really happening?
+
+Read More
+
+
+With AI playing an increasingly major role in modern software and services, each of the major tech firms is battling to develop robust machine-learning technology for use in-house and to sell to the public via cloud services.Each regularly makes headlines for breaking new ground in AI research, although it is probably Google with its DeepMind AI AlphaGo that has probably made the biggest impact on the public awareness of AI.Which AI services are available?All of the major cloud platforms -- Amazon Web Services, Microsoft Azure and Google Cloud Platform -- provide access to GPU arrays for training and running machine learning models, with  Google also gearing up to let users use its Tensor Processing Units -- custom chips whose design is optimized for training and running machine-learning models.All of the necessary associated infrastructure and services are available from the big three, the cloud-based data stores, capable of holding the vast amount of data needed to train machine-learning models, services to transform data to prepare it for analysis, visualisation tools to display the results clearly, and software that simplifies the building of models.These cloud platforms are even simplifying the creation of custom machine-learning models, with Google recently revealing a service that automates the creation of AI models, called Cloud AutoML. This drag-and-drop service builds custom image-recognition models and requires the user to have no machine-learning expertise.Cloud-based, machine-learning services are constantly evolving, and at the start of 2018, Amazon revealed a host of new AWS offerings designed to streamline the process of training up machine-learning models. For those firms that don't want to build their own machine learning models but instead want to consume AI-powered, on-demand services -- such as voice, vision, and language recognition -- Microsoft Azure stands out for the breadth of services on offer, closely followed by Google Cloud Platform and then AWS. Meanwhile IBM, alongside its more general on-demand offerings, is also attempting to sell sector-specific AI services aimed at everything from healthcare to retail, grouping these offerings together under its  IBM Watson umbrella -- and recently investing $2bn in buying The Weather Channel to unlock a trove of data to augment its AI services.Which of the major tech firms is winning the AI race?Internally, each of the tech giants -- and others such as Facebook -- use AI to help drive myriad public services: serving search results, offering recommendations, recognizing people and things in photos, on-demand translation, spotting spam -- the list is extensive.But one of the most visible manifestations of this AI war has been the rise of virtual assistants, such as Apple's Siri, Amazon's Alexa, the Google Assistant, and Microsoft Cortana.The Amazon Echo Plus is a smart speaker with access to Amazon's Alexa virtual assistant built in. 
+                                                    Image: Jason Cipriani/ZDNet
+                                                Relying heavily on voice recognition and natural-language processing, as well as needing an immense corpus to draw upon to answer queries, a huge amount of tech goes into developing these assistants.But while Apple's Siri may have come to prominence first, it is Google and Amazon whose assistants have since overtaken Apple in the AI space -- Google Assistant with its ability to answer a wide range of queries and Amazon's Alexa with the massive number of 'Skills' that third-party devs have created to add to its capabilities.Read more: How we learned to talk to computers, and how they learned to answer back (PDF download)Despite being built into Windows 10, Cortana has had a particularly rough time of late, with the  suggestion that major PC makers will build Alexa into laptops adding to speculation about whether Cortana's days are numbered, although Microsoft was quick to reject this.Which countries are leading the way in AI?It'd be a big mistake to think the US tech giants have the field of AI sewn up. Chinese firms Alibaba, Baidu, and Lenovo are investing heavily in AI in fields ranging from ecommerce to autonomous driving. As a country China is pursuing a three-step plan to turn AI into a core industry for the country,  one that will be worth 150 billion yuan ($22bn)  by 2020.Baidu has invested in developing self-driving cars, powered by its deep learning algorithm, Baidu AutoBrain, and, following several years of tests, plans to roll out fully autonomous vehicles in 2018 and mass-produce them by 2021.Baidu's self-driving car, a modified BMW 3 series. 
+                                                    Image: Baidu
+                                                Baidu has also partnered with Nvidia to use AI to create a cloud-to-car autonomous car platform for auto manufacturers around the world.The combination of weak privacy laws, huge investment, concerted data-gathering, and big data analytics by major firms like Baidu, Alibaba, and Tencent, means that some analysts believe China will have an advantage over the US when it comes to future AI research, with one analyst describing the chances of  China taking the lead over the US as 500 to one in China's favor.How can I get started with AI?While you could try to build your own GPU array at home and start training a machine-learning model, probably the easiest way to experiment with AI-related services is via the cloud.All of the major tech firms offer various AI services, from the infrastructure to build and train your own machine-learning models through to web services that allow you to access AI-powered tools such as speech, language, vision and sentiment recognition on demand.What are recent landmarks in the development of AI?There's too many to put together a comprehensive list, but some recent highlights include: in 2009 Google showed it was possible for its self-driving Toyota Prius to complete more than 10 journeys of 100 miles each -- setting society on a path towards driverless vehicles.In 2011, the computer system  IBM Watson made headlines worldwide when it won the US quiz show Jeopardy!, beating two of the best players the show had ever produced. To win the show, Watson used natural language processing and analytics on vast repositories of data that it processed to answer human-posed questions, often in a fraction of a second.IBM Watson competes on Jeopardy! in January 14, 2011 
+                                                    Image: IBM
+                                                In June 2012, it became apparent just how good machine-learning systems were getting at computer vision, with  Google training a system to recognise an internet favorite, pictures of cats.Since Watson's win, perhaps the most famous demonstration of the efficacy of machine-learning systems was  the 2016 triumph of the Google DeepMind AlphaGo AI over a human grandmaster in Go, an ancient Chinese game whose complexity stumped computers for decades. Go has about 200 moves per turn, compared to about 20 in Chess. Over the course of a game of Go, there are so many possible moves that searching through each of them in advance to identify the best play is too costly from a computational point of view. Instead, AlphaGo was trained how to play the game by taking moves played by human experts in 30 million Go games and feeding them into deep-learning neural networks.Training these deep learning networks can take a very long time, requiring vast amounts of data to be ingested and iterated over as the system gradually refines its model in order to achieve the best outcome.However,  more recently Google refined the training process with AlphaGo Zero, a system that played "completely random" games against itself, and then learnt from the results. At last year's prestigious Neural Information Processing Systems (NIPS) conference, Google DeepMind CEO Demis Hassabis revealed AlphaGo had also mastered the games of chess and shogi.And AI continues to sprint past new milestones,  last year a system trained by OpenAI defeated the world's top players in one-on-one matches of the online multiplayer game Dota 2.That same year, OpenAI created AI agents that invented their own  invented their own language to cooperate and achieve their goal more effectively, shortly followed by Facebook training agents to negotiate and even lie.How will AI change the world?Robots and driverless cars
+
+
+Special report
+
+
+
+
+
+
+
+
+                        Tech and the future of transportation (free PDF)
+                    
+
+This ebook looks at emerging autonomous transport technologies and how they will affect society and the future of business.
+
+Read More
+
+
+The desire for robots to be able to act autonomously and understand and navigate the world around them means there is a natural overlap between robotics and AI. While AI is only one of the technologies used in robotics, use of AI is helping robots move into new areas such as  self-driving cars, delivery robots, as well as helping robots to learn new skills. General Motors recently said it would build a driverless car without a steering wheel or pedals by 2019, while Ford committed to doing so by 2021, and Waymo, the self-driving group inside Google parent Alphabet, will soon offer a driverless taxi service in Phoenix.Fake newsWe are on the verge of having neural networks that can  create photo-realistic images or replicate someone's voice in a pitch-perfect fashion. With that comes the potential for hugely disruptive social change, such as no longer being able to trust video or audio footage as genuine. Concerns are also starting to be raised about how such technologies will be used to misappropriate people's image, with tools already being created to convincingly splice famous actresses into adult films.Speech and language recognitionMachine-learning systems have helped computers recognise what people are saying with an accuracy of almost 95 percent. Recently Microsoft's Artificial Intelligence and Research group reported it had developed a system able to transcribe spoken English as accurately as human transcribers.With researchers pursuing a goal of 99 percent accuracy, expect speaking to computers to become the norm alongside more traditional forms of human-machine interaction.Facial recognition and surveillanceIn recent years, the accuracy of facial-recognition systems has leapt forward, to the point where  Chinese tech giant Baidu says it can match faces with 99 percent accuracy, providing the face is clear enough on the video. While police forces in western countries have generally only trialled using facial-recognition systems at large events, in China the authorities are mounting a nationwide program to connect CCTV across the country to facial recognition and to use AI systems to track suspects and suspicious behavior, and are also trialling the use of facial-recognition glasses by police.Although privacy regulations vary across the world, it's likely this more intrusive use of AI technology -- including AI that can recognize emotions -- will gradually become more widespread elsewhere.HealthcareAI could eventually have a dramatic impact on healthcare, helping radiologists to pick out tumors in x-rays, aiding researchers in spotting genetic sequences related to diseases and identifying molecules that could lead to more effective drugs. There have been trials of AI-related technology in hospitals across the world. These include IBM's Watson clinical decision support tool, which is trained by oncologists at Memorial Sloan Kettering Cancer Center, and the use of Google DeepMind systems by the UK's National Health Service, where it will help spot eye abnormalities and streamline the process of screening patients for head and neck cancers.Will AI kill us all?Again, it depends who you ask. As AI-powered systems have grown more capable, so warnings of the downsides have become more dire.Tesla and  SpaceX CEO Elon Musk has claimed that AI is a "fundamental risk to the existence of human civilization". As part of his push for stronger regulatory oversight and more responsible research into mitigating the downsides of AI he set up OpenAI, a non-profit artificial intelligence research company that aims to promote and develop friendly AI that will benefit society as a whole. Similarly, the esteemed physicist Stephen Hawking has warned that once a sufficiently advanced AI is created it will rapidly advance to the point at which it vastly outstrips human capabilities, a phenomenon known as the singularity, and could pose an existential threat to the human race.Yet the notion that humanity is on the verge of an AI explosion that will dwarf our intellect seems ludicrous to some AI researchers.Chris Bishop, Microsoft's director of research in Cambridge, England,  stresses how different the narrow intelligence of AI today is from the general intelligence of humans, saying that when people worry about "Terminator and the rise of the machines and so on? Utter nonsense, yes. At best, such discussions are decades away."Will an AI steal your job?The possibility of artificially intelligent systems replacing much of modern manual labour is perhaps a more credible near-future possibility.
+
+
+Special feature
+
+
+
+
+
+
+
+
+                        Special report: IT Jobs in 2020: A leader's guide (free PDF)
+                    
+
+ZDNet and TechRepublic looks at the dramatic effect of AI, big data, cloud computing, and automation on IT jobs, and how companies can adapt.
+
+Read More
+
+
+While AI won't replace all jobs, what seems to be certain is that AI will change the nature of work, with the only question being how rapidly and how profoundly automation will alter the workplace.There is barely a field of human endeavour that AI doesn't have the potential to impact. As AI expert Andrew Ng puts it: "many people are doing routine, repetitive jobs. Unfortunately, technology is especially good at automating routine, repetitive work", saying he sees a "significant risk of technological unemployment over the next few decades".The evidence of which jobs will be supplanted is starting to emerge. Amazon has just  launched Amazon Go, a cashier-free supermarket in Seattle where customers just take items from the shelves and walk out. What this means for the more than three million people in the US who works as cashiers remains to be seen. Amazon again is leading the way in using robots to improve efficiency inside its warehouses. These robots carry shelves of products to human pickers who select items to be sent out. Amazon has more than 100,000 bots in its fulfilment centers, with plans to add many more. But Amazon also stresses that as the number of bots have grown, so has the number of human workers in these warehouses. However, Amazon and small robotics firms are working to automate the remaining manual jobs in the warehouse, so it's not a given that manual and robotic labor will continue to grow hand-in-hand.Amazon bought Kiva robotics in 2012 and today uses Kiva robots throughout its warehouses. 
+                                                    Image: Amazon
+                                                Fully autonomous self-driving vehicles aren't a reality yet, but by some predictions the  self-driving trucking industry alone is poised to take over 1.7 million jobs in the next decade, even without considering the impact on couriers and taxi drivers.Yet some of the easiest jobs to automate won't even require robotics. At present there are millions of people working in administration, entering and copying data between systems, chasing and booking appointments for companies. As software gets better at automatically updating systems and flagging the information that's important, so the need for administrators will fall.As with every technological shift, new jobs will be created to replace those lost. However,  what's uncertain is whether these new roles will be created rapidly enough to offer employment to those displaced, and whether the newly unemployed will have the necessary skills or temperament to fill these emerging roles.
+
+
+
+
+
+
+
+
+                        Artificial intelligence: It's about to cause a major upheaval in jobs
+                    
+
+Advances in computer vision, speech, analytics, and mobile robotics promise to affect any jobs related to these skills.
+
+Read More
+
+
+Not everyone is a pessimist. For some,  AI is a technology that will augment, rather than replace, workers. Not only that but they argue there will be a commercial imperative to not replace people outright, as an AI-assisted worker -- think a human concierge with an AR headset that tells them exactly what a client wants before they ask for it -- will be more productive or effective than an AI working on its own.Among AI experts there's a broad range of opinion about how quickly artificially intelligent systems will surpass human capabilities.Oxford University's Future of Humanity Institute  asked several hundred machine-learning experts to predict AI capabilities, over the coming decades.Notable dates included AI writing essays that could pass for being written by a human by 2026, truck drivers being made redundant by 2027, AI surpassing human capabilities in retail by 2031, writing a best-seller by 2049, and doing a surgeon's work by 2053.They estimated there was a relatively high chance that AI beats humans at all tasks within 45 years and automates all human jobs within 120 years.Related coverageHow ML and AI will transform business intelligence and analyticsMachine learning and artificial intelligence advances in five areas will ease data prep, discovery, analysis, prediction, and data-driven decision making.Report: Artificial intelligence is creating jobs, generating economic gainsNew study from Deloitte shows that early adopters of cognitive technologies are positive about their current and future role.AI and jobs: Where humans are better than algorithms, and vice versaIt's easy to get caught up in the doom-and-gloom predictions about artificial intelligence wiping out millions of jobs. Here's a reality check.How artificial intelligence is unleashing a new type of cybercrime (TechRepublic)Rather than hiding behind a mask to rob a bank, criminals are now hiding behind artificial intelligence to do their attack. However, financial institutions can use AI as well to combat these crimes.Elon Musk: Artificial intelligence may spark World War III (CNET)The serial CEO is already fighting the science fiction battles of tomorrow, and he remains more concerned about killer robots than anything else.
+
+
+Related Topics:
+
+                    Cloud
+                
+
+                    Digital Transformation
+                
+
+                    CXO
+                
+
+                    Internet of Things
+                
+
+                    Innovation
+                
+
+                    Enterprise Software
                 
 
 
 
 
 
-                    ZDNet Video
-                
-
-
-
-
-
-                    ZDNet Newsletters
-                
-
-
-
-
-
-                    About ZDNet
-                
 
 
 
@@ -509,26 +870,101 @@ Popular Links:
 
 
 
-Latest Articles
 
 
-SAP Brazil president gets promoted to regional roleCristina Palmaka will lead the company's operations in Latin America and the Caribbean40 minutes ago
-                        
-                                                                                                                                    by 
-                            Angelica Mari in  SAPBecome a cloud pro: Microsoft Azure certification prep bundle is 97% offAzure continues to be Microsoft's golden goose and beat growth forecasts.2 hours ago
-                        
-                                                                                                                                    by 
-                            ZDNet Academy in  CloudMicrosoft is doing its usual fiscal year-end layoffs, but fewer than usualMicrosoft has cut "hundreds" of employees as part of its latest layoff round across multiple regions and functions, according to various reports.3 hours ago
-                        
-                                                                                                                                    by 
-                            Mary Jo Foley in  MicrosoftEmotet botnet returns after a five-month absence2019's most active malware botnet returns to life with new spam campaign after it previously went dark on February 7, 2020.4 hours ago
-                        
-                                                                                                                                    by 
-                            Catalin Cimpanu in  SecurityPlay VideoCould data-driven solutions help end mass incarceration?Amid escalating calls for a sweeping criminal justice rethink, do well-meaning technologists have a role to play?4 hours ago
-                        
-                                                                                                                                    by 
-                            ZDNet Editors in  Big Data Analytics 
-  	See 	 	More 	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   By
+               
+Nick Heath
+
+            
+                    
+        
+                                        |            February 12, 2018 -- 11:23 GMT (03:23 PST)
+        
+                                                                                    | Topic: Managing AI and ML in the Enterprise
+
+ 
+
+
+
+
+
+
+
+        Show Comments
+    
+
+
+
+
+
+LOG IN TO COMMENT
+
+
+
+
+My Profile
+Log Out
+
+
+
+                    | Community Guidelines
+
+
+
+
+
+Join Discussion
+
+
+
+
+Add Your Comment
+
+
+Add Your Comment
+
+
+
+
+
+
+
+
 
 
 
@@ -601,6 +1037,75 @@ See
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Related Stories
+
+
+
+
+
+
+
+
+
+
+Enterprise Software
+Programming language popularity: Python overtakes Java – as Rust reaches top 20
+
+
+
+
+
+
+
+
+
+Innovation
+Smartphone usage patterns can reveal your personality type: Research
+
+
+
+
+
+
+
+
+
+Innovation
+New Zealand establishes algorithm charter for government agencies
+
+
+
+
+
+
+
+
+
+Digital Transformation
+Your next company is a starship
+
+
+
+
+
+ 
+
+
+
+ 
 
 
 

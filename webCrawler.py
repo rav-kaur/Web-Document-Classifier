@@ -1,7 +1,6 @@
 import requests, webbrowser
 from bs4 import BeautifulSoup
 import os 
-import sklearn
 
 keyword = input("Enter something to search: ")
 #keywords = ["ebola virus","python" , "geeksforgeeks"]
@@ -33,7 +32,7 @@ for r in result_div:
         
         # Check to make sure everything is present before appending
         if link != '' and title != '' and description != '':
-            links.append([title,link['href']])
+            links.append([title,link['href'].split('&')[0]])
             
             #file.write(description)
     # Next loop if one element is not present
