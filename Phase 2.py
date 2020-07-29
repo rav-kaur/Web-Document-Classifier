@@ -249,13 +249,21 @@ print(df_3)
 
 #17
 
-# save the feature vectors in a csv file names feature_extraction.csv
+# save the list of feature vectors in a csv file names feature_extraction.csv
 df = pd.DataFrame(selected_feature_all)
 df = df.T
 df.columns = folder_names
 print(df)
 
 df.to_csv (r'feature_extraction.csv', index = False, header=True)
+
+
+#18
+
+# save the features with their corresponding frequencies to csv
+
+vertical_stack = pd.concat([df_1, df_2, df_3], axis=1)
+vertical_stack.to_csv(r'feature_extration_with_frequency.csv', index = False, header = True)
 
 
 
