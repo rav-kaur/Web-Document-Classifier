@@ -1,0 +1,610 @@
+
+
+
+
+
+
+ 
+
+Artificial Intelligence and the Future of Humans | Pew Research Center
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeU.S. PoliticsMedia & NewsSocial TrendsReligionInternet & TechScienceHispanicsGlobalMethods Blog
+About
+Follow
+My Account
+DONATE
+
+
+
+
+
+Numbers, Facts and Trends Shaping Your World
+
+
+About
+Follow
+
+			My Account
+			
+
+Log in
+View Account
+Log out
+
+
+
+Donate
+
+
+
+
+
+
+
+
+
+
+Internet & Technology 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+HomeU.S. PoliticsMedia & NewsSocial TrendsReligionInternet & TechScienceHispanicsGlobalMethods 
+
+
+
+
+Publications
+Topics
+Presentations
+Datasets
+Interactives
+Fact Sheets
+Our Experts
+ 
+
+
+
+
+
+
+
+
+
+
+Internet & Technology 
+Main
+
+					More
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+December 10, 2018 
+
+ 
+
+
+
+ 
+
+Artificial Intelligence and the Future of HumansExperts say the rise of artificial intelligence will make most people better off over the next decade, but many have concerns about how advances in AI will affect what it means to be human, to be productive and to exercise free will By Janna Anderson and Lee Rainie 
+
+A vehicle and person recognition system for use by law enforcement is demonstrated at last year’s GPU Technology Conference in Washington, D.C., which highlights new uses for artificial intelligence and deep learning. (Saul Loeb/AFP/Getty Images)
+Digital life is augmenting human capacities and disrupting eons-old human activities. Code-driven systems have spread to more than half of the world’s inhabitants in ambient information and connectivity, offering previously unimagined opportunities and unprecedented threats. As emerging algorithm-driven artificial intelligence (AI) continues to spread, will people be better off than they are today?
+Some 979 technology pioneers, innovators, developers, business and policy leaders, researchers and activists answered this question in a canvassing of experts conducted in the summer of 2018.
+The experts predicted networked artificial intelligence will amplify human effectiveness but also threaten human autonomy, agency and capabilities. They spoke of the wide-ranging possibilities; that computers might match or even exceed human intelligence and capabilities on tasks such as complex decision-making, reasoning and learning, sophisticated analytics and pattern recognition, visual acuity, speech recognition and language translation. They said “smart” systems in communities, in vehicles, in buildings and utilities, on farms and in business processes will save time, money and lives and offer opportunities for individuals to enjoy a more-customized future.
+Many focused their optimistic remarks on health care and the many possible applications of AI in diagnosing and treating patients or helping senior citizens live fuller and healthier lives. They were also enthusiastic about AI’s role in contributing to broad public-health programs built around massive amounts of data that may be captured in the coming years about everything from personal genomes to nutrition. Additionally, a number of these experts predicted that AI would abet long-anticipated changes in formal and informal education systems.
+Yet, most experts, regardless of whether they are optimistic or not, expressed concerns about the long-term impact of these new tools on the essential elements of being human. All respondents in this non-scientific canvassing were asked to elaborate on why they felt AI would leave people better off or not. Many shared deep worries, and many also suggested pathways toward solutions. The main themes they sounded about threats and remedies are outlined in the accompanying table.
+AI and the future of humans: Experts express concerns and suggest solutions
+
+
+CONCERNS
+Human agency:
+Individuals are  experiencing a loss of control over their lives
+
+Decision-making on key aspects of digital life is automatically ceded to code-driven, "black box" tools. People lack input and do not learn the context about how the tools work. They sacrifice independence, privacy and power over choice; they have no control over these processes. This effect will deepen as automated systems become more prevalent and complex.
+
+
+
+Data abuse:
+Data use and surveillance in complex systems is designed for profit or for exercising power
+
+Most AI tools are and will be in the hands of companies striving for profits or governments striving for power. Values and ethics are often not baked into the digital systems making people's decisions for them. These systems are globally networked and not easy to regulate or rein in.
+
+
+
+Job loss:
+The AI takeover of jobs will widen economic divides, leading to social upheaval
+
+The efficiencies and other economic advantages of code-based machine intelligence will continue to disrupt all aspects of human work. While some expect new jobs will emerge, others worry about massive job losses, widening economic divides and social upheavals, including populist uprisings.
+
+
+
+Dependence lock-in:
+Reduction of individuals’ cognitive, social and survival skills
+
+Many see AI as augmenting human capacities but some predict the opposite - that people's deepening dependence on machine-driven networks will erode their abilities to think for themselves, take action independent of automated systems and interact effectively with others.
+
+
+
+Mayhem:
+Autonomous weapons, cybercrime and weaponized information
+
+Some predict further erosion of traditional sociopolitical structures and the possibility of great loss of lives due to accelerated growth of autonomous military applications and the use of weaponized information, lies and propaganda to dangerously destabilize human groups. Some also fear cybercriminals' reach into economic systems.
+
+
+SUGGESTED SOLUTIONS
+Global good is No. 1:
+Improve human collaboration across borders and
+stakeholder groups
+
+Digital cooperation to serve humanity's best interests is the top priority. Ways must be found for people around the world to come to common understandings and agreements - to join forces to facilitate the innovation of widely accepted approaches aimed at tackling wicked problems and maintaining control over complex human-digital networks.
+
+
+
+Values-based system:
+Develop policies to assure AI will be directed at ‘humanness’ and common good
+Adopt a 'moonshot mentality' to build inclusive, decentralized intelligent digital networks 'imbued with empathy' that help humans aggressively ensure that technology meets social and ethical responsibilities. Some new level of regulatory and certification process will be necessary.
+
+
+
+Prioritize people:
+Alter economic and political systems to better help humans ‘race with the robots’
+Reorganize economic and political systems toward the goal of expanding humans' capacities and capabilities in order to heighten human/AI collaboration and staunch trends that would compromise human relevance in the face of programmed intelligence.
+
+
+
+
+
+
+
+PEW RESEARCH CENTER AND ELON UNIVERSITY'S IMAGINING THE INTERNET CENTER
+Specifically, participants were asked to consider the following:
+“Please think forward to the year 2030. Analysts expect that people will become even more dependent on networked artificial intelligence (AI) in complex digital systems. Some say we will continue on the historic arc of augmenting our lives with mostly positive results as we widely implement these networked tools. Some say our increasing dependence on these AI and related systems is likely to lead to widespread difficulties.
+Our question: By 2030, do you think it is most likely that advancing AI and related technology systems will enhance human capacities and empower them? That is, most of the time, will most people be better off than they are today? Or is it most likely that advancing AI and related technology systems will lessen human autonomy and agency to such an extent that most people will not be better off than the way things are today?”
+Overall, and despite the downsides they fear, 63% of respondents in this canvassing said they are hopeful that most individuals will be mostly better off in 2030, and 37% said people will not be better off.
+A number of the thought leaders who participated in this canvassing said humans’ expanding reliance on technological systems will only go well if close attention is paid to how these tools, platforms and networks are engineered, distributed and updated. Some of the powerful, overarching answers included those from:
+Sonia Katyal, co-director of the Berkeley Center for Law and Technology and a member of the inaugural U.S. Commerce Department Digital Economy Board of Advisors, predicted, “In 2030, the greatest set of questions will involve how perceptions of AI and their application will influence the trajectory of civil rights in the future. Questions about privacy, speech, the right of assembly and technological construction of personhood will all re-emerge in this new AI context, throwing into question our deepest-held beliefs about equality and opportunity for all. Who will benefit and who will be disadvantaged in this new world depends on how broadly we analyze these questions today, for the future.”
+We need to work aggressively to make sure technology matches our values.Erik Brynjolfsson
+Erik Brynjolfsson, director of the MIT Initiative on the Digital Economy and author of “Machine, Platform, Crowd: Harnessing Our Digital Future,” said, “AI and related technologies have already achieved superhuman performance in many areas, and there is little doubt that their capabilities will improve, probably very significantly, by 2030. … I think it is more likely than not that we will use this power to make the world a better place. For instance, we can virtually eliminate global poverty, massively reduce disease and provide better education to almost everyone on the planet. That said, AI and ML [machine learning] can also be used to increasingly concentrate wealth and power, leaving many people behind, and to create even more horrifying weapons. Neither outcome is inevitable, so the right question is not ‘What will happen?’ but ‘What will we choose to do?’ We need to work aggressively to make sure technology matches our values. This can and must be done at all levels, from government, to business, to academia, and to individual choices.”
+Bryan Johnson, founder and CEO of Kernel, a leading developer of advanced neural interfaces, and OS Fund, a venture capital firm, said, “I strongly believe the answer depends on whether we can shift our economic systems toward prioritizing radical human improvement and staunching the trend toward human irrelevance in the face of AI. I don’t mean just jobs; I mean true, existential irrelevance, which is the end result of not prioritizing human well-being and cognition.”
+Marina Gorbis, executive director of the Institute for the Future, said, “Without significant changes in our political economy and data governance regimes [AI] is likely to create greater economic inequalities, more surveillance and more programmed and non-human-centric interactions. Every time we program our environments, we end up programming ourselves and our interactions. Humans have to become more standardized, removing serendipity and ambiguity from our interactions. And this ambiguity and complexity is what is the essence of being human.”
+Judith Donath, author of “The Social Machine, Designs for Living Online” and faculty fellow at Harvard University’s Berkman Klein Center for Internet & Society, commented, “By 2030, most social situations will be facilitated by bots – intelligent-seeming programs that interact with us in human-like ways. At home, parents will engage skilled bots to help kids with homework and catalyze dinner conversations. At work, bots will run meetings. A bot confidant will be considered essential for psychological well-being, and we’ll increasingly turn to such companions for advice ranging from what to wear to whom to marry. We humans care deeply about how others see us – and the others whose approval we seek will increasingly be artificial. By then, the difference between humans and bots will have blurred considerably. Via screen and projection, the voice, appearance and behaviors of bots will be indistinguishable from those of humans, and even physical robots, though obviously non-human, will be so convincingly sincere that our impression of them as thinking, feeling beings, on par with or superior to ourselves, will be unshaken. Adding to the ambiguity, our own communication will be heavily augmented: Programs will compose many of our messages and our online/AR appearance will [be] computationally crafted. (Raw, unaided human speech and demeanor will seem embarrassingly clunky, slow and unsophisticated.) Aided by their access to vast troves of data about each of us, bots will far surpass humans in their ability to attract and persuade us. Able to mimic emotion expertly, they’ll never be overcome by feelings: If they blurt something out in anger, it will be because that behavior was calculated to be the most efficacious way of advancing whatever goals they had ‘in mind.’ But what are those goals? Artificially intelligent companions will cultivate the impression that social goals similar to our own motivate them – to be held in good regard, whether as a beloved friend, an admired boss, etc. But their real collaboration will be with the humans and institutions that control them. Like their forebears today, these will be sellers of goods who employ them to stimulate consumption and politicians who commission them to sway opinions.”
+Andrew McLaughlin, executive director of the Center for Innovative Thinking at Yale University, previously deputy chief technology officer of the United States for President Barack Obama and global public policy lead for Google, wrote, “2030 is not far in the future. My sense is that innovations like the internet and networked AI have massive short-term benefits, along with long-term negatives that can take decades to be recognizable. AI will drive a vast range of efficiency optimizations but also enable hidden discrimination and arbitrary penalization of individuals in areas like insurance, job seeking and performance assessment.”
+Michael M. Roberts, first president and CEO of the Internet Corporation for Assigned Names and Numbers (ICANN) and Internet Hall of Fame member, wrote, “The range of opportunities for intelligent agents to augment human intelligence is still virtually unlimited. The major issue is that the more convenient an agent is, the more it needs to know about you – preferences, timing, capacities, etc. – which creates a tradeoff of more help requires more intrusion. This is not a black-and-white issue – the shades of gray and associated remedies will be argued endlessly. The record to date is that convenience overwhelms privacy. I suspect that will continue.”
+danah boyd, a principal researcher for Microsoft and founder and president of the Data & Society Research Institute, said, “AI is a tool that will be used by humans for all sorts of purposes, including in the pursuit of power. There will be abuses of power that involve AI, just as there will be advances in science and humanitarian efforts that also involve AI. Unfortunately, there are certain trend lines that are likely to create massive instability. Take, for example, climate change and climate migration. This will further destabilize Europe and the U.S., and I expect that, in panic, we will see AI be used in harmful ways in light of other geopolitical crises.”
+Amy Webb, founder of the Future Today Institute and professor of strategic foresight at New York University, commented, “The social safety net structures currently in place in the U.S. and in many other countries around the world weren’t designed for our transition to AI. The transition through AI will last the next 50 years or more. As we move farther into this third era of computing, and as every single industry becomes more deeply entrenched with AI systems, we will need new hybrid-skilled knowledge workers who can operate in jobs that have never needed to exist before. We’ll need farmers who know how to work with big data sets. Oncologists trained as robotocists. Biologists trained as electrical engineers. We won’t need to prepare our workforce just once, with a few changes to the curriculum. As AI matures, we will need a responsive workforce, capable of adapting to new processes, systems and tools every few years. The need for these fields will arise faster than our labor departments, schools and universities are acknowledging. It’s easy to look back on history through the lens of present – and to overlook the social unrest caused by widespread technological unemployment. We need to address a difficult truth that few are willing to utter aloud: AI will eventually cause a large number of people to be permanently out of work. Just as generations before witnessed sweeping changes during and in the aftermath of the Industrial Revolution, the rapid pace of technology will likely mean that Baby Boomers and the oldest members of Gen X – especially those whose jobs can be replicated by robots – won’t be able to retrain for other kinds of work without a significant investment of time and effort.”
+Barry Chudakov, founder and principal of Sertain Research, commented, “By 2030 the human-machine/AI collaboration will be a necessary tool to manage and counter the effects of multiple simultaneous accelerations: broad technology advancement, globalization, climate change and attendant global migrations. In the past, human societies managed change through gut and intuition, but as Eric Teller, CEO of Google X, has said, ‘Our societal structures are failing to keep pace with the rate of change.’ To keep pace with that change and to manage a growing list of ‘wicked problems’ by 2030, AI – or using Joi Ito’s phrase, extended intelligence – will value and revalue virtually every area of human behavior and interaction. AI and advancing technologies will change our response framework and time frames (which in turn, changes our sense of time). Where once social interaction happened in places – work, school, church, family environments – social interactions will increasingly happen in continuous, simultaneous time. If we are fortunate, we will follow the 23 Asilomar AI Principles outlined by the Future of Life Institute and will work toward ‘not undirected intelligence but beneficial intelligence.’ Akin to nuclear deterrence stemming from mutually assured destruction, AI and related technology systems constitute a force for a moral renaissance. We must embrace that moral renaissance, or we will face moral conundrums that could bring about human demise. … My greatest hope for human-machine/AI collaboration constitutes a moral and ethical renaissance – we adopt a moonshot mentality and lock arms to prepare for the accelerations coming at us. My greatest fear is that we adopt the logic of our emerging technologies – instant response, isolation behind screens, endless comparison of self-worth, fake self-presentation – without thinking or responding smartly.”
+John C. Havens, executive director of the IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems and the Council on Extended Intelligence, wrote, “Now, in 2018, a majority of people around the world can’t access their data, so any ‘human-AI augmentation’ discussions ignore the critical context of who actually controls people’s information and identity. Soon it will be extremely difficult to identify any autonomous or intelligent systems whose algorithms don’t interact with human data in one form or another.”
+At stake is nothing less than what sort of society we want to live in and how we experience our humanity.Batya Friedman
+Batya Friedman, a human-computer interaction professor at the University of Washington’s Information School, wrote, “Our scientific and technological capacities have and will continue to far surpass our moral ones – that is our ability to use wisely and humanely the knowledge and tools that we develop. … Automated warfare – when autonomous weapons kill human beings without human engagement – can lead to a lack of responsibility for taking the enemy’s life or even knowledge that an enemy’s life has been taken. At stake is nothing less than what sort of society we want to live in and how we experience our humanity.”
+Greg Shannon, chief scientist for the CERT Division at Carnegie Mellon University, said, “Better/worse will appear 4:1 with the long-term ratio 2:1. AI will do well for repetitive work where ‘close’ will be good enough and humans dislike the work. … Life will definitely be better as AI extends lifetimes, from health apps that intelligently ‘nudge’ us to health, to warnings about impending heart/stroke events, to automated health care for the underserved (remote) and those who need extended care (elder care). As to liberty, there are clear risks. AI affects agency by creating entities with meaningful intellectual capabilities for monitoring, enforcing and even punishing individuals. Those who know how to use it will have immense potential power over those who don’t/can’t. Future happiness is really unclear. Some will cede their agency to AI in games, work and community, much like the opioid crisis steals agency today. On the other hand, many will be freed from mundane, unengaging tasks/jobs. If elements of community happiness are part of AI objective functions, then AI could catalyze an explosion of happiness.”
+Kostas Alexandridis, author of “Exploring Complex Dynamics in Multi-agent-based Intelligent Systems,” predicted, “Many of our day-to-day decisions will be automated with minimal intervention by the end-user. Autonomy and/or independence will be sacrificed and replaced by convenience. Newer generations of citizens will become more and more dependent on networked AI structures and processes. There are challenges that need to be addressed in terms of critical thinking and heterogeneity. Networked interdependence will, more likely than not, increase our vulnerability to cyberattacks. There is also a real likelihood that there will exist sharper divisions between digital ‘haves’ and ‘have-nots,’ as well as among technologically dependent digital infrastructures. Finally, there is the question of the new ‘commanding heights’ of the digital network infrastructure’s ownership and control.”
+Oscar Gandy, emeritus professor of communication at the University of Pennsylvania, responded, “We already face an ungranted assumption when we are asked to imagine human-machine ‘collaboration.’ Interaction is a bit different, but still tainted by the grant of a form of identity – maybe even personhood – to machines that we will use to make our way through all sorts of opportunities and challenges. The problems we will face in the future are quite similar to the problems we currently face when we rely upon ‘others’ (including technological systems, devices and networks) to acquire things we value and avoid those other things (that we might, or might not be aware of).”
+James Scofield O’Rourke, a professor of management at the University of Notre Dame, said, “Technology has, throughout recorded history, been a largely neutral concept. The question of its value has always been dependent on its application. For what purpose will AI and other technological advances be used? Everything from gunpowder to internal combustion engines to nuclear fission has been applied in both helpful and destructive ways. Assuming we can contain or control AI (and not the other way around), the answer to whether we’ll be better off depends entirely on us (or our progeny). ‘The fault, dear Brutus, is not in our stars, but in ourselves, that we are underlings.’”
+Simon Biggs, a professor of interdisciplinary arts at the University of Edinburgh, said, “AI will function to augment human capabilities. The problem is not with AI but with humans. As a species we are aggressive, competitive and lazy. We are also empathic, community minded and (sometimes) self-sacrificing. We have many other attributes. These will all be amplified. Given historical precedent, one would have to assume it will be our worst qualities that are augmented. My expectation is that in 2030 AI will be in routine use to fight wars and kill people, far more effectively than we can currently kill. As societies we will be less affected by this as we currently are, as we will not be doing the fighting and killing ourselves. Our capacity to modify our behaviour, subject to empathy and an associated ethical framework, will be reduced by the disassociation between our agency and the act of killing. We cannot expect our AI systems to be ethical on our behalf – they won’t be, as they will be designed to kill efficiently, not thoughtfully. My other primary concern is to do with surveillance and control. The advent of China’s Social Credit System (SCS) is an indicator of what it likely to come. We will exist within an SCS as AI constructs hybrid instances of ourselves that may or may not resemble who we are. But our rights and affordances as individuals will be determined by the SCS. This is the Orwellian nightmare realised.”
+Mark Surman, executive director of the Mozilla Foundation, responded, “AI will continue to concentrate power and wealth in the hands of a few big monopolies based on the U.S. and China. Most people – and parts of the world – will be worse off.”
+William Uricchio, media scholar and professor of comparative media studies at MIT, commented, “AI and its related applications face three problems: development at the speed of Moore’s Law, development in the hands of a technological and economic elite, and development without benefit of an informed or engaged public. The public is reduced to a collective of consumers awaiting the next technology. Whose notion of ‘progress’ will prevail? We have ample evidence of AI being used to drive profits, regardless of implications for long-held values; to enhance governmental control and even score citizens’ ‘social credit’ without input from citizens themselves. Like technologies before it, AI is agnostic. Its deployment rests in the hands of society. But absent an AI-literate public, the decision of how best to deploy AI will fall to special interests. Will this mean equitable deployment, the amelioration of social injustice and AI in the public service? Because the answer to this question is social rather than technological, I’m pessimistic. The fix? We need to develop an AI-literate public, which means focused attention in the educational sector and in public-facing media. We need to assure diversity in the development of AI technologies. And until the public, its elected representatives and their legal and regulatory regimes can get up to speed with these fast-moving developments we need to exercise caution and oversight in AI’s development.”
+The remainder of this report is divided into three sections that draw from hundreds of additional respondents’ hopeful and critical observations: 1) concerns about human-AI evolution, 2) suggested solutions to address AI’s impact, and 3) expectations of what life will be like in 2030, including respondents’ positive outlooks on the quality of life and the future of work, health care and education. Some responses are lightly edited for style.
+
+
+
+
+Next: 1. Concerns about human agency, evolution and survival 
+
+← Prev Page
+
+
+
+You are reading page1Page2Page3Page4Page5Page6 
+
+
+Next Page →
+
+
+
+ 
+
+
+
+
+
+SIGN UP FOR OUR ELECTION 2020 NEWSLETTER
+
+
+
+
+
+
+
+
+
+
+
+MAKE A FINANCIAL CONTRIBUTION TO SUPPORT OUR WORK
+
+
+DONATE
+
+
+
+
+
+Report Materials 
+
+ Complete Report PDFShareable quotes from experts about artificial intelligence and the future of humans 
+
+TopicsEmerging Technology ImpactsTechnology AdoptionFuture of the Internet 
+
+Popular on pew research
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Defining generations: Where Millennials end and Generation Z begins
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Are you in the American middle class? Find out with our income calculator
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A look at the Americans who believe there is some truth to the conspiracy theory that COVID-19 was planned
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Parenting Children in the Age of Screens
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Public’s Mood Turns Grim; Trump Trails Biden on Most Personal Traits, Major Issues
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 1615 L St. NW, Suite 800Washington, DC 20036USA
+ (+1) 202-419-4300 | Main
+ (+1) 202-857-8562 | Fax
+ (+1) 202-419-4372 | Media Inquiries
+
+
+
+
+
+
+
+Research Areas
+
+
+U.S. Politics & Policy
+Journalism & Media
+Internet & Technology
+Science & Society
+Religion & Public Life
+Hispanic Trends
+Global Attitudes & Trends
+Social & Demographic Trends
+Methods
+
+
+
+
+
+Follow Us
+
+
+ Email Newsletters
+ Facebook
+ Twitter
+ Tumblr
+ YouTube
+ RSS
+
+
+
+
+
+About Pew Research Center Pew Research Center is a nonpartisan fact tank that informs the public about the issues, attitudes and trends shaping the world. It conducts public opinion polling, demographic research, media content analysis and other empirical social science research. Pew Research Center does not take policy positions. It is a subsidiary of The Pew Charitable Trusts.
+
+
+
+
+Copyright 2020 Pew Research Center
+About
+Terms & Conditions
+Privacy Policy
+Reprints, Permissions & Use Policy
+Feedback
+Careers
+
+
+
+
+
+
+				We need to confirm your email address
+			
+
+
+To complete the subscription process, please click the link in the email we just sent you.
+
+
+
+Cancel
+OK
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

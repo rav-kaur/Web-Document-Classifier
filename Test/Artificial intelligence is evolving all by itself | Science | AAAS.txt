@@ -1,0 +1,588 @@
+
+
+
+
+
+
+Artificial intelligence is evolving all by itself | Science | AAAS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Skip to main content    
+
+
+
+
+
+
+AAAS
+
+
+
+
+
+
+
+ScienceMag.org
+
+
+
+Search
+
+
+Search
+
+
+X
+
+
+
+Advanced Search
+
+
+
+
+
+
+
+
+Science
+
+
+
+
+
+
+
+Contents
+
+
+
+
+
+News
+
+
+
+
+
+Careers
+
+
+
+
+
+Journals
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Read our COVID-19 research and news.
+
+
+
+
+Share 
+
+
+ 
+
+
+
+
+ 
+
+
+
+            
+  
+      Jakarin2521/iStock.com  
+          
+
+
+
+
+
+Artificial intelligence is evolving all by itself
+
+  By Edd GentApr. 13, 2020 , 11:20 AM
+
+Artificial intelligence (AI) is evolving—literally. Researchers have created software that borrows concepts from Darwinian evolution, including “survival of the fittest,” to build AI programs that improve generation after generation without human input. The program replicated decades of AI research in a matter of days, and its designers think that one day, it could discover new approaches to AI.
+“While most people were taking baby steps, they took a giant leap into the unknown,” says Risto Miikkulainen, a computer scientist at the University of Texas, Austin, who was not involved with the work. “This is one of those papers that could launch a lot of future research.”
+Building an AI algorithm takes time. Take neural networks, a common type of machine learning used for translating languages and driving cars. These networks loosely mimic the structure of the brain and learn from training data by altering the strength of connections between artificial neurons. Smaller subcircuits of neurons carry out specific tasks—for instance spotting road signs—and researchers can spend months working out how to connect them so they work together seamlessly.
+In recent years, scientists have sped up the process by automating some steps. But these programs still rely on stitching together ready-made circuits designed by humans. That means the output is still limited by engineers’ imaginations and their existing biases.
+So Quoc Le, a computer scientist at Google, and colleagues developed a program called AutoML-Zero that could develop AI programs with effectively zero human input, using only basic mathematical concepts a high school student would know. “Our ultimate goal is to actually develop novel machine learning concepts that even researchers could not find,” he says.
+The program discovers algorithms using a loose approximation of evolution. It starts by creating a population of 100 candidate algorithms by randomly combining mathematical operations. It then tests them on a simple task, such as an image recognition problem where it has to decide whether a picture shows a cat or a truck.
+In each cycle, the program compares the algorithms’ performance against hand-designed algorithms. Copies of the top performers are “mutated” by randomly replacing, editing, or deleting some of its code to create slight variations of the best algorithms. These “children” get added to the population, while older programs get culled. The cycle repeats.
+The system creates thousands of these populations at once, which lets it churn through tens of thousands of algorithms a second until it finds a good solution. The program also uses tricks to speed up the search, like occasionally exchanging algorithms between populations to prevent any evolutionary dead ends, and automatically weeding out duplicate algorithms.
+In a preprint paper published last month on arXiv, the researchers show the approach can stumble on a number of classic machine learning techniques, including neural networks. The solutions are simple compared with today’s most advanced algorithms, admits Le, but he says the work is a proof of principle and he’s optimistic it can be scaled up to create much more complex AIs.
+Still, Joaquin Vanschoren, a computer scientist at the Eindhoven University of Technology, thinks it will be a while before the approach can compete with the state-of-the-art. One thing that could improve the program, he says, is not asking it to start from scratch, but instead seeding it with some of the tricks and techniques humans have discovered. “We can prime the pump with learned machine learning concepts.”
+That’s something Le plans to work on. Focusing on smaller problems rather than entire algorithms also holds promise, he adds. His group published another paper on arXiv on 6 April that used a similar approach to redesign a popular ready-made component used in many neural networks.
+But Le also believes boosting the number of mathematical operations in the library and dedicating even more computing resources to the program could let it discover entirely new AI capabilities. “That’s a direction we’re really passionate about,” he says. “To discover something really fundamental that will take a long time for humans to figure out.”
+
+ 
+
+Posted in: Technology
+doi:10.1126/science.abc2274
+
+
+
+Edd Gent
+
+
+
+
+ Twitter
+
+
+
+
+More from News 
+ 
+
+
+
+
+
+
+Not even scientists can tell these birds apart. But now, computers can
+
+
+
+
+
+
+
+
+
+
+
+
+This tiny camera can show the world from a bug’s point of view
+
+
+
+
+
+
+
+
+
+
+
+
+Rebirth of leading European facility promises revolutionary advances in x-ray science
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Got a tip?
+How to contact the news team
+
+
+
+
+
+
+ScienceInsider
+ 
+
+
+
+
+
+
+‘Vaccine nationalism’ threatens global plan to distribute COVID-19 shots fairly
+
+
+
+  By Kai KupferschmidtJul. 28, 2020
+
+
+
+
+
+
+
+
+
+
+Siberia’s ‘gateway to the underworld’ grows as record heat wave thaws permafrost
+
+
+
+  By Richard StoneJul. 28, 2020
+
+
+
+
+
+
+
+
+
+
+Can the Census Bureau actually meet Trump’s demand to identify noncitizens?
+
+
+
+  By Jeffrey MervisJul. 28, 2020
+
+
+
+
+
+
+
+
+
+
+Critics blast U.S. study finding huge Alaskan mine poses little environmental risk
+
+
+
+  By Warren CornwallJul. 24, 2020
+
+
+
+
+
+
+
+
+
+
+Trump ‘owes us an apology.’ Chinese scientist at the center of COVID-19 origin theories speaks out
+
+
+
+  By Jon CohenJul. 24, 2020
+
+
+
+
+More ScienceInsider
+
+
+
+Sifter
+
+ 
+
+
+
+
+
+
+Blood test could identify early stage Alzheimer’s disease
+
+
+
+  By Charlotte HartleyJul. 29, 2020
+
+
+
+
+
+
+
+
+
+
+Got pain? Your Neanderthal genes could be responsible
+
+
+
+  By Charlotte HartleyJul. 24, 2020
+
+
+
+
+
+
+
+
+
+
+Antarctic ice sheet collapse could add 3 meters to sea-level rise
+
+
+
+  By Charlotte HartleyJul. 23, 2020
+
+
+
+
+
+
+
+
+
+
+Metal-eating bacteria discovered in dirty glassware
+
+
+
+  By Charlotte HartleyJul. 21, 2020
+
+
+
+
+
+
+
+
+
+
+Black children more than three times more likely to die after surgery
+
+
+
+  By Cathleen O’GradyJul. 20, 2020
+
+
+
+
+More Sifter
+
+
+
+
+
+
+
+
+
+
+
+
+
+Read the Latest Issue of Science
+
+
+
+
+24 July 2020
+
+  Vol 369,
+
+      Issue 6502  
+
+
+
+Table of Contents
+
+
+
+
+
+ 
+Medicine/DiseasesAftermath
+
+
+EpidemiologyPolio vaccinators are back after pandemic pause
+
+
+Scientific CommunityUniversity reopening plans under fire
+
+
+Scientific CommunityResearch cruises gingerly resume
+
+
+EpidemiologyData secrecy may cripple U.S. attempts to slow pandemic
+
+
+AnthropologyTools suggest people reached Americas early
+
+
+
+
+
+footer css edit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About UsJournals
+News from Science
+Leadership
+Team Members
+Work at AAAS
+
+For AdvertisersAdvertising Kits
+Awards and Prizes
+Custom Publishing
+Webinars
+
+For AuthorsSubmit
+Information for Authors
+Editorial Policies
+
+For LibrariansManage Your Institutional Subscription
+Information for Librarians
+Request a Quote
+FAQs
+
+Related SitesAAAS.org
+EurekAlert!
+Science in the Classroom
+Science Magazine Japanese
+
+HelpAccess and Subscriptions
+Order a Single Issue
+Reprints and Permissions
+Contact Us
+Accessibility
+
+Stay Connected
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2020 American Association for the Advancement of Science. All rights Reserved. AAAS is a partner of HINARI, AGORA, OARE, CHORUS, CLOCKSS, CrossRef and COUNTER.
+
+Terms of Service
+Privacy Policy
+Contact AAAS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
